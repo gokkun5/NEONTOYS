@@ -1,0 +1,61 @@
+body{
+background:black;
+}
+
+h1{
+font-size:72px;
+color:blue;
+}
+
+#search{
+font-size:20px;
+padding:10px 14px;
+width:260px;
+border-radius:8px;
+border:2px solid #aaa;
+}
+
+select{
+font-size:18px;
+padding:5px;
+color:white;
+background:black;
+}
+
+#figureList{
+display:flex;
+flex-wrap:wrap;
+gap:20px;
+}
+
+.card{
+background:white;
+padding:15px;
+margin:20px;
+width:220px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+text-align:center;
+}
+
+.card img{
+width:100%;
+height:auto;
+border-radius:10px;
+}
+
+.card h3.name {
+  font-size:16px;       /* 名前の文字サイズ */
+  margin:4px 0;         /* 上下の余白を小さくする */
+  line-height:1.2;      /* 行間を少し詰める */
+}
+
+.card p.price {
+  font-size:28px;       /* 価格の大きさはそのまま */
+  margin:2px 0 0 0;     /* 上の余白を小さくして詰める */
+  line-height:1.2;
+  color:red;
+  font-weight:bold;
+  font-style:italic;
+  font-family: "Arial Black", "Impact", sans-serif;
+}
