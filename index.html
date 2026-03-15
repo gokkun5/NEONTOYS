@@ -1,3 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>NeonToys</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body onload="showFigures()">
+
+<h1><img src="neon.jpg" alt=""></h1>
+
+<div class="layout">
+
+<!-- 左サイドバー -->
+<div class="sidebar">
+
+<input 
+type="text" 
+id="search" 
+placeholder="名前で検索..."
+oninput="showFigures()"
+>
+
+<!-- シリーズ -->
+<select id="series" onchange="showFigures()">
+
+<option value="all">All Series</option>
+<option value="miku">初音ミク</option>
+<option value="naruto">NARUTO</option>
+<option value="kimetu">鬼滅の刃</option>
+<option value="wanpi">ワンピース</option>
+<option value="db">ドラゴンボール</option>
+<option value="hant">Hunter×Hunter</option>
+<option value="furi-ren">葬送のフリーレン</option>
+<option value="hiro">僕のヒーローアカデミア</option>
+<option value="oba">オーバーロード</option>
+<option value="zyuzyutu">呪術廻旋</option>
+<option value="kusuri">薬屋のひとりごと</option>
+<option value="buri">BLEACH</option>
+<option value="tyen">チェンソーマン</option>
+<option value="kisekoi">その着せ替え人形は恋をする</option>
+<option value="orerebe">俺だけレベルアップな件</option>
+<option value="nikke">勝利の女神：NIKKE</option>
+<option value="pansuto">PANTY ＆ STOCKING</option>
+<option value="singeki">進撃の巨人</option>
+<option value="kon">けいおん！</option>
+
+</select>
+
 <!-- タイプ -->
 <select id="type" onchange="showFigures()">
 
