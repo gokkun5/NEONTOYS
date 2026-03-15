@@ -1,50 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-<meta charset="UTF-8">
-<title>NeonToys</title>
-<link rel="stylesheet" href="style.css">
-</head>
-
-<body onload="showFigures()">
-
-<h1><img src="neon.jpg" alt=""></h1>
-
-<div class="layout">
-
-<!-- 左サイドバー -->
-<div class="sidebar">
-
-<input 
-type="text" 
-id="search" 
-placeholder="名前で検索..."
-oninput="showFigures()"
->
-
-<!-- シリーズ -->
-<select id="series" onchange="showFigures()">
-
-<option value="all">All Series</option>
-<option value="miku">初音ミク</option>
-<option value="naruto">NARUTO</option>
-<option value="kimetu">鬼滅の刃</option>
-<option value="wanpi">ワンピース</option>
-<option value="db">ドラゴンボール</option>
-<option value="hant">Hunter×Hunter</option>
-<option value="furi-ren">葬送のフリーレン</option>
-<option value="hiro">僕のヒーローアカデミア</option>
-<option value="oba">オーバーロード</option>
-<option value="zyuzyutu">呪術廻旋</option>
-<option value="kusuri">薬屋のひとりごと</option>
-<option value="buri">BLEACH</option>
-<option value="tyen">チェンソーマン</option>
-<option value="kisekoi">その着せ替え人形は恋をする</option>
-<option value="orerebe">俺だけレベルアップな件</option>
-
-</select>
-
 <!-- タイプ -->
 <select id="type" onchange="showFigures()">
 
@@ -52,12 +5,14 @@ oninput="showFigures()"
 <option value="gra">Grandista</option>
 <option value="ma">MAXIMATIC</option>
 <option value="AMP">AMP</option>
+<option value="bato">BATTLE RECORD COLLECTION</option>
 <option value="bri">BRILLIANT</option>
 <option value="core">Coreful</option>
 <option value="esp">ESPREST</option>
 <option value="ex">Exc∞d Creative</option>
 <option value="trio">Trio-Try-iT</option>
 <option value="gli">GLITTER&GLAMOURS</option>
+<option value="koa">KING OF ARTIST</option>
 <option value="lum">Luminasta</option>
 <option value="fig">FIGURIZMα</option>
 <option value="72">72 SERIES</option>
@@ -65,8 +20,10 @@ oninput="showFigures()"
 <option value="tmost">T-most</option>
 <option value="vib">VIBRATION STARS</option>
 <option value="xros">XrossLink</option>
+<option value="xs">XStellar</option>
 <option value="nusuto">ぬーどるストッパー</option>
 <option value="ninkai">忍界造形列伝</option>
+<option value="figl">フィグライフ！</option>
 
 </select>
 
@@ -81,9 +38,12 @@ oninput="showFigures()"
 <option value="1100">1100円</option>
 <option value="1200">1200円</option>
 <option value="1300">1300円</option>
+<option value="1400">1400円</option>
 <option value="1500">1500円</option>
 <option value="1600">1600円</option>
+<option value="1700">1700円</option>
 <option value="1800">1800円</option>
+<option value="1900">1900円</option>
 <option value="2000">2000円</option>
 <option value="2200">2200円</option>
 <option value="2500">2500円</option>
