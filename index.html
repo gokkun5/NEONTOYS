@@ -11,10 +11,13 @@
 
 <h1><img src="neon.jpg" alt=""></h1>
 
-<div class="layout">
-
-<!-- 左サイドバー -->
+<!-- ★ サイドバーを上に移動 -->
 <div class="sidebar">
+
+<div class="info-box">
+  本日の相場：<span id="today" class="highlight"></span><br>
+  <span id="updated"></span>
+</div>
 
 <input 
 type="text" 
@@ -25,7 +28,6 @@ oninput="showFigures()"
 
 <!-- シリーズ -->
 <select id="series" onchange="showFigures()">
-
 <option value="all">All Series</option>
 <option value="miku">初音ミク</option>
 <option value="naruto">NARUTO</option>
@@ -46,12 +48,10 @@ oninput="showFigures()"
 <option value="pansuto">PANTY ＆ STOCKING</option>
 <option value="singeki">進撃の巨人</option>
 <option value="kon">けいおん！</option>
-
 </select>
 
 <!-- タイプ -->
 <select id="type" onchange="showFigures()">
-
 <option value="all">All Types</option>
 <option value="gra">Grandista</option>
 <option value="ma">MAXIMATIC</option>
@@ -75,12 +75,10 @@ oninput="showFigures()"
 <option value="nusuto">ぬーどるストッパー</option>
 <option value="ninkai">忍界造形列伝</option>
 <option value="figl">フィグライフ！</option>
-
 </select>
 
 <!-- 価格 -->
 <select id="price" onchange="showFigures()">
-
 <option value="all">All Prices</option>
 <option value="700">700円</option>
 <option value="800">800円</option>
@@ -98,65 +96,33 @@ oninput="showFigures()"
 <option value="2000">2000円</option>
 <option value="2200">2200円</option>
 <option value="2500">2500円</option>
-
 </select>
 
 <!-- ソート -->
 <select id="sort" onchange="showFigures()">
-
 <option value="none">並び替え</option>
 <option value="priceLow">価格が安い順</option>
 <option value="priceHigh">価格が高い順</option>
 <option value="name">名前順</option>
-
 </select>
 
+<!-- CTA -->
 <div class="twitter-box">
-
 <div class="twitter-cta">
 💰高価買取フィギュア公開中<br>
-買取相場はXで更新しています
-<br>
+買取相場はXで更新しています<br>
+
 <a class="twitter-btn" href="https://x.com/NeonToys" target="_blank">
 𝕏 で最新相場を見る
 </a>
 </div>
-
-<a class="twitter-timeline"
-data-height="450"
-data-theme="dark"
-href="https://x.com/NeonToys">
-
-</a>
-
-</div>
-<div class="source">
-
-<h3>出典</h3>
-
-<ul>
-
-<li><a href="https://bsp-prize.jp/" target="_blank">バンプレストナビサイト</a></li>
-<li><a href="https://charahiroba.com/" target="_blank">キャラ広場（FuRyu）</a></li>
-<li><a href="https://segaplaza.jp/" target="_blank">セガプラザ</a></li>
-<li><a href="https://www.taito.co.jp/" target="_blank">TAITO</a></li>
-<li><a href="https://p.eagate.573.jp/game/prize/collection/top/index.html" target="_blank">KONAMI  PR!ZE COLLECTION</a></li>
-<li><a href="http://fansclub.jp/pc/top/" target="_blank">FANSCLUB（システムサービス）</a></li>
-<li><a href="https://www.sk-japan.co.jp/charatoru/topic" target="_blank">キャラとる（SK JAPAN）</a></li>
-
-</ul>
-
 </div>
 
-<script async src="https://platform.twitter.com/widgets.js"></script>
 </div>
 
 <!-- 商品一覧 -->
 <div id="figureList"></div>
 
-</div>
-
 <script src="script.js"></script>
-
 </body>
 </html>
