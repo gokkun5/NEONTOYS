@@ -11,117 +11,160 @@
 
 <h1><img src="neon.jpg" alt=""></h1>
 
-<!-- ★ サイドバーを上に移動 -->
-<div class="sidebar">
-
-<div class="info-box">
-  本日の相場：<span id="today" class="highlight"></span><br>
-  <span id="updated"></span>
+<div class="price-notice">
+  ※掲載価格は未開封品の価格です。また相場や在庫状況により変動します。
 </div>
 
-<input 
-type="text" 
-id="search" 
-placeholder="名前で検索..."
-oninput="showFigures()"
->
+<div class="main"> <!-- ★追加 -->
 
-<!-- シリーズ -->
-<select id="series" onchange="showFigures()">
-<option value="all">All Series</option>
-<option value="miku">初音ミク</option>
-<option value="naruto">NARUTO</option>
-<option value="kimetu">鬼滅の刃</option>
-<option value="wanpi">ワンピース</option>
-<option value="db">ドラゴンボール</option>
-<option value="hant">Hunter×Hunter</option>
-<option value="furi-ren">葬送のフリーレン</option>
-<option value="hiro">僕のヒーローアカデミア</option>
-<option value="oba">オーバーロード</option>
-<option value="zyuzyutu">呪術廻旋</option>
-<option value="kusuri">薬屋のひとりごと</option>
-<option value="buri">BLEACH</option>
-<option value="tyen">チェンソーマン</option>
-<option value="kisekoi">その着せ替え人形は恋をする</option>
-<option value="orerebe">俺だけレベルアップな件</option>
-<option value="nikke">勝利の女神：NIKKE</option>
-<option value="pansuto">PANTY ＆ STOCKING</option>
-<option value="singeki">進撃の巨人</option>
-<option value="kon">けいおん！</option>
-</select>
-
-<!-- タイプ -->
-<select id="type" onchange="showFigures()">
-<option value="all">All Types</option>
-<option value="gra">Grandista</option>
-<option value="ma">MAXIMATIC</option>
-<option value="AMP">AMP</option>
-<option value="bato">BATTLE RECORD COLLECTION</option>
-<option value="bri">BRILLIANT</option>
-<option value="core">Coreful</option>
-<option value="esp">ESPREST</option>
-<option value="ex">Exc∞d Creative</option>
-<option value="trio">Trio-Try-iT</option>
-<option value="gli">GLITTER&GLAMOURS</option>
-<option value="koa">KING OF ARTIST</option>
-<option value="lum">Luminasta</option>
-<option value="fig">FIGURIZMα</option>
-<option value="72">72 SERIES</option>
-<option value="syutu">SOLID EDGE WORKS-THE出陣-</option>
-<option value="tmost">T-most</option>
-<option value="vib">VIBRATION STARS</option>
-<option value="xros">XrossLink</option>
-<option value="xs">XStellar</option>
-<option value="nusuto">ぬーどるストッパー</option>
-<option value="ninkai">忍界造形列伝</option>
-<option value="figl">フィグライフ！</option>
-</select>
-
-<!-- 価格 -->
-<select id="price" onchange="showFigures()">
-<option value="all">All Prices</option>
-<option value="700">700円</option>
-<option value="800">800円</option>
-<option value="900">900円</option>
-<option value="1000">1000円</option>
-<option value="1100">1100円</option>
-<option value="1200">1200円</option>
-<option value="1300">1300円</option>
-<option value="1400">1400円</option>
-<option value="1500">1500円</option>
-<option value="1600">1600円</option>
-<option value="1700">1700円</option>
-<option value="1800">1800円</option>
-<option value="1900">1900円</option>
-<option value="2000">2000円</option>
-<option value="2200">2200円</option>
-<option value="2500">2500円</option>
-</select>
-
-<!-- ソート -->
-<select id="sort" onchange="showFigures()">
-<option value="none">並び替え</option>
-<option value="priceLow">価格が安い順</option>
-<option value="priceHigh">価格が高い順</option>
-<option value="name">名前順</option>
-</select>
-
-<!-- CTA -->
-<div class="twitter-box">
-<div class="twitter-cta">
-💰高価買取フィギュア公開中<br>
-買取相場はXで更新しています<br>
-
-<a class="twitter-btn" href="https://x.com/NeonToys" target="_blank">
-𝕏 で最新相場を見る
-</a>
-</div>
+<div class="update-date">
+  最終更新日：2026年3月26日
 </div>
 
+  <div class="sidebar">
+
+    <input 
+    type="text" 
+    id="search" 
+    placeholder="名前で検索..."
+    oninput="showFigures()"
+    >
+
+    <!-- シリーズ -->
+    <select id="series" onchange="showFigures()">
+    <option value="all">All Series</option>
+    <option value="miku">初音ミク</option>
+    <option value="naruto">NARUTO</option>
+    <option value="kimetu">鬼滅の刃</option>
+    <option value="wanpi">ワンピース</option>
+    <option value="db">ドラゴンボール</option>
+    <option value="hant">Hunter×Hunter</option>
+    <option value="furi-ren">葬送のフリーレン</option>
+    <option value="hiro">僕のヒーローアカデミア</option>
+    <option value="oba">オーバーロード</option>
+    <option value="zyuzyutu">呪術廻旋</option>
+    <option value="kusuri">薬屋のひとりごと</option>
+    <option value="buri">BLEACH</option>
+    <option value="eva">新世紀エヴァンゲリオン</option>
+    <option value="umamusume">ウマ娘プリティーダービー</option>
+    <option value="zyozyo">ジョジョの奇妙な冒険</option>
+    <option value="tyen">チェンソーマン</option>
+    <option value="kisekoi">その着せ替え人形は恋をする</option>
+    <option value="orerebe">俺だけレベルアップな件</option>
+    <option value="watanare">わたしが恋人になれるわけないじゃん、
+ムリムリ!（※ムリじゃなかった!?）</option>
+    <option value="nikke">勝利の女神：NIKKE</option>
+    <option value="pansuto">PANTY ＆ STOCKING</option>
+    <option value="singeki">進撃の巨人</option>
+    <option value="kon">けいおん！</option>
+    <option value="madomagi">魔法少女まどかマギカ</option>
+ <option value="aimasu">アイドルマスター</option>
+    <option value="vtu">Vtuber</option>
+    <option value="nintama">忍たま乱太郎</option>
+    <option value="hebu">ヘブンバーンズレッド</option>
+    <option value="hokuto">北斗の拳</option>
+    <option value="ika">侵略!イカ娘</option>
+    </select>
+
+    <!-- タイプ -->
+    <select id="type" onchange="showFigures()">
+    <option value="all">All Types</option>
+    <option value="bpev">BANPRESTO EVOLVE</option>
+    <option value="gra">Grandista</option>
+    <option value="ma">MAXIMATIC</option>
+    <option value="AMP">AMP</option>
+    <option value="bato">BATTLE RECORD COLLECTION</option>
+    <option value="bre">Break time collection</option>
+    <option value="bri">BRILLIANT</option>
+    <option value="core">Coreful</option>
+    <option value="esp">ESPREST</option>
+    <option value="ex">Exc∞d Creative</option>
+    <option value="trio">Trio-Try-iT</option>
+    <option value="gli">GLITTER&GLAMOURS</option>
+    <option value="gma">G×materia</option>
+    <option value="his">History Box</option>
+    <option value="koa">KING OF ARTIST</option>
+    <option value="lum">Luminasta</option>
+    <option value="fig">FIGURIZMα</option>
+    <option value="72">72 SERIES</option>
+    <option value="syutu">SOLID EDGE WORKS-THE出陣-</option>
+    <option value="tmost">T-most</option>
+    <option value="vib">VIBRATION STARS</option>
+    <option value="xros">XrossLink</option>
+    <option value="xs">XStellar</option>
+    <option value="nusuto">ぬーどるストッパー</option>
+    <option value="ninkai">忍界造形列伝</option>
+    <option value="figl">フィグライフ！</option>
+    <option value="vivi">Vivitフィギュア</option>
+    </select>
+
+    <!-- 価格 -->
+    <select id="price" onchange="showFigures()">
+    <option value="all">All Prices</option>
+    <option value="700">700円</option>
+    <option value="800">800円</option>
+    <option value="900">900円</option>
+    <option value="1000">1000円</option>
+    <option value="1100">1100円</option>
+    <option value="1200">1200円</option>
+    <option value="1300">1300円</option>
+    <option value="1400">1400円</option>
+    <option value="1500">1500円</option>
+    <option value="1600">1600円</option>
+    <option value="1700">1700円</option>
+    <option value="1800">1800円</option>
+    <option value="1900">1900円</option>
+    <option value="2000">2000円</option>
+    <option value="2200">2200円</option>
+    <option value="2500">2500円</option>
+    </select>
+
+    <!-- ソート -->
+    <select id="sort" onchange="showFigures()">
+    <option value="none">並び替え</option>
+    <option value="priceLow">価格が安い順</option>
+    <option value="priceHigh">価格が高い順</option>
+    <option value="name">名前順</option>
+    </select>
+
+    <div class="x-box">
+      <p class="x-title">💰 価格情報随時 更新中</p>
+ <br>
+      <a href="#" class="x-btn neon">最新の情報をチェックする</a>
+
+    </div>
+
+<div class="source">
+
+<h3>出典</h3>
+
+<ul>
+
+<li><a href="https://bsp-prize.jp/" target="_blank">BANDAI SPIRITS</a></li>
+
+<li><a href="https://charahiroba.com/" target="_blank">キャラ広場</a></li>
+
+<li><a href="https://segaplaza.jp/" target="_blank">SEGAプラザ</a></li>
+
+<li><a href="https://www.taito.co.jp/" target="_blank">TAITO</a></li>
+
+<li><a href="https://p.eagate.573.jp/game/prize/collection/top/index.html" target="_blank">KONAMI Prize</a></li>
+
+<li><a href="http://fansclub.jp/pc/top/" target="_blank">Fans Club</a></li>
+
+<li><a href="https://www.sk-japan.co.jp/charatoru/topic" target="_blank">SK JAPAN</a></li>
+
+</ul>
+
 </div>
 
-<!-- 商品一覧 -->
-<div id="figureList"></div>
+  </div>
+
+
+  <div id="figureList"></div>
+
+
+</div> <!-- ★追加ここまで -->
 
 <script src="script.js"></script>
 </body>
