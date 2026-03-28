@@ -2,6 +2,347 @@
 const figures = [
 
 {
+series:"furi-ren",
+name:"『葬送のフリーレン』 Luminasta　<br>“フリーレン” ～SUMMER DRESS～",
+type:"lum",
+price:900,
+img:"images/furi-ren/furi_summer.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』 Desktop Cute フィギュア <br>フリーレン ～トランクver.～",
+type:"desk",
+price:1000,
+img:"images/furi-ren/furi_torank.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』<br> ちょこのせプレミアムフィギュア “ヒンメル”",
+type:"tyoko",
+price:700,
+img:"images/furi-ren/hin_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』 Yumemirize<br> “フェルン”～一眠り～",
+type:"yume",
+price:500,
+img:"images/furi-ren/fer_yume.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』 Luminasta　<br>“フェルン” ～メイド服～",
+type:"lum",
+price:900,
+img:"images/furi-ren/fer_meido.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』 Luminasta　<br>“フリーレン” ～インミミック～",
+type:"lum",
+price:1300,
+img:"images/furi-ren/furi_lum.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』 -Relax time-フリーレン",
+type:"relax",
+price:600,
+img:"images/furi-ren/furi_relax.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』 FIGURIZMα <br>“フリーレン” ～魔法の高み～",
+type: "fig",
+price:900,
+img:"images/furi-ren/furi_fig.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』<br>Trio-Try-iT Figure ー ヒンメル ー",
+type:"trio",
+price:900,
+img:"images/furi-ren/hin_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』 <br>Trio-Try-iT Figure ー フリーレン ー",
+type:"trio",
+price:700,
+img:"images/furi-ren/furi-ren_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"hiro",
+name:"『僕のヒーローアカデミア』 ちあぴこ～とどろきしょうと～",
+type:"",
+price:1500,
+img:"images/hiro/todoroki_tia.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"『僕のヒーローアカデミア』 ちあぴこ～ばくごうかつき～",
+type:"",
+price:1500,
+img:"images/hiro/bakugo_tia.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"『僕のヒーローアカデミア』 GLITTER&GLAMOURS <br>-HIMIKO TOGA- duffel coat ver.",
+type:"gli",
+price:900,
+img:"images/hiro/toga_coat_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"『僕のヒーローアカデミア』 Grandista -MIDORIYA IZUKU-",
+type:"gra",
+price:600,
+img:"images/hiro/deku_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"『僕のヒーローアカデミア』 MAXIMATIC<br>IZUKU MIDORIYA Ⅱ",
+type:"ma",
+price:800,
+img:"images/hiro/deku_ma2.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボール超』 CLEARISE ゴジータ&ベジット",
+type:"cle",
+price:800,
+img:"images/db/bezi_cle.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボール超』 CLEARISE ゴジータ&ベジット",
+type:"cle",
+price:800,
+img:"images/db/gozi_cle.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボール超』 MATCH MAKERS ジレン<br>（VS孫悟空 身勝手の極意）",
+type:"mat",
+price:600,
+img:"images/db/ziren_mat.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボール』 History Box 桃白白",
+type: "his",
+price:800,
+img:"images/db/pai_his.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボールZ』 MATCH MAKERS フリーザ<br>（VS孫悟空）",
+type:"mat",
+price:900,
+img:"images/db/furiza_mat.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボールZ』 MATCH MAKERS 孫悟空<br>（VSフリーザ）",
+type:"mat",
+price:700,
+img:"images/db/goku_mat.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボールZ』 <br>SOLID EDGE WORKS -THE出陣- ブロリー",
+type:"syutu",
+price:800,
+img:"images/db/burori2_syutu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『DRAGON BALL Z DOKKAN BATTLE』 10TH ANNIVERSARY FIGURE -超ゴジータ-",
+type: "",
+price:700,
+img:"images/db/dokkan_gozi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『DRAGON BALL Z DOKKAN BATTLE』 10TH ANNIVERSARY FIGURE -超ベジット-",
+type: "",
+price:700,
+img:"images/db/dokkan_bezi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボールZ』<br>SOLID EDGE WORKS-THE出陣- メタルクウラ",
+type: "syutu",
+price:500,
+img:"images/db/kuura.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボールZ』 MATCH MAKERS 魔人ブウ<br>（VSアルティメット悟飯）",
+type:"mat",
+price:650,
+img:"images/db/bu_mat2.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボールZ』 MATCH MAKERS 超サイヤ人3孫悟空<br>（VS魔人ブウ）",
+type:"mat",
+price:650,
+img:"images/db/goku3_mat2.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボールZ』 MATCH MAKERS 超サイヤ人3孫悟空<br>（VS魔人ブウ(純粋)）",
+type:"mat",
+price:650,
+img:"images/db/goku3_mat.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 コガネスピーカー",
+type: "",
+price:1000,
+img:"images/zyuzyutu/kogane.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 フィギュアライト 乙骨憂太・リカ",
+type: "",
+price:800,
+img:"images/zyuzyutu/otukotu_raito.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボール』 History Box クリリン",
+type: "his",
+price:500,
+img:"images/db/kuri_his.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボールGT』 SOLID EDGE WORKS-THE出陣- 超サイヤ人4ゴジータ",
+type: "syutu",
+price:600,
+img:"images/db/gozita4_solid.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボール超』 Grandista -GOGETA-Ⅱ",
+type: "gra",
+price:600,
+img:"images/db/gozita_gra2.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"『ドラゴンボールZ』 Grandista -MAJIN VEGETA-",
+type: "gra",
+price:1300,
+img:"images/db/bezi_gra2.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"『呪術廻戦』 MAXIMATIC PLUS SUKUNA",
+type: "ma",
+price:1500,
+img:"images/zyuzyutu/sukuna_map.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"『呪術廻戦 死滅回游』 XStellar “虎杖悠仁”",
+type: "xs",
+price:800,
+img:"images/zyuzyutu/itadori_xs.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"『呪術廻戦 死滅回游』 XStellar “乙骨憂太”",
+type: "xs",
+price:800,
+img:"images/zyuzyutu/otukotu_xs.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"『呪術廻戦』 Grandista -FUSHIGURO MEGUMI-",
+type: "gra",
+price:600,
+img:"images/zyuzyutu/megumi_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+{
 series:"naruto",
 name:"『NARUTO-ナルト-疾風伝』 Grandista-UCHIHA ITACHI-",
 type:"gra",
