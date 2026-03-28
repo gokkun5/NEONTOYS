@@ -974,7 +974,6 @@ type: "",
 price:1600,
 img:"images/naruto/itati_gigo.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
@@ -1077,7 +1076,7 @@ series:"db",
 name:"『ドラゴンボールZ』SOLID EDGE WORKS -THE出陣- ブロリーⅡ",
 type:"syutu",
 price:800,
-img:"images/DB/burori_syutu.jpg",
+img:"images/db/burori_syutu.jpg",
 source:"https://bsp-prize.jp/"
 
 },
