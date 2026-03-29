@@ -143,6 +143,9 @@ select{
   grid-template-columns: repeat(3, 1fr);
   gap:24px;
   padding:20px;
+
+  /* ★これ追加（超重要） */
+  align-items: start;
 }
 
 /* ===== カード ===== */
@@ -154,6 +157,10 @@ select{
 
   display: flex;
   flex-direction: column;
+
+  /* ★追加（これが重要） */
+  height: auto;
+  flex: none;
 
   transition: 0.2s;
 }
