@@ -2,6 +2,305 @@
 const figures = [
 
 {
+series:"kimetu",
+name:"『鬼滅の刃』 フィグライフ! 童磨",
+type:"figl",
+price:1400,
+img:"images/kimetu/doma_fig.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 MAXIMATIC SHINOBU KOCHO",
+type:"ma",
+price:1500,
+img:"images/kimetu/sinobu_ma.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 ぬーどるストッパーフィギュア <br>― 猗窩座・戦闘Ver. ― ラウンドワン限定",
+type:"nusuto",
+price:1600,
+img:"images/kimetu/akaza_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 ぬーどるストッパーフィギュア<br>― 煉獄杏寿郎・戦闘Ver. ―ラウンドワン限定",
+type:"nusuto",
+price:1300,
+img:"images/kimetu/rengoku_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 Xross Linkフィギュア <br>“竈門炭治郎” －刀鍛冶の里編－",
+type:"xros",
+price:1000,
+img:"images/kimetu/tanzi_2xros.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 XrossLink フィギュア <br>“不死川実弥”－柱稽古編－",
+type:"xros",
+price:2000,
+img:"images/kimetu/sina_xros.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 XrossLink フィギュア <br>“時透無一郎”－柱稽古編－",
+type:"xros",
+price:4000,
+img:"images/kimetu/tokito_xros.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 Xross Link フィギュア “煉獄杏寿郎”",
+type:"xros",
+price:1000,
+img:"images/kimetu/rengoku_xros.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 Xross Link フィギュア “猗窩座”",
+type:"xros",
+price:1300,
+img:"images/kimetu/akaza2_xros.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 Grandista-AKAZA-",
+type:"gra",
+price:1300,
+img:"images/kimetu/akaza_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 Grandista-RENGOKU KYOJURO-",
+type:"gra",
+price:1000,
+img:"images/kimetu/rengoku_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 Grandista-DOMA-",
+type:"gra",
+price:1500,
+img:"images/kimetu/doma_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 VIBRATION STARS PLUS -不死川実弥-",
+type:"vib",
+price:1800,
+img:"images/kimetu/sina_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 VIBRATION STARS PLUS -煉獄杏寿郎-",
+type:"vib",
+price:1600,
+img:"images/kimetu/rengoku_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 VIBRATION STARS -胡蝶しのぶ-",
+type:"vib",
+price:1800,
+img:"images/kimetu/sinobu_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"『NARUTO-ナルト- 疾風伝』 VIBRATION STARS <br>-ZETSU & HOSHIGAKI KISAME-",
+type:"vib",
+price:1300,
+img:"images/naruto/zetu_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gintama",
+name:"『新劇場版 銀魂-吉原大炎上-』 VIBRATION STARS -神威-",
+type: "vib",
+price:1000,
+img:"images/gintama/kamui_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gintama",
+name:"『新劇場版 銀魂-吉原大炎上-』 VIBRATION STARS -神楽-",
+type: "vib",
+price:1000,
+img:"images/gintama/kagura_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"tyen",
+name:"劇場版『チェンソーマン レゼ篇』 <br>ハイプレミアムフィギュア “早川アキ”",
+type: "hi",
+price:1100,
+img:"images/tyen/aki_hi.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"haikyu",
+name:"『ハイキュー!!』 Fluffy Puffy～烏野高校・音駒高校～",
+type:"flu",
+price:700,
+img:"images/haikyu/kuroo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+
+{
+series:"haikyu",
+name:"『ハイキュー!!』 Fluffy Puffy～烏野高校・音駒高校～",
+type:"flu",
+price:700,
+img:"images/haikyu/kodu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+
+{
+series:"haikyu",
+name:"『ハイキュー!!』 Fluffy Puffy～烏野高校・音駒高校～",
+type:"flu",
+price:600,
+img:"images/haikyu/kage.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"haikyu",
+name:"『ハイキュー!!』 Fluffy Puffy～烏野高校・音駒高校～",
+type:"flu",
+price:600,
+img:"images/haikyu/hinata.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"rerugan",
+name:"『とある魔術の禁書目録』 ESPRESTO-LEVEL5 Accelerator-",
+type:"esp",
+price:600,
+img:"images/rerugan/akuse.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"tensura",
+name:"劇場版 転生したらスライムだった件 蒼海の涙編 EFFECTREME-リムル＝テンペスト -スペシャルカラーver.",
+type:"eff",
+price:800,
+img:"images/tensura/rimuru_eff_s.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"tensura",
+name:"劇場版 転生したらスライムだった件 蒼海の涙編<br>魔王リムル=テンペスト フィギュア",
+type:"",
+price:1000,
+img:"images/tensura/rimuru_maou.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"miku",
+name:"『初音ミクシリーズ』ぬーどるストッパーフィギュア<br>ー 桜ミク2024 パールカラーver. ー",
+type:"nusuto",
+price:800,
+img:"images/miku/2024_sakura.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"miku",
+name:"『初音ミクシリーズ』Luminasta <br>“初音ミク”－クラシカルメイド－",
+type:"lum",
+price:700,
+img:"images/miku/meido.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"miku",
+name:"初音ミクシリーズ Lminasta <br>“初音ミク 16th Anniversary” ぶーたVer.",
+type:"lum",
+price:1000,
+img:"images/miku/16_anni.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"miku",
+name:"初音ミク　Aqua Float Girls フィギュア",
+type:"aqua",
+price:800,
+img:"images/miku/aqua.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"miku",
+name:"『初音ミクシリーズ』 Fashion フィギュア Country",
+type:"",
+price:1300,
+img:"images/miku/kantori.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"miku",
+name:"『初音ミク×チロルチョコ』 Trio-Try-iT Figure <br>ー 初音ミクｘチロルチョコ ミルクver. ー",
+type:"trio",
+price:1500,
+img:"images/miku/tiroru.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"miku",
+name:"『初音ミクシリーズ』 ぬーどるストッパーフィギュア <br>ー うさ耳パジャマ・ブルーver. ー",
+type:"nusuto",
+price:1200,
+img:"images/miku/usamimi_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
 series:"furi-ren",
 name:"『葬送のフリーレン』 Luminasta　<br>“フリーレン” ～SUMMER DRESS～",
 type:"lum",
@@ -342,6 +641,7 @@ price:600,
 img:"images/zyuzyutu/megumi_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
+
 {
 series:"naruto",
 name:"『NARUTO-ナルト-疾風伝』 Grandista-UCHIHA ITACHI-",
@@ -523,7 +823,7 @@ source:"https://charahiroba.com/"
 },
 
 {
-series:"zyuzyutu",
+series:"tyen",
 name:"『チェンソーマン』 Luminasta “マキマ”",
 type: "lum",
 price:900,
@@ -670,7 +970,7 @@ source:"https://bsp-prize.jp/"
 series:"hiro",
 name:"『僕のヒーローアカデミア』MAXIMATIC<br> IZUKU MIDORIYA Ⅲ",
 type:"ma",
-price:900,
+price:1000,
 img:"images/hiro/deku_ma3.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -782,7 +1082,7 @@ source:"https://bsp-prize.jp/"
 series:"zyuzyutu",
 name:"『呪術廻戦』 KING OF ARTIST  KENJAKU",
 type:"koa",
-price:1200,
+price:900,
 img:"images/zyuzyutu/geto_koa.jpg",
 source:"https://bsp-prize.jp/"
 
@@ -804,7 +1104,6 @@ type:"bato",
 price:1100,
 img:"images/wanpi/rufi_bato2.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
@@ -814,7 +1113,6 @@ type:"",
 price:1200,
 img:"images/wanpi/syankusu.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
@@ -824,7 +1122,6 @@ type:"figl",
 price:1000,
 img:"images/naruto/boruto_fig.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
@@ -952,7 +1249,7 @@ source:"https://www.taito.co.jp/"
 series:"miku",
 name:"『初音ミクシリーズ』 Fashion フィギュア Outdoor",
 type:"",
-price:1200,
+price:1400,
 img:"images/miku/miku_auto.jpg",
 source:"https://www.taito.co.jp/"
 },
@@ -964,7 +1261,6 @@ type: "",
 price:1600,
 img:"images/naruto/sasuke_gigo.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
@@ -993,7 +1289,6 @@ type: "gli",
 price:1100,
 img:"images/buri/hari_gli.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
@@ -1037,7 +1332,7 @@ source:"https://charahiroba.com/"
 series:"zyuzyutu",
 name:"『呪術廻戦』 FIGURIZMα “伏黒恵” 邂逅",
 type:"fig",
-price:1300,
+price:1100,
 img:"images/zyuzyutu/fusi_fig.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -1046,7 +1341,7 @@ source:"https://segaplaza.jp/"
 series:"zyuzyutu",
 name:"『呪術廻戦』 FIGURIZMα “伏黒甚爾” 邂逅",
 type:"fig",
-price:1300,
+price:1100,
 img:"images/zyuzyutu/touzi_fig.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -1058,7 +1353,6 @@ type: ["gra", "72"],
 price:1500,
 img:"images/naruto/naruto_gra3.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
@@ -1068,7 +1362,6 @@ type: "gra",
 price:800,
 img:"images/naruto/naruto_gra2.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
@@ -1078,7 +1371,6 @@ type:"syutu",
 price:800,
 img:"images/db/burori_syutu.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 
@@ -1144,17 +1436,16 @@ source:"https://segaplaza.jp/"
 series:"kimetu",
 name:"『鬼滅の刃』 Grandista-TOMIOKA GIYU-",
 type:"gra",
-price:1500,
+price:1800,
 img:"images/kimetu/giyu_gra.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
 series:"orerebe",
 name:"『俺だけレベルアップな件』ESPRESTO-Excite Motions-vol.1",
 type:"esp",
-price:1600,
+price:1300,
 img:"images/orerebe/mizusino_esp.jpg",
 source:"https://bsp-prize.jp/"
 
@@ -1174,7 +1465,7 @@ source:"https://charahiroba.com/"
 series:"miku",
 name:"ガンダム45周年×初音ミク フィギュアシャアザクぐるみ 初音ミクVer.",
 type:"",
-price:1600,
+price:1300,
 img:"images/miku/miku_zaku.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -1202,7 +1493,7 @@ source:"https://bsp-prize.jp/"
 series:"zyuzyutu",
 name:"『呪術廻戦』 FIGURIZMα　“宿儺”",
 type:"fig",
-price:2000,
+price:1800,
 img:"images/zyuzyutu/sukuna_fig.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -1292,7 +1583,7 @@ source:"https://bsp-prize.jp/"
 series:"furi-ren",
 name:"『葬送のフリーレン』 MAXIMATIC FRIEREN",
 type:"ma",
-price:700,
+price:500,
 img:"images/furi-ren/furi_ma.jpg",
 source:"https://bsp-prize.jp/"
 },
