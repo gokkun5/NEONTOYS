@@ -2,6 +2,115 @@
 const figures = [
 
 {
+series:"naruto",
+name:"NARUTO-ナルト- フィグライフ! 終末の谷-うちはマダラ-",
+type:"figl",
+price:700,
+img:"images/naruto/madara_figl.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 BANPRESTO FIGURE COLOSSEUM 造形忍界大戦 はたけカカシ",
+type: "ninkai",
+price:1200,
+img:"images/naruto/kakasi_ninkai.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- Memorable Saga-うちはサスケ-",
+type:"memo",
+price:1200,
+img:"images/naruto/fuma_memo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- NARUTOP99 うちはシスイフィギュア",
+type:"99",
+price:600,
+img:"images/naruto/sisui.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 Memorable Saga Special-うずまきナルト-",
+type:"memo",
+price:1300,
+img:"images/naruto/naruto_memo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"-NARUTO 72 series- 33 VIBRATION STARS-UZUMAKI NARUTO-",
+type:["vib", "72"],
+price:800,
+img:"images/naruto/naruto_72_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 Memorable Saga Special-うちはイタチ-",
+type:"memo",
+price:2200,
+img:"images/naruto/itati_memo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- Combination Battle2-我愛羅-",
+type:"combi",
+price:800,
+img:"images/naruto/gara2_combi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 Combination Battle-うちはイタチ-",
+type:"combi",
+price:1000,
+img:"images/naruto/itati_combi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- VIBRATION STARS-GAARA-Ⅱ",
+type:"vib",
+price:500,
+img:"images/naruto/gara2_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS<br>-SENJU TOBIRAMA ＆ OROCHIMARU-",
+type:"vib",
+price:800,
+img:"images/naruto/tobira_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS<br>-SENJU TOBIRAMA ＆ OROCHIMARU-",
+type:"vib",
+price:600,
+img:"images/naruto/oroti_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
 series:"gotoyome",
 name:"『五等分の花嫁∬』 Desktop Cute フィギュア <br>中野三玖 ～描き下ろしCat room wear ver.～",
 type:"desk",
@@ -45,7 +154,7 @@ price:800,
 img:"images/umamusume/satono_xs.jpg",
 source:"https://segaplaza.jp/"
 },
-  
+
 {
 series:"kuresin",
 name:"クレヨンしんちゃん ビッグフィギュア～野原しんのすけ～おおっ！",
@@ -2138,7 +2247,6 @@ type: "ninkai",
 price:1300,
 img:"images/naruto/minato_ninkai.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
@@ -2469,85 +2577,74 @@ source:"https://bsp-prize.jp/"
 
 function showFigures(){
 
-
-const updated = new Date(document.lastModified);
+  const updated = new Date(document.lastModified);
   const formatted2 = updated.getFullYear() + "年" + 
                      (updated.getMonth() + 1) + "月" + 
                      updated.getDate() + "日";
 
-const search = document.getElementById("search").value.toLowerCase();
-const series = document.getElementById("series").value;
-const type = document.getElementById("type").value;
-const price = document.getElementById("price").value;
-const sort = document.getElementById("sort").value;
+  const search = document.getElementById("search").value.toLowerCase();
+  const series = document.getElementById("series").value;
+  const type = document.getElementById("type").value;
+  const price = document.getElementById("price").value;
+  const sort = document.getElementById("sort").value;
 
+  let filtered = [...figures];
 
-// 元データをコピー
-let filtered = [...figures];
+  if(series !== "all"){
+    filtered = filtered.filter(f => f.series === series);
+  }
 
+  if(type !== "all"){
+    filtered = filtered.filter(f =>
+      Array.isArray(f.type) ? f.type.includes(type) : f.type === type
+    );
+  }
 
-// シリーズ
-if(series !== "all"){
-filtered = filtered.filter(f => f.series === series);
+  if(price !== "all"){
+    filtered = filtered.filter(f => f.price == price);
+  }
+
+  if(search !== ""){
+    filtered = filtered.filter(f =>
+      f.name.toLowerCase().includes(search)
+    );
+  }
+
+  if(sort === "priceLow"){
+    filtered.sort((a,b) => a.price - b.price);
+  }
+
+  if(sort === "priceHigh"){
+    filtered.sort((a,b) => b.price - a.price);
+  }
+
+  if(sort === "name"){
+    filtered.sort((a,b) => a.name.localeCompare(b.name,"ja"));
+  }
+
+  let html = "";
+
+  filtered.forEach(f => {
+    html += `
+    <div class="card">
+      <img src="${f.img}" loading="lazy">
+      <h3 class="name">${f.name}</h3>
+      <p class="price">¥ ${f.price}</p>
+      ${f.source ? `<a href="${f.source}" target="_blank" class="source">出典リンク</a>` : ""}
+    </div>
+    `;
+  });
+
+  document.getElementById("figureList").innerHTML = html;
 }
 
 
-// タイプ
-if(type !== "all"){
-filtered = filtered.filter(f =>
-Array.isArray(f.type) ? f.type.includes(type) : f.type === type
-);
-}
+// ★ここに置く（外に出す）
+function showPurchaseFlow() {
+  const list = document.getElementById("figureList");
+  const template = document.getElementById("purchaseTemplate");
 
-
-// 価格
-if(price !== "all"){
-filtered = filtered.filter(f => f.price == price);
-}
-
-
-// 検索
-if(search !== ""){
-filtered = filtered.filter(f =>
-f.name.toLowerCase().includes(search)
-);
-}
-
-
-// ソート
-if(sort === "priceLow"){
-filtered.sort((a,b) => a.price - b.price);
-}
-
-if(sort === "priceHigh"){
-filtered.sort((a,b) => b.price - a.price);
-}
-
-if(sort === "name"){
-filtered.sort((a,b) => a.name.localeCompare(b.name,"ja"));
-}
-
-
-// 表示
-let html = "";
-
-filtered.forEach(f => {
-
-html += `
-<div class="card">
-
-<img src="${f.img}" loading="lazy">
-<h3 class="name">${f.name}</h3>
-<p class="price">¥ ${f.price}</p>
-${f.source ? `<a href="${f.source}" target="_blank" class="source">出典リンク</a>` : ""}
-
-</div>
-`;
-});
-
-
-document.getElementById("figureList").innerHTML = html;
-
+  list.innerHTML = template.innerHTML;
 }
 
 
