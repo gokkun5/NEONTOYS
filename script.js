@@ -2,6 +2,403 @@
 const figures = [
 
 {
+series:"kuresin",
+name:"クレヨンしんちゃん ビッグフィギュア～野原しんのすけ～おおっ！",
+type:"",
+price:700,
+img:"images/kuresin/oo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"buruaka",
+name:"ブルーアーカイブYumemirize“セリカ”",
+type:"yume",
+price:600,
+img:"images/buruaka/serika.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"akunai",
+name:"『アークナイツ』 ぬーどるストッパーフィギュア ー スルト ー",
+type:"nusuto",
+price:1000,
+img:"images/akunai/suruto_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"musyoku",
+name:"『無職転生II ～異世界行ったら本気だす～』 Vivitフィギュア ロキシー・ミグルディア バニー偏光カラーVer.",
+type:"vivi",
+price:700,
+img:"images/musyoku/rokisi_henko.jpg",
+source:"http://fansclub.jp/pc/top/"
+},
+
+{
+series:"voice",
+name:"『VOICEROID』 弦巻マキ＆紲星あかり <br>フィギュア ルームウェア Another color ver.",
+type:"sof",
+price:500,
+img:"images/voice/akari.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"voice",
+name:"『VOICEROID』 弦巻マキ＆紲星あかり <br>フィギュア ルームウェア Another color ver.",
+type:"sof",
+price:500,
+img:"images/voice/maki.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"musyoku",
+name:"『無職転生Ⅱ ～異世界行ったら本気だす～』 <br>Vivit フィギュア エリス・ボレアス・グレイラット 競泳水着",
+type:"vivi",
+price:600,
+img:"images/musyoku/erisu_vivit.jpg",
+source:"http://fansclub.jp/pc/top/"
+},
+
+{
+series:"musyoku",
+name:"『無職転生Ⅱ ～異世界行ったら本気だす～』 <br>Vivit フィギュア ロキシー・ミグルディア 競泳水着",
+type:"vivi",
+price:600,
+img:"images/musyoku/rokisi_vivit.jpg",
+source:"http://fansclub.jp/pc/top/"
+},
+
+{
+series:"gotoyome",
+name:"『五等分の花嫁＊』 BiCute Dark Figure ー 中野五月 ー",
+type:"daku",
+price:1200,
+img:"images/gotoyome/ituki_daku.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"deara",
+name:"『デート・ア・ライブV』 BiCute Pure Figure <br>ー 夜刀神十香 ー",
+type:"pure",
+price:800,
+img:"images/deara/toka_pure.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"kuresin",
+name:"映画クレヨンしんちゃん ヘンダーランドの大冒険 <br>おおきなSOFVIMATES～ジョマ～",
+type:"sof",
+price:600,
+img:"images/kuresin/zyoma.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kuresin",
+name:"映画クレヨンしんちゃん ヘンダーランドの大冒険 <br>おおきなSOFVIMATES～マカオ～",
+type:"sof",
+price:600,
+img:"images/kuresin/makao.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"toho",
+name:"『東方Project』 ゆっくり風デフォルメフィギュア 霧雨魔理沙",
+type:"",
+price:800,
+img:"images/toho/marisa.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"toho",
+name:"『東方Project』 ゆっくり風デフォルメフィギュア 博麗霊夢",
+type:"",
+price:800,
+img:"images/toho/reimu.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"vtu",
+name:"赤見かるびちょこのせプレミアムフィギュア“赤見かるび”",
+type:"tyoko",
+price:500,
+img:"images/vtu/karubi.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"katainaka",
+name:"片田舎のおっさん、剣聖になるハイプレミアムフィギュア<br>“アリューシア・シトラス”",
+type: "hi",
+price:500,
+img:"images/katainaka/aryu_hi.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"uzaki",
+name:"『宇崎ちゃんは遊びたい！ω』 <br>BiCute Bunnies Figure ー 宇崎花 ー",
+type:"bani",
+price:800,
+img:"images/uzaki/uzaki_bani.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"mahoako",
+name:"『魔法少女にあこがれて』 One-Seventh Caratフィギュア<br> マジアベーゼ 悪のバニーVer.",
+type:"one",
+price:800,
+img:"images/mahoako/mazi_aku.jpg",
+source:"http://fansclub.jp/pc/top/"
+},
+
+{
+series:"mahoako",
+name:"魔法少女にあこがれて Vivitフィギュア マジアベーゼ Ver.1.5",
+type:"vivi",
+price:1400,
+img:"images/mahoako/mazi_vivit.jpg",
+source:"http://fansclub.jp/pc/top/"
+},
+
+{
+series:"nikke",
+name:"勝利の女神：NIKKE バイパー こーどリールフィギュア",
+type:"ko-do",
+price:600,
+img:"images/nikke/baipa_ko-do.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"nikke",
+name:"勝利の女神：NIKKE アニス こーどリールフィギュア",
+type:"ko-do",
+price:600,
+img:"images/nikke/anisu_ko-do.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"nikke",
+name:"『勝利の女神：NIKKE』 ぬーどるストッパーフィギュア ー ブリッド ー",
+type:"nusuto",
+price:400,
+img:"images/nikke/buriddo_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"nikke",
+name:"『勝利の女神：NIKKE』 ぬーどるストッパーフィギュア<br>ー モダニア ファースト・アフェクション ー",
+type:"nusuto",
+price:600,
+img:"images/nikke/moda_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"tensura",
+name:"劇場版 転生したらスライムだった件 蒼海の涙編 GLITTER&GLAMOURS ユラ",
+type:"gli",
+price:600,
+img:"images/tensura/yura.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hant",
+name:"『HUNTER×HUNTER』 ぬーどるストッパーフィギュア ー マチ ー",
+type:"nusuto",
+price:600,
+img:"images/hant/mati_nusuto.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"pawapuro",
+name:"パワフルプロ野球　<br>パワプロくん プライズアクションフィギュア 打者ver",
+type:"",
+price:500,
+img:"images/pawapuro/dasya.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"rokkuman",
+name:"ロックマン Grandista -ROCKMAN-",
+type:"gra",
+price:800,
+img:"images/rokkuman/rokkuman_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"dandadan",
+name:"『ダンダダン』 Trio-Try-iT Figure <br>― オカルン(変身) ―",
+type:"trio",
+price:550,
+img:"images/dandadan/okarun_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"dandadan",
+name:"TVアニメ『ダンダダン』 Grandista-OKARUN(TRANSFORMED)-",
+type:"gra",
+price:550,
+img:"images/dandadan/okarun_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"buri",
+name:"BLEACH MAXIMATIC ULQUIORRA CIFER",
+type:"ma",
+price:1200,
+img:"images/buri/uru_ma.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"uruse",
+name:"うる星やつら ESPRESTO-Soft and drifting-ラム",
+type:"esp",
+price:650,
+img:"images/uruse/ramu_esp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"nia",
+name:"TVアニメ「NieR:AutomataVer1.1a」<br>ちょこのせプレミアムフィギュア“2B”",
+type:"tyoko",
+price:900,
+img:"images/nia/2b_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"madomagi",
+name:"劇場版 魔法少女まどか☆マギカ 叛逆の物語 <br>Fluffy Puffy～キュゥべえ＆お菓子の魔女～",
+type:"flu",
+price:800,
+img:"images/madomagi/okasi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"madomagi",
+name:"劇場版 魔法少女まどか☆マギカ 叛逆の物語 <br>Fluffy Puffy～キュゥべえ＆お菓子の魔女～",
+type:"flu",
+price:800,
+img:"images/madomagi/kyube.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"city",
+name:"ぬーどるストッパーフィギュア―南雲美鳥―",
+type:"nusuto",
+price:700,
+img:"images/city/midori.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"toho",
+name:"『東方Project』 ぬーどるストッパーフィギュア <br>ー 東風谷早苗 ー",
+type:"nusuto",
+price:700,
+img:"images/toho/sanae.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"motiduki",
+name:"『ドカ食いダイスキ！もちづきさん』 <br>ぬーどるストッパーフィギュア ー 望月美琴 ー",
+type:"nusuto",
+price:600,
+img:"images/motiduki/motiduki.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"atorie",
+name:"『ライザのアトリエ』 Luminasta “リラ・ディザイアス”",
+type:"lum",
+price:700,
+img:"images/atorie/rira.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"atorie",
+name:"TVアニメ『ライザのアトリエ』 Luminasta“ライザリン・シュタウト”",
+type:"lum",
+price:800,
+img:"images/atorie/raiza.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"gotoyome",
+name:"『五等分の花嫁＊』 中野三玖フィギュア <br>五等分の花嫁アニメ原画展ver.",
+type:"",
+price:800,
+img:"images/gotoyome/miku_genga.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gotoyome",
+name:"『五等分の花嫁∬』 Desktop Cute フィギュア <br>中野二乃 ～描き下ろしCat room wear ver.～",
+type:"desk",
+price:550,
+img:"images/gotoyome/nino_desk_neko.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"gotoyome",
+name:"『五等分の花嫁＊』 Desktop Cute フィギュア <br>中野一花 〜バニーver.〜",
+type:"desk",
+price:450,
+img:"images/gotoyome/itika_desk_bani.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+
+{
+series:"gotoyome",
+name:"『五等分の花嫁＊』 BiCute Dark Figure ー 中野三玖 ー",
+type:"daku",
+price:1400,
+img:"images/gotoyome/miku_daku.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"gotoyome",
+name:"『五等分の花嫁＊』 BiCute Dark Figure ー 中野四葉 ー",
+type:"daku",
+price:1200,
+img:"images/gotoyome/yotuba_daku.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
 series:"deara",
 name:"『デート・ア・ライブV』 Desktop Cute フィギュア <br>夜刀神十香 〜バニーver.〜 Renewal タイクレ限定",
 type:"desk",
@@ -203,7 +600,7 @@ source:"https://bsp-prize.jp/"
 
 {
 series:"pawapuro",
-name:"",
+name:"パワフルプロ野球パワプロくん プライズアクションフィギュア",
 type:"",
 price:500,
 img:"images/pawapuro/pawapuro.jpg",
