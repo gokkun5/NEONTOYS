@@ -159,7 +159,7 @@ select{
   flex-direction: column;
 
   /* ★追加（これが重要） */
-  height: 500px;
+  height: auto;
   flex: none;
 
   transition: 0.2s;
