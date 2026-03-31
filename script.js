@@ -2,6 +2,51 @@
 const figures = [
 
 {
+series:"gotoyome",
+name:"『五等分の花嫁∬』 Desktop Cute フィギュア <br>中野三玖 ～描き下ろしCat room wear ver.～",
+type:"desk",
+price:800,
+img:"images/gotoyome/miku_desk_neko.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"mazyotabi",
+name:"『魔女の旅々』 Trio-Try-iT Figure ーイレイナー",
+type:"trio",
+price:800,
+img:"images/mazyotabi/trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"nikke",
+name:"『勝利の女神：NIKKE』 ぬーどるストッパーフィギュア <br>ー レッドフード：ナンセンスレッド ー",
+type:"nusuto",
+price:700,
+img:"images/nikke/reddo_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"umamusume",
+name:"ウマ娘プリティーダービーXStellar“サトノクラウン”-STARTINGFUTURE-",
+type: "xs",
+price:800,
+img:"images/umamusume/kuraun_xs.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"umamusume",
+name:"ウマ娘プリティーダービーXStellar“サトノダイヤモンド”-STARTINGFUTURE-",
+type: "xs",
+price:800,
+img:"images/umamusume/satono_xs.jpg",
+source:"https://segaplaza.jp/"
+},
+  
+{
 series:"kuresin",
 name:"クレヨンしんちゃん ビッグフィギュア～野原しんのすけ～おおっ！",
 type:"",
