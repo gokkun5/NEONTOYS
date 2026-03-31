@@ -113,7 +113,6 @@
     <option value="all">All Types</option>
     <option value="aqua">Aqua Float Girls</option>
     <option value="bpev">BANPRESTO EVOLVE</option>
-    <option value="cle">CLEARISE</option>
     <option value="gra">Grandista</option>
     <option value="ma">MAXIMATIC</option>
     <option value="AMP">AMP</option>
@@ -124,6 +123,8 @@
     <option value="bre">Break time collection</option>
     <option value="bri">BRILLIANT</option>
     <option value="core">Coreful</option>
+    <option value="combi">Combination Battle</option>
+    <option value="cle">CLEARISE</option>
     <option value="desk">Desktop Cute</option>
     <option value="eff">EFFECTREME</option>
     <option value="esp">ESPREST</option>
@@ -136,6 +137,8 @@
     <option value="relax">Relax time</option>
     <option value="koa">KING OF ARTIST</option>
     <option value="lum">Luminasta</option>
+    <option value="memo">Memorable Saga</option>
+    <option value="99">NARUTOP99</option>
     <option value="one">One-Seventh Carat</option>
     <option value="fig">FIGURIZMα</option>
     <option value="72">72 SERIES</option>
@@ -209,6 +212,10 @@
   </a>
 </div>
 
+<button onclick="showPurchaseFlow()" class="flow-btn">
+  買取の流れを見る
+</button>
+
 <div class="source">
 
 <h3>出典</h3>
@@ -238,5 +245,21 @@
 </div> <!-- ★追加ここまで -->
 
 <script src="script.js"></script>
+
+<!-- これはどこにも表示しないテンプレ -->
+<div id="purchaseTemplate" style="display:none;">
+  <div class="purchase-flow">
+
+    <button onclick="showFigures()">← 一覧に戻る</button>
+
+    <img src="kaitori.jpg">
+<img src="kaitori2.jpg">
+<img src="kaitori3.jpg">
+<img src="kaitori4.jpg">
+
+  </div>
+</div>
+
 </body>
+
 </html>
