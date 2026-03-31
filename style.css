@@ -274,3 +274,32 @@ text-decoration:underline;
     grid-template-columns: 1fr;
   }
 }
+
+/* ===== スマホはみ出し修正（上書き用） ===== */
+
+/* 全体の幅計算を修正 */
+* {
+  box-sizing: border-box;
+}
+
+/* 横スクロール防止 */
+body {
+  overflow-x: hidden;
+}
+
+/* スマホ専用調整 */
+@media (max-width: 600px) {
+
+  /* sticky解除（これ重要） */
+  .sidebar {
+    position: static !important;
+    width: 100% !important;
+  }
+
+  /* グリッドの余白調整 */
+  #figureList {
+    grid-template-columns: 1fr !important;
+    padding: 10px !important;
+  }
+
+}
