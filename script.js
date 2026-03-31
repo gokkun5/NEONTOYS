@@ -2,6 +2,423 @@
 const figures = [
 
 {
+series:"deara",
+name:"『デート・ア・ライブV』 Desktop Cute フィギュア <br>夜刀神十香 〜バニーver.〜 Renewal タイクレ限定",
+type:"desk",
+price:1100,
+img:"images/deara/toka_bani_taikure.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"deara",
+name:"『デート・ア・ライブV』 ぬーどるストッパーフィギュア <br>ー 時崎狂三・ 水着 ver. ー",
+type:"nusuto",
+price:350,
+img:"images/deara/kurumi_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+
+{
+series:"deara",
+name:"『デート・ア・ライブV』 BiCute Dark Figure <br>ー 時崎狂三 ー",
+type:"daku",
+price:800,
+img:"images/deara/kurumi_daku.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"deara",
+name:"デート・ア・ライブ ペンフレ！ 時崎狂三 sweet silk wear ver.",
+type:"pen",
+price:500,
+img:"images/deara/kurumi_pen.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"deara",
+name:"デート・ア・ライブ ペンフレ！ 夜刀神十香 sweet silk wear ver.",
+type:"pen",
+price:450,
+img:"images/deara/toka_pen.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"osinoko",
+name:"【推しの子】 ESPRESTO-Poppin' Heart-アイ",
+type:"esp",
+price:500,
+img:"images/osinoko/ai_esp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"tikawa",
+name:"『ちいかわ』 撮りまーす！カメラ型ライト",
+type:"",
+price:400,
+img:"images/tikawa/syasin.jpg",
+source:"https://www.eikoh-prize.jp/"
+},
+
+{
+series:"keroro",
+name:"ケロロ軍曹 おおきなSOFVIMATES～クルル曹長～",
+type:"sof",
+price:600,
+img:"images/keroro/kururu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"yahari",
+name:"やはり俺の青春ラブコメはまちがっている。完<br>Luminasta“一色いろは” ～盛夏TOKYOBAY～",
+type:"lum",
+price:400,
+img:"images/yahari/iroha.jpg",
+source:"https://segaplaza.jp/"
+},
+
+
+{
+series:"witti",
+name:"TVアニメ『ウィッチウォッチ』 <br>ちょこのせプレミアムフィギュア “宮尾音夢”",
+type:"tyoko",
+price:300,
+img:"images/witti/nemu_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"witti",
+name:"TVアニメ『ウィッチウォッチ』Luminasta“宮尾音夢”",
+type:"lum",
+price:350,
+img:"images/witti/nemu.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"fate",
+name:"Fate/GrandOrderArcadeLuminasta“ランサー/エレシュキガル”",
+type:"lum",
+price:500,
+img:"images/fate/eresyuki.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"samapoke",
+name:"『Summer Pockets』 Yumemirize “空門蒼”",
+type:"yume",
+price:550,
+img:"images/samapoke/ao.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"samapoke",
+name:"『Summer Pockets』 Yumemirize “鳴瀬しろは”",
+type:"yume",
+price:550,
+img:"images/samapoke/siroha.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"nigoriri",
+name:"2.5次元の誘惑 GLITTER&GLAMOURS ミリエラ Bunny Style",
+type:"gli",
+price:400,
+img:"images/nigoriri/miriera_bani.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"nigoriri",
+name:"2.5次元の誘惑 GLITTER&GLAMOURS リリエル Bunny Style",
+type:"gli",
+price:400,
+img:"images/nigoriri/ririeru_bani.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"purikyua",
+name:"『ふたりはプリキュア』 GLITTER&GLAMOURS <br>～キュアホワイト～",
+type:"gli",
+price:450,
+img:"images/purikyua/howaito.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"purikyua",
+name:"『ふたりはプリキュア』 GLITTER&GLAMOURS <br>～キュアブラック～",
+type:"gli",
+price:450,
+img:"images/purikyua/burakku.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"aobuta",
+name:"『青春ブタ野郎』シリーズ １/７スケールフィギュア　<br>桜島麻衣 和服メイドVer.",
+type:"",
+price:600,
+img:"images/aobuta/wafukumeido.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"mazyotabi",
+name:"魔女の旅々 Trio-Try-iT Figure<br>ーイレイナ・ブラウンコーデver.ー",
+type:"trio",
+price:600,
+img:"images/mazyotabi/buraun_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"higurasi",
+name:"ひぐらしのなく頃に卒　BiCute Bunnies Figureー羽入ー",
+type:"bani",
+price:500,
+img:"images/higurasi/hanyu.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"hant",
+name:"HUNTER×HUNTER HUNTING ARCHIVES<br> ネテロ-音を置き去りにした-",
+type:"",
+price:500,
+img:"images/hant/netero_oto.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"pawapuro",
+name:"",
+type:"",
+price:500,
+img:"images/pawapuro/pawapuro.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"buri",
+name:"BLEACH MAXIMATIC GRIMMJOW JAEGERJAQUES",
+type:"ma",
+price:1200,
+img:"images/buri/gurimu_ma.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"orerebe",
+name:"『俺だけレベルアップな件』 Trio-Try-iT Figure <br>ー 水篠旬 ー",
+type:"trio",
+price:1000,
+img:"images/orerebe/mizusino_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"hant",
+name:"HUNTER×HUNTER Grandista-クラピカ-",
+type:"gra",
+price:1200,
+img:"images/hant/kura_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"botti",
+name:"アニメ「ぼっち・ざ・ろっく！」 鎮座獣 <br>承認欲求モンスター",
+type:"tinza",
+price:900,
+img:"images/botti/syounin.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gundam",
+name:"『機動戦士Gundam GQuuuuuuX』<br>ニャアン フィギュア 私服ver.",
+type:"",
+price:300,
+img:"images/gundam/nyan.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"tensura",
+name:"『転生したらスライムだった件』<br>リムル＆ランガ ソフビフィギュア",
+type:"",
+price:600,
+img:"images/tensura/ranga.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース GLITTER&GLAMOURS<br>-NAMI EGGHEAD STYLE-",
+type:"gli",
+price:750,
+img:"images/wanpi/nami_egg_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"『ワンピース』 フィグライフ! 海賊狩りのゾロ",
+type:"figl",
+price:600,
+img:"images/wanpi/zoro_figl.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+
+{
+series:"wanpi",
+name:"『ワンピース』 THE出航 LOGIA -BORSALINO-",
+type:"syukko",
+price:650,
+img:"images/wanpi/kizaru_syukko.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"『ワンピース』 BATTLE RECORD COLLECTION -TRAFALGAR.LAW Ⅱ-",
+type:"bato",
+price:600,
+img:"images/wanpi/ro2_bato.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"『ワンピース』 BATTLE RECORD COLLECTION -NAMI-",
+type:"bato",
+price:900,
+img:"images/wanpi/nami_egg_bato.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"『ワンピース』 BATTLE RECORD COLLECTION -JEWELRY.BONNEY THE MOST FREE FUTURE-",
+type:"bato",
+price:550,
+img:"images/wanpi/boni_bato.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"『ワンピース』 BATTLE RECORD COLLECTION -MONKEY.D.LUFFY GEAR5 SPECIAL ver.-",
+type:"bato",
+price:600,
+img:"images/wanpi/nika_bato_sp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"『ワンピース』 KING OF ARTIST MONKEY.D.LUFFY GEAR5 III",
+type:"koa",
+price:1000,
+img:"images/wanpi/rufi3_koa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"『ワンピース』 KING OF ARTIST JEWELRY.BONNEY THE MOST FREE FUTURE",
+type:"koa",
+price:600,
+img:"images/wanpi/boni_koa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"『ワンピース』 KING OF ARTIST MONKEY.D.LUFFY -ワノ国 Ⅱ SPECIAL ver.-",
+type:"koa",
+price:1000,
+img:"images/wanpi/rufi_wa2_koa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"『ワンピース』 Grandista -RORONOA ZORO Ⅱ-",
+type:"gra",
+price:1100,
+img:"images/wanpi/zoro_gra2.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"『ワンピース』 Grandista -PORTGAS.D.ACE-",
+type:"gra",
+price:650,
+img:"images/wanpi/ace_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gati",
+name:"『ガチアクタ』 VIBRATION STARS -リヨウ-",
+type:"vib",
+price:1600,
+img:"images/gati/riyo_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gati",
+name:"『ガチアクタ』 VIBRATION STARS -エンジン-",
+type:"vib",
+price:1500,
+img:"images/gati/enzi_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gati",
+name:"『ガチアクタ』 VIBRATION STARS -ザンカ-",
+type:"vib",
+price:1500,
+img:"images/gati/zanka_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gati",
+name:"『ガチアクタ』 VIBRATION STARS -ルド-",
+type:"vib",
+price:1800,
+img:"images/gati/rudo_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kisekoi",
+name:"『その着せ替え人形は恋をする』 <br>ESPRESTO Detailed Elegance 喜多川海夢 黒江雫Ver.",
+type:"esp",
+price:900,
+img:"images/kisekoi/sizuku_esp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
 series:"kimetu",
 name:"『鬼滅の刃』 フィグライフ! 童磨",
 type:"figl",
@@ -1092,7 +1509,7 @@ source:"https://bsp-prize.jp/"
 series:"kisekoi",
 name:"『その着せ替え人形は恋をする』 <br>XStellar　“喜多川海夢”",
 type:"xs",
-price:900,
+price:800,
 img:"images/kisekoi/marin_xs.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -1316,7 +1733,6 @@ type: "gra",
 price:1300,
 img:"images/hant/kirua_gra.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
