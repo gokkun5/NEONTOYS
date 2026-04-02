@@ -270,35 +270,32 @@ select{
 /* ===== スマホ ===== */
 @media (max-width: 600px) {
 
-  .main{
-    flex-direction:column;
+  .main {
+    flex-direction: column;
   }
 
-  .sidebar{
-    width:100%;
-    position:static;
+  .sidebar {
+    width: 100%;
+    position: static;
+    /* 必要に応じて、スマホでは少し高さを抑えるか非表示にする検討も */
   }
 
-  /* ←最重要修正 */
-  #figureList{
-    flex:none;
-    width:100%;
-
-    grid-template-columns: repeat(3, 1fr);
-    gap:8px;
-    padding:8px;
+  #figureList {
+    flex: none;
+    width: 100%;
+    display: grid; /* gridを明示的に指定 */
+    
+    /* 【ここを修正】3列だと窮屈なので、2列にするのがおすすめです */
+    grid-template-columns: repeat(2, 1fr); 
+    
+    gap: 12px; /* 少し広げるとネオンの質感が綺麗に見えます */
+    padding: 12px;
+    box-sizing: border-box; /* パディングが幅を追い出さないように */
   }
 
-  .card{
-    width:100%;
+  .card {
+    width: 100%; /* 親のgrid幅に合わせる */
+    margin: 0;   /* 余計なマージンをリセット */
   }
 
-}
-
-.purchase-flow img {
-  width: 100%;
-  height: auto;
-  max-width: 900px;
-  display: block;
-  margin: 10px auto;
 }
