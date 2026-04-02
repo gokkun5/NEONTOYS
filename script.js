@@ -3,6 +3,267 @@ const figures = [
 
 {
 series:"zyuzyutu",
+name:"呪術廻戦Luminasta“虎杖悠仁”黒閃",
+type: "lum",
+price:1000,
+img:"images/zyuzyutu/itadori_lum.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"劇場版呪術廻戦0Yumemirize“乙骨憂太”",
+type:"yume",
+price:1000,
+img:"images/zyuzyutu/otukotu_yume.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"劇場版呪術廻戦0Yumemirize“狗巻棘”",
+type:"yume",
+price:1000,
+img:"images/zyuzyutu/inumaki.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"『呪術廻戦』Vivitフィギュア 五条悟 呪術高専Ver.GiGOグループ限定",
+type:"vivi",
+price:800,
+img:"images/zyuzyutu/gozyo_vivi.jpg",
+source:"http://fansclub.jp/pc/top/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 KING OF ARTIST SATORU GOJO-懐玉・玉折-Ⅱ",
+type:"koa",
+price:900,
+img:"images/zyuzyutu/gozyo2_koa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 MAXIMATIC CHOSO",
+type:"ma",
+price:1200,
+img:"images/zyuzyutu/tyouso_a_ma.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 MAXIMATIC CHOSO",
+type:"ma",
+price:1200,
+img:"images/zyuzyutu/tyouso_b_ma.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 MAXIMATIC SUKUNA Special ver.",
+type:"ma",
+price:1000,
+img:"images/zyuzyutu/sukunasp_ma.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース GLITTER&GLAMOURS-SHIRAHOSHI-",
+type:"gli",
+price:500,
+img:"images/wanpi/sira_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース GLITTER&GLAMOURS-BOA.HANCOCK-Ⅱ",
+type:"gli",
+price:800,
+img:"images/wanpi/han_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース GLITTER&GLAMOURS-TRAFALGAR.LAW-CHANGE ver.",
+type:"gli",
+price:550,
+img:"images/wanpi/ro_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア GLITTER&GLAMOURS-MIRKO-",
+type:"gli",
+price:1300,
+img:"images/hiro/miruko_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア GLITTER＆GLAMOURS-OCHACO URARAKA＆HIMIKO TOGA-",
+type:"gli",
+price:800,
+img:"images/hiro/toga_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア GLITTER＆GLAMOURS-OCHACO URARAKA＆HIMIKO TOGA-",
+type:"gli",
+price:1200,
+img:"images/hiro/otyako_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TORU HAGAKURE-",
+type:"gli",
+price:1800,
+img:"images/hiro/hagakure_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TSUYU ASUI-",
+type:"gli",
+price:900,
+img:"images/hiro/tuyu_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア GLITTER&GLAMOURS-NEJIRE HADO-",
+type:"gli",
+price:800,
+img:"images/hiro/nezire_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア GLITTER＆GLAMOURS-HIMIKO TOGA-",
+type:"gli",
+price:800,
+img:"images/hiro/toga2_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア GLITTER&GLAMOURS-MEI HATSUME-",
+type:"gli",
+price:800,
+img:"images/hiro/hatume_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 Grandista-UCHIHA SASUKE-",
+type:"gra",
+price:1200,
+img:"images/naruto/sasuke1_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kaizyu",
+name:"怪獣８号 Grandista-鳴海弦-",
+type:"gra",
+price:800,
+img:"images/kaizyu/narumi_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア Grandista-ALL MIGHT-",
+type:"gra",
+price:900,
+img:"images/hiro/all_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"虎杖悠仁 呪術廻戦 Grandista ITADORI YUJI",
+type:"gra",
+price:900,
+img:"images/zyuzyutu/itadori_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ Grandista-SON GOKU-Ⅱ",
+type:"gra",
+price:750,
+img:"images/db/goku2_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ Grandista-SON GOKU-",
+type:"gra",
+price:600,
+img:"images/db/goku_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース Grandista-EDWARD.NEWGATE-",
+type:"gra",
+price:550,
+img:"images/wanpi/sirohige_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース Grandista-TRAFALGAR.LAW-",
+type:"gra",
+price:450,
+img:"images/wanpi/ro_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース Grandista-MONKEY.D.LUFFY GEAR5-",
+type:"gra",
+price:800,
+img:"images/wanpi/nika1_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミアTHEMOVIEユアネクストXrossLinkフィギュア“轟焦凍”",
+type:"xros",
+price:800,
+img:"images/hiro/todoroki_xros.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyuzyutu",
 name:"呪術廻戦 MAXIMATIC CHOSO-死滅回游-",
 type:"ma",
 price:800,
@@ -221,7 +482,7 @@ source:"https://bsp-prize.jp/"
 series:"buri",
 name:"BLEACH GrandistaｰKUROSAKI ICHIGOｰ",
 type:"gra",
-price:1200,
+price:1500,
 img:"images/buri/itigo_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -1171,7 +1432,7 @@ source:"https://bsp-prize.jp/"
 series:"wanpi",
 name:"『ワンピース』 Grandista -RORONOA ZORO Ⅱ-",
 type:"gra",
-price:1100,
+price:1000,
 img:"images/wanpi/zoro_gra2.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -1875,7 +2136,7 @@ source:"https://bsp-prize.jp/"
 series:"naruto",
 name:"『NARUTO-ナルト-疾風伝』 Grandista-UCHIHA ITACHI-",
 type:"gra",
-price:2500,
+price:2200,
 img:"images/naruto/itati_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2720,7 +2981,7 @@ source:"https://bsp-prize.jp/"
 series:"zyuzyutu",
 name:"『呪術廻戦』 FIGURIZMα　“宿儺”",
 type:"fig",
-price:1800,
+price:1700,
 img:"images/zyuzyutu/sukuna_fig.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -2783,7 +3044,7 @@ source:"https://bsp-prize.jp/"
 series:"furi-ren",
 name:"『葬送のフリーレン』 Grandista -FRIEREN-",
 type:"gra",
-price:900,
+price:700,
 img:"images/furi-ren/furi_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2819,7 +3080,7 @@ source:"https://bsp-prize.jp/"
 series:"furi-ren",
 name:"『葬送のフリーレン』 MAXIMATIC FRIEREN Ⅱ",
 type:"ma",
-price:800,
+price:700,
 img:"images/furi-ren/furi_ma2.jpg",
 source:"https://bsp-prize.jp/"
 },
