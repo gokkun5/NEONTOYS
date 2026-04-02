@@ -2,6 +2,52 @@
 const figures = [
 
 {
+series:"reia",
+name:"魔法騎士レイアース 獅堂光 HereDitailフィギュア",
+type:"",
+price:600,
+img:"images/reia/hikaru.jpg",
+source:"https://www.sk-japan.co.jp/charatoru/topic"
+},
+
+
+{
+series:"hant",
+name:"HUNTER×HUNTER Grandista-ヒソカ-",
+type:"gra",
+price:1800,
+img:"images/hant/hiso_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース KING OF ARTIST THE MONKEY.D.LUFFY GEAR5 Ⅱ",
+type:"koa",
+price:600,
+img:"images/wanpi/nika2_koa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース KING OF ARTIST THE TRAFALGAR.LAW Ⅱ",
+type:"koa",
+price:1000,
+img:"images/wanpi/ro2_koa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース KING OF ARTIST THE ROB LUCCI Awakening ver.",
+type:"koa",
+price:450,
+img:"images/wanpi/rutti_koa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
 series:"zyuzyutu",
 name:"呪術廻戦Luminasta“虎杖悠仁”黒閃",
 type: "lum",
@@ -518,7 +564,7 @@ source:"https://bsp-prize.jp/"
 series:"king",
 name:"キングダム Grandista-王騎-",
 type:"gra",
-price:500,
+price:400,
 img:"images/king/ouki_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -1097,7 +1143,7 @@ source:"https://charahiroba.com/"
 series:"deara",
 name:"『デート・ア・ライブV』 BiCute Dark Figure <br>ー 時崎狂三 ー",
 type:"daku",
-price:800,
+price:1000,
 img:"images/deara/kurumi_daku.jpg",
 source:"https://charahiroba.com/"
 },
@@ -1405,7 +1451,7 @@ source:"https://bsp-prize.jp/"
 series:"wanpi",
 name:"『ワンピース』 KING OF ARTIST MONKEY.D.LUFFY GEAR5 III",
 type:"koa",
-price:1000,
+price:800,
 img:"images/wanpi/rufi3_koa.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2962,7 +3008,7 @@ source:"https://bsp-prize.jp/"
 series:"miku",
 name:"『桜ミク』 AMP＋ フィギュア 〜桜ドレス ver.〜",
 type:"",
-price:1600,
+price:1300,
 img:"images/miku/sakuramiku2026.jpg",
 source:"https://www.taito.co.jp/"
 },
@@ -3026,7 +3072,7 @@ source:"http://fansclub.jp/pc/top/"
 series:"kusuri",
 name:"『薬屋のひとりごと』 猫猫 フィギュア～園遊会～",
 type:"",
-price:800,
+price:700,
 img:"images/kusuri/maomao_enyu.jpg",
 source:"https://bsp-prize.jp/"
 },
