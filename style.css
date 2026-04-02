@@ -26,6 +26,15 @@ h1 img{
   color: #666;
 }
 
+.price-notice {
+  transition: 0.2s;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 30px;
+}
+
+
 /* サイドバー＋リスト横並び */
 .main{
   display:flex;
