@@ -253,30 +253,38 @@ select{
   margin-top: 6px;
 }
 
-/* ===== スマホ ===== */
-
+/* ===== スマホ専用修正：横並びを維持して空白を埋める ===== */
 @media (max-width: 600px) {
-  .main {
-    flex-direction: column;
+
+  /* 1. 横並びを「強制的に」維持 */
+  .main { 
+    display: flex !important; 
+    flex-direction: row !important; /* 縦にならないよう固定 */
+    align-items: flex-start;
   }
+
+  /* 2. サイドバーを左にスリムに置く */
   .sidebar {
-    width: 100%;
-    position: static;
-    /* 必要に応じて、スマホでは少し高さを抑えるか非表示にする検討も */
+    width: 130px !important;
+    min-width: 130px !important;
+    position: sticky !important;
+    top: 0;
+    height: 100vh;
+    padding: 10px !important;
   }
 
+  /* 3. 右側のリストを「2列」にして空白を埋める */
   #figureList {
-    flex: none;
-    width: 100%;
-    display: grid; /* gridを明示的に指定 */
-    /* 【ここを修正】3列だと窮屈なので、2列にするのがおすすめです */
-    grid-template-columns: repeat(2, 1fr); 
-    gap: 12px; /* 少し広げるとネオンの質感が綺麗に見えます */
-    padding: 12px;
-    box-sizing: border-box; /* パディングが幅を追い出さないように */
+    flex: 1 !important;
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important; /* 3枚目が落ちずに並ぶ */
+    gap: 8px !important;
+    padding: 8px !important;
   }
 
+  /* 4. カードの中身がはみ出さないよう調整 */
   .card {
-    width: 100%; /* 親のgrid幅に合わせる */
-    margin: 0;   /* 余計なマージンをリセット */
+    width: 100% !important;
+    padding: 5px !important;
   }
+}
