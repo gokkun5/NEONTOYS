@@ -2,12 +2,162 @@
 const figures = [
 
 {
+series:"rerugan",
+name:"『とある科学の超電磁砲』 Desktop Cute フィギュア 御坂美琴 〜チャイナドレスver.〜",
+search:"みさかみこと",
+type:"desk",
+price:500,
+img:"images/rerugan/mikoto_tyai.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"eva",
+name:"ヱヴァンゲリヲン新劇場版ハイプレミアムフィギュア“レイ”制服Ver.",
+search:"あやなみれい",
+type: "hi",
+price:1000,
+img:"images/eva/ayanami_hi.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"tyen",
+name:"劇場版『チェンソーマン レゼ篇』 GLITTER&GLAMOURS-REZE-",
+search:"れぜ",
+type:"gli",
+price:2500,
+img:"images/tyen/reze_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"mazyan",
+name:"『麻雀ファイトガール』 フィギュアコレクション グリム・アロエ バニー",
+search:"ぐりむあろえ",
+type:"",
+price:1200,
+img:"images/mazyan/aroe.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"mazyan",
+name:"『麻雀ファイトガール』 フィギュアコレクション ミツモト・ダイア サキュバスチアコス",
+search:"みつもとだいあ",
+type:"",
+price:1200,
+img:"images/mazyan/daia.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"kusuri",
+name:"TVアニメ『薬屋のひとりごと』 ちょこのせプレミアムフィギュア“猫猫” 月精Ver.",
+search:"まおまお",
+type:"tyoko",
+price:500,
+img:"images/kusuri/gessei_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』 XStellar “シュタルク” ～雪遊び～",
+search:"しゅたるく",
+type:"xs",
+price:600,
+img:"images/furi-ren/syuta_xs_yuki.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア ちあぴこ～みどりやいずく～",
+search:"",
+type:"",
+price:2000,
+img:"images/hiro/deku_tia.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』 Desktop Cute フィギュア フリーレン 〜ルームウェアver.〜",
+search:"ふりーれん",
+type:"desk",
+price:1100,
+img:"images/furi-ren/furi_rumu.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"kuresin",
+name:"クレヨンしんちゃん スーパービッグフィギュア～アクション仮面～",
+search:"あくしょんかめん",
+type:"",
+price:700,
+img:"images/kuresin/akusyon.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"yugi",
+name:"『遊☆戯☆王シリーズ』 奈落の落とし穴 フィギュア付きダストボックス",
+search:"ならくのおとしあな",
+type:"",
+price:500,
+img:"images/yugi/naraku.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"yugi",
+name:"アニメ「遊☆戯☆王」シリーズ　Monsters LEGION オベリスクの巨神兵",
+search:"おべりすく",
+type:"mon",
+price:1000,
+img:"images/yugi/obe.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"uzaki",
+name:"『宇崎ちゃんは遊びたい！ω』 Desktop Cute フィギュア 宇崎月 ～浜辺で水着ver.～",
+search:"うざきつき",
+type:"desk",
+price:800,
+img:"images/uzaki/tuki_desk.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"tora",
+name:"『To LOVEる-とらぶる-ダークネス』 Aqua Float Girls フィギュア モモ",
+search:"もも",
+type:"aqua",
+price:700,
+img:"images/tora/momo_aqua.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース 戦光絶景-BORSALINO-",
+search:"きざる　ぼるさりーの",
+type:"syukko",
+price:550,
+img:"images/wanpi/kizaru_senko.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
 series:"db",
-name:"ドラゴンボール SOFVIMATES～孫悟空(スーツスタイル)～",
-search:"そんごくう",
+name:"ドラゴンボール SOFVIMATES～亀仙人(スーツスタイル)～",
+search:"かめせんにん",
 type: "sof",
-price:1500,
-img:"images/db/goku_sof.jpg",
+price:1000,
+img:"images/db/kame_sof.jpg",
 source:"https://bsp-prize.jp/"
 },
 
@@ -20,6 +170,17 @@ price:1500,
 img:"images/db/kuri_sof.jpg",
 source:"https://bsp-prize.jp/"
 },
+
+{
+series:"db",
+name:"ドラゴンボール SOFVIMATES～孫悟空(スーツスタイル)～",
+search:"そんごくう",
+type: "sof",
+price:1500,
+img:"images/db/goku_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
 
 {
 series:"kisekoi",
@@ -769,7 +930,7 @@ series:"wind",
 name:"TVアニメ『WIND BREAKER』 梶蓮 フィギュア～Chatting time!～",
 search:"かじれん",
 type: "",
-price:500,
+price:550,
 img:"images/wind/kazi.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2306,7 +2467,7 @@ series:"miku",
 name:"『初音ミク×チロルチョコ』 Trio-Try-iT Figure <br>ー 初音ミクｘチロルチョコ ミルクver. ー",
 search:"ちろるちょこ　みく",
 type:"trio",
-price:1500,
+price:1400,
 img:"images/miku/tiroru.jpg",
 source:"https://charahiroba.com/"
 },
@@ -2506,7 +2667,7 @@ series:"db",
 name:"『ドラゴンボール』 History Box 桃白白",
 search:"たおぱいぱい",
 type: "his",
-price:800,
+price:600,
 img:"images/db/pai_his.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2896,7 +3057,7 @@ series:"tora",
 name:"『To LOVE る―とらぶる―ダークネス』 Trio-Try-iT Figure ― モモ・ベリア・デビルーク ―",
 search:"もも",
 type:"trio",
-price:800,
+price:700,
 img:"images/tora/momo_trio.jpg",
 source:"https://charahiroba.com/"
 },
@@ -2986,7 +3147,7 @@ series:"madomagi",
 name:"劇場版 魔法少女まどか☆マギカ 叛逆の物語 <br>佐倉杏子 フィギュア",
 search:"さくらきょうこ",
 type:"",
-price:800,
+price:900,
 img:"images/madomagi/kyoko.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -3167,7 +3328,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"『NARUTO-ナルト- 疾風伝』 Grandista <br>-HARUNO SAKURA ＆ UCHIHA SASUKE-",
-search:"はるのさくら　うちはサスケ　春野サクラ　うちはさすけ",
+search:"うちはさすけ",
 type:"gra",
 price:1300,
 img:"images/naruto/sasuke_gra.jpg",
@@ -3177,9 +3338,9 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"『NARUTO-ナルト- 疾風伝』 Grandista <br>-HARUNO SAKURA ＆ UCHIHA SASUKE-",
-search:"はるのさくら　うちはさすけ　春野サクラ　うちはサスケ",
+search:"はるのさくら",
 type:"gra",
-price:1700,
+price:1500,
 img:"images/naruto/sakura_gra.jpg",
 source:"https://bsp-prize.jp/"
 
@@ -3231,7 +3392,7 @@ series:"naruto",
 name:"フィグライフ！火影岩 SPECIAL",
 search:"ほかげいわ",
 type:"figl",
-price:1000,
+price:700,
 img:"images/naruto/boruto_fig.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -3465,7 +3626,7 @@ series:"zyuzyutu",
 name:"『呪術廻戦』 FIGURIZMα “伏黒恵” 邂逅",
 search:"ふしぐろめぐみ",
 type:"fig",
-price:1100,
+price:1300,
 img:"images/zyuzyutu/fusi_fig.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -3475,7 +3636,7 @@ series:"zyuzyutu",
 name:"『呪術廻戦』 FIGURIZMα “伏黒甚爾” 邂逅",
 search:"ふしぐろとうじ",
 type:"fig",
-price:1100,
+price:1300,
 img:"images/zyuzyutu/touzi_fig.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -3550,7 +3711,7 @@ series:"kimetu",
 name:"『鬼滅の刃』 XrossLink フィギュア <br>“猗窩座” －無限城編－",
 search:"あかざ",
 type:"xros",
-price:1300,
+price:1000,
 img:"images/kimetu/akaza_xros.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -3612,7 +3773,7 @@ series:"miku",
 name:"ガンダム45周年×初音ミク フィギュアシャアザクぐるみ 初音ミクVer.",
 search:"",
 type:"しゃあざく　みく",
-price:1200,
+price:1100,
 img:"images/miku/miku_zaku.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -3661,7 +3822,7 @@ source:"https://charahiroba.com/"
 {
 series:"miku",
 name:"初音ミク×ラスカル Trio-Try-iT -悪魔-",
-search:"あくま　らすかる　みく",
+search:"あくま　らすかる　",
 type:"trio",
 price:2500,
 img:"images/miku/miku_akuma.jpg",
@@ -3713,7 +3874,7 @@ series:"furi-ren",
 name:"『葬送のフリーレン』 Grandista -FRIEREN-",
 search:"フリーレン　ふりーれん",
 type:"gra",
-price:700,
+price:800,
 img:"images/furi-ren/furi_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
