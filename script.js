@@ -2,6 +2,260 @@
 const figures = [
 
 {
+series:"db",
+name:"ドラゴンボール SOFVIMATES～孫悟空(スーツスタイル)～",
+type: "sof",
+price:1500,
+img:"images/db/goku_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボール SOFVIMATES～クリリン(スーツスタイル)～",
+type: "sof",
+price:1500,
+img:"images/db/kuri_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kisekoi",
+name:"『その着せ替え人形は恋をする』 Desktop Cute フィギュア 乾紗寿叶 〜Tシャツver.〜",
+type:"desk",
+price:700,
+img:"images/kisekoi/zyuzyu_desk_t.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"osinoko",
+name:"【推しの子】Desktop Cute フィギュア　アイ 〜Rabbit room wear ver.〜",
+type:"desk",
+price:700,
+img:"images/osinoko/ai_desk.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"miku",
+name:"『初音ミクシリーズ』ぬーどるストッパーフィギュア​ ー 桜ミク2025 ー",
+type:"nusuto",
+price:1000,
+img:"images/miku/sakura_2025.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース BATTLE RECORD COLLECTION-MONKEY.D.GARP Ⅱ-",
+type:"bato",
+price:700,
+img:"images/wanpi/gapu_bato.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"aoeku",
+name:"青の祓魔師島根啓明結社篇 XrossLinkフィギュア“奥村雪男”",
+type:"xros",
+price:300,
+img:"images/aoeku/yukio_xros.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"nyanko",
+name:"にゃんこ大戦争 にゃんこ軍団出陣フィギュア～にゃんこ城～",
+type: "",
+price:400,
+img:"images/nyanko/siro.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"oba",
+name:"『オーバーロード』Desktop Cute シャルティア〜チャイナドレスver.〜",
+type:"desk",
+price:450,
+img:"images/oba/syaru_desk_tyai.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボール History Box ヤムチャ",
+type: "his",
+price:500,
+img:"images/db/yamu_his.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-超サイヤ人3ゴテンクス",
+type:"syutu",
+price:650,
+img:"images/db/goten3_syutu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kamitu",
+name:"神椿市建設中。　1/7スケールフィギュア　朝主派流",
+type:"",
+price:200,
+img:"images/kamitu/asa.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"uru",
+name:"シン・ジャパン・ヒーローズ・ユニバース　でふぉるむぷらす　ウルトラマン（シン・ウルトラマン）　フルアクションデフォルメフィギュア",
+type:"defo",
+price:400,
+img:"images/uru/uru.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"kamen",
+name:"シン・ジャパン・ヒーローズ・ユニバース　でふぉるむぷらす　仮面ライダー（シン・仮面ライダー）フルアクションデフォルメフィギュア",
+type:"defo",
+price:400,
+img:"images/kamen/kamen.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"eva",
+name:"シン・ジャパン・ヒーローズ・ユニバース　でふぉるむぷらす　エヴァンゲリオン初号機　フルアクションデフォルメフィギュア",
+type:"defo",
+price:400,
+img:"images/eva/eva.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+
+{
+series:"gozira",
+name:"シン・ジャパン・ヒーローズ・ユニバース　でふぉるむぷらす　ゴジラ（２０１６）　フルアクションデフォルメフィギュア",
+type:"defo",
+price:400,
+img:"images/gozira/gozira.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"kisekoi",
+name:"TVアニメ「その着せ替え人形は恋をする」XStellar“乾紗寿叶”",
+type: "xs",
+price:600,
+img:"images/kisekoi/zyuzyu_xs.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"dandadan",
+name:"TVアニメ『ダンダダン』FIGURIZMα“オカルン（変身）”トランスフォームビジュアルVer.",
+type: "fig",
+price:500,
+img:"images/dandadan/oka_fig.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ Grandista-VEGETA-",
+type: "gra",
+price:500,
+img:"images/db/bezi_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボール超 Grandista-GOGETA-",
+type: "gra",
+price:550,
+img:"images/db/gozita_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース フィグライフ! ユースタス・キッド",
+type:"figl",
+price:500,
+img:"images/wanpi/yusu_figl.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+
+{
+series:"wanpi",
+name:"ワンピース KING OF ARTIST KUZAN",
+type:"koa",
+price:400,
+img:"images/wanpi/kuzan_koa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース KING OF ARTIST GOL.D.ROGER-SPECIAL ver.-",
+type:"koa",
+price:600,
+img:"images/wanpi/rozyasp_koa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース Grandista-SABO-",
+type:"gra",
+price:450,
+img:"images/wanpi/sabo_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレン AMP＋ フリーレン フィギュア",
+type:"amp",
+price:1000,
+img:"images/furi-ren/furi_amp.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア THE AMAZING HEROES-PLUS-KATSUKI BAKUGO Ⅲ",
+type:"ame",
+price:900,
+img:"images/hiro/bakugo3_ame.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"eva",
+name:"ヱヴァンゲリヲン新劇場版ハイプレミアムフィギュア“碇シンジ”制服Ver.",
+type: "hi",
+price:700,
+img:"images/eva/sinzi_hi.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"reia",
+name:"『魔法騎士レイアース』 鳳凰寺風 HereDitailフィギュア",
+type:"",
+price:600,
+img:"images/reia/fu.jpg",
+source:"https://www.sk-japan.co.jp/charatoru/topic"
+},
+
+{
 series:"reia",
 name:"魔法騎士レイアース 獅堂光 HereDitailフィギュア",
 type:"",
@@ -546,7 +800,7 @@ source:"https://bsp-prize.jp/"
 series:"baki",
 name:"刃牙 Grandistaッッ‼-HANMA YUJIRO-",
 type:"gra",
-price:900,
+price:800,
 img:"images/baki/yuzi_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -1903,7 +2157,7 @@ source:"https://bsp-prize.jp/"
 series:"furi-ren",
 name:"『葬送のフリーレン』 FIGURIZMα <br>“フリーレン” ～魔法の高み～",
 type: "fig",
-price:900,
+price:1000,
 img:"images/furi-ren/furi_fig.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -2137,7 +2391,7 @@ source:"https://bsp-prize.jp/"
 series:"db",
 name:"『ドラゴンボールZ』 Grandista -MAJIN VEGETA-",
 type: "gra",
-price:1300,
+price:1200,
 img:"images/db/bezi_gra2.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2164,7 +2418,7 @@ source:"https://segaplaza.jp/"
 series:"zyuzyutu",
 name:"『呪術廻戦 死滅回游』 XStellar “乙骨憂太”",
 type: "xs",
-price:800,
+price:700,
 img:"images/zyuzyutu/otukotu_xs.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -2191,7 +2445,7 @@ source:"https://bsp-prize.jp/"
 series:"wanpi",
 name:"『ワンピース』 MAXIMATIC PLUS MONKEY.D.LUFFY I",
 type:"ma",
-price:1400,
+price:1500,
 img:"images/wanpi/rufi_map.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2578,7 +2832,7 @@ source:"https://bsp-prize.jp/"
 series:"kusuri",
 name:"『薬屋のひとりごと』 Vivit フィギュア 猫猫 （狩り）",
 type:"vivi",
-price:900,
+price:800,
 img:"images/kusuri/maomao_vivi.jpg",
 source:"http://fansclub.jp/pc/top/"
 },
@@ -2588,7 +2842,7 @@ source:"http://fansclub.jp/pc/top/"
 series:"wanpi",
 name:"『ワンピース』 Grandista ボア・ハンコック",
 type:"gra",
-price:1300,
+price:1200,
 img:"images/wanpi/han_gra.jpg",
 source:"https://bsp-prize.jp/"
 
@@ -2618,7 +2872,7 @@ source:"https://bsp-prize.jp/"
 series:"zyuzyutu",
 name:"『呪術廻戦』 KING OF ARTIST  KENJAKU",
 type:"koa",
-price:900,
+price:800,
 img:"images/zyuzyutu/geto_koa.jpg",
 source:"https://bsp-prize.jp/"
 
@@ -2628,7 +2882,7 @@ source:"https://bsp-prize.jp/"
 series:"kisekoi",
 name:"『その着せ替え人形は恋をする』 <br>XStellar　“喜多川海夢”",
 type:"xs",
-price:800,
+price:700,
 img:"images/kisekoi/marin_xs.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -2637,7 +2891,7 @@ source:"https://segaplaza.jp/"
 series:"wanpi",
 name:"『ワンピース』 BATTLE RECORD COLLECTION <br>-MONKEY.D.LUFFY GEAR5 Ⅱ-",
 type:"bato",
-price:1100,
+price:800,
 img:"images/wanpi/rufi_bato2.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2767,7 +3021,7 @@ source:"https://segaplaza.jp/"
 series:"orerebe",
 name:"『俺だけレベルアップな件』 XrossLink フィギュア “水篠旬”",
 type:"xros",
-price:1400,
+price:1000,
 img:"images/orerebe/mizu_xros.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -2999,7 +3253,7 @@ source:"https://charahiroba.com/"
 series:"miku",
 name:"ガンダム45周年×初音ミク フィギュアシャアザクぐるみ 初音ミクVer.",
 type:"",
-price:1300,
+price:1200,
 img:"images/miku/miku_zaku.jpg",
 source:"https://bsp-prize.jp/"
 },
