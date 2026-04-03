@@ -2,6 +2,86 @@
 const figures = [
 
 {
+series:"zyuzyutu",
+name:"呪術廻戦懐玉・玉折FIGURIZMα“五条悟”術式反転「赫」",
+search:"ごじょうさとる",
+type:"fig",
+price:1000,
+img:"images/zyuzyutu/gozyo_fig_aka.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"yugi",
+name:"遊☆戯☆王デュエルモンスターズ　ウィジャ盤　メモスタンドフィギュア",
+search:"うぃじゃばん",
+type:"",
+price:400,
+img:"images/yugi/wizya.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"disny",
+name:"ディズニーキャラクター おおきなSOFVIMATES ～BAYMAX～",
+search:"べいまっくす",
+type: "sof",
+price:400,
+img:"images/disny/bei_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kure",
+name:"『クレバテス』 Trio-Try-iT Figure​ ー クレン＆ルナ ー",
+search:"くれん　るな",
+type:"trio",
+price:300,
+img:"images/kure/kuren.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"rinsaku",
+name:"ぬーどるストッパーフィギュアー和栗薫子ー",
+search:"わぐりかおるこ",
+type:"nusuto",
+price:1500,
+img:"images/rinsaku/kaoruko.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"kusuri",
+name:"TVアニメ『薬屋のひとりごと』 猫猫 フィギュア～街歩き～",
+search:"まおまお",
+type:"",
+price:900,
+img:"images/kusuri/maomao_mati.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"oba",
+name:"『オーバーロード』 Desktop Cute フィギュア シャルティア ～水着ver.～Renewal",
+search:"しゃるてぃあ",
+type:"desk",
+price:500,
+img:"images/oba/syaru_desk_mizu_re.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦FIGURIZMα“八握剣異戒神将魔虚羅”",
+search:"まこら",
+type:"fig",
+price:2000,
+img:"images/zyuzyutu/mako_fig.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
 series:"rerugan",
 name:"『とある科学の超電磁砲』 Desktop Cute フィギュア 御坂美琴 〜チャイナドレスver.〜",
 search:"みさかみこと",
@@ -610,7 +690,7 @@ series:"hiro",
 name:"僕のヒーローアカデミア GLITTER&GLAMOURS-MIRKO-",
 search:"みるこ",
 type:"gli",
-price:1300,
+price:1000,
 img:"images/hiro/miruko_gli.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -1944,7 +2024,7 @@ series:"hant",
 name:"HUNTER×HUNTER Grandista-クラピカ-",
 search:"くらぴか",
 type:"gra",
-price:1200,
+price:1000,
 img:"images/hant/kura_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2487,7 +2567,7 @@ series:"furi-ren",
 name:"『葬送のフリーレン』 Luminasta　<br>“フリーレン” ～SUMMER DRESS～",
 search:"ふりーれん",
 type:"lum",
-price:900,
+price:800,
 img:"images/furi-ren/furi_summer.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -3135,9 +3215,9 @@ source:"https://bsp-prize.jp/"
 {
 series:"db",
 name:"『ドラゴンボールZ』 G×materia VEGETA Ⅱ",
-search:"べじーた　ベジータ",
+search:"べじーた",
 type:"gma",
-price:800,
+price:700,
 img:"images/db/bezi_gma.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -3307,7 +3387,7 @@ series:"kusuri",
 name:"『薬屋のひとりごと』 Vivit フィギュア 猫猫 （狩り）",
 search:"まおまお",
 type:"vivi",
-price:800,
+price:900,
 img:"images/kusuri/maomao_vivi.jpg",
 source:"http://fansclub.jp/pc/top/"
 },
@@ -3506,7 +3586,7 @@ series:"orerebe",
 name:"『俺だけレベルアップな件』 XrossLink フィギュア “向坂雫”",
 search:"こうさかしずく",
 type:"xros",
-price:1200,
+price:1000,
 img:"images/orerebe/kou_xros.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -3586,7 +3666,7 @@ series:"tyen",
 name:"『チェンソーマン』Luminasta “チェンソーマン”",
 search:"ちぇんそーまん",
 type: "lum",
-price:1200,
+price:1400,
 img:"images/tyen/tyen_lum.jpg",
 source:"https://segaplaza.jp/"
 },
