@@ -253,38 +253,37 @@ select{
   margin-top: 6px;
 }
 
-/* ===== スマホ専用修正：横並びを維持して空白を埋める ===== */
-@media (max-width: 600px) {
+/* ===== スマホ専用：横並びを維持して空白を埋める（修正版） ===== */
+@media screen and (max-width: 600px) {
 
-  /* 1. 横並びを「強制的に」維持 */
-  .main { 
-    display: flex !important; 
-    flex-direction: row !important; /* 縦にならないよう固定 */
-    align-items: flex-start;
+  .main {
+    display: flex !important;
+    flex-direction: row !important; /* 横並びを強制 */
   }
 
-  /* 2. サイドバーを左にスリムに置く */
   .sidebar {
-    width: 130px !important;
-    min-width: 130px !important;
+    width: 120px !important; /* サイドバーを少し細くして右側の枠を広げる */
+    min-width: 120px !important;
     position: sticky !important;
     top: 0;
     height: 100vh;
     padding: 10px !important;
   }
 
-  /* 3. 右側のリストを「2列」にして空白を埋める */
   #figureList {
     flex: 1 !important;
     display: grid !important;
-    grid-template-columns: repeat(2, 1fr) !important; /* 3枚目が落ちずに並ぶ */
+    grid-template-columns: repeat(2, 1fr) !important; /* 2列にすることで空白を埋める */
     gap: 8px !important;
     padding: 8px !important;
   }
 
-  /* 4. カードの中身がはみ出さないよう調整 */
   .card {
     width: 100% !important;
     padding: 5px !important;
+  }
+
+  .card p.price {
+    font-size: 18px !important;
   }
 }
