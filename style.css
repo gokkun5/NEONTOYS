@@ -253,37 +253,56 @@ select{
   margin-top: 6px;
 }
 
-/* ===== スマホ専用：横並びを維持して空白を埋める（修正版） ===== */
+/* ===== スマホ専用：横並びを維持して空白を埋める解決策 ===== */
 @media screen and (max-width: 600px) {
 
+  /* 1. 更新日を横並びの計算から除外して浮かせる */
+  .update-date {
+    position: absolute !important;
+    top: -20px !important;
+    right: 10px !important;
+    font-size: 11px !important;
+    width: auto !important;
+  }
+
+  /* 2. サイドバーとリストの2つだけを確実に横並びにする */
   .main {
     display: flex !important;
-    flex-direction: row !important; /* 横並びを強制 */
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+    align-items: flex-start !important;
+    position: relative;
+    padding-top: 20px !important; /* 更新日の重なり防止 */
   }
 
+  /* 3. サイドバーの幅を固定して場所を確保 */
   .sidebar {
-    width: 120px !important; /* サイドバーを少し細くして右側の枠を広げる */
-    min-width: 120px !important;
-    position: sticky !important;
-    top: 0;
-    height: 100vh;
-    padding: 10px !important;
+    width: 125px !important;
+    min-width: 125px !important;
+    flex-shrink: 0 !important;
+    padding: 10px 5px !important;
   }
 
+  /* 4. 【重要】リストを2列にして空白に滑り込ませる */
   #figureList {
     flex: 1 !important;
     display: grid !important;
-    grid-template-columns: repeat(2, 1fr) !important; /* 2列にすることで空白を埋める */
+    grid-template-columns: repeat(2, 1fr) !important; 
     gap: 8px !important;
-    padding: 8px !important;
+    padding: 5px !important;
+    width: auto !important;
   }
 
+  /* 5. カードが枠をはみ出さないよう調整 */
   .card {
     width: 100% !important;
-    padding: 5px !important;
+    margin: 0 !important;
+    padding: 6px !important;
   }
-
+  
   .card p.price {
     font-size: 18px !important;
   }
 }
+
+  }
