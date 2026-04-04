@@ -2,6 +2,196 @@
 const figures = [
 
 {
+series:"hiro",
+name:"僕のヒーローアカデミア SOFVIMATES～エンデヴァー～",
+search:"えんで",
+type: "sof",
+price:1600,
+img:"images/hiro/en_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア SOFVIMATES～オールマイト～",
+search:"おーるまいと",
+type: "sof",
+price:1300,
+img:"images/hiro/all_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア BRAVEGRAPH #1 vol.3",
+search:"ばくごうかつき",
+type: "",
+price:800,
+img:"images/hiro/bakugo_seifuku.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"tyen",
+name:"チェンソーマン CHAIN SPIRITS vol.5",
+search:"ちぇんそーまん",
+type: "",
+price:800,
+img:"images/tyen/tyen.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"pro",
+name:"プロジェクトセカイカラフルステージ！feat.初音ミク Desktop×DecorateCollections “ワンダーランドのセカイのKAITO”",
+search:"かいと",
+type: "ddc",
+price:600,
+img:"images/pro/kaito_ddc.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 呪魂ノ型-禪院真希＆西宮桃-",
+search:"ぜんいんまき",
+type: "zyukon",
+price:500,
+img:"images/zyuzyutu/maki_zyukon.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"鬼滅の刃 フィギュア-鬼ノ装-[半天狗・憎珀天・玉壺]",
+search:"ぎょっこ",
+type: "oni",
+price:1400,
+img:"images/kimetu/gyokko.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"dr",
+name:"Dr.STONE FIGURE of STONE WORLD-造形の科学-SPECIAL",
+search:"ななみりゅうすい",
+type: "",
+price:1300,
+img:"images/dr/nanami.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hant",
+name:"『HUNTER×HUNTER』 ぬーどるストッパーフィギュア ー キルア ー",
+search:"きるあ",
+type:"nusuto",
+price:2400,
+img:"images/hant/kirua_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦懐玉・玉折Luminasta“伏黒甚爾”臨戦",
+search:"ふしぐろとうじ",
+type: "lum",
+price:1300,
+img:"images/zyuzyutu/touzi_lum.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"tyen",
+name:"『チェンソーマン』 Exc∞d Creative Figure ーマキマー",
+search:"まきま",
+type: "ex",
+price:4000,
+img:"images/tyen/makima_ex.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』 ぬーどるストッパーフィギュア ーフリーレンー",
+search:"ふりーれん",
+type:"nusuto",
+price:700,
+img:"images/furi-ren/furi_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"umamusume",
+name:"『ウマ娘 プリティーダービー』 マンハッタンカフェ・アグネスタキオン フィギュア",
+search:"まんはったんかふ",
+type:"",
+price:700,
+img:"images/umamusume/kafe.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"umamusume",
+name:"『ウマ娘 プリティーダービー』 Trio－Try－iT Figure ー マンハッタンカフェ ー",
+search:"まんはったんかふ",
+type:"trio",
+price:2000,
+img:"images/umamusume/kafe_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"zyuzyutu",
+name:"アニメ『呪術廻戦』5周年 Luminasta“五条悟”",
+search:"ごじょうさとる",
+type: "lum",
+price:1300,
+img:"images/zyuzyutu/gozyo_rauwan.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"アニメ『呪術廻戦』5周年 Luminasta“夏油傑”",
+search:"げとうすぐる",
+type: "lum",
+price:1000,
+img:"images/zyuzyutu/geto_rauwan.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"アニメ『呪術廻戦』5周年Luminasta“伏黒恵”",
+search:"ふしぐろめぐみ",
+type: "lum",
+price:900,
+img:"images/zyuzyutu/fusiguro_rauwan.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"アニメ『呪術廻戦』5周年Luminasta“虎杖悠仁”",
+search:"いたどりゆうじ",
+type: "lum",
+price:900,
+img:"images/zyuzyutu/itadori_rauwan.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"voice",
+name:"重音テトちょこのせプレミアムフィギュア“重音テト”",
+search:"かさねてと",
+type:"tyoko",
+price:800,
+img:"images/voice/teto_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
 series:"hant",
 name:"HUNTER×HUNTER Memorable Saga Special-ヒソカ-",
 search:"ひそか",
@@ -10,7 +200,7 @@ price:1300,
 img:"images/hant/hisoka_memo.jpg",
 source:"https://bsp-prize.jp/"
 },
-  
+
 {
 series:"miku",
 name:"初音ミクシリーズLuminasta“初音ミク”クリスマス2025",
@@ -2597,7 +2787,7 @@ series:"tensura",
 name:"劇場版 転生したらスライムだった件 蒼海の涙編<br>魔王リムル=テンペスト フィギュア",
 search:"りむるてんぺすと",
 type:"",
-price:1000,
+price:800,
 img:"images/tensura/rimuru_maou.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -3277,7 +3467,7 @@ series:"zyuzyutu",
 name:"『呪術廻戦 死滅回游』 Luminasta　“脹相”",
 search:"ちょうそう　チョウソウ",
 type: "lum",
-price:1300,
+price:1400,
 img:"images/zyuzyutu/tyousou_lum.jpg",
 source:"https://segaplaza.jp/"
 },
