@@ -2,6 +2,106 @@
 const figures = [
 
 {
+series:"miku",
+name:"初音ミクシリーズLuminasta“初音ミク”クリスマス2025",
+search:"みく",
+type:"lum",
+price:600,
+img:"images/miku/kuri_2025.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"tensura",
+name:"転生したらスライムだった件 ESPRESTO-Majestic Wings-リムル=テンペスト",
+search:"りむるてんぺすと",
+type:"esp",
+price:800,
+img:"images/tensura/rimuru_esp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース 戦光絶景-DRACULE.MIHAWK-",
+search:"みほーく",
+type:"syukko",
+price:600,
+img:"images/wanpi/miho_senko.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース 戦光絶景-RORONOA ZORO-",
+search:"ろろのあぞろ",
+type:"syukko",
+price:600,
+img:"images/wanpi/zoro_senko.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hant",
+name:"HUNTER×HUNTER VIBRATION STARS-ネフェルピトー-",
+search:"ねふぇるぴとー",
+type:"vib",
+price:500,
+img:"images/hant/pito_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミアTHEMOVIEユアネクストXrossLinkフィギュア“爆豪勝己”",
+search:"ばくごうかつき",
+type:"xros",
+price:900,
+img:"images/hiro/baku_xros.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"tyen",
+name:"BiCute Bunnies Figureーレゼー",
+search:"れぜ",
+type:"bani",
+price:2400,
+img:"images/tyen/reze_bani.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"gozira",
+name:"東宝怪獣シリーズ 怪獣咆哮撃 ゴジラ（2001）",
+search:"ごじら",
+type: "hoko",
+price:550,
+img:"images/gozira/gozira_hoko.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"nyanko",
+name:"にゃんこ大戦争 にゃんこ軍団出陣フィギュア～ネコムート～",
+search:"ねこむーと",
+type: "",
+price:500,
+img:"images/nyanko/muto.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zunda",
+name:"『東北ずん子・ずんだもんプロジェクト』 ずんだもん フィギュア 坂本アヒルver.～お歌ずんだもん～",
+search:"",
+type:"",
+price:500,
+img:"images/zunda/zunda.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
 series:"zyuzyutu",
 name:"呪術廻戦懐玉・玉折FIGURIZMα“五条悟”術式反転「赫」",
 search:"ごじょうさとる",
@@ -1210,7 +1310,7 @@ series:"naruto",
 name:"-NARUTO 72 series- 33 VIBRATION STARS-UZUMAKI NARUTO-",
 search:"うずまきなると",
 type:["vib", "72"],
-price:800,
+price:700,
 img:"images/naruto/naruto_72_vib.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2165,7 +2265,7 @@ series:"wanpi",
 name:"『ワンピース』 Grandista -RORONOA ZORO Ⅱ-",
 search:"ロロノアゾロ　ろろのあぞろ",
 type:"gra",
-price:1000,
+price:1100,
 img:"images/wanpi/zoro_gra2.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2637,7 +2737,7 @@ series:"furi-ren",
 name:"『葬送のフリーレン』 FIGURIZMα <br>“フリーレン” ～魔法の高み～",
 search:"ふりーれん",
 type: "fig",
-price:1000,
+price:900,
 img:"images/furi-ren/furi_fig.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -3606,7 +3706,7 @@ series:"oba",
 name:"『オーバーロード』 T-most アルベド フィギュア <br>～純白の悪魔ver.～",
 search:"あるべど",
 type:"tmost",
-price:1300,
+price:1100,
 img:"images/oba/aru_tmost.jpg",
 source:"https://www.taito.co.jp/"
 },
@@ -3801,7 +3901,7 @@ series:"kimetu",
 name:"『鬼滅の刃』 XrossLink フィギュア <br>“冨岡義勇” －無限城編－",
 search:"とみおかぎゆう",
 type:"xros",
-price:1800,
+price:1200,
 img:"images/kimetu/tomioka_xros.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -3811,7 +3911,7 @@ series:"kimetu",
 name:"『鬼滅の刃』 XrossLink フィギュア <br>“竈門炭治郎” －無限城編－",
 search:"かまどたんじろう",
 type:"xros",
-price:1100,
+price:1000,
 img:"images/kimetu/tanziro_xros.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -3851,9 +3951,9 @@ source:"https://charahiroba.com/"
 {
 series:"miku",
 name:"ガンダム45周年×初音ミク フィギュアシャアザクぐるみ 初音ミクVer.",
-search:"",
-type:"しゃあざく　みく",
-price:1100,
+search:"しゃあざく　みく",
+type:"",
+price:1200,
 img:"images/miku/miku_zaku.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -3954,7 +4054,7 @@ series:"furi-ren",
 name:"『葬送のフリーレン』 Grandista -FRIEREN-",
 search:"フリーレン　ふりーれん",
 type:"gra",
-price:800,
+price:700,
 img:"images/furi-ren/furi_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
