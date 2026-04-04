@@ -2,6 +2,126 @@
 const figures = [
 
 {
+series:"oba",
+name:"『オーバーロード』 BiCute Bunnies Figure ー ナーベラル ー",
+search:"なーべらる",
+type:"bani",
+price:1000,
+img:"images/oba/nabe_bani.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"oba",
+name:"オーバーロード　１/７スケールフィギュア　アルベド",
+search:"あるべど",
+type:"",
+price:800,
+img:"images/oba/aru_el.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"rezero",
+name:"『Re:ゼロから始める異世界生活』 BiCute Bunnies Figure ー レム・bicolor ー",
+search:"れむ",
+type:"bani",
+price:900,
+img:"images/rezero/remu_bani.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"esi",
+name:"rurudo ESPRESTO-Sleepy Bunny-シュガー",
+search:"しゅがー",
+type:"esp",
+price:1600,
+img:"images/esi/syuga.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyozyo",
+name:"ジョジョの奇妙な冒険 ダイヤモンドは砕けない Mometria 東方仗助",
+search:"ひがしかたじょうすけ",
+type:"mome",
+price:1000,
+img:"images/zyozyo/zyosuke.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sao",
+name:"『ソードアート・オンライン』 BiCute Bunnies Figure ー シノン ホワイトパールver. ー",
+search:"しのん",
+type:"bani",
+price:500,
+img:"images/sao/sinon_bani_w.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"oba",
+name:"『オーバーロード』 BiCute Bunnies Figure ーアルベド・ブラックver.ー",
+search:"あるべど",
+type:"bani",
+price:900,
+img:"images/oba/aru_bani_b.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"oba",
+name:"『オーバーロード』 BiCute Bunnies Figure ーシャルティア・レッドver.ー",
+search:"しゃるてぃあ",
+type:"bani",
+price:500,
+img:"images/oba/syaru_bani_r.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"oba",
+name:"『オーバーロード』 BiCute Bunnies Figure ー シャルティア ー",
+search:"しゃるてぃあ",
+type:"bani",
+price:500,
+img:"images/oba/syaru_bani_kon.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"soniko",
+name:"『すーぱーそに子』 BiCute Bunnies Figure ーRed ver.ー",
+search:"すーぱーそにこ",
+type:"bani",
+price:2000,
+img:"images/soniko/bani_r.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"tyen",
+name:"『チェンソーマン』 BiCute Bunnies Figure ー マキマ Red ver. ー ラウンドワン限定",
+search:"まきま",
+type:"bani",
+price:2000,
+img:"images/tyen/makima_bani.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"tyen",
+name:"『チェンソーマン』 BiCute Bunnies Figure ー パワー Light Blue ver. ー ラウンドワン限定",
+search:"ぱわー",
+type:"bani",
+price:1200,
+img:"images/tyen/pawa_bani.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
 series:"hiro",
 name:"僕のヒーローアカデミア SOFVIMATES～エンデヴァー～",
 search:"えんで",
@@ -3297,7 +3417,7 @@ series:"zyozyo",
 name:"ジョジョの奇妙な冒険スターダストクルセイダース<br>Mometria  空条承太郎",
 search:"くうじょうじょうたろう",
 type:"mome",
-price:1800,
+price:1500,
 img:"images/zyozyo/zyotaro.jpg",
 source:"https://bsp-prize.jp/"
 },
