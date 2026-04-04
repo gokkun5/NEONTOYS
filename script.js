@@ -2,6 +2,16 @@
 const figures = [
 
 {
+series:"hant",
+name:"HUNTER×HUNTER Memorable Saga Special-ヒソカ-",
+search:"ひそか",
+type:"memo",
+price:1300,
+img:"images/hant/hisoka_memo.jpg",
+source:"https://bsp-prize.jp/"
+},
+  
+{
 series:"miku",
 name:"初音ミクシリーズLuminasta“初音ミク”クリスマス2025",
 search:"みく",
