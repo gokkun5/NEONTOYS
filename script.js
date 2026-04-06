@@ -2,6 +2,316 @@
 const figures = [
 
 {
+series:"rezero",
+name:"『Re:ゼロから始める異世界生活』 Exc∞d Creative Figure -ラム・鳥籠ドレス- ラウンドワン限定",
+search:"らむ",
+type: "ex",
+price:500,
+img:"images/rezero/ramu_ex.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"rezero",
+name:"『Re:ゼロから始める異世界生活』 Exc∞d Creative Figure -レム・鳥籠ドレス- ラウンドワン限定",
+search:"れむ",
+type: "ex",
+price:500,
+img:"images/rezero/remu_ex.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールGT SOLID EDGE WORKS-THE出陣-超サイヤ人4ベジータ",
+search:"べじーた　すーぱー",
+type:"syutu",
+price:650,
+img:"images/db/bezi4_syutu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"アニメ『呪術廻戦』5周年​ Luminasta“狗巻棘”",
+search:"いぬまきとげ",
+type: "lum",
+price:1000,
+img:"images/zyuzyutu/toge_rauwan.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"kimetu",
+name:"アニメ「鬼滅の刃」 GLITTER&GLAMOURS-KANAO TSUYURI-",
+search:"つゆりかなを",
+type:"gli",
+price:800,
+img:"images/kimetu/kanawo_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"アニメ「鬼滅の刃」 フィギュア-鬼ノ装-拾肆の型",
+search:"どうま",
+type: "oni",
+price:1500,
+img:"images/kimetu/doma_oni.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"アニメ「鬼滅の刃」 VIBRATION STARS-童磨-",
+search:"どうま",
+type:"vib",
+price:1600,
+img:"images/kimetu/doma_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"holo",
+name:"ホロライブ #hololive IF -Relax time-ロボ子さん",
+search:"ろぼこさん",
+type:"relax",
+price:300,
+img:"images/holo/roboko_relax.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"holo",
+name:"ホロライブ #hololive IF -Relax time-沙花叉クロヱ",
+search:"さかまたくろえ",
+type:"relax",
+price:350,
+img:"images/holo/kuroe_relax.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース メガワールドコレクタブルフィギュア-バーソロミュー・くま-父の拳",
+search:"ばーそろーみゅーくま",
+type:"wcf",
+price:700,
+img:"images/wanpi/kuma_wcf.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"oba",
+name:"オーバーロード BANPRESTO EVOLVE-Empress of Darkness-アルベドフィギュア",
+search:"あるべど",
+type:"bpev",
+price:1000,
+img:"images/oba/aru_bpev.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレンLuminasta“ユーベル”～大体なんでも切る魔法～",
+search:"ゆーべる",
+type:"lum",
+price:800,
+img:"images/furi-ren/yube_lum.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレンLuminasta“フェルン”～一般攻撃魔法～",
+search:"ふぇるん",
+type:"lum",
+price:500,
+img:"images/furi-ren/ferun_zoru.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレンYumemirize“フリーレン”～一眠り～",
+search:"ふりーれん",
+type:"yume",
+price:1300,
+img:"images/furi-ren/furi_yume.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"monsuto",
+name:"モンスターストライク ESPRESTO-Ordinary chronicles-マサムネ",
+search:"まさむね",
+type:"esp",
+price:200,
+img:"images/monsuto/masamune.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"monsuto",
+name:"モンスターストライク ESPRESTO-Ordinary chronicles-ヤクモ",
+search:"やくも",
+type:"esp",
+price:200,
+img:"images/monsuto/yakumo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"oba",
+name:"オーバーロード -Relax time-アルベドRoll bandage ver.",
+search:"あるべど",
+type:"relax",
+price:500,
+img:"images/oba/aru_relax.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"uzaki",
+name:"宇崎ちゃんは遊びたい！ω GLITTER&GLAMOURS 宇崎月 牛水着ver.",
+search:"うざきつき",
+type:"gli",
+price:700,
+img:"images/uzaki/tuki_usi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kisekoi",
+name:"『その着せ替え人形は恋をする』 BiCute Pure Figure ー 喜多川海夢 ー",
+search:"きたがわまりん",
+type:"pure",
+price:700,
+img:"images/kisekoi/marin_pure.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"oba",
+name:"『オーバーロード』 BiCute Dark Figure ー アルベド ー",
+search:"あるべど",
+type:"dark",
+price:800,
+img:"images/oba/aru_dark.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"tora",
+name:"To LOVEる-とらぶる-ダークネス GLITTER&GLAMOURS 西連寺春菜",
+search:"さいれんじはるな",
+type:"gli",
+price:400,
+img:"images/tora/haruna_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kisekoi",
+name:"TVアニメ「その着せ替え人形は恋をする」 ESPRESTO-Detailed Elegance-喜多川海夢 リズver.",
+search:"りず",
+type:"esp",
+price:800,
+img:"images/kisekoi/rizu_esp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"rikorisu",
+name:"リコリス・リコイル ESPRESTO-Aqua Twinkle-錦木千束",
+search:"にしきぎちさと",
+type:"esp",
+price:450,
+img:"images/rikorisu/tisato_esp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"rikorisu",
+name:"リコリス・リコイル ESPRESTO-Aqua Twinkle-井ノ上たきな",
+search:"いのうえたきな",
+type:"esp",
+price:350,
+img:"images/rikorisu/takina_esp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"鬼滅の刃 Q posket petit vol.3",
+search:"ときとうむいちろう",
+type:"qpos",
+price:1400,
+img:"images/kimetu/tokito_qpos.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 KING OF ARTIST GOJO・GETO-懐玉・玉折-SPECIAL ver.",
+search:"ごじょう",
+type:"koa",
+price:700,
+img:"images/zyuzyutu/gozyo_koa_sp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレン ルームライト-フリーレン-",
+search:"ふりーれん",
+type:"",
+price:1200,
+img:"images/furi-ren/light.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kisekoi",
+name:"『その着せ替え人形は恋をする』 AMP＋ 喜多川海夢 フィギュア 〜ブラックロベリア ver.〜",
+search:"ぶらっくろべりあ",
+type:"amp",
+price:500,
+img:"images/kisekoi/bura_amp.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-HOSHIGAKI KISAME-",
+search:"hosigakikisame",
+type:"vib",
+price:1000,
+img:"images/naruto/kisame_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kusuri",
+name:"薬屋のひとりごとちょこのせプレミアムフィギュア“猫猫”",
+search:"まおまお",
+type:"tyoko",
+price:500,
+img:"images/kusuri/tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"soniko",
+name:"『すーぱーそに子』 BiCute Bunnies Figure ーpink ver.ー",
+search:"すーぱーそにこ",
+type:"bani",
+price:2000,
+img:"images/soniko/bani_p.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
 series:"kuresin",
 name:"クレヨンしんちゃん ぐるぐるらくがきしんちゃん",
 search:"",
@@ -124,7 +434,7 @@ source:"https://segaplaza.jp/"
 {
 series:"db",
 name:"ドラゴンボールGT SOLID EDGE WORKS-THE出陣-超サイヤ人4孫悟空",
-search:"ごくう　すーぱー",
+search:"そんごくう　すーぱー",
 type:"syutu",
 price:650,
 img:"images/db/goku4_syutu.jpg",
@@ -1882,7 +2192,7 @@ series:"zyuzyutu",
 name:"虎杖悠仁 呪術廻戦 Grandista ITADORI YUJI",
 search:"いたどりゆうじ",
 type:"gra",
-price:900,
+price:700,
 img:"images/zyuzyutu/itadori_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -2643,7 +2953,7 @@ series:"tensura",
 name:"劇場版 転生したらスライムだった件 蒼海の涙編 GLITTER&GLAMOURS ユラ",
 search:"ゆら",
 type:"gli",
-price:600,
+price:500,
 img:"images/tensura/yura.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -3939,7 +4249,7 @@ series:"zyuzyutu",
 name:"呪術廻戦 フィギュアライト 乙骨憂太・リカ",
 search:"おっこつゆうた　りか",
 type: "",
-price:800,
+price:700,
 img:"images/zyuzyutu/otukotu_raito.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -4169,7 +4479,7 @@ series:"nintama",
 name:"『忍たま乱太郎』 山田利吉 フィギュア",
 search:"やまだりきち",
 type:"",
-price:700,
+price:500,
 img:"images/nintama/yamada.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -4492,7 +4802,7 @@ series:"naruto",
 name:"『NARUTO-ナルト- 疾風伝』 Grandista <br>-HARUNO SAKURA ＆ UCHIHA SASUKE-",
 search:"うちはさすけ",
 type:"gra",
-price:1200,
+price:1300,
 img:"images/naruto/sasuke_gra.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -4516,7 +4826,6 @@ type:"koa",
 price:900,
 img:"images/zyuzyutu/geto_koa.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
@@ -4698,7 +5007,7 @@ series:"oba",
 name:"『オーバーロード』 T-most アルベド フィギュア <br>～純白の悪魔ver.～",
 search:"あるべど",
 type:"tmost",
-price:1100,
+price:1300,
 img:"images/oba/aru_tmost.jpg",
 source:"https://www.taito.co.jp/"
 },
@@ -4963,12 +5272,11 @@ source:"https://www.taito.co.jp/"
 {
 series:"kimetu",
 name:"『鬼滅の刃』 GLITTER&GLAMOURS <br>-SHINOBU KOCHO-",
-search:"こちょうしのぶ　胡蝶しのぶ",
+search:"こちょうしのぶ",
 type:"gli",
 price:1300,
 img:"images/kimetu/kotyo_gri.jpg",
 source:"https://bsp-prize.jp/"
-
 },
 
 {
