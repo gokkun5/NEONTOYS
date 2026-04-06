@@ -2,6 +2,226 @@
 const figures = [
 
 {
+series:"osinoko",
+name:"【推しの子】　１／７スケールフィギュア　アクア",
+search:"あくあ",
+type:"",
+price:550,
+img:"images/osinoko/akua.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"osinoko",
+name:"【推しの子】　１／７スケールフィギュア　ルビー",
+search:"るびー",
+type:"",
+price:550,
+img:"images/osinoko/rubi.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 Combination Battle-うちはサスケ-",
+search:"うちはさすけ",
+type:"combi",
+price:900,
+img:"images/naruto/sasuke_combi3.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"togen",
+name:"桃源暗鬼　無陀野無人　28Fig",
+search:"むだのないと",
+type:"",
+price:900,
+img:"images/togen/mudano.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦懐玉・玉折Yumemirize“五条悟”",
+search:"ごじょうさとる",
+type:"yume",
+price:1200,
+img:"images/zyuzyutu/gozyo_yume.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"garukura",
+name:"ガールズバンドクライXStellar“井芹仁菜”",
+search:"いせりにな",
+type:"xs",
+price:1000,
+img:"images/garukura/iseri_xs.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"kisekoi",
+name:"『その着せ替え人形は恋をする』 Coreful フィギュア 喜多川海夢 〜水着ver.〜",
+search:"きたがわまりん",
+type:"core",
+price:800,
+img:"images/kisekoi/marin_mizugi.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 ぬーどるストッパーフィギュア ー 甘露寺蜜璃×クラフトホリック ー ラウンドワン限定",
+search:"かんろじみつり",
+type:"nusuto",
+price:1300,
+img:"images/kimetu/kanrozi_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"zyuzyutu",
+name:"アニメ『呪術廻戦』5周年 Luminasta“乙骨憂太”",
+search:"おっこつゆうた",
+type: "lum",
+price:1000,
+img:"images/zyuzyutu/otukotu_rauwan.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"tora",
+name:"『To LOVEる-とらぶる-ダークネス』 Desktop Cute フィギュア 古手川唯 ～ルームウェアver.～",
+search:"こてがわゆい",
+type:"desk",
+price:700,
+img:"images/tora/yui_desk.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"oba",
+name:"『オーバーロード』 Desktop Cute フィギュア アルベド 〜ナースver.〜",
+search:"あるべど",
+type:"desk",
+price:800,
+img:"images/oba/nasu_desk.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"oba",
+name:"『オーバーロード』 Coreful フィギュア アルベド ～レースクイーンver.～",
+search:"あるべど",
+type:"core",
+price:800,
+img:"images/oba/resingu.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 写輪眼ルームライト",
+search:"はたけかかし",
+type:"",
+price:800,
+img:"images/naruto/kakasi_rumu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 写輪眼ルームライト",
+search:"うちはさすけ",
+type:"",
+price:800,
+img:"images/naruto/sasuke_rumu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 写輪眼ルームライト",
+search:"うちはいたち",
+type:"",
+price:800,
+img:"images/naruto/itati_rumu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"ryotu",
+name:"『こちら葛飾区亀有公園前派出所』 BiCute Bunnies Figure ー 秋本麗子 ー",
+search:"あきもとれいこ",
+type:"bani",
+price:800,
+img:"images/ryotu/reiko.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"tensura",
+name:"劇場版 転生したらスライムだった件 蒼海の涙編 リムル様 大きなソフビフィギュア",
+search:"りむる",
+type:"",
+price:700,
+img:"images/tensura/rimuru_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"motiduki",
+name:"ドカ食いダイスキ！ もちづきさん　走る！ もちづきさんフィギュア",
+search:"もちづき",
+type:"",
+price:600,
+img:"images/motiduki/motiduki_fuku.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"miku",
+name:"初音ミク BANPRESTO EVOLVE Clearluxe-EmeraldGem-フィギュア",
+search:"はつねみく",
+type:"bpev",
+price:700,
+img:"images/miku/clear.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gintama",
+name:"3年Z組銀八先生 デスクフィギュア-土方十四郎-",
+search:"ひじかたとうしろう",
+type: "",
+price:1200,
+img:"images/gintama/hizikata.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gintama",
+name:"3年Z組銀八先生 デスクフィギュア-高杉晋助-",
+search:"たかすぎしんすけ",
+type: "",
+price:1000,
+img:"images/gintama/taka.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"pro",
+name:"「劇場版プロジェクトセカイ壊れたセカイと歌えないミク」Luminasta“開かれた窓のセカイの初音ミク”",
+search:"ひらかれたまどのせかいのはつねみく",
+type: "ddc",
+price:800,
+img:"images/pro/hirakareta.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
 series:"furi-ren",
 name:"葬送のフリーレン　Coreful フィギュア　フリーレン～ドレスver.～",
 search:"ふりーれん",
@@ -1608,7 +1828,7 @@ series:"zyuzyutu",
 name:"アニメ『呪術廻戦』5周年 Luminasta“五条悟”",
 search:"ごじょうさとる",
 type: "lum",
-price:1300,
+price:1200,
 img:"images/zyuzyutu/gozyo_rauwan.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -1718,7 +1938,7 @@ series:"hiro",
 name:"僕のヒーローアカデミアTHEMOVIEユアネクストXrossLinkフィギュア“爆豪勝己”",
 search:"ばくごうかつき",
 type:"xros",
-price:900,
+price:1000,
 img:"images/hiro/baku_xros.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -2692,7 +2912,7 @@ series:"zyuzyutu",
 name:"呪術廻戦FIGURIZMα“脹相”赫鱗躍動・載",
 search:"ちょうそう",
 type:"fig",
-price:1300,
+price:1500,
 img:"images/zyuzyutu/tyouso_fig.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -3483,7 +3703,7 @@ series:"atorie",
 name:"TVアニメ『ライザのアトリエ』 Luminasta“ライザリン・シュタウト”",
 search:"らいざりんしゅたうと",
 type:"lum",
-price:800,
+price:700,
 img:"images/atorie/raiza.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -5029,7 +5249,7 @@ series:"madomagi",
 name:"劇場版 魔法少女まどか☆マギカ 叛逆の物語 <br>美樹さやか フィギュア",
 search:"みきさやか",
 type:"",
-price:800,
+price:1000,
 img:"images/madomagi/sayaka.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -5203,7 +5423,7 @@ series:"zyuzyutu",
 name:"『呪術廻戦』 KING OF ARTIST  KENJAKU",
 search:"けんじゃく",
 type:"koa",
-price:900,
+price:800,
 img:"images/zyuzyutu/geto_koa.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -5233,7 +5453,7 @@ series:"wanpi",
 name:"『ワンピース』 THEORAMA SOUL -SHANKS-",
 search:"しゃんくす　シャンクス",
 type:"",
-price:1100,
+price:1200,
 img:"images/wanpi/syankusu.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -5357,7 +5577,7 @@ series:"zyuzyutu",
 name:"『呪術廻戦』 Luminasta “宿儺” 「■」「開」",
 search:"すくな　ふーが",
 type:"lum",
-price:1800,
+price:1500,
 img:"images/zyuzyutu/sukuna_lum.jpg",
 source:"https://segaplaza.jp/"
 },
@@ -5387,7 +5607,7 @@ series:"oba",
 name:"『オーバーロード』 T-most アルベド フィギュア <br>～純白の悪魔ver.～",
 search:"あるべど",
 type:"tmost",
-price:1300,
+price:1200,
 img:"images/oba/aru_tmost.jpg",
 source:"https://www.taito.co.jp/"
 },
