@@ -124,7 +124,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 写輪眼ルームライト",
-search:"はたけかかし",
+search:"はたけかかし　はたけカカシ　しゃりんがん",
 type:"",
 price:800,
 img:"images/naruto/kakasi_rumu.jpg",
@@ -134,7 +134,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 写輪眼ルームライト",
-search:"うちはさすけ",
+search:"うちはさすけ　うちはサスケ　しゃりんがん",
 type:"",
 price:800,
 img:"images/naruto/sasuke_rumu.jpg",
@@ -144,7 +144,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 写輪眼ルームライト",
-search:"うちはいたち",
+search:"うちはいたち　うちはイタチ　しゃりんがん",
 type:"",
 price:800,
 img:"images/naruto/itati_rumu.jpg",
@@ -294,7 +294,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"sanrio",
 name:"Netflixシリーズ「My Melody & Kuromi」 Fluffy Puffy～My Melody & Kuromi～",
-search:"まいめろ",
+search:"まいめろ　マイメロ",
 type: "ful",
 price:600,
 img:"images/sanrio/maimero_flu.jpg",
@@ -304,7 +304,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア THE EVIL VILLAINS-PLUS-HIMIKO TOGAⅡ",
-search:"とがひみこ",
+search:"とがひみこ　トガヒミコ",
 type:"evi",
 price:500,
 img:"images/hiro/toga2_evi.jpg",
@@ -394,7 +394,7 @@ source:"https://www.elcocoland.com/shop/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 EFFECTREME-DEIDARA-",
-search:"でいだら",
+search:"でいだら　デイダラ",
 type:"eff",
 price:1600,
 img:"images/naruto/deidara_eff.jpg",
@@ -404,7 +404,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 EFFECTREME-SASORI-",
-search:"さそり",
+search:"さそり　サソリ",
 type:"eff",
 price:1000,
 img:"images/naruto/sasori_eff.jpg",
@@ -414,7 +414,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 EFFECTREME-UCHIHA ITACHI-Ⅱ",
-search:"うちはいたち",
+search:"うちはいたち　うちはイタチ",
 type:"eff",
 price:1400,
 img:"images/naruto/itati_eff.jpg",
@@ -424,7 +424,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース BATTLE RECORD COLLECTION-MONKEY.D.LUFFYⅡ-SPECIAL",
-search:"るふぃ",
+search:"るふぃ　ルフィ",
 type:"bato",
 price:700,
 img:"images/wanpi/rufi_bato.jpg",
@@ -464,7 +464,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 Figuno-UZUMAKI NARUTO ＆ UCHIHA SASUKE-",
-search:"うずまきなると",
+search:"うずまきなると　うずまきナルト",
 type:"figuno",
 price:500,
 img:"images/naruto/naruto_figuno.jpg",
@@ -544,7 +544,7 @@ source:"https://segaplaza.jp/"
 {
 series:"kimetu",
 name:"アニメ「鬼滅の刃」 HYOKOFIG-竈門禰豆子-",
-search:"ねずこ",
+search:"かまどねずこ",
 type:"",
 price:2100,
 img:"images/kimetu/nezuko_hyoko.jpg",
@@ -624,7 +624,7 @@ source:"https://charahiroba.com/"
 {
 series:"db",
 name:"ドラゴンボールGT SOLID EDGE WORKS-THE出陣-超サイヤ人4ベジータ",
-search:"べじーた　すーぱー",
+search:"べじーた",
 type:"syutu",
 price:650,
 img:"images/db/bezi4_syutu.jpg",
@@ -644,7 +644,7 @@ source:"https://segaplaza.jp/"
 {
 series:"kimetu",
 name:"アニメ「鬼滅の刃」 GLITTER&GLAMOURS-KANAO TSUYURI-",
-search:"つゆりかなを",
+search:"つゆりかなを　栗花落カナヲ",
 type:"gli",
 price:800,
 img:"images/kimetu/kanawo_gli.jpg",
@@ -654,7 +654,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"kimetu",
 name:"アニメ「鬼滅の刃」 フィギュア-鬼ノ装-拾肆の型",
-search:"どうま",
+search:"どうま　童磨",
 type: "oni",
 price:1500,
 img:"images/kimetu/doma_oni.jpg",
@@ -844,7 +844,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"kimetu",
 name:"鬼滅の刃 Q posket petit vol.3",
-search:"ときとうむいちろう",
+search:"ときとうむいちろう　時透無一郎",
 type:"qpos",
 price:1400,
 img:"images/kimetu/tokito_qpos.jpg",
@@ -854,7 +854,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"zyuzyutu",
 name:"呪術廻戦 KING OF ARTIST GOJO・GETO-懐玉・玉折-SPECIAL ver.",
-search:"ごじょう",
+search:"ごじょうさとる　五条悟",
 type:"koa",
 price:700,
 img:"images/zyuzyutu/gozyo_koa_sp.jpg",
@@ -884,7 +884,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-HOSHIGAKI KISAME-",
-search:"hosigakikisame",
+search:"干柿鬼鮫　ほしがききさめ",
 type:"vib",
 price:1000,
 img:"images/naruto/kisame_vib.jpg",
@@ -974,7 +974,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース DXF～THE GRANDLINE MEN～EXTRA DENJIRO",
-search:"でんじろー",
+search:"でんじろー　傳ジロー",
 type:"dxf",
 price:200,
 img:"images/wanpi/den.jpg",
@@ -994,7 +994,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-KILLER BEE-",
-search:"びー",
+search:"びー　ビー",
 type:"vib",
 price:800,
 img:"images/naruto/be_vib.jpg",
@@ -1004,7 +1004,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- VIBRATION STARS-GĀRA ＆ UCHIHA SASUKE-",
-search:"があら",
+search:"があら　我愛羅",
 type:"vib",
 price:600,
 img:"images/naruto/gara_vib.jpg",
@@ -1034,7 +1034,7 @@ source:"https://segaplaza.jp/"
 {
 series:"db",
 name:"ドラゴンボールGT SOLID EDGE WORKS-THE出陣-超サイヤ人4孫悟空",
-search:"そんごくう　すーぱー",
+search:"そんごくう",
 type:"syutu",
 price:650,
 img:"images/db/goku4_syutu.jpg",
@@ -1064,7 +1064,7 @@ source:"https://segaplaza.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア THE AMAZING HEROES-PLUS-KATSUKI BAKUGO Ⅱ",
-search:"ばくごうかつき",
+search:"ばくごうかつき　爆豪勝己",
 type:"ame",
 price:1000,
 img:"images/hiro/bakugo2_ame.jpg",
@@ -1104,7 +1104,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア Combination Battle-IZUKU MIDORIYA-終章",
-search:"みどりやいずく　でく",
+search:"みどりやいずく　でく　緑谷出久",
 type:"combi",
 price:800,
 img:"images/hiro/deku_combi.jpg",
@@ -1114,7 +1114,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア Combination Battle-TOMURA SHIGARAKI-終章",
-search:"しがらきとむら",
+search:"しがらきとむら　死柄木弔",
 type:"combi",
 price:500,
 img:"images/hiro/siga_combi.jpg",
@@ -1134,7 +1134,7 @@ source:"https://segaplaza.jp/"
 {
 series:"wanpi",
 name:"ワンピース KING OF ARTIST SILVERS.RAYLEIGH",
-search:"れいりー",
+search:"れいりー　レイリー",
 type:"koa",
 price:700,
 img:"images/wanpi/reiri_koa.jpg",
@@ -1195,7 +1195,7 @@ source:"https://charahiroba.com/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 Combination Battle2-うちはサスケ-",
-search:"さすけ",
+search:"うちはさすけ",
 type:"combi",
 price:800,
 img:"images/naruto/sasuke_combi2.jpg",
@@ -1205,7 +1205,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 Combination Battle2-うずまきナルト-",
-search:"なると",
+search:"うずまきなると",
 type:"combi",
 price:800,
 img:"images/naruto/naruto_combi2.jpg",
@@ -1225,7 +1225,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア MAXIMATIC KATSUKI BAKUGO Ⅱ",
-search:"ばくごうかつき",
+search:"ばくごうかつき　爆豪勝己",
 type:"ma",
 price:1500,
 img:"images/hiro/baku2_ma.jpg",
@@ -1375,7 +1375,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"wanpi",
 name:"ワンピース メガワールドコレクタブルフィギュア-モンキー・D・ルフィ VS ボルサリーノ-",
-search:"るふぃ　にか",
+search:"るふぃ　にか　ニカ",
 type:"wcf",
 price:800,
 img:"images/wanpi/nika_wcf.jpg",
@@ -1415,7 +1415,7 @@ source:"https://segaplaza.jp/"
 {
 series:"wanpi",
 name:"ワンピース THE出航LOGIA-PORTGAS.D.ACE-",
-search:"えーす",
+search:"えーす　エース",
 type:"syukko",
 price:800,
 img:"images/wanpi/ace_syukko.jpg",
@@ -1455,7 +1455,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"madomagi",
 name:"マギアレコード 魔法少女まどか★マギカ外伝 Splash Girls 暁美ほむら",
-search:"ほむら",
+search:"あけみほむら",
 type:"",
 price:1200,
 img:"images/madomagi/homura_sp.jpg",
@@ -1465,7 +1465,7 @@ source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
 {
 series:"madomagi",
 name:"マギアレコード 魔法少女まどか★マギカ外伝 Splash Girls 鹿目まどか",
-search:"まどか",
+search:"かなめまどか",
 type:"",
 price:1200,
 img:"images/madomagi/madoka_sp.jpg",
@@ -1506,7 +1506,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"miku",
 name:"『初音ミク×Rody』 AMP＋ フィギュア〜メルヘンver.〜",
-search:"ろでぃ　みく",
+search:"ろでぃ　はつねみく",
 type:"amp",
 price:1200,
 img:"images/miku/rody_meru.jpg",
@@ -1596,7 +1596,7 @@ source:"https://charahiroba.com/"
 {
 series:"esi",
 name:"rurudo ESPRESTO-Sleepy Bunny-シュガー",
-search:"しゅがー",
+search:"るるど　しゅがー",
 type:"esp",
 price:1600,
 img:"images/esi/syuga.jpg",
@@ -1706,7 +1706,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア BRAVEGRAPH #1 vol.3",
-search:"ばくごうかつき",
+search:"ばくごうかつき　爆豪勝己",
 type: "",
 price:800,
 img:"images/hiro/bakugo_seifuku.jpg",
@@ -1886,7 +1886,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"miku",
 name:"初音ミクシリーズLuminasta“初音ミク”クリスマス2025",
-search:"みく",
+search:"はつねみく　くりすます",
 type:"lum",
 price:500,
 img:"images/miku/kuri_2025.jpg",
@@ -1906,7 +1906,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース 戦光絶景-DRACULE.MIHAWK-",
-search:"みほーく",
+search:"みほーく　ミホーク",
 type:"senko",
 price:600,
 img:"images/wanpi/miho_senko.jpg",
@@ -1916,7 +1916,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース 戦光絶景-RORONOA ZORO-",
-search:"ろろのあぞろ",
+search:"ろろのあぞろ　ロロノアゾロ",
 type:"senko",
 price:600,
 img:"images/wanpi/zoro_senko.jpg",
@@ -2086,7 +2086,7 @@ source:"https://segaplaza.jp/"
 {
 series:"tyen",
 name:"劇場版『チェンソーマン レゼ篇』 GLITTER&GLAMOURS-REZE-",
-search:"れぜ",
+search:"れぜ　レゼ",
 type:"gli",
 price:2500,
 img:"images/tyen/reze_gli.jpg",
@@ -2216,7 +2216,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"wanpi",
 name:"ワンピース 戦光絶景-BORSALINO-",
-search:"きざる　ぼるさりーの",
+search:"きざる　ぼるさりーの　黄猿　ボルサリーノ",
 type:"senko",
 price:550,
 img:"images/wanpi/kizaru_senko.jpg",
@@ -2277,7 +2277,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"miku",
 name:"『初音ミクシリーズ』ぬーどるストッパーフィギュア​ ー 桜ミク2025 ー",
-search:"みく",
+search:"はつねみく　さくらみく",
 type:"nusuto",
 price:1000,
 img:"images/miku/sakura_2025.jpg",
@@ -2287,7 +2287,7 @@ source:"https://charahiroba.com/"
 {
 series:"wanpi",
 name:"ワンピース BATTLE RECORD COLLECTION-MONKEY.D.GARP Ⅱ-",
-search:"がーぷ",
+search:"がーぷ　ガープ",
 type:"bato",
 price:700,
 img:"images/wanpi/gapu_bato.jpg",
@@ -2337,7 +2337,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"db",
 name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-超サイヤ人3ゴテンクス",
-search:"ごてんくす　すーぱー",
+search:"ごてんくす",
 type:"syutu",
 price:650,
 img:"images/db/goten3_syutu.jpg",
@@ -2367,7 +2367,7 @@ source:"https://www.elcocoland.com/shop/"
 {
 series:"kamen",
 name:"シン・ジャパン・ヒーローズ・ユニバース　でふぉるむぷらす　仮面ライダー（シン・仮面ライダー）フルアクションデフォルメフィギュア",
-search:"かめん",
+search:"かめんらいだー",
 type:"defo",
 price:400,
 img:"images/kamen/kamen.jpg",
@@ -2418,7 +2418,7 @@ source:"https://segaplaza.jp/"
 {
 series:"db",
 name:"ドラゴンボールZ Grandista-VEGETA-",
-search:"べじーた",
+search:"べじーた　ベジータ",
 type: "gra",
 price:500,
 img:"images/db/bezi_gra.jpg",
@@ -2428,7 +2428,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"db",
 name:"ドラゴンボール超 Grandista-GOGETA-",
-search:"ごじーた",
+search:"ごじーた　ゴジータ",
 type: "gra",
 price:550,
 img:"images/db/gozita_gra.jpg",
@@ -2449,7 +2449,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース KING OF ARTIST KUZAN",
-search:"あおきじ　くざん",
+search:"あおきじ　くざん　青雉　クザン",
 type:"koa",
 price:400,
 img:"images/wanpi/kuzan_koa.jpg",
@@ -2459,7 +2459,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース KING OF ARTIST GOL.D.ROGER-SPECIAL ver.-",
-search:"ごーるどろじゃー",
+search:"ごーるどろじゃー　ゴールドロジャー",
 type:"koa",
 price:600,
 img:"images/wanpi/rozyasp_koa.jpg",
@@ -2469,7 +2469,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース Grandista-SABO-",
-search:"さぼ",
+search:"さぼ　サボ",
 type:"gra",
 price:450,
 img:"images/wanpi/sabo_gra.jpg",
@@ -2489,7 +2489,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア THE AMAZING HEROES-PLUS-KATSUKI BAKUGO Ⅲ",
-search:"ばくごうかつき",
+search:"ばくごうかつき　爆豪勝己",
 type:"ame",
 price:900,
 img:"images/hiro/bakugo3_ame.jpg",
@@ -2540,7 +2540,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース KING OF ARTIST THE MONKEY.D.LUFFY GEAR5 Ⅱ",
-search:"るふぃ　にか",
+search:"るふぃ　にか　ルフィ　ニカ",
 type:"koa",
 price:600,
 img:"images/wanpi/nika2_koa.jpg",
@@ -2550,7 +2550,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース KING OF ARTIST THE TRAFALGAR.LAW Ⅱ",
-search:"とらふぁるがーろー",
+search:"とらふぁるがーろー　トラファルガーロー",
 type:"koa",
 price:1000,
 img:"images/wanpi/ro2_koa.jpg",
@@ -2560,7 +2560,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース KING OF ARTIST THE ROB LUCCI Awakening ver.",
-search:"ろぶるっち",
+search:"ろぶるっち　ロブルッチ",
 type:"koa",
 price:450,
 img:"images/wanpi/rutti_koa.jpg",
@@ -2610,7 +2610,7 @@ source:"http://fansclub.jp/pc/top/"
 {
 series:"zyuzyutu",
 name:"呪術廻戦 KING OF ARTIST SATORU GOJO-懐玉・玉折-Ⅱ",
-search:"ごじょうさとる",
+search:"ごじょうさとる　五条悟",
 type:"koa",
 price:900,
 img:"images/zyuzyutu/gozyo2_koa.jpg",
@@ -2620,7 +2620,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"zyuzyutu",
 name:"呪術廻戦 MAXIMATIC CHOSO",
-search:"ちょうそう",
+search:"ちょうそう　脹相",
 type:"ma",
 price:1200,
 img:"images/zyuzyutu/tyouso_a_ma.jpg",
@@ -2630,7 +2630,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"zyuzyutu",
 name:"呪術廻戦 MAXIMATIC CHOSO",
-search:"ちょうそう",
+search:"ちょうそう　脹相",
 type:"ma",
 price:1200,
 img:"images/zyuzyutu/tyouso_b_ma.jpg",
@@ -2640,7 +2640,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"zyuzyutu",
 name:"呪術廻戦 MAXIMATIC SUKUNA Special ver.",
-search:"すくな",
+search:"すくな　宿儺",
 type:"ma",
 price:1000,
 img:"images/zyuzyutu/sukunasp_ma.jpg",
@@ -2660,7 +2660,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース GLITTER&GLAMOURS-BOA.HANCOCK-Ⅱ",
-search:"はんこっく",
+search:"はんこっく　ハンコック",
 type:"gli",
 price:800,
 img:"images/wanpi/han_gli.jpg",
@@ -2670,7 +2670,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース GLITTER&GLAMOURS-TRAFALGAR.LAW-CHANGE ver.",
-search:"ろー",
+search:"ろー　ロー",
 type:"gli",
 price:550,
 img:"images/wanpi/ro_gli.jpg",
@@ -2680,7 +2680,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア GLITTER&GLAMOURS-MIRKO-",
-search:"みるこ",
+search:"みるこ　ミルコ",
 type:"gli",
 price:1000,
 img:"images/hiro/miruko_gli.jpg",
@@ -2690,7 +2690,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア GLITTER＆GLAMOURS-OCHACO URARAKA＆HIMIKO TOGA-",
-search:"とがひみこ",
+search:"とがひみこ　トガヒミコ",
 type:"gli",
 price:800,
 img:"images/hiro/toga_gli.jpg",
@@ -2700,7 +2700,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア GLITTER＆GLAMOURS-OCHACO URARAKA＆HIMIKO TOGA-",
-search:"うららかおちゃこ",
+search:"うららかおちゃこ　麗日お茶子",
 type:"gli",
 price:1200,
 img:"images/hiro/otyako_gli.jpg",
@@ -2710,7 +2710,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TORU HAGAKURE-",
-search:"はがくれとおる",
+search:"はがくれとおる　葉隠透",
 type:"gli",
 price:1800,
 img:"images/hiro/hagakure_gli.jpg",
@@ -2720,7 +2720,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TSUYU ASUI-",
-search:"あすいつゆ",
+search:"あすいつゆ　蛙吹梅雨",
 type:"gli",
 price:900,
 img:"images/hiro/tuyu_gli.jpg",
@@ -2730,7 +2730,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア GLITTER&GLAMOURS-NEJIRE HADO-",
-search:"はどうねじれ",
+search:"はどうねじれ　波動ねじれ",
 type:"gli",
 price:800,
 img:"images/hiro/nezire_gli.jpg",
@@ -2740,7 +2740,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア GLITTER＆GLAMOURS-HIMIKO TOGA-",
-search:"とがひみこ",
+search:"とがひみこ　トガヒミコ",
 type:"gli",
 price:800,
 img:"images/hiro/toga2_gli.jpg",
@@ -2750,7 +2750,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア GLITTER&GLAMOURS-MEI HATSUME-",
-search:"はつめめい",
+search:"はつめめい　発目明",
 type:"gli",
 price:800,
 img:"images/hiro/hatume_gli.jpg",
@@ -2760,7 +2760,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 Grandista-UCHIHA SASUKE-",
-search:"うちはさすけ",
+search:"うちはさすけ　うちはサスケ",
 type:"gra",
 price:1200,
 img:"images/naruto/sasuke1_gra.jpg",
@@ -2780,7 +2780,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア Grandista-ALL MIGHT-",
-search:"おーるまいと",
+search:"おーるまいと　オールマイト",
 type:"gra",
 price:900,
 img:"images/hiro/all_gra.jpg",
@@ -2800,7 +2800,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"db",
 name:"ドラゴンボールZ Grandista-SON GOKU-Ⅱ",
-search:"そんごくう",
+search:"そんごくう　孫悟空",
 type:"gra",
 price:750,
 img:"images/db/goku2_gra.jpg",
@@ -2810,7 +2810,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"db",
 name:"ドラゴンボールZ Grandista-SON GOKU-",
-search:"そんごくう",
+search:"そんごくう　孫悟空",
 type:"gra",
 price:600,
 img:"images/db/goku_gra.jpg",
@@ -2820,7 +2820,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース Grandista-EDWARD.NEWGATE-",
-search:"しろひげ　えどわーどにゅーげーと",
+search:"しろひげ　えどわーどにゅーげーと　白髭　エドワードニューゲート",
 type:"gra",
 price:550,
 img:"images/wanpi/sirohige_gra.jpg",
@@ -2830,7 +2830,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース Grandista-TRAFALGAR.LAW-",
-search:"ろー",
+search:"ろー　ロー",
 type:"gra",
 price:450,
 img:"images/wanpi/ro_gra.jpg",
@@ -2840,7 +2840,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"ワンピース Grandista-MONKEY.D.LUFFY GEAR5-",
-search:"るふぃ　にか",
+search:"るふぃ　にか　ルフィ　ニカ",
 type:"gra",
 price:800,
 img:"images/wanpi/nika1_gra.jpg",
@@ -2870,7 +2870,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"zyuzyutu",
 name:"呪術廻戦 Grandista-ZEN’IN NAOYA-",
-search:"ぜんいんなおや",
+search:"ぜんいんなおや　禪院直哉",
 type:"gra",
 price:900,
 img:"images/zyuzyutu/naoya_gra.jpg",
@@ -2880,7 +2880,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"zyuzyutu",
 name:"呪術廻戦 MAXIMATIC YUTA OKKOTSU-死滅回游-",
-search:"おっこつゆうた",
+search:"おっこつゆうた　乙骨 憂太",
 type:"ma",
 price:600,
 img:"images/zyuzyutu/otukotu_ma.jpg",
@@ -2920,7 +2920,7 @@ source:"https://segaplaza.jp/"
 {
 series:"zyuzyutu",
 name:"呪術廻戦 MAXIMATIC NAOYA ZEN’IN",
-search:"ぜんいんなおや",
+search:"ぜんいんなおや　禪院直哉",
 type:"ma",
 price:1000,
 img:"images/zyuzyutu/naoya_ma.jpg",
@@ -2930,7 +2930,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"zyuzyutu",
 name:"呪術廻戦 MAXIMATIC YUJI ITADORI-死滅回游-",
-search:"いたどりゆうじ",
+search:"いたどりゆうじ　虎杖悠仁",
 type:"ma",
 price:600,
 img:"images/zyuzyutu/itadori_ma.jpg",
@@ -2970,7 +2970,7 @@ source:"https://charahiroba.com/"
 {
 series:"kamen",
 name:"仮面ライダークウガ BIGサイズソフビ マスクディスプレイ-クウガ-",
-search:"くうが",
+search:"かめんらいだーくうが",
 type:"",
 price:500,
 img:"images/kamen/kuga.jpg",
@@ -3020,7 +3020,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"yuyu",
 name:"幽☆遊☆白書 MAXIMATIC HIEI",
-search:"ひえい",
+search:"ひえい　飛影",
 type: "ma",
 price:500,
 img:"images/yuyu/hiei.jpg",
@@ -3090,7 +3090,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpan",
 name:"ワンパンマン Grandista-SAITAMA-",
-search:"さいたま",
+search:"さいたま　サイタマ",
 type:"gra",
 price:650,
 img:"images/wanpan/saitama_gra.jpg",
@@ -3100,7 +3100,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"buri",
 name:"BLEACH GrandistaｰKUROSAKI ICHIGOｰ",
-search:"くろさきいちご",
+search:"くろさきいちご　黒崎一護",
 type:"gra",
 price:1500,
 img:"images/buri/itigo_gra.jpg",
@@ -3110,7 +3110,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"guru",
 name:"東京喰種 Grandista-KANEKI KEN-",
-search:"かねきけん",
+search:"かねきけん　金木研",
 type:"gra",
 price:1000,
 img:"images/guru/kaneki_gra.jpg",
@@ -3120,7 +3120,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"baki",
 name:"刃牙 Grandistaッッ‼-HANMA YUJIRO-",
-search:"はんまゆうじろう",
+search:"はんまゆうじろう　範馬勇次郎",
 type:"gra",
 price:800,
 img:"images/baki/yuzi_gra.jpg",
@@ -3130,7 +3130,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"king",
 name:"キングダム Grandista-王騎-",
-search:"はた",
+search:"はた　旗",
 type:"gra",
 price:1000,
 img:"images/king/hata_gra.jpg",
@@ -3200,7 +3200,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"-NARUTO 72 series- 33 VIBRATION STARS-UZUMAKI NARUTO-",
-search:"うずまきなると",
+search:"うずまきなると　うずまきナルト",
 type:["vib", "72"],
 price:700,
 img:"images/naruto/naruto_72_vib.jpg",
@@ -4105,7 +4105,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"『ワンピース』 BATTLE RECORD COLLECTION -JEWELRY.BONNEY THE MOST FREE FUTURE-",
-search:"ぼにー　ボニー",
+search:"じゅえりーぼにー　ジュエリーボニー",
 type:"bato",
 price:550,
 img:"images/wanpi/boni_bato.jpg",
@@ -4135,7 +4135,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"『ワンピース』 KING OF ARTIST JEWELRY.BONNEY THE MOST FREE FUTURE",
-search:"ぼにー　ボニー",
+search:"じゅえりーぼにー　ジュエリーボニー",
 type:"koa",
 price:600,
 img:"images/wanpi/boni_koa.jpg",
@@ -4315,7 +4315,7 @@ source:"https://segaplaza.jp/"
 {
 series:"kimetu",
 name:"『鬼滅の刃』 Grandista-AKAZA-",
-search:"あかざ",
+search:"あかざ　猗窩座",
 type:"gra",
 price:1300,
 img:"images/kimetu/akaza_gra.jpg",
@@ -4325,7 +4325,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"kimetu",
 name:"『鬼滅の刃』 Grandista-RENGOKU KYOJURO-",
-search:"れんごくきょうじゅろう",
+search:"れんごくきょうじゅろう　煉獄杏寿郎",
 type:"gra",
 price:1000,
 img:"images/kimetu/rengoku_gra.jpg",
@@ -4335,7 +4335,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"kimetu",
 name:"『鬼滅の刃』 Grandista-DOMA-",
-search:"どうま",
+search:"どうま　童磨",
 type:"gra",
 price:1500,
 img:"images/kimetu/doma_gra.jpg",
@@ -4375,7 +4375,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"『NARUTO-ナルト- 疾風伝』 VIBRATION STARS <br>-ZETSU & HOSHIGAKI KISAME-",
-search:"ぜつ",
+search:"ぜつ　ゼツ",
 type:"vib",
 price:1300,
 img:"images/naruto/zetu_vib.jpg",
@@ -4487,7 +4487,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"miku",
 name:"『初音ミクシリーズ』ぬーどるストッパーフィギュア<br>ー 桜ミク2024 パールカラーver. ー",
-search:"みく",
+search:"はつねみく",
 type:"nusuto",
 price:800,
 img:"images/miku/2024_sakura.jpg",
@@ -4497,7 +4497,7 @@ source:"https://charahiroba.com/"
 {
 series:"miku",
 name:"『初音ミクシリーズ』Luminasta <br>“初音ミク”－クラシカルメイド－",
-search:"みく",
+search:"はつねみく",
 type:"lum",
 price:700,
 img:"images/miku/meido.jpg",
@@ -4507,7 +4507,7 @@ source:"https://segaplaza.jp/"
 {
 series:"miku",
 name:"初音ミクシリーズ Lminasta <br>“初音ミク 16th Anniversary” ぶーたVer.",
-search:"みく",
+search:"はつねみく",
 type:"lum",
 price:1000,
 img:"images/miku/16_anni.jpg",
@@ -4517,7 +4517,7 @@ source:"https://segaplaza.jp/"
 {
 series:"miku",
 name:"初音ミク　Aqua Float Girls フィギュア",
-search:"みく",
+search:"はつねみく",
 type:"aqua",
 price:800,
 img:"images/miku/aqua.jpg",
@@ -4527,7 +4527,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"miku",
 name:"『初音ミクシリーズ』 Fashion フィギュア Country",
-search:"かんとりー　カントリー　みく",
+search:"かんとりー　カントリー　はつねみく",
 type:"fa",
 price:1300,
 img:"images/miku/kantori.jpg",
@@ -4537,7 +4537,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"miku",
 name:"『初音ミク×チロルチョコ』 Trio-Try-iT Figure <br>ー 初音ミクｘチロルチョコ ミルクver. ー",
-search:"ちろるちょこ　みく",
+search:"ちろるちょこ　はつねみく",
 type:"trio",
 price:1400,
 img:"images/miku/tiroru.jpg",
@@ -4547,7 +4547,7 @@ source:"https://charahiroba.com/"
 {
 series:"miku",
 name:"『初音ミクシリーズ』 ぬーどるストッパーフィギュア <br>ー うさ耳パジャマ・ブルーver. ー",
-search:"うさみみぱじゃま　みく",
+search:"うさみみぱじゃま　はつねみく",
 type:"nusuto",
 price:1200,
 img:"images/miku/usamimi_nusuto.jpg",
@@ -4687,7 +4687,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"『僕のヒーローアカデミア』 Grandista -MIDORIYA IZUKU-",
-search:"みどりやいずく　でく",
+search:"緑谷出久　みどりやいずく　でく",
 type:"gra",
 price:600,
 img:"images/hiro/deku_gra.jpg",
@@ -4697,7 +4697,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"『僕のヒーローアカデミア』 MAXIMATIC<br>IZUKU MIDORIYA Ⅱ",
-search:"みどりやいずく　でく",
+search:"緑谷出久　みどりやいずく　でく",
 type:"ma",
 price:700,
 img:"images/hiro/deku_ma2.jpg",
@@ -4777,7 +4777,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"db",
 name:"『DRAGON BALL Z DOKKAN BATTLE』 10TH ANNIVERSARY FIGURE -超ゴジータ-",
-search:"すーぱー　ごじーた",
+search:"ごじーた",
 type: "",
 price:700,
 img:"images/db/dokkan_gozi.jpg",
@@ -4787,7 +4787,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"db",
 name:"『DRAGON BALL Z DOKKAN BATTLE』 10TH ANNIVERSARY FIGURE -超ベジット-",
-search:"べじっと　すーぱー",
+search:"べじっと",
 type: "",
 price:700,
 img:"images/db/dokkan_bezi.jpg",
@@ -4817,7 +4817,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"db",
 name:"『ドラゴンボールZ』 MATCH MAKERS 超サイヤ人3孫悟空<br>（VS魔人ブウ）",
-search:"そんごくう　すーぱー",
+search:"そんごくう",
 type:"mat",
 price:600,
 img:"images/db/goku3_mat2.jpg",
@@ -4827,7 +4827,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"db",
 name:"『ドラゴンボールZ』 MATCH MAKERS 超サイヤ人3孫悟空<br>（VS魔人ブウ(純粋)）",
-search:"すーぱー　そんごくう",
+search:"そんごくう",
 type:"mat",
 price:650,
 img:"images/db/goku3_mat.jpg",
@@ -4867,7 +4867,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"db",
 name:"『ドラゴンボールGT』 SOLID EDGE WORKS-THE出陣- 超サイヤ人4ゴジータ",
-search:"ごじーた　すーぱー",
+search:"ごじーた",
 type: "syutu",
 price:550,
 img:"images/db/gozita4_solid.jpg",
@@ -5117,7 +5117,7 @@ source:"https://charahiroba.com/"
 {
 series:"miku",
 name:"『初音ミクシリーズ』<br>ぬーどるストッパーフィギュア ー カナリア ー",
-search:"かなりあ　みく",
+search:"かなりあ　はつねみく",
 type:"nusuto",
 price:800,
 img:"images/miku/miku_kanariya_nusuto.jpg",
@@ -5157,7 +5157,7 @@ source:"https://segaplaza.jp/"
 {
 series:"zyuzyutu",
 name:"『呪術廻戦 死滅回游』 Luminasta　“脹相”",
-search:"ちょうそう　チョウソウ",
+search:"ちょうそう",
 type: "lum",
 price:1400,
 img:"images/zyuzyutu/tyousou_lum.jpg",
@@ -5187,7 +5187,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"『ワンピース』 BATTLE RECORD COLLECTION<br>-GOL.D.ROGER-",
-search:"ろじゃー　ロジャー",
+search:"ごーるどろじゃー　ゴールドロジャー",
 type:"bato",
 price:700,
 img:"images/wanpi/rozya_bato.jpg",
@@ -5267,7 +5267,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"『ワンピース』KING OF ARTIST <br>RORONOA ZORO & SANJI-SPECIAL ver.-",
-search:"ろろのあぞろ　さんじ　ロロノアゾロ　サンジ",
+search:"ろろのあぞろ　ロロノアゾロ",
 type:"koa",
 price:900,
 img:"images/wanpi/zoro_koa.jpg",
@@ -5277,7 +5277,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"『ワンピース』KING OF ARTIST <br>RORONOA ZORO & SANJI-SPECIAL ver.-",
-search:"ろろのあぞろ　さんじ　ロロノアゾロ　サンジ",
+search:"さんじ　サンジ",
 type:"koa",
 price:800,
 img:"images/wanpi/sanzi_koa.jpg",
@@ -5287,7 +5287,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"wanpi",
 name:"『ワンピース』 GLITTER&GLAMOURS<br>-JEWELRY.BONNEY-Ⅱ",
-search:"ぼにー　ボニー",
+search:"じゅえりーぼにー　ジュエリーボニー",
 type:"gli",
 price:800,
 img:"images/wanpi/boni_gli.jpg",
@@ -5297,7 +5297,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"『僕のヒーローアカデミア』MAXIMATIC<br> IZUKU MIDORIYA Ⅲ",
-search:"みどりやいずく　でく",
+search:"みどりやいずく　でく　緑谷出久",
 type:"ma",
 price:1000,
 img:"images/hiro/deku_ma3.jpg",
@@ -5307,7 +5307,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"『僕のヒーローアカデミア』 MAXIMATIC <br>SHOTO TODOROKI Ⅱ",
-search:"とどろきしょうと",
+search:"とどろきしょうと　轟焦凍",
 type:"ma",
 price:1000,
 img:"images/hiro/todoroki_ma.jpg",
@@ -5400,7 +5400,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"『NARUTO-ナルト- 疾風伝』 Grandista <br>-HARUNO SAKURA ＆ UCHIHA SASUKE-",
-search:"うちはさすけ",
+search:"うちはさすけ　うちはサスケ",
 type:"gra",
 price:1300,
 img:"images/naruto/sasuke_gra.jpg",
@@ -5410,9 +5410,9 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"『NARUTO-ナルト- 疾風伝』 Grandista <br>-HARUNO SAKURA ＆ UCHIHA SASUKE-",
-search:"はるのさくら",
+search:"はるのさくら　春野サクラ",
 type:"gra",
-price:1700,
+price:1500,
 img:"images/naruto/sakura_gra.jpg",
 source:"https://bsp-prize.jp/"
 
@@ -5615,7 +5615,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"miku",
 name:"『初音ミクシリーズ』 Fashion フィギュア Outdoor",
-search:"アウトドア　あうとどあ　みく",
+search:"アウトドア　あうとどあ　はつねみく",
 type:"fa",
 price:1300,
 img:"images/miku/miku_auto.jpg",
@@ -5756,7 +5756,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"『-NARUTO 72 series- 16』フィギュア<br> うずまきナルト＆うみのイルカ",
-search:"なると　いるか",
+search:"うずまきなると",
 type:"72",
 price:800,
 img:"images/naruto/naruto_72.jpg",
@@ -5767,7 +5767,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"『-NARUTO 72 series- 16』フィギュア<br> うずまきナルト＆うみのイルカ",
-search:"なると　いるか",
+search:"うみのいるか",
 type:"72",
 price:800,
 img:"images/naruto/iruka_72.jpg",
@@ -5779,7 +5779,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"zyuzyutu",
 name:"『呪術廻戦』 Grandista GOJO SATORU",
-search:"ごじょうさとる",
+search:"ごじょうさとる　五条悟",
 type:"gra",
 price:2600,
 img:"images/zyuzyutu/gozyo_gra.jpg",
@@ -5842,7 +5842,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"miku",
 name:"『初音ミクシリーズ』 Trio-Try-iT Figure <br>ー 雪ミクxクロミ ー",
-search:"みく",
+search:"はつねみく　くろみ　ゆきみく",
 type:"trio",
 price:2400,
 img:"images/miku/kuromi_miku.jpg",
@@ -5852,7 +5852,7 @@ source:"https://charahiroba.com/"
 {
 series:"miku",
 name:"ガンダム45周年×初音ミク フィギュアシャアザクぐるみ 初音ミクVer.",
-search:"しゃあざく　みく",
+search:"しゃあざく　はつねみく",
 type:"",
 price:1200,
 img:"images/miku/miku_zaku.jpg",
@@ -5862,7 +5862,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"miku",
 name:"『桜ミク』 AMP＋ フィギュア 〜桜ドレス ver.〜",
-search:"みく",
+search:"はつねみく　さくらみく",
 type:"",
 price:1300,
 img:"images/miku/sakuramiku2026.jpg",
@@ -5872,7 +5872,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"kimetu",
 name:"『鬼滅の刃』 GLITTER&GLAMOURS <br>-SHINOBU KOCHO-",
-search:"こちょうしのぶ",
+search:"こちょうしのぶ　胡蝶しのぶ",
 type:"gli",
 price:1300,
 img:"images/kimetu/kotyo_gri.jpg",
@@ -5892,7 +5892,7 @@ source:"https://segaplaza.jp/"
 {
 series:"miku",
 name:"初音ミク ぬーどるストッパー　-ヴィンテージドール-",
-search:"みく",
+search:"はつねみく　",
 type:"nusuto",
 price:2200,
 img:"images/miku/miku_vin.jpg",
@@ -5902,7 +5902,7 @@ source:"https://charahiroba.com/"
 {
 series:"miku",
 name:"初音ミク×ラスカル Trio-Try-iT -悪魔-",
-search:"あくま　らすかる　",
+search:"あくま　らすかる　はつねみく",
 type:"trio",
 price:2500,
 img:"images/miku/miku_akuma.jpg",
