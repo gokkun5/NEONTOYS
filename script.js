@@ -7835,3 +7835,99 @@ function showFigures() {
     listContainer.classList.remove('is-active');
   }
 }
+
+
+
+// --- 追加：全表示モードの状態を管理 ---
+let isAllShowMode = false; 
+
+const allShowBtn = document.getElementById('allShowBtn');
+
+allShowBtn.addEventListener('click', () => {
+  isAllShowMode = !isAllShowMode; // モードを切り替え
+  
+  if (isAllShowMode) {
+    allShowBtn.textContent = '閉じる';
+    allShowBtn.classList.add('active'); // 必要ならCSSで色を変える用
+  } else {
+    allShowBtn.textContent = '全表示にする';
+    allShowBtn.classList.remove('active');
+  }
+  
+  showFigures(); // 再描画
+});
+
+// --- 既存の showFigures を少し書き換え ---
+function showFigures() {
+  const search = document.getElementById("search").value.toLowerCase();
+  const series = document.getElementById("series").value;
+  const type = document.getElementById("type").value;
+  const price = document.getElementById("price").value;
+  const sort = document.getElementById("sort").value;
+
+  let filtered = [...figures];
+
+  // 🔥 修正：全表示モードではない時だけフィルターをかける
+  if (!isAllShowMode) {
+    if (series !== "all") {
+      filtered = filtered.filter(f => f.series === series);
+    }
+    if (type !== "all") {
+      filtered = filtered.filter(f =>
+        Array.isArray(f.type) ? f.type.includes(type) : f.type === type
+      );
+    }
+    if (price !== "all") {
+      filtered = filtered.filter(f => f.price == price);
+    }
+    if (search !== "") {
+      filtered = filtered.filter(f =>
+        f.name.toLowerCase().includes(search) ||
+        (f.search && f.search.toLowerCase().includes(search))
+      );
+    }
+  }
+
+  // ソート処理（全表示の時もソートは効かせたほうが使いやすいかも！）
+  if (sort === "priceLow") {
+    filtered.sort((a, b) => a.price - b.price);
+  } else if (sort === "priceHigh") {
+    filtered.sort((a, b) => b.price - a.price);
+  } else if (sort === "name") {
+    filtered.sort((a, b) => a.name.localeCompare(b.name, "ja"));
+  }
+
+  let html = "";
+  filtered.forEach(f => {
+    html += `
+    <div class="card">
+      <img src="${f.img}" loading="lazy">
+      <h3 class="name">${f.name}</h3>
+      <p class="price">¥ ${f.price}</p>
+      ${f.source ? `<a href="${f.source}" target="_blank" class="source">出典リンク</a>` : ""}
+    </div>
+    `;
+  });
+
+  const listContainer = document.getElementById("figureList");
+  listContainer.innerHTML = html;
+
+  // 🔥 修正：全表示モードなら強制的に is-active をつける
+  const isDefault = (search === "" && series === "all" && type === "all" && price === "all");
+
+  if (isAllShowMode || (html !== "" && !isDefault)) {
+    listContainer.classList.add('is-active');
+  } else {
+    listContainer.classList.remove('is-active');
+  }
+}
+
+// --- 既存のクリアボタンに追記 ---
+function clearFilters() {
+  // ...（既存のリセット処理）...
+  
+  isAllShowMode = false; // 全表示モードも解除
+  allShowBtn.textContent = '全表示にする';
+  
+  showFigures();
+}
