@@ -100,6 +100,30 @@ h1 img {
   text-decoration: underline;
 }
 
+.custom-button {
+  /* 画像のセレクトボックスに合わせたデザイン */
+  background: #1a1a1a; /* 背景色（セレクトボックスに合わせて調整） */
+  color: #fff;
+  border: 1px solid #333; /* 境界線 */
+  border-radius: 20px; /* 丸みのある角 */
+  padding: 8px 16px;
+  font-size: 14px; /* 先ほど小さくしたサイズに合わせる */
+  width: 100%; /* 横幅をいっぱいに広げる */
+  text-align: left; /* 文字を左寄せ（セレクトボックス風） */
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background 0.2s;
+  margin-bottom: 10px;
+}
+
+.custom-button:hover {
+  background: #2a2a2a; /* ホバー時に少し明るく */
+}
+
+
+
 /* ===== カード一覧（初期は非表示） ===== */
 #figureList {
   display: none; /* ← ここが重要：最初は隠す */
