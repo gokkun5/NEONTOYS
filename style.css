@@ -126,6 +126,7 @@ h1 img {
   transition: 0.2s;
   min-width: 0;
   overflow: hidden;
+  font-size: 0.8rem;
 }
 
 .card:hover {
