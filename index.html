@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 
-<body onload="showFigures()">
+<body onload="initShow()">
 
 <h1><img src="neon.jpg" alt=""></h1>
 
@@ -157,7 +157,7 @@
     <select id="type" onchange="showFigures()">
     <option value="all">All Types</option>
     <option value="aqua">Aqua Float Girls</option>
-    <option value="AMP">AMP</option>
+    <option value="amp">AMP</option>
     <option value="bpev">BANPRESTO EVOLVE</option>
     <option value="bato">BATTLE RECORD COLLECTION</option>
     <option value="bani">BiCute Bunnies</option>
@@ -222,6 +222,7 @@
     <option value="pen">ペンフレ！</option>
     <option value="figl">フィグライフ！</option>
     <option value="wcf">メガワールドコレクタブルフィギュア</option>
+    <option value="wakore">ワールドコレクタブルフィギュア</option>
     <option value="72">72 SERIES</option>
     </select>
 
@@ -266,6 +267,16 @@
     <option value="priceHigh">価格が高い順</option>
     <option value="name">名前順</option>
     </select>
+
+<div class="filter-group">
+
+  
+  <div class="clear-button-container">
+    <button type="button" class="btn-clear" onclick="clearFilters()">
+      <i class="icon-reset"></i> 選択をクリア
+    </button>
+  </div>
+</div>
 
   <div class="x-box">
   <p class="x-title">💰 価格情報随時 更新中</p>
