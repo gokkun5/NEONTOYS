@@ -2,6 +2,336 @@
 const figures = [
 
 {
+series:"sairen",
+name:"SILENT HILL 2　バブルヘッドナース",
+search:"ばぶるへっどなーす",
+type:"",
+price:900,
+date: "",
+img:"images/sairen/babu.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"sairen",
+name:"SILENT HILL 2　レッドピラミッドシング",
+search:"れっどぴらみどしんぐ",
+type:"",
+price:1000,
+date: "",
+img:"images/sairen/pira.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"zyuzyutu",
+name:"劇場版呪術廻戦0Luminasta“乙骨憂太”黒閃",
+search:"おっこつゆうた",
+type:"lum",
+price:600,
+date: "",
+img:"images/zyuzyutu/otukoto_kokusen.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"kimetu",
+name:"鬼滅の刃 フィギュア-絆ノ装-参拾捌ノ型",
+search:"小鉄　こてつ",
+type: "kizuna",
+price:600,
+date: "",
+img:"images/kimetu/kotetu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア THE AMAZING HEROES-PLUS-SHOTO TODOROKI Ⅱ",
+search:"轟焦凍",
+type:"ame",
+price:500,
+date: "",
+img:"images/hiro/todoroki2_ame.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"haikyu",
+name:"『劇場版ハイキュー!! ゴミ捨て場の決戦』 フィギュア-この瞬間をいつまでも-",
+search:"こづめけんま　孤爪研磨　くろおてつろう　黒尾鉄朗",
+type:"",
+price:700,
+date: "",
+img:"images/haikyu/kono.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hant",
+name:"HUNTER×HUNTER VIBRATION STARS-カイト-",
+search:"かいと",
+type:"memo",
+price:1200,
+date: "",
+img:"images/hant/kaito_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hant",
+name:"HUNTER×HUNTER Memorable Saga Special-ゴン-",
+search:"ごん",
+type:"memo",
+price:1800,
+date: "",
+img:"images/hant/gon_memo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレンYumemirizeフェルン～あの頃～",
+search:"ふぇるん",
+type:"yume",
+price:600,
+date: "",
+img:"images/furi-ren/fer_anokoro.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"yurukyan",
+name:"『ゆるキャン△ SEASON３』 志摩リン フィギュア",
+search:"しまりん",
+type:"",
+price:400,
+date: "",
+img:"images/yurukyan/simarin.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア フィギュア 緑谷出久・爆豪勝己～GiGO限定～ver.2",
+search:"みどりやいずく　でく　デク",
+type:"",
+price:800,
+date: "",
+img:"images/hiro/deku_gigo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"soniko",
+name:"『すーぱーそに子』 BiCute Bunnies Figure ーPearl White ver.ー",
+search:"すーぱーそにこ",
+type:"bani",
+price:600,
+date: "",
+img:"images/soniko/bani_w.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース ワールドコレクタブルフィギュア ログストーリーズ-エドワード・ニューゲートVSシャンクス-",
+search:"しろひげ　白ひげ　しゃんくす　シャンクス",
+type:"wakore",
+price:700,
+date: "",
+img:"images/wanpi/nyu_sya.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア THE AMAZING HEROES-DX-NEJIRE HADO",
+search:"はどうねじれ　波動ねじれ",
+type:"ame",
+price:900,
+date: "",
+img:"images/hiro/nezire_ame.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア フィギュア 緑谷出久・爆豪勝己～GiGO限定～ver.2",
+search:"ばくごうかつき",
+type:"",
+price:800,
+date: "",
+img:"images/hiro/bakugo_gigo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア FINAL SEASON FIGURE-IZUKU MIDORIYA-",
+search:"緑谷出久　みどりやいずく　でく　デク",
+type:"",
+price:800,
+date: "",
+img:"images/hiro/deku.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"nintama",
+name:"劇場版 忍たま乱太郎 土井半助 フィギュア",
+search:"どいはんすけ",
+type:"",
+price:300,
+date: "",
+img:"images/nintama/doi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-ジース＆グルド",
+search:"じーす",
+type:"syutu",
+price:600,
+date: "",
+img:"images/db/zisu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-ジース＆グルド",
+search:"ぐるど",
+type:"syutu",
+price:600,
+date: "",
+img:"images/db/gurudo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-リクーム＆バータ",
+search:"りくーむ",
+type:"syutu",
+price:800,
+date: "",
+img:"images/db/rikumu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-リクーム＆バータ",
+search:"ばーた",
+type:"syutu",
+price:800,
+date: "",
+img:"images/db/bata.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-ギニュー",
+search:"ぎにゅー",
+type:"syutu",
+price:400,
+date: "",
+img:"images/db/ginyu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"ruroken",
+name:"『るろうに剣心 ー明治剣客浪漫譚ー』 Trio-Try-iT Figure ー 緋村剣心 ー",
+search:"ひむらけんしん",
+type:"trio",
+price:500,
+date: "",
+img:"images/ruroken/kensin_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"monhan",
+name:"モンスターハンター 鎮座獣 リオレウス～激闘！雄火竜リオレウス～",
+search:"りおれうす",
+type:"tinza",
+price:400,
+date: "",
+img:"images/monhan/rio.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"monhan",
+name:"モンスターハンター 鎮座獣 ジンオウガ～月下雷鳴～",
+search:"じんおうが",
+type:"tinza",
+price:400,
+date: "",
+img:"images/monhan/zinou.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"tora",
+name:"『To LOVE る-とらぶる-ダークネス』 Trio-Try-iT Figure ― ララ・サタリン・デビルーク ―",
+search:"らら",
+type:"trio",
+price:700,
+date: "",
+img:"images/tora/rara_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース KING OF ARTIST THE YAMATO",
+search:"やまと",
+type:"koa",
+price:700,
+date: "",
+img:"images/wanpi/yamato_koa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"yugi",
+name:"アニメ「遊☆戯☆王」シリーズ　Monsters LEGION レッド・デーモンズ・ドラゴン",
+search:"れっどでーもんずどらごん",
+type:"mon",
+price:500,
+date: "",
+img:"images/yugi/reddemo.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 ソフビフィギュア-ガマ吉-",
+search:"がまきち",
+type:"sof",
+price:600,
+date: "",
+img:"images/naruto/gamakiti_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 ぬーどるストッパーフィギュア ー 竈門炭治郎×クラフトホリック ー ラウンドワン限定",
+search:"かまどたんじろう",
+type:"nusuto",
+price:1000,
+date: "",
+img:"images/kimetu/tanzi_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
 series:"keroro",
 name:"ケロロ軍曹 おおきなSOFVIMATES～ドロロ兵長～",
 search:"どろろへいちょう",
@@ -853,7 +1183,7 @@ series:"kimetu",
 name:"『鬼滅の刃』 ぬーどるストッパーフィギュア ー 甘露寺蜜璃×クラフトホリック ー ラウンドワン限定",
 search:"かんろじみつり",
 type:"nusuto",
-price:1300,
+price:1500,
 date: "",
 img:"images/kimetu/kanrozi_nusuto.jpg",
 source:"https://charahiroba.com/"
@@ -1766,7 +2096,7 @@ series:"soniko",
 name:"『すーぱーそに子』 BiCute Bunnies Figure ーpink ver.ー",
 search:"すーぱーそにこ",
 type:"bani",
-price:2000,
+price:800,
 date: "",
 img:"images/soniko/bani_p.jpg",
 source:"https://charahiroba.com/"
@@ -2593,7 +2923,7 @@ series:"soniko",
 name:"『すーぱーそに子』 BiCute Bunnies Figure ーRed ver.ー",
 search:"すーぱーそにこ",
 type:"bani",
-price:2000,
+price:500,
 date: "",
 img:"images/soniko/bani_r.jpg",
 source:"https://charahiroba.com/"
@@ -3509,7 +3839,7 @@ series:"hiro",
 name:"僕のヒーローアカデミア THE AMAZING HEROES-PLUS-KATSUKI BAKUGO Ⅲ",
 search:"ばくごうかつき　爆豪勝己",
 type:"ame",
-price:900,
+price:1000,
 date: "",
 img:"images/hiro/bakugo3_ame.jpg",
 source:"https://bsp-prize.jp/"
@@ -4214,7 +4544,7 @@ series:"king",
 name:"キングダム Grandista-王騎-",
 search:"はた　旗",
 type:"gra",
-price:1000,
+price:900,
 date: "",
 img:"images/king/hata_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -5418,7 +5748,7 @@ series:"kimetu",
 name:"『鬼滅の刃』 フィグライフ! 童磨",
 search:"どうま",
 type:"figl",
-price:1400,
+price:1200,
 date: "",
 img:"images/kimetu/doma_fig.jpg",
 source:"https://bsp-prize.jp/"
@@ -6896,7 +7226,6 @@ img:"images/nikke/sin_nusuto.jpg",
 source:"https://charahiroba.com/"
 },
 
-
 {
 series:"zyuzyutu",
 name:"『呪術廻戦』 Luminasta “宿儺” 「■」「開」",
@@ -7239,7 +7568,7 @@ series:"zyuzyutu",
 name:"『呪術廻戦』 FIGURIZMα　“宿儺”",
 search:"すくな",
 type:"fig",
-price:1700,
+price:1800,
 date: "",
 img:"images/zyuzyutu/sukuna_fig.jpg",
 source:"https://segaplaza.jp/"
