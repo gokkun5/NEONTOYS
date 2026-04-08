@@ -1,4 +1,8 @@
-//全部まとめる
+
+// ==========================================
+// 6. 巨大なプライズリストデータ (ここから下へ)
+// ==========================================
+
 const figures = [
 
 {
@@ -7709,19 +7713,25 @@ source:"https://bsp-prize.jp/"
 
 ];
 
+// ==========================================
+// 1. 変数と初期設定
+// ==========================================
+let isAllShowMode = false;
+const allShowBtn = document.getElementById('allShowBtn');
+
+// ==========================================
+// 2. 初期表示関数 (initShow)
+// ==========================================
 function initShow() {
   const today = new Date();
-  const period = 30; // 何日分を表示したいか（ここでは30日間）
+  const period = 30;
 
-  // 🔥 日付を計算して「最近追加されたもの」だけを抜き出す
   const newFigures = figures.filter(f => {
-    if (!f.date) return false; // 日付がないデータは無視
-    
+    if (!f.date) return false;
     const itemDate = new Date(f.date);
-    const diffTime = today - itemDate; // 今日との差分（ミリ秒）
-    const diffDays = diffTime / (1000 * 60 * 60 * 24); // 日数に変換
-    
-    return diffDays >= 0 && diffDays <= period; // 0日〜30日以内のもの
+    const diffTime = today - itemDate;
+    const diffDays = diffTime / (1000 * 60 * 60 * 24);
+    return diffDays >= 0 && diffDays <= period;
   });
 
   if (newFigures.length === 0) return;
@@ -7740,124 +7750,15 @@ function initShow() {
   });
 
   const listContainer = document.getElementById("figureList");
-  listContainer.innerHTML = html;
-  listContainer.classList.add('is-active');
-}
-
-function clearFilters() {
-  // 1. 各要素をIDで直接指定してリセット
-  const searchInput = document.getElementById("search");
-  const seriesSelect = document.getElementById("series");
-  const typeSelect = document.getElementById("type");
-  const priceSelect = document.getElementById("price");
-  const sortSelect = document.getElementById("sort");
-
-  // 2. それぞれの値を初期状態に戻す
-  if (searchInput) searchInput.value = "";
-  if (seriesSelect) seriesSelect.value = "all";
-  if (typeSelect) typeSelect.value = "all";
-  if (priceSelect) priceSelect.value = "all";
-  if (sortSelect) sortSelect.value = "none"; // ソートだけ初期値が"none"なので合わせる
-
-  // 3. 表示を最新の状態（リセット後）に更新
-  showFigures();
-
-  console.log("すべてのフィルターをクリアしました");
-}
-function showFigures() {
-  // --- 更新日の処理 ---
-  const updated = new Date(document.lastModified);
-  const formatted2 = updated.getFullYear() + "年" + 
-                     (updated.getMonth() + 1) + "月" + 
-                     updated.getDate() + "日";
-
-  // --- 入力値の取得 ---
-  const search = document.getElementById("search").value.toLowerCase();
-  const series = document.getElementById("series").value;
-  const type = document.getElementById("type").value;
-  const price = document.getElementById("price").value;
-  const sort = document.getElementById("sort").value;
-
-  let filtered = [...figures];
-
-  // --- フィルタリング処理 ---
-  if (series !== "all") {
-    filtered = filtered.filter(f => f.series === series);
-  }
-  if (type !== "all") {
-    filtered = filtered.filter(f =>
-      Array.isArray(f.type) ? f.type.includes(type) : f.type === type
-    );
-  }
-  if (price !== "all") {
-    filtered = filtered.filter(f => f.price == price);
-  }
-  if (search !== "") {
-    filtered = filtered.filter(f =>
-      f.name.toLowerCase().includes(search) ||
-      (f.search && f.search.toLowerCase().includes(search))
-    );
-  }
-
-  // --- ソート処理 ---
-  if (sort === "priceLow") {
-    filtered.sort((a, b) => a.price - b.price);
-  } else if (sort === "priceHigh") {
-    filtered.sort((a, b) => b.price - a.price);
-  } else if (sort === "name") {
-    filtered.sort((a, b) => a.name.localeCompare(b.name, "ja"));
-  }
-
-  // --- HTMLの生成 ---
-  let html = "";
-  filtered.forEach(f => {
-    html += `
-    <div class="card">
-      <img src="${f.img}" loading="lazy">
-      <h3 class="name">${f.name}</h3>
-      <p class="price">¥ ${f.price}</p>
-      ${f.source ? `<a href="${f.source}" target="_blank" class="source">出典リンク</a>` : ""}
-    </div>
-    `;
-  });
-
-  // --- 表示の反映とコントロール ---
-  const listContainer = document.getElementById("figureList");
-  listContainer.innerHTML = html;
-
-  // 🔥 条件に合うものがある時だけ表示クラスをつける
-  // 何も選択・入力されていない時（初期状態）は非表示のままにする工夫
-  const isDefault = (search === "" && series === "all" && type === "all" && price === "all");
-
-  if (html !== "" && !isDefault) {
+  if (listContainer) {
+    listContainer.innerHTML = html;
     listContainer.classList.add('is-active');
-  } else {
-    listContainer.classList.remove('is-active');
   }
 }
 
-
-
-// --- 追加：全表示モードの状態を管理 ---
-let isAllShowMode = false; 
-
-const allShowBtn = document.getElementById('allShowBtn');
-
-allShowBtn.addEventListener('click', () => {
-  isAllShowMode = !isAllShowMode; // モードを切り替え
-  
-  if (isAllShowMode) {
-    allShowBtn.textContent = '閉じる';
-    allShowBtn.classList.add('active'); // 必要ならCSSで色を変える用
-  } else {
-    allShowBtn.textContent = '全表示にする';
-    allShowBtn.classList.remove('active');
-  }
-  
-  showFigures(); // 再描画
-});
-
-// --- 既存の showFigures を少し書き換え ---
+// ==========================================
+// 3. 絞り込み表示関数 (showFigures)
+// ==========================================
 function showFigures() {
   const search = document.getElementById("search").value.toLowerCase();
   const series = document.getElementById("series").value;
@@ -7867,7 +7768,7 @@ function showFigures() {
 
   let filtered = [...figures];
 
-  // 🔥 修正：全表示モードではない時だけフィルターをかける
+  // 全表示モードではない時だけフィルターをかける
   if (!isAllShowMode) {
     if (series !== "all") {
       filtered = filtered.filter(f => f.series === series);
@@ -7888,7 +7789,7 @@ function showFigures() {
     }
   }
 
-  // ソート処理（全表示の時もソートは効かせたほうが使いやすいかも！）
+  // ソート
   if (sort === "priceLow") {
     filtered.sort((a, b) => a.price - b.price);
   } else if (sort === "priceHigh") {
@@ -7910,24 +7811,68 @@ function showFigures() {
   });
 
   const listContainer = document.getElementById("figureList");
-  listContainer.innerHTML = html;
-
-  // 🔥 修正：全表示モードなら強制的に is-active をつける
-  const isDefault = (search === "" && series === "all" && type === "all" && price === "all");
-
-  if (isAllShowMode || (html !== "" && !isDefault)) {
-    listContainer.classList.add('is-active');
-  } else {
-    listContainer.classList.remove('is-active');
+  if (listContainer) {
+    listContainer.innerHTML = html;
+    const isDefault = (search === "" && series === "all" && type === "all" && price === "all");
+    if (isAllShowMode || (html !== "" && !isDefault)) {
+      listContainer.classList.add('is-active');
+    } else {
+      listContainer.classList.remove('is-active');
+    }
   }
 }
 
-// --- 既存のクリアボタンに追記 ---
+// ==========================================
+// 4. フィルタークリア関数 (clearFilters)
+// ==========================================
 function clearFilters() {
-  // ...（既存のリセット処理）...
-  
-  isAllShowMode = false; // 全表示モードも解除
-  allShowBtn.textContent = '全表示にする';
-  
-  showFigures();
+  console.log("クリア処理を開始します");
+
+  // 見た目をリセット
+  const ids = ["search", "series", "type", "price", "sort"];
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    if (el) {
+      if (id === "sort") el.value = "none";
+      else if (id === "search") el.value = "";
+      else el.value = "all";
+    }
+  });
+
+  // モードをリセット
+  isAllShowMode = false;
+  if (allShowBtn) {
+    allShowBtn.textContent = '全表示にする';
+    allShowBtn.classList.remove('active');
+  }
+
+  // 画面を一旦真っさらにする
+  const listContainer = document.getElementById("figureList");
+  if (listContainer) {
+    listContainer.innerHTML = "";
+    listContainer.classList.remove('is-active');
+  }
+
+  // 初期表示（新着30日分）を呼び出す
+  initShow();
+
+  console.log("クリア処理がすべて完了しました");
 }
+
+// ==========================================
+// 5. ボタンのクリックイベント登録
+// ==========================================
+if (allShowBtn) {
+  allShowBtn.addEventListener('click', () => {
+    isAllShowMode = !isAllShowMode;
+    if (isAllShowMode) {
+      allShowBtn.textContent = '閉じる';
+      allShowBtn.classList.add('active');
+    } else {
+      allShowBtn.textContent = '全表示にする';
+      allShowBtn.classList.remove('active');
+    }
+    showFigures();
+  });
+}
+
