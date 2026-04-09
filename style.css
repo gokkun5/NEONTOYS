@@ -122,7 +122,30 @@ h1 img {
   background: #2a2a2a; /* ホバー時に少し明るく */
 }
 
+#pickupContainer {
+  width: 100%;
+  /* 高さを 40px から 30px くらいに絞って、余計な隙間をカットします */
+  min-height: 10px; 
+  display: flex;
+  align-items: center;  /* 文字を上下中央に */
+  margin-top: 10px;     /* 上の青い線との距離 */
+  margin-bottom: 5px;   /* 下のカードとの距離を最小限に */
+}
 
+.pickup-text {
+  /* 箱の高さに合わせて、文字を少しだけ小さく（18px）にします */
+  font-size: 25px;
+  color: #fffce1;
+  
+  /* 上下のマージンを 0 にして、箱（30px）の中にピタッと収めます */
+  margin: 0 0 0 20px; 
+  
+  text-shadow: 0 0 5px #fff, 0 0 10px #ffdf00, 0 0 20px #ffdf00;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  white-space: nowrap;
+  line-height: 1;       /* 文字自体の高さを最小限に */
+}
 
 /* ===== カード一覧（初期は非表示） ===== */
 #figureList {
