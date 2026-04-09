@@ -5,6 +5,325 @@
 const figures = [
 
 {
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 -Relax time-綱手",
+search:"つなで",
+type:"relax",
+price:1200,
+date: "",
+img:"images/naruto/tunade_relax.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-SENJU HASHIRAMA ＆ UCHIHA MADARA-",
+search:"千手柱間　せんじゅはしらま",
+type:"vib",
+price:800,
+date: "",
+img:"images/naruto/hasira_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-GĀRA-Ⅱ",
+search:"があら　我愛羅",
+type:"vib",
+price:800,
+date: "",
+img:"images/naruto/gara_vib2.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ History Box 孫悟空",
+search:"そんごくう",
+type: "his",
+price:700,
+date: "",
+img:"images/db/baibaigoku_his.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 ソフビフィギュア-ガマブン太-",
+search:"がまぶんた",
+type:"",
+price:800,
+date: "",
+img:"images/naruto/oyabun.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア Break time collection vol.7",
+search:"上鳴電気　かみなりでんき",
+type:"bre",
+price:1200,
+date: "",
+img:"images/hiro/kaminari_bre.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-ZETSU ＆ HOSHIGAKI KISAME-",
+search:"干柿鬼鮫　ほしがききさめ",
+type:"vib",
+price:1000,
+date: "",
+img:"images/naruto/kisame_72.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-OROCHIMARU-",
+search:"おろちまる　大蛇丸",
+type:"vib",
+price:500,
+date: "",
+img:"images/naruto/oroti1_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"oba",
+name:"オーバーロード アインズ・ウール・ゴウンフィギュア",
+search:"あいんずうーるごうん",
+type:"",
+price:1200,
+date: "",
+img:"images/oba/ainzu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kinniku",
+name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-ネメシス-",
+search:"ねめしす",
+type:"",
+price:300,
+date: "",
+img:"images/kinniku/neme.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kinniku",
+name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-ロビンマスク-",
+search:"ろびんますく",
+type:"",
+price:400,
+date: "",
+img:"images/kinniku/robinmasuku.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kinniku",
+name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-バッファローマン-",
+search:"ばっふぁろーまん",
+type:"",
+price:300,
+date: "",
+img:"images/kinniku/baffa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kinniku",
+name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-キン肉マン-",
+search:"きんにくまん",
+type:"",
+price:400,
+date: "",
+img:"images/kinniku/kinnikuman.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"アニメ「鬼滅の刃」 GLITTER&GLAMOURS-DAKI-",
+search:"堕姫　だき",
+type:"gli",
+price:800,
+date: "",
+img:"images/kimetu/daki_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-DEIDARA-",
+search:"デイダラ　でいだら",
+type:"vib",
+price:1200,
+date: "",
+img:"images/naruto/deidara_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UCHIHA SASUKE-Ⅳ",
+search:"うちはサスケ　さすけ",
+type:"vib",
+price:2100,
+date: "",
+img:"images/naruto/sasuke4_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-SASORI-",
+search:"さそり　サソリ",
+type:"vib",
+price:1200,
+date: "",
+img:"images/naruto/sasori_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-KONAN-",
+search:"小南　こなん",
+type:"vib",
+price:2000,
+date: "",
+img:"images/naruto/konan_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-TOBI ＆ KONAN-",
+search:"トビ",
+type:"vib",
+price:2200,
+date: "",
+img:"images/naruto/tobi_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-HIDAN-",
+search:"飛段　ひだん",
+type:"vib",
+price:1500,
+date: "",
+img:"images/naruto/hidan_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-KAKUZU ＆ PAIN-",
+search:"ペイン　ぺいん",
+type:"vib",
+price:1800,
+date: "",
+img:"images/naruto/pein_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-KAKUZU ＆ PAIN-",
+search:"かくず　角都",
+type:"vib",
+price:1200,
+date: "",
+img:"images/naruto/kakuzu_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"tora",
+name:"『To LOVE る-とらぶる-ダークネス』Trio-Try-iT Figure― 古手川唯 ―",
+search:"こてがわゆい",
+type:"trio",
+price:700,
+date: "",
+img:"images/tora/kotegawa_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"aimasu",
+name:"学園アイドルマスター ESPRESTO-Sweet moment-姫崎莉波",
+search:"ひめさきりなみ",
+type:"esp",
+price:700,
+date: "",
+img:"images/aimasu/rinami_esp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"-NARUTO 72 series- 63 VIBRATION STARS-HATAKE KAKASHI & UCHIHA OBITO-",
+search:"うちはオビト　おびと",
+type:["vib", "72"],
+price:1500,
+date: "",
+img:"images/naruto/obito_72.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kurosituzi",
+name:"アニメ「黒執事-寄宿学校編-」 PetiteWorldMemoriesミニフィギュア“セバスチャン・ミカエリス”",
+search:"せばすちゃん",
+type:"",
+price:500,
+date: "",
+img:"images/kurosituzi/seba_petite.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"dorakue",
+name:"ドラゴンクエスト　AM　ビッグフィギュア　カンダタ",
+search:"かんだた",
+type:"",
+price:600,
+date: "",
+img:"images/dorakue/kandata.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"tora",
+name:"To LOVEる-とらぶる-ダークネス GLITTER&GLAMOURS 黒咲芽亜",
+search:"めあ",
+type:"gli",
+price:500,
+date: "",
+img:"images/tora/mea_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"holo",
+name:"『ホロライブ』 ひっかけフィギュア Vol.1",
+search:"ほしまちすいせい",
+type:"hikkake",
+price:800,
+date: "",
+img:"images/holo/suise_hikkake.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
 series:"eva",
 name:"ヱヴァンゲリヲン新劇場版ちょこのせプレミアムフィギュア“式波・アスカ・ラングレー”",
 search:"しきなみあすからんぐれー",
@@ -185,7 +504,7 @@ series:"furi-ren",
 name:"『葬送のフリーレン』AMP＋ フリーレン フィギュア タイクレ限定",
 search:"ふりーれん",
 type:"amp",
-price:1800,
+price:1200,
 date: "",
 img:"images/furi-ren/furi_amp_taikure.jpg",
 source:"https://www.taito.co.jp/"
@@ -493,7 +812,7 @@ series:"zyuzyutu",
 name:"劇場版呪術廻戦0 Luminasta“乙骨憂太”黒閃",
 search:"おっこつゆうた",
 type:"lum",
-price:600,
+price:500,
 date: "",
 img:"images/zyuzyutu/otukoto_kokusen.jpg",
 source:"https://segaplaza.jp/"
@@ -691,7 +1010,7 @@ series:"db",
 name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-リクーム＆バータ",
 search:"ばーた",
 type:"syutu",
-price:800,
+price:900,
 date: "",
 img:"images/db/bata.jpg",
 source:"https://bsp-prize.jp/"
@@ -778,7 +1097,7 @@ source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 ソフビフィギュア-ガマ吉-",
 search:"がまきち",
-type:"sof",
+type:"",
 price:600,
 date: "",
 img:"images/naruto/gamakiti_sof.jpg",
@@ -1043,7 +1362,7 @@ series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 Grandista-UZUMAKI NARUTO-",
 search:"うずまきナルト　なると",
 type:"gra",
-price:2000,
+price:1900,
 date: "",
 img:"images/naruto/naruto_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -1648,7 +1967,7 @@ series:"kimetu",
 name:"『鬼滅の刃』 ぬーどるストッパーフィギュア ー 甘露寺蜜璃×クラフトホリック ー ラウンドワン限定",
 search:"かんろじみつり",
 type:"nusuto",
-price:1500,
+price:1300,
 date: "",
 img:"images/kimetu/kanrozi_nusuto.jpg",
 source:"https://charahiroba.com/"
@@ -3278,7 +3597,7 @@ series:"pansuto",
 name:"『New PANTY ＆ STOCKING with GARTERBELT』 BRILLIANT フィギュア ストッキング",
 search:"すとっきんぐ",
 type:"bri",
-price:1600,
+price:1200,
 date: "",
 img:"images/pansuto/suto_bri.jpg",
 source:"http://fansclub.jp/pc/top/"
@@ -5009,7 +5328,7 @@ series:"king",
 name:"キングダム Grandista-王騎-",
 search:"はた　旗",
 type:"gra",
-price:900,
+price:800,
 date: "",
 img:"images/king/hata_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -5153,7 +5472,7 @@ series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS<br>-SENJU TOBIRAMA ＆ OROCHIMARU-",
 search:"おろちまる",
 type:"vib",
-price:600,
+price:500,
 date: "",
 img:"images/naruto/oroti_vib.jpg",
 source:"https://bsp-prize.jp/"
@@ -7128,7 +7447,7 @@ series:"pokemon",
 name:"『ポケモンマスターズ EX』PANEL SPECTACLE<br>～アルコスシロナ&メガガブリアス～",
 search:"しろな　がぶりあす",
 type:"",
-price:1000,
+price:900,
 date: "",
 img:"images/pokemon/sirona.jpg",
 source:"https://bsp-prize.jp/"
@@ -7674,7 +7993,7 @@ series:"pansuto",
 name:"『New PANTY ＆ STOCKING with GARTERBELT』 <br>BRILLIANT フィギュア パンティ",
 search:"ぱんてぃ",
 type:"bri",
-price:1800,
+price:1200,
 date: "",
 img:"images/pansuto/panty.jpg",
 source:"http://fansclub.jp/pc/top/"
@@ -7883,7 +8202,7 @@ series:"db",
 name:"『ドラゴンボールZ』SOLID EDGE WORKS -THE出陣- ブロリーⅡ",
 search:"ぶろりー",
 type:"syutu",
-price:800,
+price:700,
 date: "",
 img:"images/db/burori_syutu.jpg",
 source:"https://bsp-prize.jp/"
