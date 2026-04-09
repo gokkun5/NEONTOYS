@@ -7113,7 +7113,7 @@ search:"ほかげいわ",
 type:"figl",
 price:700,
 date: "",
-img:"images/naruto/boruto_fig2.jpg",
+img:"images/naruto/hokageiwa1.jpg",
 source:"https://bsp-prize.jp/"
 },
 
@@ -7124,7 +7124,7 @@ search:"ほかげいわ",
 type:"figl",
 price:700,
 date: "",
-img:"images/naruto/boruto_fig.jpg",
+img:"images/naruto/hokageiwa2.jpg",
 source:"https://bsp-prize.jp/"
 },
 
