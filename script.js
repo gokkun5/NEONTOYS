@@ -10,7 +10,7 @@ name:"NARUTO-ナルト- 疾風伝 -Relax time-綱手",
 search:"つなで",
 type:"relax",
 price:1200,
-date: "",
+date: "2026-04-02",
 img:"images/naruto/tunade_relax.jpg",
 source:"https://bsp-prize.jp/"
 },
@@ -379,7 +379,7 @@ source:"https://segaplaza.jp/"
 },
 
 {
-series:"naruto",
+series:"tyen",
 name:"チェンソーマン VIBRATION STARS-CHAINSAW MAN-Ⅱ",
 search:"ちぇんそーまん",
 type:"vib",
@@ -8534,6 +8534,10 @@ function initShow() {
     listContainer.innerHTML = html;
     listContainer.classList.add('is-active');
   }
+
+// ★ここを追加！ ページを開いた時は「全表示ではない」のでtrueを渡す
+  updatePickupTitle(true);
+
 }
 
 // ==========================================
@@ -8579,7 +8583,27 @@ function showFigures() {
   }
 
   let html = "";
+
+// ★判定用の日付を準備
+  const today = new Date();
+  const period = 30;
+
+
   filtered.forEach(f => {
+
+
+// ★30日以内ならNEWバッジをつける判定
+    let badgeHtml = "";
+    if (f.date) {
+      const itemDate = new Date(f.date);
+      const diffTime = today - itemDate;
+      const diffDays = diffTime / (1000 * 60 * 60 * 24);
+      if (diffDays >= 0 && diffDays <= period) {
+        badgeHtml = '<div class="new-badge">NEW</div>';
+      }
+    }
+
+
     html += `
     <div class="card">
       <img src="${f.img}" loading="lazy">
@@ -8600,6 +8624,11 @@ function showFigures() {
       listContainer.classList.remove('is-active');
     }
   }
+
+  // 30日以内のアイテムが1つでもリストに含まれているか確認
+  const hasNewItem = html.includes('new-badge');
+  updatePickupTitle(!isAllShowMode && hasNewItem);
+
 }
 
 // ==========================================
@@ -8653,6 +8682,22 @@ if (allShowBtn) {
       allShowBtn.classList.remove('active');
     }
     showFigures();
+
+updatePickupTitle(!isAllShowMode);
+
   });
 }
 
+// ==========================================
+// PICKUP文字を制御する専用関数
+// ==========================================
+function updatePickupTitle(show) {
+  const container = document.getElementById("pickupContainer");
+  if (!container) return;
+
+  if (show && !isAllShowMode) {
+    container.innerHTML = '<h2 class="pickup-text">PICKUP</h2>';
+  } else {
+    container.innerHTML = '';
+  }
+}
