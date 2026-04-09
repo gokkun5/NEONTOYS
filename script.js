@@ -2,8 +2,348 @@
 // ==========================================
 // 6. 巨大なプライズリストデータ (ここから下へ)
 // ==========================================
-
 const figures = [
+
+{
+series:"eva",
+name:"ヱヴァンゲリヲン新劇場版ちょこのせプレミアムフィギュア“式波・アスカ・ラングレー”",
+search:"しきなみあすからんぐれー",
+type:"tyoko",
+price:700,
+date: "",
+img:"images/eva/asuka_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"haikyu",
+name:"ハイキュー!! ポージングフィギュア-宮 侑-",
+search:"みやあつむ",
+type:"",
+price:600,
+date: "",
+img:"images/haikyu/atumu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"-NARUTO 72 series- 26＆27 VIBRATION STARS-UZUMAKI NARUTO & UCHIHA SASUKE-",
+search:"うずまきナルト　なると",
+type:["vib", "72"],
+price:800,
+date: "",
+img:"images/naruto/naruto26_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦懐玉・玉折Luminasta“伏黒甚爾”天与呪縛",
+search:"ふしぐろとうじ",
+type:"lum",
+price:1500,
+date: "",
+img:"images/zyuzyutu/tozi_tenyo.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"tyen",
+name:"劇場版『チェンソーマンレゼ篇』ハイプレミアムフィギュア“レゼ”",
+search:"れぜ",
+type: "hi",
+price:2700,
+date: "",
+img:"images/tyen/reze_hi.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"naruto",
+name:"チェンソーマン VIBRATION STARS-CHAINSAW MAN-Ⅱ",
+search:"ちぇんそーまん",
+type:"vib",
+price:2300,
+date: "",
+img:"images/tyen/tyen2_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦懐玉・玉折FIGURIZMα“夏油傑”",
+search:"げとうすぐる",
+type:"fig",
+price:800,
+date: "",
+img:"images/zyuzyutu/geto_fig.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"sibo",
+name:"死亡遊戯で飯を食う。ちょこのせプレミアムフィギュア“幽鬼”",
+search:"ゆうき",
+type:"tyoko",
+price:1600,
+date: "",
+img:"images/sibo/yuki_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"ruri",
+name:"TVアニメ「瑠璃の宝石」ちょこのせプレミアムフィギュア“ナギ”",
+search:"なぎ",
+type:"tyoko",
+price:300,
+date: "",
+img:"images/ruri/nagi_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"ruri",
+name:"TVアニメ「瑠璃の宝石」ちょこのせプレミアムフィギュア“ルリ”",
+search:"るり",
+type:"tyoko",
+price:300,
+date: "",
+img:"images/ruri/ruri_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"gundam",
+name:"機動戦士Gundam GQuuuuuuX 限械突破 白いガンダム",
+search:"しろいがんだむ",
+type:"",
+price:400,
+date: "",
+img:"images/gundam/siroi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"spy",
+name:"SPY×FAMILY ESPRESTO-School style-アーニャ・フォージャー Another color ver.",
+search:"あーにゃふぉーじゃー",
+type:"esp",
+price:700,
+date: "",
+img:"images/spy/anya_sp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』Coreful フィギュア フリーレン",
+search:"ふりーれん",
+type:"core",
+price:600,
+date: "",
+img:"images/furi-ren/furi_core.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UZUMAKI NARUTO-Ⅴ SPECIAL",
+search:"うずまきナルト　なると",
+type:"vib",
+price:1800,
+date: "",
+img:"images/naruto/naruto5_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kisekoi",
+name:"『宇崎ちゃんは遊びたい！ω』Desktop Cute フィギュア 宇崎月～浜辺で水着ver.～ タイクレ限定",
+search:"うざきつき",
+type:"desk",
+price:1800,
+date: "",
+img:"images/uzaki/tuki_desk_taikure.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"kisekoi",
+name:"『その着せ替え人形は恋をする』AMP＋ 喜多川海夢 フィギュア〜ブラックロベリア ver.〜タイクレ限定",
+search:"ぶらっくろべりあ",
+type:"amp",
+price:800,
+date: "",
+img:"images/kisekoi/burarobe_amp_taikure.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"furi-ren",
+name:"『葬送のフリーレン』AMP＋ フリーレン フィギュア タイクレ限定",
+search:"ふりーれん",
+type:"amp",
+price:1800,
+date: "",
+img:"images/furi-ren/furi_amp_taikure.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"little",
+name:"LITTLE NIGHTMARES -リトルナイトメア- モニタートップフィギュアvol.2",
+search:"ろぅ",
+type:"",
+price:1000,
+date: "",
+img:"images/little/ro.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"mono",
+name:"TVアニメ「mono」ちょこのせプレミアムフィギュア“雨宮さつき”",
+search:"あまみやさつき",
+type:"tyoko",
+price:400,
+date: "",
+img:"images/mono/satuki_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"gotoyome",
+name:"『五等分の花嫁＊』 BiCute Dark Figure ー 中野一花 ー",
+search:"なかのいちか",
+type:"daku",
+price:1000,
+date: "",
+img:"images/gotoyome/itika_dark.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア フィギュア 緑谷出久・爆豪勝己～GiGO限定～ver.3",
+search:"みどりやいずく　デク　でく",
+type:"",
+price:700,
+date: "",
+img:"images/hiro/deku_gigo3.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア フィギュア アーマードオールマイト　オール・フォー・ワン～GiGO限定～",
+search:"おーるふぉーわん",
+type:"",
+price:700,
+date: "",
+img:"images/hiro/one.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hant",
+name:"HUNTER×HUNTER VIBRATION STARS-ゴン-Ⅱ",
+search:"ごん",
+type:"vib",
+price:800,
+date: "",
+img:"images/hant/gon2_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"dorakue",
+name:"ドラゴンクエスト　AM　伝説の魔王フィギュア　ゾーマ",
+search:"ぞーま",
+type:"",
+price:400,
+date: "",
+img:"images/dorakue/zoma.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレンちょこのせプレミアムフィギュア“フリーレン”～縦ロールになっちゃった～",
+search:"ふりーれん",
+type:"tyoko",
+price:1000,
+date: "",
+img:"images/furi-ren/tateroru_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレン Glasscape-フリーレン-",
+search:"ふりーれん",
+type:"",
+price:1300,
+date: "",
+img:"images/furi-ren/furi_glass.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレン Glasscape-フェルン-",
+search:"ふぇるん",
+type:"",
+price:500,
+date: "",
+img:"images/furi-ren/fer_glass.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース ワールドコレクタブルフィギュア ログストーリーズｰモンキー・D・ルフィ＆ゴーイング・メリー号ｰ",
+search:"るふぃ　ごーいんぐめりーごう",
+type:"wakore",
+price:700,
+date: "",
+img:"images/wanpi/rufi_meri.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース Grandista-RORONOA ZORO-",
+search:"ろろのあぞろ　ロロノアゾロ",
+type:"gra",
+price:1200,
+date: "",
+img:"images/wanpi/zoro_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"yugi",
+name:"遊戯王カードゲーム　Equal Arts ブラック・マジシャン",
+search:"ぶらっくまじしゃん",
+type:"equ",
+price:700,
+date: "",
+img:"images/yugi/burakku.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"yugi",
+name:"遊戯王カードゲーム　Equal Arts ブラック・マジシャン・ガール",
+search:"ぶらっくまじしゃんがーる",
+type:"equ",
+price:700,
+date: "",
+img:"images/yugi/buramazi.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
 
 {
 series:"db",
@@ -150,7 +490,7 @@ source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
 
 {
 series:"zyuzyutu",
-name:"劇場版呪術廻戦0Luminasta“乙骨憂太”黒閃",
+name:"劇場版呪術廻戦0 Luminasta“乙骨憂太”黒閃",
 search:"おっこつゆうた",
 type:"lum",
 price:600,
@@ -196,7 +536,7 @@ source:"https://bsp-prize.jp/"
 series:"hant",
 name:"HUNTER×HUNTER VIBRATION STARS-カイト-",
 search:"かいと",
-type:"memo",
+type:"vib",
 price:1200,
 date: "",
 img:"images/hant/kaito_vib.jpg",
@@ -1185,9 +1525,9 @@ source:"https://bsp-prize.jp/"
 {
 series:"naruto",
 name:"-NARUTO 72 series- 26＆27 VIBRATION STARS-UZUMAKI NARUTO & UCHIHA SASUKE-",
-search:"うちはサスケ",
+search:"うちはサスケ　さすけ",
 type:["vib", "72"],
-price:1000,
+price:700,
 date: "",
 img:"images/naruto/sasuke_vib_naru.jpg",
 source:"https://bsp-prize.jp/"
@@ -2045,7 +2385,7 @@ series:"monsuto",
 name:"モンスターストライク ESPRESTO-Ordinary chronicles-マサムネ",
 search:"まさむね",
 type:"esp",
-price:200,
+price:300,
 date: "",
 img:"images/monsuto/masamune.jpg",
 source:"https://bsp-prize.jp/"
@@ -2827,7 +3167,7 @@ series:"madomagi",
 name:"マギアレコード 魔法少女まどか★マギカ外伝 Splash Girls 暁美ほむら",
 search:"あけみほむら",
 type:"",
-price:1200,
+price:1000,
 date: "",
 img:"images/madomagi/homura_sp.jpg",
 source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
@@ -2838,7 +3178,7 @@ series:"madomagi",
 name:"マギアレコード 魔法少女まどか★マギカ外伝 Splash Girls 鹿目まどか",
 search:"かなめまどか",
 type:"",
-price:1200,
+price:1000,
 date: "",
 img:"images/madomagi/madoka_sp.jpg",
 source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
@@ -2938,7 +3278,7 @@ series:"pansuto",
 name:"『New PANTY ＆ STOCKING with GARTERBELT』 BRILLIANT フィギュア ストッキング",
 search:"すとっきんぐ",
 type:"bri",
-price:1800,
+price:1600,
 date: "",
 img:"images/pansuto/suto_bri.jpg",
 source:"http://fansclub.jp/pc/top/"
@@ -3169,7 +3509,7 @@ series:"hant",
 name:"『HUNTER×HUNTER』 ぬーどるストッパーフィギュア ー キルア ー",
 search:"きるあ",
 type:"nusuto",
-price:2400,
+price:2000,
 date: "",
 img:"images/hant/kirua_nusuto.jpg",
 source:"https://charahiroba.com/"
@@ -3235,7 +3575,7 @@ series:"zyuzyutu",
 name:"アニメ『呪術廻戦』5周年 Luminasta“五条悟”",
 search:"ごじょうさとる",
 type: "lum",
-price:1200,
+price:1100,
 date: "",
 img:"images/zyuzyutu/gozyo_rauwan.jpg",
 source:"https://segaplaza.jp/"
@@ -3411,7 +3751,7 @@ series:"zyuzyutu",
 name:"呪術廻戦懐玉・玉折FIGURIZMα“五条悟”術式反転「赫」",
 search:"ごじょうさとる",
 type:"fig",
-price:1000,
+price:800,
 date: "",
 img:"images/zyuzyutu/gozyo_fig_aka.jpg",
 source:"https://segaplaza.jp/"
@@ -4020,7 +4360,7 @@ series:"wanpi",
 name:"ワンピース KING OF ARTIST THE MONKEY.D.LUFFY GEAR5 Ⅱ",
 search:"るふぃ　にか　ルフィ　ニカ",
 type:"koa",
-price:600,
+price:700,
 date: "",
 img:"images/wanpi/nika2_koa.jpg",
 source:"https://bsp-prize.jp/"
@@ -4295,7 +4635,7 @@ series:"zyuzyutu",
 name:"虎杖悠仁 呪術廻戦 Grandista ITADORI YUJI",
 search:"いたどりゆうじ",
 type:"gra",
-price:700,
+price:750,
 date: "",
 img:"images/zyuzyutu/itadori_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -4372,7 +4712,7 @@ series:"zyuzyutu",
 name:"呪術廻戦 MAXIMATIC CHOSO-死滅回游-",
 search:"ちょうそう",
 type:"ma",
-price:800,
+price:1000,
 date: "",
 img:"images/zyuzyutu/tyouso_ma2.jpg",
 source:"https://bsp-prize.jp/"
@@ -5796,7 +6136,7 @@ series:"wanpi",
 name:"『ワンピース』 Grandista -RORONOA ZORO Ⅱ-",
 search:"ロロノアゾロ　ろろのあぞろ",
 type:"gra",
-price:1100,
+price:1000,
 date: "",
 img:"images/wanpi/zoro_gra2.jpg",
 source:"https://bsp-prize.jp/"
@@ -6150,7 +6490,7 @@ series:"tensura",
 name:"劇場版 転生したらスライムだった件 蒼海の涙編<br>魔王リムル=テンペスト フィギュア",
 search:"りむるてんぺすと",
 type:"",
-price:900,
+price:800,
 date: "",
 img:"images/tensura/rimuru_maou.jpg",
 source:"https://bsp-prize.jp/"
@@ -6777,7 +7117,7 @@ series:"ika",
 name:"『侵略!イカ娘』 Trio-Try-iT Figure ー イカ娘 ー",
 search:"いかむすめ",
 type:"trio",
-price:1000,
+price:900,
 date: "",
 img:"images/ika/ika.jpg",
 source:"https://charahiroba.com/"
@@ -6898,7 +7238,7 @@ series:"zyuzyutu",
 name:"『呪術廻戦 死滅回游』 Luminasta　“脹相”",
 search:"ちょうそう",
 type: "lum",
-price:1400,
+price:1500,
 date: "",
 img:"images/zyuzyutu/tyousou_lum.jpg",
 source:"https://segaplaza.jp/"
@@ -6909,7 +7249,7 @@ series:"vtu",
 name:"『赤見かるびの「お笑いかるび塾」』<br>Luminasta　“赤見かるび”",
 search:"あかみかるび",
 type: "lum",
-price:800,
+price:700,
 date: "",
 img:"images/vtu/akami_lum.jpg",
 source:"https://segaplaza.jp/"
@@ -7521,7 +7861,7 @@ series:"naruto",
 name:"『-NARUTO 72 series- 45』 Grandista <br>-UZUMAKI NARUTO-",
 search:"うずまきなると　うずまきナルト",
 type: ["gra", "72"],
-price:1500,
+price:1300,
 date: "",
 img:"images/naruto/naruto_gra3.jpg",
 source:"https://bsp-prize.jp/"
