@@ -8673,18 +8673,18 @@ function clearFilters() {
 // ==========================================
 if (allShowBtn) {
   allShowBtn.addEventListener('click', () => {
-    isAllShowMode = !isAllShowMode;
-    if (isAllShowMode) {
-      allShowBtn.textContent = '閉じる';
-      allShowBtn.classList.add('active');
-    } else {
-      allShowBtn.textContent = '全表示にする';
-      allShowBtn.classList.remove('active');
-    }
+    // モードを強制的に true (全表示) にする
+    isAllShowMode = true;
+
+    /* ★ここを修正：
+       ボタンの文字を「閉じる」に変えたり、
+       activeクラスをつけたりする処理をすべて削除しました
+    */
+
     showFigures();
-
-updatePickupTitle(!isAllShowMode);
-
+    
+    // 全表示なので看板は消す
+    updatePickupTitle(false); 
   });
 }
 
