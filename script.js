@@ -6,6 +6,127 @@
 const figures = [
 
 {
+series:"db",
+name:"ドラゴンボールZ MATCH MAKERS ジャネンバ（VS超サイヤ人ゴジータ）",
+search:"じゃねんば",
+type: "mat",
+price:400,
+date: "",
+img:"images/db/zyane_mat.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールGT BLOOD OF SAIYANS-超サイヤ人4ゴジータ-",
+search:"ごじーた",
+type: "blood",
+price:900,
+date: "",
+img:"images/db/gozi4_blood.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ MATCH MAKERS 超サイヤ人孫悟飯（VSセル）",
+search:"ごはん",
+type: "mat",
+price:900,
+date: "",
+img:"images/db/goha_mat.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ MATCH MAKERS セル（VS超サイヤ人孫悟飯）",
+search:"せる",
+type: "mat",
+price:600,
+date: "",
+img:"images/db/seru_mat.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ MATCH MAKERS 超サイヤ人3ゴテンクス（VS魔人ブウ）",
+search:"ごてんくす",
+type: "mat",
+price:700,
+date: "",
+img:"images/db/gote_mat.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ MATCH MAKERS アルティメット悟飯（VS魔人ブウ）",
+search:"ごはん",
+type: "mat",
+price:500,
+date: "",
+img:"images/db/arugoha_mat.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ G×materia TURLES",
+search:"たーれす",
+type: "gma",
+price:450,
+date: "",
+img:"images/db/tare_gmate.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ MATCH MAKERS 魔人ブウ（VS超サイヤ人3ゴテンクス）",
+search:"ぶう",
+type: "mat",
+price:500,
+date: "",
+img:"images/db/bu3_mat.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE 出陣-フリーザⅡ",
+search:"ふりーざ",
+type: "syutu",
+price:1000,
+date: "",
+img:"images/db/furi2_syutu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ BLOOD OF SAIYANS-超サイヤ人ブロリー-",
+search:"ぶろりー",
+type: "blood",
+price:600,
+date: "",
+img:"images/db/buro_blood.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"mahoako",
+name:"TVアニメ「魔法少女にあこがれて」　Vivitフィギュア レオパルト",
+search:"れおぱると",
+type:"vivi",
+price:600,
+date: "",
+img:"images/mahoako/reo_vivit.jpg",
+source:"http://fansclub.jp/pc/top/"
+},
+
+{
 series:"sairen",
 name:"SILENT HILL 2　バブルヘッドナース",
 search:"ばぶるへっどなーす",
@@ -6359,7 +6480,7 @@ series:"db",
 name:"『DRAGON BALL Z DOKKAN BATTLE』 10TH ANNIVERSARY FIGURE -超ゴジータ-",
 search:"ごじーた",
 type: "",
-price:700,
+price:800,
 date: "",
 img:"images/db/dokkan_gozi.jpg",
 source:"https://bsp-prize.jp/"
@@ -6392,7 +6513,7 @@ series:"db",
 name:"『ドラゴンボールZ』 MATCH MAKERS 魔人ブウ<br>（VSアルティメット悟飯）",
 search:"まじんぶう",
 type:"mat",
-price:650,
+price:700,
 date: "",
 img:"images/db/bu_mat2.jpg",
 source:"https://bsp-prize.jp/"
