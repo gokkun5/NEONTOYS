@@ -6,6 +6,260 @@ const figures = [
 
 {
 series:"wanpi",
+name:"ワンピース KING OF ARTIST THE MONKEY.D.LUFFY-SPECIAL ver.-",
+search:"るふぃ　ルフィ",
+type:"koa",
+price:800,
+date: "",
+img:"images/wanpi/gia4_sp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース Grandista-MONKEY.D.LUFFY GEAR5-Ⅱ",
+search:"るふぃ　にか　ルフィ　ニカ",
+type:"gra",
+price:700,
+date: "",
+img:"images/wanpi/nika2_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 ジオラマフィギュア-五条悟・夏油傑(スーツVer.)Special-",
+search:"五条悟　ごじょうさとる　夏油傑　げとうすぐる",
+type: "",
+price:1500,
+date: "",
+img:"images/zyuzyutu/manzai.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kimetu",
+name:"アニメ「鬼滅の刃」 フィギュア-鬼ノ装-拾伍の型",
+search:"かいがく　獪岳",
+type: "oni",
+price:1000,
+date: "",
+img:"images/kimetu/kaigaku_oni.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"aohako",
+name:"アオのハコ 蝶野雛 フィギュア 制服ver.",
+search:"ちょうのひな",
+type:"",
+price:1000,
+date: "",
+img:"images/aohako/tyono.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレンXStellar“フリーレン”～とある祭りにて～",
+search:"ふりーれん",
+type:"xs",
+price:500,
+date: "",
+img:"images/furi-ren/furi_xs_arumati.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース THE出航-DRACULE.MIHAWK-",
+search:"みほーく　ミホーク",
+type:"syukko",
+price:500,
+date: "",
+img:"images/wanpi/miho_syukko.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA TRAFALGAR.LAW CHANGE ver.",
+search:"ろー　ロー",
+type:"dxf",
+price:400,
+date: "",
+img:"images/wanpi/ro_mesu_dxf.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA SHANKS",
+search:"シャンクス　しゃんくす",
+type:"dxf",
+price:500,
+date: "",
+img:"images/wanpi/syankusu_dxf.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"konosuba",
+name:"アニメ『この素晴らしい世界に祝福を！３』　１／７スケールフィギュア　めぐみん",
+search:"",
+type:"",
+price:1100,
+date: "",
+img:"images/konosuba/megu_17.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"toribe",
+name:"『東京リベンジャーズ』 ぬーどるストッパーフィギュア ー灰谷竜胆ー",
+search:"はいたにりんどう",
+type:"nusuto",
+price:500,
+date: "",
+img:"images/toribe/haitani_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"miku",
+name:"『初音ミクシリーズ』 ぬーどるストッパーフィギュア ー桜ミク2023 にっこりver.ー",
+search:"さくらみく",
+type:"nusuto",
+price:1500,
+date: "",
+img:"images/miku/sakura2023_nikkori.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 九喇嘛フィギュア",
+search:"くらま",
+type:"",
+price:1300,
+date: "",
+img:"images/naruto/kurama.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-セル",
+search:"せる",
+type: "syutu",
+price:1200,
+date: "",
+img:"images/db/seru_syutu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gotoyome",
+name:"『五等分の花嫁∽』 Trio-Try-iT Figure ー 中野二乃・パステルドレス ー",
+search:"なかのにの",
+type:"trio",
+price:350,
+date: "",
+img:"images/gotoyome/nino_pasuteru.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"masyu",
+name:"TVアニメ『マッシュル-MASHLE-』Luminasta“レイン・エイムズ”",
+search:"れいんえいむず",
+type: "lum",
+price:800,
+date: "",
+img:"images/masyu/rein_lum.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zyurasikku",
+name:"ジュラシック・ワールド／復活の大地ACT/CUTプレミアムフィギュア“モササウルス”",
+search:"もささうるす",
+type:"act",
+price:400,
+date: "",
+img:"images/zyurasikku/mosa.jpg",
+source:"https://segaplaza.jp/"
+},
+
+
+{
+series:"kaizyu",
+name:"怪獣８号 Grandista-怪獣８号-",
+search:"かいじゅうはちごう",
+type:"gra",
+price:500,
+date: "",
+img:"images/kaizyu/kaizyu_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"fate",
+name:"『Fate/Grand Order』 Trio-Try-iT Figure アーチャー/バーヴァン・シー（第二再臨）",
+search:"ばーヴぁんしー",
+type:"trio",
+price:800,
+date: "",
+img:"images/fate/bava_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"gozira",
+name:"『ゴジラ（1954）』 ゴジラルームライト",
+search:"ごじら",
+type: "hoko",
+price:300,
+date: "",
+img:"images/gozira/1954_rumu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア THE AMAZING HEROES-PLUS-IZUKU MIDORIYA",
+search:"でく　みどりやいずく　緑谷出久　デク",
+type:"ame",
+price:800,
+date: "",
+img:"images/hiro/deku_ame_p.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア Break time collection vol.6",
+search:"あすいつゆ　蛙吹梅雨",
+type:"bre",
+price:800,
+date: "",
+img:"images/hiro/tuyu_break.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpan",
+name:"ワンパンマン フィギュア#2 ジェノス",
+search:"じぇのす",
+type:"",
+price:800,
+date: "",
+img:"images/wanpan/zyenosu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
 name:"ワンピース DXF～THE GRANDLINE SERIES～エッグヘッド JEWELRY.BONNEY",
 search:"ボニー　ぼにー",
 type:"dxf",
@@ -280,7 +534,7 @@ source:"https://segaplaza.jp/"
 },
 
 {
-series:"naruto",
+series:"wanpi",
 name:"ワンピース ルームライト モンキー・D・ルフィ GEAR5-解放のドラム-",
 search:"るふぃ　にか",
 type:"",
@@ -359,7 +613,7 @@ source:"https://www.taito.co.jp/"
 {
 series:"umamusume",
 name:"TVアニメ『ウマ娘 プリティーダービー Season 3』 -Relax time-シュヴァルグラン Another ver.",
-search:"",
+search:"しゅヴぁるぐらん",
 type:"relax",
 price:700,
 date: "",
@@ -1890,7 +2144,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア THE AMAZING HEROES-PLUS-SHOTO TODOROKI Ⅱ",
-search:"轟焦凍",
+search:"轟焦凍　とどろきしょうと",
 type:"ame",
 price:500,
 date: "",
@@ -2935,7 +3189,7 @@ source:"https://segaplaza.jp/"
 {
 series:"mar",
 name:"MARVELLuminasta“ヴェノム～キング・イン・ブラック～”",
-search:"",
+search:"ヴぇのむ",
 type: "lum",
 price:800,
 date: "",
@@ -3223,7 +3477,7 @@ series:"furi-ren",
 name:"葬送のフリーレンLuminasta“フリーレン”～メイド服～",
 search:"ふりーれん",
 type:"lum",
-price:1200,
+price:1300,
 date: "",
 img:"images/furi-ren/furi_meido.jpg",
 source:"https://segaplaza.jp/"
@@ -4796,7 +5050,7 @@ source:"https://charahiroba.com/"
 {
 series:"hiro",
 name:"僕のヒーローアカデミア SOFVIMATES～エンデヴァー～",
-search:"えんで",
+search:"えんでヴぁー",
 type: "sof",
 price:1600,
 date: "",
@@ -5803,7 +6057,7 @@ series:"zyuzyutu",
 name:"呪術廻戦 KING OF ARTIST SATORU GOJO-懐玉・玉折-Ⅱ",
 search:"ごじょうさとる　五条悟",
 type:"koa",
-price:900,
+price:800,
 date: "",
 img:"images/zyuzyutu/gozyo2_koa.jpg",
 source:"https://bsp-prize.jp/"
@@ -6904,7 +7158,7 @@ series:"buri",
 name:"BLEACH MAXIMATIC ULQUIORRA CIFER",
 search:"うるきおらしふぁー　ウルキオラシファー",
 type:"ma",
-price:1500,
+price:1300,
 date: "",
 img:"images/buri/uru_ma.jpg",
 source:"https://bsp-prize.jp/"
@@ -7491,7 +7745,7 @@ series:"wanpi",
 name:"『ワンピース』 KING OF ARTIST MONKEY.D.LUFFY -ワノ国 Ⅱ SPECIAL ver.-",
 search:"るふぃ　ルフィ",
 type:"koa",
-price:1000,
+price:800,
 date: "",
 img:"images/wanpi/rufi_wa2_koa.jpg",
 source:"https://bsp-prize.jp/"
@@ -8981,7 +9235,7 @@ source:"https://charahiroba.com/"
 {
 series:"singeki",
 name:"Grandista　-リヴァイ-",
-search:"",
+search:"りヴぁい",
 type:"gra",
 price:1500,
 date: "",
@@ -9322,7 +9576,7 @@ series:"miku",
 name:"『初音ミクシリーズ』 Trio-Try-iT Figure <br>ー 雪ミクxクロミ ー",
 search:"はつねみく　くろみ　ゆきみく",
 type:"trio",
-price:2400,
+price:2800,
 date: "",
 img:"images/miku/kuromi_miku.jpg",
 source:"https://charahiroba.com/"
@@ -9375,7 +9629,7 @@ source:"https://segaplaza.jp/"
 {
 series:"miku",
 name:"初音ミク ぬーどるストッパー　-ヴィンテージドール-",
-search:"はつねみく　",
+search:"はつねみく　ヴぃんてーじ",
 type:"nusuto",
 price:2200,
 date: "",
