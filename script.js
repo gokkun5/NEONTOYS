@@ -5,6 +5,83 @@
 const figures = [
 
 {
+series:"wanpi",
+name:"ワンピース DXF～THE GRANDLINE SERIES～エッグヘッド JEWELRY.BONNEY",
+search:"ボニー　ぼにー",
+type:"dxf",
+price:500,
+date: "",
+img:"images/wanpi/boni_dxf_a.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールGT MATCH MAKERS 超サイヤ人孫悟空（VS超17号）",
+search:"そんごくう",
+type:"mat",
+price:500,
+date: "",
+img:"images/db/goku_mat_17.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA EUSTASS.KID",
+search:"ユースタスキッド　ゆーすたすきっど",
+type:"dxf",
+price:500,
+date: "",
+img:"images/wanpi/kiddo_dxf_e.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース BATTLE RECORD COLLECTION-MONKEY.D.LUFFY GEAR5-",
+search:"ルフィ　るふぃ　にか　ニカ",
+type:"bato",
+price:600,
+date: "",
+img:"images/wanpi/nika_bato.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-10",
+search:"ベジータ　べじーた",
+type: "syutu",
+price:800,
+date: "",
+img:"images/db/bezi_syutu10_a.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-5",
+search:"そんごはん　孫悟飯",
+type: "syutu",
+price:800,
+date: "",
+img:"images/db/gohan_syutu5_b.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-5",
+search:"そんごはん　孫悟飯",
+type: "syutu",
+price:800,
+date: "",
+img:"images/db/gohan_syutu5_a.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
 series:"bururo",
 name:"TVアニメ『ブルーロック』 フィギュア-sweets flavor-潔世一",
 search:"いさぎよいち",
@@ -515,7 +592,7 @@ series:"zyuzyutu",
 name:"呪術廻戦渋谷事変FIGURIZMα“五条悟”「無量空処」",
 search:"ごじょうさとる　むりょうくうしょ",
 type:"fig",
-price:1500,
+price:1400,
 date: "2026-04-11",
 img:"images/zyuzyutu/muryokusyo_fig.jpg",
 source:"https://segaplaza.jp/"
