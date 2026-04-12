@@ -5,6 +5,94 @@
 const figures = [
 
 {
+series:"rezero",
+name:"Re:ゼロから始める異世界生活　AMP レム フィギュア～Winter Maid image ver.～",
+search:"れむ",
+type:"amp",
+price:900,
+date: "",
+img:"images/rezero/remu_amp.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"tyen",
+name:"BiCute Bunnies Figure ― コベニ ― ラウンドワン限定",
+search:"こべに",
+type:"bani",
+price:1200,
+date: "",
+img:"images/tyen/kobeni_bani.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"kimetu",
+name:"『鬼滅の刃』 ぬーどるストッパーフィギュア ー 宇髄天元×クラフトホリック ー ラウンドワン限定",
+search:"うずいてんげん",
+type:"nusuto",
+price:1100,
+date: "",
+img:"images/kimetu/tengen_nusuto_kurafuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"kurosituzi",
+name:"アニメ「黒執事-寄宿学校編-」 ちょこのせプレミアムフィギュア“シエル・ファントムハイヴ”",
+search:"しえるふぁんとはいヴ",
+type:"tyoko",
+price:600,
+date: "",
+img:"images/kurosituzi/sieru_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレン　Coreful フィギュア　断頭台のアウラ",
+search:"だんとうだいのあうら",
+type:"core",
+price:400,
+date: "",
+img:"images/furi-ren/aura_core.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"meidoin",
+name:"メイドインアビス 烈日の黄金郷 おおきなFluffy Puffy～ミーティ～",
+search:"みーてぃー",
+type: "ful",
+price:350,
+date: "",
+img:"images/meidoin/mity_flu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"haikyu",
+name:"ぬーどるストッパーフィギュアー西谷 夕ー",
+search:"にしのやゆう",
+type:"nusuto",
+price:600,
+date: "",
+img:"images/haikyu/nisinoya_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"little",
+name:"LITTLE NIGHTMARES -リトルナイトメア- モニタートップフィギュアvol.1",
+search:"しっくす",
+type:"",
+price:800,
+date: "",
+img:"images/little/six.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
 series:"kisekoi",
 name:"TVアニメ「その着せ替え人形は恋をする」Luminasta“喜多川海夢”-応援！-",
 search:"きたがわまりん",
@@ -3411,7 +3499,7 @@ series:"kurosituzi",
 name:"アニメ「黒執事-寄宿学校編-」 ちょこのせプレミアムフィギュア“セバスチャン・ミカエリス”",
 search:"せばすちゃん",
 type:"tyoko",
-price:700,
+price:600,
 date: "",
 img:"images/kurosituzi/sebasutyan.jpg",
 source:"https://segaplaza.jp/"
@@ -8297,7 +8385,7 @@ series:"rerugan",
 name:"『とある魔術の禁書目録』 ESPRESTO-LEVEL5 Accelerator-",
 search:"一方通行　あくせられーた　アクセラレータ",
 type:"esp",
-price:550,
+price:500,
 date: "",
 img:"images/rerugan/akuse.jpg",
 source:"https://bsp-prize.jp/"
@@ -8319,7 +8407,7 @@ series:"tensura",
 name:"劇場版 転生したらスライムだった件 蒼海の涙編<br>魔王リムル=テンペスト フィギュア",
 search:"りむるてんぺすと",
 type:"",
-price:800,
+price:900,
 date: "",
 img:"images/tensura/rimuru_maou.jpg",
 source:"https://bsp-prize.jp/"
@@ -8715,7 +8803,7 @@ series:"zyuzyutu",
 name:"呪術廻戦 フィギュアライト 乙骨憂太・リカ",
 search:"おっこつゆうた　りか",
 type: "",
-price:700,
+price:800,
 date: "",
 img:"images/zyuzyutu/otukotu_raito.jpg",
 source:"https://bsp-prize.jp/"
