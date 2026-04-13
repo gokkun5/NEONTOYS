@@ -5,6 +5,303 @@
 const figures = [
 
 {
+series:"kurosituzi",
+name:"アニメ「黒執事-寄宿学校編-」Luminasta“セバスチャン・ミカエリス”",
+search:"せばすちゃん",
+type:"lum",
+price:700,
+date: "",
+img:"images/kurosituzi/sebasu_lum.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"sanrio",
+name:"サンリオキャラクターズ おおきなSOFVIMATES～クロミ～",
+search:"くろみ",
+type:"sof",
+price:500,
+date: "",
+img:"images/sanrio/kuromi_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"ranma",
+name:"TVアニメ「らんま1/2」 GLITTER＆GLAMOURS-SHAMPOO-",
+search:"シャンプー　しゃんぷー",
+type:"gli",
+price:500,
+date: "",
+img:"images/ranma/syanpu1_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"tora",
+name:"To LOVEる-とらぶる-ダークネス GLITTER&GLAMOURS 金色の闇 ストリートver.",
+search:"こんじきのやみ",
+type:"gli",
+price:600,
+date: "",
+img:"images/tora/yami_gli.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"dezimon",
+name:"デジモンアドベンチャー SOFVIMATES～ガブモン～",
+search:"がぶもん",
+type:"sof",
+price:650,
+date: "",
+img:"images/dezimon/gabu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"dezimon",
+name:"デジモンアドベンチャー SOFVIMATES～アグモン～vol.2",
+search:"あぐもん",
+type:"sof",
+price:800,
+date: "",
+img:"images/dezimon/agu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"yugi",
+name:"アニメ「遊☆戯☆王」シリーズ　Monsters LEGION ラーの翼神竜",
+search:"らー",
+type:"mon",
+price:1000,
+date: "",
+img:"images/yugi/ra.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"yugi",
+name:"アニメ「遊☆戯☆王」シリーズ Monsters LEGION オシリスの天空竜",
+search:"おしりす",
+type:"mon",
+price:1000,
+date: "",
+img:"images/yugi/osiri.jpg",
+source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-SENJU HASHIRAMA ＆ UCHIHA MADARA-",
+search:"うちはマダラ　まだら",
+type:"vib",
+price:1000,
+date: "",
+img:"images/naruto/madara_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ MATCH MAKERS 超サイヤ人2孫悟空（VS魔人ベジータ）",
+search:"そんごくう",
+type:"mat",
+price:500,
+date: "",
+img:"images/db/goku_mat_bezi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-勢羽夏生-",
+search:"せばまなつき",
+type:"vib",
+price:400,
+date: "",
+img:"images/sakamoto/natuki_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-勢羽 真冬-",
+search:"せばまふゆ",
+type:"vib",
+price:600,
+date: "",
+img:"images/sakamoto/mafuyu_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-虎丸 尚-",
+search:"とらまるなお",
+type:"vib",
+price:500,
+date: "",
+img:"images/sakamoto/nao_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-赤尾 晶-",
+search:"あかおあきら",
+type:"vib",
+price:400,
+date: "",
+img:"images/sakamoto/akao_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-神々廻-",
+search:"ししば",
+type:"vib",
+price:400,
+date: "",
+img:"images/sakamoto/sisiba_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-大佛-",
+search:"おさらぎ",
+type:"vib",
+price:900,
+date: "",
+img:"images/sakamoto/osaragi2_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-大佛-",
+search:"おさらぎ",
+type:"vib",
+price:900,
+date: "",
+img:"images/sakamoto/osaragi_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-篁-",
+search:"たかむら",
+type:"vib",
+price:400,
+date: "",
+img:"images/sakamoto/takamura_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"",
+search:"さかもとたろう",
+type:"vib",
+price:500,
+date: "",
+img:"images/sakamoto/sakamoto_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-坂本太郎-Ⅱ",
+search:"さかもとたろう",
+type:"vib",
+price:500,
+date: "",
+img:"images/sakamoto/sakamoto2_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-朝倉シン-",
+search:"あさくらしん",
+type:"vib",
+price:700,
+date: "",
+img:"images/sakamoto/sin_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTO DAYS VIBRATION STARS-南雲-",
+search:"なぐも",
+type:"vib",
+price:600,
+date: "",
+img:"images/sakamoto/nagumo_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"tyen",
+name:"劇場版『チェンソーマン レゼ篇』 Grandista-CHAINSAW MAN-",
+search:"ちぇんそーまん",
+type:"gra",
+price:1100,
+date: "",
+img:"images/tyen/tyen_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"rikorisu",
+name:"リコリス・リコイル　Trio－Try－iT Figureー井ノ上たきなー",
+search:"いのうえたきな",
+type:"trio",
+price:1200,
+date: "",
+img:"images/rikorisu/takina_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"meidoin",
+name:"メイドインアビス 烈日の黄金郷 -Relax time-ファプタ",
+search:"ふぁぷた",
+type:"relax",
+price:800,
+date: "",
+img:"images/meidoin/faputa_relax.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gotoyome",
+name:"五等分の花嫁＊ 中野五月フィギュア五等分の花嫁アニメ原画展ver.",
+search:"なかのいつき",
+type:"",
+price:500,
+date: "",
+img:"images/gotoyome/ituki_genga.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"rezero",
+name:"Re:ゼロから始める異世界生活　でふぉるむぷらす　レム　フルアクションデフォルメフィギュア",
+search:"れむ",
+type:"defo",
+price:600,
+date: "",
+img:"images/rezero/remu_defo.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
 series:"rezero",
 name:"Re:ゼロから始める異世界生活　AMP レム フィギュア～Winter Maid image ver.～",
 search:"れむ",
@@ -3587,7 +3884,7 @@ series:"kisekoi",
 name:"『その着せ替え人形は恋をする』 Coreful フィギュア 喜多川海夢 〜水着ver.〜",
 search:"きたがわまりん",
 type:"core",
-price:800,
+price:900,
 date: "",
 img:"images/kisekoi/marin_mizugi.jpg",
 source:"https://www.taito.co.jp/"
@@ -4632,7 +4929,7 @@ series:"sakamoto",
 name:"SAKAMOTO DAYS VIBRATION STARS-楽-",
 search:"がく",
 type:"vib",
-price:600,
+price:700,
 date: "",
 img:"images/sakamoto/gaku.jpg",
 source:"https://bsp-prize.jp/"
@@ -5007,7 +5304,7 @@ series:"dezimon",
 name:"デジモンアドベンチャー SOFVIMATES～パタモン～",
 search:"ぱたもん",
 type:"sof",
-price:600,
+price:800,
 date: "",
 img:"images/dezimon/patamon.jpg",
 source:"https://bsp-prize.jp/"
@@ -6585,7 +6882,7 @@ series:"db",
 name:"ドラゴンボールZ Grandista-SON GOKU-Ⅱ",
 search:"そんごくう　孫悟空",
 type:"gra",
-price:750,
+price:800,
 date: "",
 img:"images/db/goku2_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -6904,7 +7201,7 @@ series:"wanpan",
 name:"ワンパンマン Grandista-SAITAMA-",
 search:"さいたま　サイタマ",
 type:"gra",
-price:650,
+price:700,
 date: "",
 img:"images/wanpan/saitama_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -7598,7 +7895,7 @@ series:"gotoyome",
 name:"『五等分の花嫁∬』 Desktop Cute フィギュア <br>中野二乃 ～描き下ろしCat room wear ver.～",
 search:"なかのにの",
 type:"desk",
-price:550,
+price:600,
 date: "",
 img:"images/gotoyome/nino_desk_neko.jpg",
 source:"https://www.taito.co.jp/"
@@ -8086,7 +8383,7 @@ series:"wanpi",
 name:"『ワンピース』 Grandista -PORTGAS.D.ACE-",
 search:"エース　えーす",
 type:"gra",
-price:650,
+price:600,
 date: "",
 img:"images/wanpi/ace_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -8847,7 +9144,7 @@ series:"db",
 name:"『ドラゴンボールZ』 Grandista -MAJIN VEGETA-",
 search:"まじんべじーた　魔人ベジータ",
 type: "gra",
-price:1000,
+price:1300,
 date: "",
 img:"images/db/bezi_gra2.jpg",
 source:"https://bsp-prize.jp/"
@@ -9906,7 +10203,7 @@ series:"miku",
 name:"ガンダム45周年×初音ミク フィギュアシャアザクぐるみ 初音ミクVer.",
 search:"しゃあざく　はつねみく",
 type:"",
-price:900,
+price:1000,
 date: "",
 img:"images/miku/miku_zaku.jpg",
 source:"https://bsp-prize.jp/"
