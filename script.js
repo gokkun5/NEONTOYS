@@ -5,6 +5,138 @@
 const figures = [
 
 {
+series:"uru",
+name:"ウルトラマンギンガ 英雄勇像 ウルトラマンギンガ",
+search:"うるとらまんぎんが",
+type:"eiyu",
+price:800,
+date: "",
+img:"images/uru/ginga.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UZUMAKI NARUTO-Ⅳ",
+search:"うずまきなると　ナルト",
+type: "",
+price:1000,
+date: "",
+img:"images/naruto/naruto4_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"umamusume",
+name:"ウマ娘 プリティーダービー テイエムオペラオー フィギュア",
+search:"ていえむおぺらおー",
+type: "",
+price:1000,
+date: "",
+img:"images/umamusume/teiemu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"spy",
+name:"TVアニメ「SPY×FAMILY」　Luminasta　（アーニャ・フォージャー）ぱじゃま　ばーじょん2",
+search:"あーにゃふぉーじゃー",
+type: "lum",
+price:700,
+date: "",
+img:"images/spy/anya_pazyama2.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"spy",
+name:"SPY×FAMILY　プチエットりらっくすフィギュア　ヨル・フォージャー",
+search:"よるふぉーじゃー",
+type:"",
+price:300,
+date: "",
+img:"images/spy/yoru_puti.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"gintama",
+name:"銀魂 坂田銀時フィギュア 周年ver.",
+search:"さかたぎんとき",
+type: "",
+price:900,
+date: "",
+img:"images/gintama/gintoki_20.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"guno",
+name:"TVアニメ『グノーシア』ちょこのせプレミアムフィギュア“セツ”",
+search:"せつ",
+type:"tyoko",
+price:500,
+date: "",
+img:"images/guno/setu_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"sakamoto",
+name:"SAKAMOTODAYSちょこのせプレミアムフィギュア“神々廻”",
+search:"ししば",
+type:"tyoko",
+price:700,
+date: "",
+img:"images/sakamoto/sisiba_tyoko.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"keroro",
+name:"ケロロ軍曹 おおきなSOFVIMATES～ギロロ伍長～",
+search:"ぎろろごちょう",
+type:"sof",
+price:700,
+date: "",
+img:"images/keroro/giroro.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- TVアニメ20周年記念フィギュア うずまきナルト-火影-",
+search:"うずまきなると",
+type: "",
+price:1300,
+date: "",
+img:"images/naruto/naruto_hokage.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"miku",
+name:"初音ミク　ぬーどるストッパーフィギュア Flower Fairyーほおずきー",
+search:"ほおずき　はつねみく",
+type:"nusuto",
+price:800,
+date: "",
+img:"images/miku/hozuki_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-HATAKE KAKASHI ＆ UCHIHA MADARA-",
+search:"うちはマダラ　まだら",
+type:"vib",
+price:2500,
+date: "",
+img:"images/naruto/obito_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
 series:"dorakue",
 name:"ドラゴンクエスト　AM　割れちゃう貯金箱　ばくだん岩",
 search:"ばくだんいわ",
@@ -3754,7 +3886,7 @@ series:"gozira",
 name:"東宝怪獣シリーズ 鎮座獣EX ゴジラ（2001）",
 search:"ごじら",
 type:"tinza",
-price:450,
+price:500,
 date: "2026-04-11",
 img:"images/gozira/tinza_p.jpg",
 source:"https://bsp-prize.jp/"
@@ -4359,7 +4491,7 @@ series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UZUMAKI NARUTO-Ⅴ SPECIAL",
 search:"うずまきナルト　なると",
 type:"vib",
-price:1800,
+price:1500,
 date: "",
 img:"images/naruto/naruto5_vib.jpg",
 source:"https://bsp-prize.jp/"
@@ -4414,7 +4546,7 @@ series:"mono",
 name:"TVアニメ「mono」ちょこのせプレミアムフィギュア“雨宮さつき”",
 search:"あまみやさつき",
 type:"tyoko",
-price:400,
+price:500,
 date: "",
 img:"images/mono/satuki_tyoko.jpg",
 source:"https://segaplaza.jp/"
@@ -4920,7 +5052,7 @@ series:"ruroken",
 name:"『るろうに剣心 ー明治剣客浪漫譚ー』 Trio-Try-iT Figure ー 緋村剣心 ー",
 search:"ひむらけんしん",
 type:"trio",
-price:500,
+price:700,
 date: "",
 img:"images/ruroken/kensin_trio.jpg",
 source:"https://charahiroba.com/"
@@ -5338,7 +5470,7 @@ series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-HATAKE KAKASHI ＆ UCHIHA MADARA-",
 search:"はたけかかし　カカシ",
 type:"vib",
-price:1000,
+price:1200,
 date: "",
 img:"images/naruto/kakasi_vib.jpg",
 source:"https://bsp-prize.jp/"
@@ -5635,7 +5767,7 @@ series:"gorukamu",
 name:"TVアニメ『ゴールデンカムイ』XrossLinkフィギュア“月島軍曹”",
 search:"つきしまぐんそう",
 type:"xros",
-price:500,
+price:700,
 date: "",
 img:"images/gorukamu/tukisima_xros.jpg",
 source:"https://segaplaza.jp/"
@@ -6823,7 +6955,7 @@ series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 フィギュア うずまきナルト・波風ミナト～GiGOグループのお店限定～",
 search:"なみかぜみなと",
 type: "",
-price:1200,
+price:1300,
 date: "",
 img:"images/naruto/minato_gigo.jpg",
 source:"https://bsp-prize.jp/"
@@ -6834,7 +6966,7 @@ series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 フィギュア うずまきナルト・波風ミナト～GiGOグループのお店限定～",
 search:"うずまきなると",
 type: "",
-price:1200,
+price:1300,
 date: "",
 img:"images/naruto/naruto_gigo.jpg",
 source:"https://bsp-prize.jp/"
@@ -8897,7 +9029,7 @@ series:"hiro",
 name:"僕のヒーローアカデミアTHEMOVIEユアネクストXrossLinkフィギュア“轟焦凍”",
 search:"とどろきしょうと",
 type:"xros",
-price:800,
+price:700,
 date: "",
 img:"images/hiro/todoroki_xros.jpg",
 source:"https://segaplaza.jp/"
@@ -10409,7 +10541,7 @@ series:"kimetu",
 name:"『鬼滅の刃』 フィグライフ! 童磨",
 search:"どうま",
 type:"figl",
-price:1200,
+price:1300,
 date: "",
 img:"images/kimetu/doma_fig.jpg",
 source:"https://bsp-prize.jp/"
@@ -10664,7 +10796,7 @@ series:"tensura",
 name:"劇場版 転生したらスライムだった件 蒼海の涙編<br>魔王リムル=テンペスト フィギュア",
 search:"りむるてんぺすと",
 type:"",
-price:900,
+price:1000,
 date: "",
 img:"images/tensura/rimuru_maou.jpg",
 source:"https://bsp-prize.jp/"
@@ -11357,7 +11489,7 @@ series:"miku",
 name:"『初音ミクシリーズ』<br>ぬーどるストッパーフィギュア ー カナリア ー",
 search:"かなりあ　はつねみく",
 type:"nusuto",
-price:800,
+price:700,
 date: "",
 img:"images/miku/miku_kanariya_nusuto.jpg",
 source:"https://charahiroba.com/"
@@ -11511,7 +11643,7 @@ series:"madomagi",
 name:"劇場版 魔法少女まどか☆マギカ 叛逆の物語 <br>鹿目まどか フィギュア",
 search:"かなめまどか",
 type:"",
-price:1400,
+price:1200,
 date: "",
 img:"images/madomagi/madoka.jpg",
 source:"https://bsp-prize.jp/"
@@ -11610,7 +11742,7 @@ series:"kimetu",
 name:"『鬼滅の刃』 VIBRATION STARS PLUS -我妻善逸-",
 search:"あがつまぜんいつ",
 type:"vib",
-price:1300,
+price:1200,
 date: "",
 img:"images/kimetu/zen_vib.jpg",
 source:"https://bsp-prize.jp/"
@@ -11701,7 +11833,7 @@ series:"kisekoi",
 name:"『その着せ替え人形は恋をする』 <br>XStellar　“喜多川海夢”",
 search:"きたがわまりん",
 type:"xs",
-price:800,
+price:700,
 date: "",
 img:"images/kisekoi/marin_xs.jpg",
 source:"https://segaplaza.jp/"
@@ -12173,7 +12305,7 @@ series:"miku",
 name:"『桜ミク』 AMP＋ フィギュア 〜桜ドレス ver.〜",
 search:"はつねみく　さくらみく",
 type:"",
-price:1200,
+price:1300,
 date: "",
 img:"images/miku/sakuramiku2026.jpg",
 source:"https://www.taito.co.jp/"
