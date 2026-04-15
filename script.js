@@ -5,6 +5,546 @@
 const figures = [
 
 {
+series:"dorakue",
+name:"ドラゴンクエスト　AM　割れちゃう貯金箱　ばくだん岩",
+search:"ばくだんいわ",
+type:"",
+price:500,
+date: "",
+img:"images/dorakue/bakudan.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"rezero",
+name:"Re:ゼロから始める異世界生活　１／７スケールフィギュア　レム ジュエルプリンセス",
+search:"れむ",
+type:"",
+price:500,
+date: "",
+img:"images/rezero/remu_zyueru.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"kamitu",
+name:"神椿市建設中。　1/7スケールフィギュア　輪廻此処",
+search:"りんねここ",
+type:"",
+price:300,
+date: "",
+img:"images/kamitu/rinne.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"miku",
+name:"初音ミク　Wonderland フィギュア　長靴を履いた猫",
+search:"ながぐつをはいたねこ　はつねみく",
+type:"wo",
+price:800,
+date: "",
+img:"images/miku/nagagutu.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"tyen",
+name:"チェンソーマン パワーフィギュア",
+search:"ぱわー",
+type:"",
+price:800,
+date: "",
+img:"images/tyen/pawa.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"tyen",
+name:"チェンソーマン 早川アキフィギュア",
+search:"はやかわあき",
+type:"",
+price:1000,
+date: "",
+img:"images/tyen/aki.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"zigoku",
+name:"地獄楽 Luminasta “画眉丸”",
+search:"がびまる",
+type: "lum",
+price:1000,
+date: "",
+img:"images/zigoku/gabi_lum.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"zigoku",
+name:"地獄楽　ぬーどるストッパーフィギュアー画眉丸ー",
+search:"がびまる",
+type:"nusuto",
+price:1000,
+date: "",
+img:"images/zigoku/gabi_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"dandadan",
+name:"TVアニメ『ダンダダン』Luminasta“アイラ”私服Ver.",
+search:"あいら",
+type: "lum",
+price:500,
+date: "",
+img:"images/dandadan/aira_sifuku_lum.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"holo",
+name:"ホロライブ #hololive IF -Relax time-星街すいせい",
+search:"ほしまちすいせい",
+type:"relax",
+price:1500,
+date: "",
+img:"images/holo/suisei_relax.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wandaegg",
+name:"ワンダーエッグ・プライオリティ　Coreful フィギュア　大戸アイ～にっこりver.～",
+search:"おおとあい",
+type:"core",
+price:900,
+date: "",
+img:"images/wandaegg/oto_core.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-ROCK LEE-Ⅱ",
+search:"ろっくりー　ロックリー",
+type:"vib",
+price:650,
+date: "",
+img:"images/naruto/ri_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"bururo",
+name:"劇場版ブルーロック －EPISODE 凪－ 御影玲王 フィギュア",
+search:"みかげれお",
+type:"",
+price:500,
+date: "",
+img:"images/bururo/reo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"bururo",
+name:"劇場版ブルーロック －EPISODE 凪－ 凪誠士郎 フィギュア",
+search:"なぎせいしろう",
+type:"",
+price:800,
+date: "",
+img:"images/bururo/nagi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア THE EVIL VILLAINS-HIMIKO TOGA-",
+search:"とがひみこ　トガヒミコ",
+type:"evi",
+price:800,
+date: "",
+img:"images/hiro/toga_evi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ MATCH MAKERS-フリーザ-",
+search:"ふりーざ",
+type:"mat",
+price:500,
+date: "",
+img:"images/db/furi_mat_goku.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア THE AMAZING HEROES-DX-IZUKU MIDORIYA OVERLAY",
+search:"みどりやいずく　緑谷出久　デク　でく",
+type:"ame",
+price:700,
+date: "",
+img:"images/hiro/deku_ame_dx.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"miku",
+name:"桜ミク AMP＋ フィギュア～桜提灯ver.～",
+search:"さくらとうろう　はつねみく",
+type:"amp",
+price:1200,
+date: "",
+img:"images/miku/toro_amp.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"kamitu",
+name:"神椿市建設中。　1/7スケールフィギュア　谷置狸眼",
+search:"たにおきりめ",
+type:"",
+price:300,
+date: "",
+img:"images/kamitu/tani.jpg",
+source:"https://www.elcocoland.com/shop/"
+},
+
+{
+series:"spy",
+name:"SPY×FAMILY Q posket-アーニャ・フォージャー-Ⅱ",
+search:"あーにゃ",
+type:"qpos",
+price:200,
+date: "",
+img:"images/spy/anya_qpos_b.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"spy",
+name:"SPY×FAMILY Q posket-アーニャ・フォージャー-Ⅱ",
+search:"あーにゃ",
+type:"qpos",
+price:200,
+date: "",
+img:"images/spy/anya_qpos_a.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース BATTLE RECORD COLLECTION-KUZAN-",
+search:"くざん　クザン",
+type:"bato",
+price:500,
+date: "",
+img:"images/wanpi/kuzan_bato.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース BATTLE RECORD COLLECTION-VISTA-",
+search:"びすた　ビスタ",
+type:"bato",
+price:400,
+date: "",
+img:"images/wanpi/bisuta_bato.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース BATTLE RECORD COLLECTION-JOZU-",
+search:"じょず　ジョズ",
+type:"bato",
+price:400,
+date: "",
+img:"images/wanpi/zyozu_bato.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース BATTLE RECORD COLLECTION-MARCO-",
+search:"まるこ　マルコ",
+type:"bato",
+price:400,
+date: "",
+img:"images/wanpi/maruko_bato.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース THE出航 LOGIA-SABO-",
+search:"さぼ　サボ",
+type:"syukko",
+price:700,
+date: "",
+img:"images/wanpi/sabo_syukko.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース DXF～THE GRANDLINE SERIES～SPECIAL TRAFALGAR.LAW",
+search:"ろー　ロー",
+type:"dxf",
+price:500,
+date: "",
+img:"images/wanpi/ro_dxf.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース DXF～THE GRANDLINE SERIES～SPECIAL GOL.D.ROGER",
+search:"ろじゃー　ロジャー",
+type:"dxf",
+price:500,
+date: "",
+img:"images/wanpi/rozya_dxf.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボール 神龍の模型ルームライト",
+search:"しぇんろん　シェンロン",
+type:"his",
+price:600,
+date: "",
+img:"images/db/syenron_rumu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールDAIMA ピッコロ（ミニ） パネル付きフィギュア",
+search:"ぴっころ",
+type: "",
+price:400,
+date: "",
+img:"images/db/pikkoro_daima.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-魔人ブウ",
+search:"まじんぶう",
+type: "syutu",
+price:1000,
+date: "",
+img:"images/db/bu_syutu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"disny",
+name:"ディズニーキャラクター きゅむころ～ディズニースティッチ～",
+search:"すてぃっち",
+type: "",
+price:500,
+date: "",
+img:"images/disny/sute_kyumu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"nintama",
+name:"劇場版 忍たま乱太郎 雑渡昆奈門 フィギュア",
+search:"ざっとこんなもん",
+type:"",
+price:500,
+date: "",
+img:"images/nintama/zatto.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 獄門疆ルームライト",
+search:"ごくもんきょう",
+type:"",
+price:1500,
+date: "",
+img:"images/zyuzyutu/gokumon_rumu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア THE EVIL VILLAINS-DX-HIMIKO TOGA Ⅳ",
+search:"とがひみこ　トガヒミコ",
+type:"evi",
+price:500,
+date: "",
+img:"images/hiro/toga_evil4.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 Grandista-HATAKE KAKASHI-",
+search:"はたけカカシ　かかし",
+type:"gra",
+price:900,
+date: "",
+img:"images/naruto/kakasi_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+
+{
+series:"wanpi",
+name:"ワンピース 戦光絶景-MONKEY.D.GARP-",
+search:"がーぷ　ガープ",
+type:"senko",
+price:600,
+date: "",
+img:"images/wanpi/gapu_senko.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース 戦光絶景-KUZAN-",
+search:"くざん　クザン",
+type:"senko",
+price:500,
+date: "",
+img:"images/wanpi/kuzan_senko.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース ワールドコレクタブルフィギュア ログストーリーズ-ネフェルタリ・ビビ＆カルー-「もう一度仲間と呼んでくれますか!!!?」",
+search:"びび　かるー",
+type:"wakore",
+price:600,
+date: "",
+img:"images/wanpi/bibi_karu_wakore.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"buri",
+name:"BLEACH SOLID AND SOULS-涅マユリ-",
+search:"くろつちまゆり",
+type:"",
+price:1200,
+date: "",
+img:"images/buri/mayuri.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"soniko",
+name:"BiCute Bunnies Figure ─ ウェイトレス・ライトブルーver. ─",
+search:"すーぱーそにこ",
+type:"bani",
+price:550,
+date: "",
+img:"images/soniko/weito_b.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"valo",
+name:"VALORANT モニタートップフィギュア-ソーヴァ-",
+search:"そーヴぁ",
+type:"",
+price:700,
+date: "",
+img:"images/valo/sova.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kurosituzi",
+name:"アニメ「黒執事-寄宿学校編-」Luminasta“シエル・ファントムハイヴ”",
+search:"しえるふぁんとむはいヴ",
+type:"lum",
+price:600,
+date: "",
+img:"images/kurosituzi/sieru_lum.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"naruto",
+name:"-NARUTO 72 series- 63 VIBRATION STARS-HATAKE KAKASHI & UCHIHA OBITO-",
+search:"はたけカカシ　かかし",
+type:["vib", "72"],
+price:1000,
+date: "",
+img:"images/naruto/kakasi_72.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 Figuno-UZUMAKI NARUTO ＆ UCHIHA SASUKE-",
+search:"うちはサスケ　さすけ",
+type:"figuno",
+price:500,
+date: "",
+img:"images/naruto/sasuke_figuno2.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- 疾風伝 Figuno-UZUMAKI NARUTO ＆ UCHIHA SASUKE-",
+search:"うずまきなると　うずまきナルト",
+type:"figuno",
+price:500,
+date: "",
+img:"images/naruto/naruto_figuno2.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"NARUTO-ナルト- フィグライフ! サスケの棺桶",
+search:"うちはサスケ　さすけ",
+type:"figl",
+price:600,
+date: "",
+img:"images/naruto/kanoke.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース Fluffy Puffy～チョッパー＆カルー～",
+search:"ちょっぱー",
+type: "ful",
+price:400,
+date: "",
+img:"images/wanpi/tyoppa_flu_karu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"saekano",
+name:"冴えない彼女の育てかたFineLuminasta“加藤恵”セーターVer.",
+search:"かとうめぐみ",
+type:"lum",
+price:400,
+date: "",
+img:"images/saekano/kato_lum.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
 series:"miku",
 name:"初音ミク BANPRESTO EVOLVE Clearluxe-クリオネ-フィギュア",
 search:"はつねみく　くりおね",
@@ -2055,7 +2595,7 @@ series:"wanpi",
 name:"ワンピース Grandista-MONKEY.D.LUFFY GEAR5-Ⅱ",
 search:"るふぃ　にか　ルフィ　ニカ",
 type:"gra",
-price:700,
+price:650,
 date: "",
 img:"images/wanpi/nika2_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -2529,7 +3069,7 @@ series:"db",
 name:"ドラゴンボールZ MATCH MAKERS 超サイヤ人孫悟飯（VSダーブラ）",
 search:"そんごはん",
 type:"mat",
-price:500,
+price:450,
 date: "",
 img:"images/db/gohan_mat_dabura.jpg",
 source:"https://bsp-prize.jp/"
@@ -2617,7 +3157,7 @@ series:"wanpi",
 name:"ワンピース BATTLE RECORD COLLECTION-PORTGAS.D.ACE-",
 search:"えーす　エース",
 type:"bato",
-price:400,
+price:450,
 date: "",
 img:"images/wanpi/ace_bato.jpg",
 source:"https://bsp-prize.jp/"
@@ -3070,7 +3610,7 @@ series:"miku",
 name:"『初音ミクシリーズ』Trio-Try-iT Figure― 初音ミク 赤ドレス ー",
 search:"はつねみく",
 type:"trio",
-price:800,
+price:1000,
 date: "2026-04-11",
 img:"images/miku/odekake_aka.jpg",
 source:"https://charahiroba.com/"
@@ -3335,7 +3875,7 @@ series:"gotoyome",
 name:"『五等分の花嫁∬』Desktop Cute フィギュア 中野一花〜描き下ろしCat room wear ver.〜",
 search:"なかのいちか",
 type:"desk",
-price:450,
+price:400,
 date: "",
 img:"images/gotoyome/itika_desk_neko.jpg",
 source:"https://www.taito.co.jp/"
@@ -3390,7 +3930,7 @@ series:"db",
 name:"ドラゴンボールZ History Box 孫悟空",
 search:"そんごくう",
 type: "his",
-price:700,
+price:650,
 date: "",
 img:"images/db/baibaigoku_his.jpg",
 source:"https://bsp-prize.jp/"
@@ -3401,7 +3941,7 @@ series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 ソフビフィギュア-ガマブン太-",
 search:"がまぶんた",
 type:"",
-price:800,
+price:1000,
 date: "",
 img:"images/naruto/oyabun.jpg",
 source:"https://bsp-prize.jp/"
@@ -3610,7 +4150,7 @@ series:"aimasu",
 name:"学園アイドルマスター ESPRESTO-Sweet moment-姫崎莉波",
 search:"ひめさきりなみ",
 type:"esp",
-price:700,
+price:600,
 date: "",
 img:"images/aimasu/rinami_esp.jpg",
 source:"https://bsp-prize.jp/"
@@ -3731,7 +4271,7 @@ series:"tyen",
 name:"チェンソーマン VIBRATION STARS-CHAINSAW MAN-Ⅱ",
 search:"ちぇんそーまん",
 type:"vib",
-price:2300,
+price:1500,
 date: "",
 img:"images/tyen/tyen2_vib.jpg",
 source:"https://bsp-prize.jp/"
@@ -4589,7 +5129,7 @@ series:"db",
 name:"ドラゴンボール History Box ブルマ",
 search:"ぶるま",
 type: "his",
-price:1000,
+price:1100,
 date: "",
 img:"images/db/buruma_his.jpg",
 source:"https://bsp-prize.jp/"
@@ -4600,7 +5140,7 @@ series:"wanpi",
 name:"ワンピース KING OF ARTIST SABO",
 search:"さぼ　サボ",
 type:"koa",
-price:400,
+price:500,
 date: "",
 img:"images/wanpi/sabo_koa.jpg",
 source:"https://bsp-prize.jp/"
@@ -4611,7 +5151,7 @@ series:"wanpi",
 name:"ワンピース BATTLE RECORD COLLECTION-BORSALINO-",
 search:"黄猿　きざる　ボルサリーノ　ぼるさりーの",
 type:"bato",
-price:600,
+price:500,
 date: "",
 img:"images/wanpi/kizaru_bato.jpg",
 source:"https://bsp-prize.jp/"
@@ -4732,7 +5272,7 @@ series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 ソフビフィギュア-守鶴 ＆ ガマブン太-",
 search:"しゅかく",
 type:"",
-price:800,
+price:650,
 date: "",
 img:"images/naruto/syukaku_sof.jpg",
 source:"https://bsp-prize.jp/"
@@ -5645,7 +6185,7 @@ series:"kamitu",
 name:"神椿市建設中。　1/7スケールフィギュア　夜河世界",
 search:"よるかわせかい",
 type:"",
-price:200,
+price:300,
 date: "",
 img:"images/kamitu/sekai.jpg",
 source:"https://www.elcocoland.com/shop/"
@@ -5656,7 +6196,7 @@ series:"kamitu",
 name:"神椿市建設中。　1/7スケールフィギュア　森先化歩",
 search:"もりさきかふ",
 type:"",
-price:200,
+price:300,
 date: "",
 img:"images/kamitu/kafu.jpg",
 source:"https://www.elcocoland.com/shop/"
@@ -6063,7 +6603,7 @@ series:"monsuto",
 name:"モンスターストライク ESPRESTO-Ordinary chronicles-ヤクモ",
 search:"やくも",
 type:"esp",
-price:200,
+price:300,
 date: "",
 img:"images/monsuto/yakumo.jpg",
 source:"https://bsp-prize.jp/"
@@ -6437,7 +6977,7 @@ series:"db",
 name:"ドラゴンボール History Box 亀仙人",
 search:"かめせんにん",
 type: "his",
-price:1000,
+price:1100,
 date: "",
 img:"images/db/kame_his.jpg",
 source:"https://bsp-prize.jp/"
@@ -6570,7 +7110,7 @@ series:"miku",
 name:"ガンダム45周年×初音ミク フィギュア ザクぐるみ [初音ミクVer.]",
 search:"ざく　はつねみく",
 type:"",
-price:1200,
+price:1000,
 date: "",
 img:"images/miku/zaku.jpg",
 source:"https://bsp-prize.jp/"
@@ -6945,7 +7485,7 @@ series:"pansuto",
 name:"『New PANTY ＆ STOCKING with GARTERBELT』 BRILLIANT フィギュア ストッキング",
 search:"すとっきんぐ",
 type:"bri",
-price:1200,
+price:1000,
 date: "",
 img:"images/pansuto/suto_bri.jpg",
 source:"http://fansclub.jp/pc/top/"
@@ -7407,7 +7947,7 @@ series:"zyuzyutu",
 name:"呪術廻戦懐玉・玉折FIGURIZMα“五条悟”術式反転「赫」",
 search:"ごじょうさとる",
 type:"fig",
-price:800,
+price:1000,
 date: "",
 img:"images/zyuzyutu/gozyo_fig_aka.jpg",
 source:"https://segaplaza.jp/"
@@ -7638,7 +8178,7 @@ series:"uzaki",
 name:"『宇崎ちゃんは遊びたい！ω』 Desktop Cute フィギュア 宇崎月 ～浜辺で水着ver.～",
 search:"うざきつき",
 type:"desk",
-price:800,
+price:700,
 date: "",
 img:"images/uzaki/tuki_desk.jpg",
 source:"https://www.taito.co.jp/"
@@ -7804,7 +8344,7 @@ series:"kamitu",
 name:"神椿市建設中。　1/7スケールフィギュア　朝主派流",
 search:"あさぬしはる",
 type:"",
-price:200,
+price:300,
 date: "",
 img:"images/kamitu/asa.jpg",
 source:"https://www.elcocoland.com/shop/"
@@ -8049,7 +8589,7 @@ series:"zyuzyutu",
 name:"呪術廻戦Luminasta“虎杖悠仁”黒閃",
 search:"いたどりゆうじ",
 type: "lum",
-price:1000,
+price:1200,
 date: "",
 img:"images/zyuzyutu/itadori_lum.jpg",
 source:"https://segaplaza.jp/"
@@ -8192,7 +8732,7 @@ series:"hiro",
 name:"僕のヒーローアカデミア GLITTER＆GLAMOURS-OCHACO URARAKA＆HIMIKO TOGA-",
 search:"うららかおちゃこ　麗日お茶子",
 type:"gli",
-price:1200,
+price:1000,
 date: "",
 img:"images/hiro/otyako_gli.jpg",
 source:"https://bsp-prize.jp/"
@@ -8643,7 +9183,7 @@ series:"guru",
 name:"東京喰種 Grandista-KANEKI KEN-",
 search:"かねきけん　金木研",
 type:"gra",
-price:1000,
+price:800,
 date: "",
 img:"images/guru/kaneki_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -8665,7 +9205,7 @@ series:"king",
 name:"キングダム Grandista-王騎-",
 search:"はた　旗",
 type:"gra",
-price:800,
+price:900,
 date: "",
 img:"images/king/hata_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -8786,7 +9326,7 @@ series:"naruto",
 name:"NARUTO-ナルト- VIBRATION STARS-GAARA-Ⅱ",
 search:"があら",
 type:"vib",
-price:600,
+price:800,
 date: "",
 img:"images/naruto/gara2_vib.jpg",
 source:"https://bsp-prize.jp/"
@@ -8809,7 +9349,7 @@ series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS<br>-SENJU TOBIRAMA ＆ OROCHIMARU-",
 search:"おろちまる",
 type:"vib",
-price:500,
+price:600,
 date: "",
 img:"images/naruto/oroti_vib.jpg",
 source:"https://bsp-prize.jp/"
@@ -9205,7 +9745,7 @@ series:"uruse",
 name:"うる星やつら ESPRESTO-Soft and drifting-ラム",
 search:"らむ",
 type:"esp",
-price:650,
+price:500,
 date: "",
 img:"images/uruse/ramu_esp.jpg",
 source:"https://bsp-prize.jp/"
@@ -9494,7 +10034,7 @@ series:"samapoke",
 name:"『Summer Pockets』 Yumemirize “空門蒼”",
 search:"そらかどあお",
 type:"yume",
-price:550,
+price:500,
 date: "",
 img:"images/samapoke/ao.jpg",
 source:"https://segaplaza.jp/"
@@ -9505,7 +10045,7 @@ series:"samapoke",
 name:"『Summer Pockets』 Yumemirize “鳴瀬しろは”",
 search:"なるせしろは",
 type:"yume",
-price:550,
+price:500,
 date: "",
 img:"images/samapoke/siroha.jpg",
 source:"https://segaplaza.jp/"
@@ -9858,7 +10398,7 @@ series:"kisekoi",
 name:"『その着せ替え人形は恋をする』 <br>ESPRESTO Detailed Elegance 喜多川海夢 黒江雫Ver.",
 search:"くろえしずく",
 type:"esp",
-price:1000,
+price:900,
 date: "",
 img:"images/kisekoi/sizuku_esp.jpg",
 source:"https://bsp-prize.jp/"
@@ -10289,7 +10829,7 @@ series:"furi-ren",
 name:"『葬送のフリーレン』 FIGURIZMα <br>“フリーレン” ～魔法の高み～",
 search:"ふりーれん",
 type: "fig",
-price:900,
+price:1000,
 date: "",
 img:"images/furi-ren/furi_fig.jpg",
 source:"https://segaplaza.jp/"
@@ -10564,7 +11104,7 @@ series:"db",
 name:"『ドラゴンボールZ』 Grandista -MAJIN VEGETA-",
 search:"まじんべじーた　魔人ベジータ",
 type: "gra",
-price:1300,
+price:1000,
 date: "",
 img:"images/db/bezi_gra2.jpg",
 source:"https://bsp-prize.jp/"
@@ -10740,7 +11280,7 @@ series:"ika",
 name:"『侵略!イカ娘』 Trio-Try-iT Figure ー イカ娘 ー",
 search:"いかむすめ",
 type:"trio",
-price:900,
+price:800,
 date: "",
 img:"images/ika/ika.jpg",
 source:"https://charahiroba.com/"
@@ -11037,7 +11577,7 @@ series:"hant",
 name:"『HUNTER×HUNTER』 フィギュア-ヒソカ-G.I.編",
 search:"ひそか",
 type:"",
-price:1400,
+price:1200,
 date: "",
 img:"images/hant/hisoka_gi.jpg",
 source:"https://bsp-prize.jp/"
@@ -11296,7 +11836,7 @@ series:"pansuto",
 name:"『New PANTY ＆ STOCKING with GARTERBELT』 <br>BRILLIANT フィギュア パンティ",
 search:"ぱんてぃ",
 type:"bri",
-price:1200,
+price:1000,
 date: "",
 img:"images/pansuto/panty.jpg",
 source:"http://fansclub.jp/pc/top/"
@@ -11622,7 +12162,7 @@ series:"miku",
 name:"ガンダム45周年×初音ミク フィギュアシャアザクぐるみ 初音ミクVer.",
 search:"しゃあざく　はつねみく",
 type:"",
-price:1000,
+price:900,
 date: "",
 img:"images/miku/miku_zaku.jpg",
 source:"https://bsp-prize.jp/"
