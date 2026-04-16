@@ -5,6 +5,116 @@
 const figures = [
 
 {
+series:"kimetu",
+name:"鬼滅の刃 フィギュア-絆ノ装-拾伍ノ型",
+search:"不死川実弥　しなずがわさねみ",
+type: "kizuna",
+price:800,
+date: "",
+img:"images/kimetu/sinazu_kizuna_sepia.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kuresin",
+name:"映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ カスカベ防衛隊フィギュアvol.2",
+search:"マサオくん　まさおくん",
+type:"",
+price:500,
+date: "",
+img:"images/kuresin/syakunetu_masao.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kuresin",
+name:"映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ カスカベ防衛隊フィギュアvol.2",
+search:"ネネちゃん　ねねちゃん",
+type:"",
+price:500,
+date: "",
+img:"images/kuresin/syakunetu_nene.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kuresin",
+name:"映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ カスカベ防衛隊フィギュアvol.3",
+search:"ボーちゃん　ぼーちゃん",
+type:"",
+price:500,
+date: "",
+img:"images/kuresin/syakunetu_bo.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kuresin",
+name:"映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ カスカベ防衛隊フィギュアvol.3",
+search:"かざまくん　風間くん",
+type:"",
+price:500,
+date: "",
+img:"images/kuresin/syakunetu_kazama.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sonota",
+name:"COJI-COJI おおきなSOFVIMATES～パステルなコジコジ～",
+search:"こじこじ",
+type:"",
+price:300,
+date: "",
+img:"images/sonota/kozikozi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"rezero",
+name:"『Re:ゼロから始める異世界生活』SSSフィギュアー童話シリーズ・レム・眠り姫 アナザーカラーver.ーラウンドワン限定",
+search:"れむ",
+type:"",
+price:300,
+date: "",
+img:"images/rezero/remu_mazyo.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレンXStellar“フェルン”～雪遊び～",
+search:"ふぇるん",
+type:"xs",
+price:700,
+date: "",
+img:"images/furi-ren/feru_xs_yuki.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"gozira",
+name:"『ゴジラ-1.0』 鎮座獣 ゴジラ（2023）",
+search:"ごじら",
+type:"tinza",
+price:500,
+date: "",
+img:"images/gozira/2023_tinza.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"umamusume",
+name:"アニメ『ウマ娘 シンデレラグレイ』 BANPRESTO EVOLVE タマモクロスフィギュア",
+search:"たまもくろす",
+type:"bpev",
+price:800,
+date: "",
+img:"images/umamusume/tamamo_bpev.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
 series:"sonota",
 name:"Ado　フィギュア　～Winter ver.～",
 search:"あど",
@@ -2563,7 +2673,7 @@ series:"rezero",
 name:"Re:ゼロから始める異世界生活　１／７スケールフィギュア　レム クリームソーダ",
 search:"れむ",
 type:"",
-price:800,
+price:500,
 date: "",
 img:"images/rezero/remu_cream.jpg",
 source:"https://www.elcocoland.com/shop/"
@@ -10130,7 +10240,7 @@ series:"wanpan",
 name:"ワンパンマン One Punch Life サイタマ～買い物～",
 search:"さいたま",
 type:"",
-price:650,
+price:700,
 date: "",
 img:"images/wanpan/life.jpg",
 source:"https://bsp-prize.jp/"
@@ -10251,7 +10361,7 @@ series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 Memorable Saga Special-うずまきナルト-",
 search:"うずまきなると",
 type:"memo",
-price:1300,
+price:1200,
 date: "",
 img:"images/naruto/naruto_memo.jpg",
 source:"https://bsp-prize.jp/"
@@ -11633,7 +11743,7 @@ series:"tensura",
 name:"劇場版 転生したらスライムだった件 蒼海の涙編 EFFECTREME-リムル＝テンペスト -スペシャルカラーver.",
 search:"りむるてんぺすと",
 type:"eff",
-price:800,
+price:700,
 date: "",
 img:"images/tensura/rimuru_eff_s.jpg",
 source:"https://bsp-prize.jp/"
