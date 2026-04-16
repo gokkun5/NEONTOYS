@@ -5,6 +5,105 @@
 const figures = [
 
 {
+series:"miku",
+name:"初音ミクシリーズLuminasta“初音ミク”ConceptualseriesVol.3",
+search:"はつねみく",
+type:"lum",
+price:800,
+date: "",
+img:"images/miku/concept3.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"kure",
+name:"Trio－Try－iT Figureーロイド・フォージャーー",
+search:"ろいどふぉーじゃー",
+type:"trio",
+price:300,
+date: "",
+img:"images/spy/roido_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"kusuri",
+name:"TVアニメ『薬屋のひとりごと』 Break time collection vol.1",
+search:"まおまお　猫猫",
+type:"bre",
+price:1000,
+date: "",
+img:"images/kusuri/maomao_break.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"furi-ren",
+name:"葬送のフリーレンLuminasta“ヒンメル”～フォーリヒにて～",
+search:"ひんめる",
+type:"lum",
+price:1000,
+date: "",
+img:"images/furi-ren/hin_forihi.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"tora",
+name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　金色の闇～チャイナドレスver．～",
+search:"こんじきのやみ",
+type:"desk",
+price:600,
+date: "",
+img:"images/tora/yami_chaina.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"tyen",
+name:"劇場版『チェンソーマン レゼ篇』 VIBRATION STARS-AKI HAYAKAWA-",
+search:"早川アキ　はやかわあき",
+type:"vib",
+price:1500,
+date: "",
+img:"images/tyen/aki_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kaizyu",
+name:"怪獣８号 VIBRATION STARS-鳴海弦-",
+search:"なるみげん",
+type: "",
+price:1500,
+date: "",
+img:"images/kaizyu/narumi_vib.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"kaguyasama",
+name:"アニメ「かぐや様は告らせたい-ファーストキッスは終わらない-」 スペシャルフィギュアー四宮かぐや パフェver.ー",
+search:"しのみやかぐや",
+type:"nusuto",
+price:700,
+date: "",
+img:"images/kaguyasama/kaguya_nusuto.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"osinoko",
+name:"【推しの子】 ぬーどるストッパーフィギュアー黒川あかね Have a good night!ー",
+search:"くろかわあかね",
+type:"nusuto",
+price:300,
+date: "",
+img:"images/osinoko/akane_rauwan.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
 series:"kimetu",
 name:"鬼滅の刃 フィギュア-絆ノ装-拾伍ノ型",
 search:"不死川実弥　しなずがわさねみ",
@@ -2748,7 +2847,7 @@ source:"https://bsp-prize.jp/"
 {
 series:"tyen",
 name:"劇場版『チェンソーマン レゼ篇』 VIBRATION STARS-ANGEL DEVIL-",
-search:"てんしのあくま",
+search:"てんしのあくま　天使の悪魔",
 type:"vib",
 price:1200,
 date: "",
@@ -8905,7 +9004,7 @@ series:"voice",
 name:"重音テトちょこのせプレミアムフィギュア“重音テト”",
 search:"かさねてと",
 type:"tyoko",
-price:1000,
+price:900,
 date: "",
 img:"images/voice/teto_tyoko.jpg",
 source:"https://segaplaza.jp/"
@@ -8938,7 +9037,7 @@ series:"tensura",
 name:"転生したらスライムだった件 ESPRESTO-Majestic Wings-リムル=テンペスト",
 search:"りむるてんぺすと",
 type:"esp",
-price:700,
+price:800,
 date: "",
 img:"images/tensura/rimuru_esp.jpg",
 source:"https://bsp-prize.jp/"
@@ -8993,7 +9092,7 @@ series:"tyen",
 name:"BiCute Bunnies Figureーレゼー",
 search:"れぜ",
 type:"bani",
-price:2500,
+price:2800,
 date: "",
 img:"images/tyen/reze_bani.jpg",
 source:"https://charahiroba.com/"
@@ -11774,7 +11873,7 @@ source:"https://charahiroba.com/"
 {
 series:"miku",
 name:"『初音ミクシリーズ』Luminasta <br>“初音ミク”－クラシカルメイド－",
-search:"はつねみく",
+search:"はつねみく　くらしかるめいど",
 type:"lum",
 price:700,
 date: "",
