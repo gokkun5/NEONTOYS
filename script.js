@@ -319,7 +319,7 @@ search:"いじちにじか",
 type: "tyoko",
 price:500,
 date: "",
-img:"images/bozaro/nizi_tyoko.jpg",
+img:"images/botti/nizi_tyoko.jpg",
 source:"https://segaplaza.jp/"
 },
 
@@ -341,7 +341,7 @@ search:"やまだりょう",
 type: "ddc",
 price:1000,
 date: "",
-img:"images/bozaro/yamada_ddc.jpg",
+img:"images/botti/yamada_ddc.jpg",
 source:"https://segaplaza.jp/"
 },
 
