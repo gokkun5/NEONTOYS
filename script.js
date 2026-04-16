@@ -13623,9 +13623,20 @@ function showFigures() {
         Array.isArray(f.type) ? f.type.includes(type) : f.type === type
       );
     }
-    if (price !== "all") {
-      filtered = filtered.filter(f => f.price == price);
+
+
+   if (price !== "all") {
+      // ハイフンで分割して [最小値, 最大値] の数値配列を作る
+      const [min, max] = price.split('-').map(Number);
+      
+      filtered = filtered.filter(f => {
+        const itemPrice = Number(f.price);
+        return itemPrice >= min && itemPrice <= max;
+      });
     }
+
+
+
     if (search !== "") {
       filtered = filtered.filter(f =>
         f.name.toLowerCase().includes(search) ||
