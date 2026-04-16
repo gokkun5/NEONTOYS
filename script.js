@@ -5,6 +5,39 @@
 const figures = [
 
 {
+series:"mario",
+name:"スーパーマリオSTDフィギュアVol.01",
+search:"まりお",
+type:"",
+price:500,
+date: "",
+img:"images/mario/mario_stand.jpg",
+source:"https://stuffed-toys.jp/"
+},
+
+{
+series:"miku",
+name:"初音ミク　Fashion フィギュア Preppy",
+search:"プレッピー　ぷれっぴー　はつねみく",
+type:"fa",
+price:1500,
+date: "",
+img:"images/miku/preppy.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"pro",
+name:"「劇場版プロジェクトセカイ壊れたセカイと歌えないミク」Luminasta“閉ざされた窓のセカイの初音ミク”",
+search:"とざされたまどのせかいのはつねみく",
+type: "lum",
+price:900,
+date: "",
+img:"images/pro/tozasaretamiku.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
 series:"miku",
 name:"初音ミクシリーズLuminasta“初音ミク”ConceptualseriesVol.3",
 search:"はつねみく",
@@ -5075,7 +5108,7 @@ series:"tora",
 name:"『To LOVEる-とらぶる-ダークネス』Aqua Float Girls フィギュア 結城美柑",
 search:"みかん",
 type:"aqua",
-price:600,
+price:700,
 date: "",
 img:"images/tora/mikan_aqua.jpg",
 source:"https://www.taito.co.jp/"
@@ -5482,7 +5515,7 @@ series:"sibo",
 name:"死亡遊戯で飯を食う。ちょこのせプレミアムフィギュア“幽鬼”",
 search:"ゆうき",
 type:"tyoko",
-price:1600,
+price:1300,
 date: "",
 img:"images/sibo/yuki_tyoko.jpg",
 source:"https://segaplaza.jp/"
@@ -7197,7 +7230,7 @@ source:"https://bsp-prize.jp/"
 series:"pro",
 name:"「劇場版プロジェクトセカイ壊れたセカイと歌えないミク」Luminasta“開かれた窓のセカイの初音ミク”",
 search:"ひらかれたまどのせかいのはつねみく",
-type: "ddc",
+type: "lum",
 price:800,
 date: "",
 img:"images/pro/hirakareta.jpg",
