@@ -14257,9 +14257,16 @@ function showFigures() {
     // ソート(sort)も含めてデフォルト状態かを判定
     const isDefault = (search === "" && series === "all" && type === "all" && price === "all" && sort === "none");
     
-    if (isAllShowMode || (html !== "" && !isDefault)) {
+    // 「全表示モード」である、または「ユーザーが何かしら操作（検索・絞り込み）をしている」なら表示
+    if (isAllShowMode || !isDefault) {
       listContainer.classList.add('is-active');
+
+      // もし操作した結果、該当する景品が0件だった場合の処理
+      if (html === "") {
+        listContainer.innerHTML = '<p class="no-result">該当する景品がありません</p>';
+      }
     } else {
+      // 本当に何も選んでいない時だけ、新着表示に戻す
       listContainer.classList.remove('is-active');
       initShow(); 
     }
