@@ -5,6 +5,271 @@
 const figures = [
 
 {
+series:"sanrio",
+name:"サンリオキャラクターズ なかよしメモリーズ おうちでリラックスタイム～クロミ＆ウサハナ～",
+search:"うさはな",
+type: "nakayosi",
+price:500,
+date: "2026-04-17",
+img:"images/sanrio/usa_kuro.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"sanrio",
+name:"サンリオキャラクターズ なかよしメモリーズ おうちでリラックスタイム～クロミ＆ウサハナ～",
+search:"くろみ",
+type: "nakayosi",
+price:500,
+date: "2026-04-17",
+img:"images/sanrio/kuro_usa.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"crazy",
+name:"Crazy Raccoon デスクトップフィギュア-Ras-",
+search:"らす",
+type: "",
+price:500,
+date: "2026-04-17",
+img:"images/crazy/ras_b.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"crazy",
+name:"Crazy Raccoon デスクトップフィギュア-Ras-",
+search:"らす",
+type: "",
+price:500,
+date: "2026-04-17",
+img:"images/crazy/ras.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"crazy",
+name:"Crazy Raccoon デスクトップフィギュア-Uruca-",
+search:"うるか",
+type: "",
+price:500,
+date: "2026-04-17",
+img:"images/crazy/uruca_b.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"crazy",
+name:"Crazy Raccoon デスクトップフィギュア-Uruca-",
+search:"うるか",
+type: "",
+price:500,
+date: "2026-04-17",
+img:"images/crazy/uruca.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース おおきなSOFVIMATES〜チョッパードラム王国ver.〜",
+search:"ちょっぱー",
+type: "",
+price:550,
+date: "2026-04-17",
+img:"images/wanpi/tyoppa_doramu_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"amoasu",
+name:"Among Us おおきなSOFVIMATES vol.1",
+search:"あもんぐあす",
+type: "",
+price:550,
+date: "2026-04-17",
+img:"images/amoasu/amoasu_b.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"amoasu",
+name:"Among Us おおきなSOFVIMATES vol.1",
+search:"あもんぐあす",
+type: "",
+price:550,
+date: "2026-04-17",
+img:"images/amoasu/amoasu_a.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース BATTLE RECORD COLLECTION-SHIKI-",
+search:"しき　シキ",
+type:"bato",
+price:800,
+date: "2026-04-17",
+img:"images/wanpi/siki_bato.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"db",
+name:"ドラゴンボールZ Grandista-VEGITO-",
+search:"べじっと　ベジット",
+type: "gra",
+price:800,
+date: "2026-04-17",
+img:"images/db/bezitto_gra.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"wanpi",
+name:"ワンピース BATTLE RECORD COLLECTION-CHARLOTTE KATAKURI-SPECIAL ver.",
+search:"かたくり　カタクリ",
+type:"bato",
+price:900,
+date: "2026-04-17",
+img:"images/wanpi/katakuri_bato_sp.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"umamusume",
+name:"Trio-Try-iT Figure―ネオユニヴァースー",
+search:"ねおゆにヴぁーす",
+type:"trio",
+price:900,
+date: "2026-04-17",
+img:"images/umamusume/neo_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア Noir Edge Collection-HIMIKO TOGA-",
+search:"とがひみこ　トガヒミコ",
+type:"noir",
+price:900,
+date: "2026-04-17",
+img:"images/hiro/toga_noir.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"miku",
+name:"ぬーどるストッパーフィギュアー桜ミク2025ウィンクー",
+search:"さくらみく　はつねみく",
+type:"nusuto",
+price:1000,
+date: "2026-04-17",
+img:"images/miku/sakura_2025_wink.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"kisekoi",
+name:"BiCute Dark Figure ー喜多川海夢 黒江雫ver.ー",
+search:"くろえしずく",
+type:"daku",
+price:1000,
+date: "2026-04-17",
+img:"images/kisekoi/sizuku_dark.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"naruto",
+name:"-NARUTO 72 series- 03 うずまきナルト＆はたけカカシ",
+search:"かかし",
+type:"72",
+price:1100,
+date: "2026-04-17",
+img:"images/naruto/kakasi_72_3.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"naruto",
+name:"-NARUTO 72 series- 03 うずまきナルト＆はたけカカシ",
+search:"なると",
+type:"72",
+price:1100,
+date: "2026-04-17",
+img:"images/naruto/naruto_72_3.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"umamusume",
+name:"ウマ娘 プリティーダービー BoC'z we\n ヴィルシーナ as Queen V フィギュア",
+search:"ヴぃるしーな",
+type:"",
+price:800,
+date: "2026-04-17",
+img:"images/umamusume/virusi.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"umamusume",
+name:"ウマ娘 プリティーダービー BoC'z we\n シュヴァルグラン as マリン・C フィギュア",
+search:"しゅヴぁるぐらん",
+type:"",
+price:800,
+date: "2026-04-17",
+img:"images/umamusume/syuva.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア Fluffy Puffy～ショートキャット＆オチャネコ～Ⅱ",
+search:"しょーときゃっと",
+type:"flu",
+price:700,
+date: "2026-04-17",
+img:"images/hiro/syo2_flu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア Fluffy Puffy～ショートキャット＆オチャネコ～Ⅱ",
+search:"おちゃねこ",
+type:"flu",
+price:700,
+date: "2026-04-17",
+img:"images/hiro/otya2_flu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア Fluffy Puffy～デクシープ＆バクドッグ～Ⅱ",
+search:"ばくどっく",
+type:"flu",
+price:700,
+date: "2026-04-17",
+img:"images/hiro/baku2_flu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"hiro",
+name:"僕のヒーローアカデミア Fluffy Puffy～デクシープ＆バクドッグ～Ⅱ",
+search:"でくしーぷ",
+type:"flu",
+price:700,
+date: "2026-04-17",
+img:"images/hiro/deku2_flu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
 series:"gomon",
 name:"TVアニメ『姫様“拷問”の時間です』 フィギュアスペシャルアソート",
 search:"まおまおちゃん　マオマオちゃん",
@@ -1418,7 +1683,7 @@ source:"https://bsp-prize.jp/"
 series:"naruto",
 name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UZUMAKI NARUTO-Ⅳ",
 search:"うずまきなると　ナルト",
-type: "",
+type: "vib",
 price:1000,
 date: "",
 img:"images/naruto/naruto4_vib.jpg",
