@@ -71,6 +71,45 @@ h1 img {
   width: 100%;
 }
 
+/* 1. 親要素を横並びにする（すでにある場合は確認してください） */
+.main {
+  display: flex;
+  align-items: flex-start; /* 中身が勝手に伸びないように */
+}
+
+/* 2. サイドバーを独立スクロールさせる */
+.sidebar {
+  width: 250px; 
+  flex-shrink: 0;
+
+  /* 画面上端に固定 */
+  position: sticky;
+  top: 0;
+  
+  /* サイドバー単体でスクロールさせるための設定 */
+  height: 100vh;
+  overflow-y: auto;
+
+  /* デザイン調整 */
+  padding: 20px;
+  box-sizing: border-box;
+
+  /* ★ここを修正！ 背景を黒系に、文字を白にします */
+  background-color: #111; /* メインより少し明るい黒にすると境界がわかって綺麗です */
+  color: #fff;
+}
+
+/* スクロールバーが目立ちすぎないように調整（任意） */
+.sidebar::-webkit-scrollbar {
+  width: 5px;
+}
+.sidebar::-webkit-scrollbar-track {
+  background: #000;
+}
+.sidebar::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 10px;
+}
 /* ===== 検索・セレクト ===== */
 #search, select {
   font-size: 14px;
