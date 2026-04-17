@@ -162,6 +162,15 @@ h1 img {
   grid-template-columns: repeat(3, 1fr);
 }
 
+/* CSSにこれを追加しておくと雰囲気が良くなります */
+.no-result {
+  text-align: center;
+  padding: 50px 0;
+  color: #888;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+}
+
 /* ===== カードデザイン ===== */
 .card {
   background: #2a2a2a;
