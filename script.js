@@ -4,6 +4,7 @@
 // ==========================================
 let isAllShowMode = false;
 const allShowBtn = document.getElementById('allShowBtn');
+let ALL_SERIES_OPTIONS = []; // ★これを追加（元のリストを保存する用）
 
 // ==========================================
 // 2. 初期表示関数 (initShow)
@@ -50,14 +51,19 @@ function initShow() {
 // シリーズの選択肢を頭文字で絞り込む
 // ==========================================
 function filterSeriesByInitial() {
-    // 1. HTML側の選択された「行」の値を取得する
     const initialSelect = document.getElementById("initial-filter");
-    const initial = initialSelect.value; 
-
+    const initial = initialSelect.value;
     const seriesSelect = document.getElementById("series");
-    const options = seriesSelect.options;
 
-    // 2. 各行の判定ルール
+    // 初回実行時のみ、全ての選択肢を「ALL_SERIES_OPTIONS」に保存する
+    if (ALL_SERIES_OPTIONS.length === 0) {
+        ALL_SERIES_OPTIONS = Array.from(seriesSelect.options).map(opt => ({
+            value: opt.value,
+            text: opt.textContent,
+            kana: opt.getAttribute("data-kana") || ""
+        }));
+    }
+
     const rows = {
         "あ": /^[あ-おア-オ]/, "か": /^[か-こが-ごカ-コガ-ゴ]/,
         "さ": /^[さ-そざ-ぞサ-ソザ-ゾ]/, "た": /^[た-とだ-どタ-トダ-ド]/,
@@ -67,31 +73,36 @@ function filterSeriesByInitial() {
         "english": /^[A-Za-z0-9]/
     };
 
-    // 3. 全ての作品選択肢をループ
-    for (let i = 0; i < options.length; i++) {
-        const opt = options[i];
-        
-        if (opt.value === "all") {
-            opt.style.display = "block";
-            continue;
-        }
+    // 一旦、セレクトボックスの中身を空にする
+    seriesSelect.innerHTML = "";
 
-        const kana = opt.getAttribute("data-kana") || "";
+    // 保存しておいた全リストから、条件に合うものだけを「再作成」して追加する
+    ALL_SERIES_OPTIONS.forEach(optData => {
+        // "All Series" は常に表示
+        if (optData.value === "all") {
+            seriesSelect.add(new Option(optData.text, optData.value));
+            return;
+        }
 
         let isMatch = false;
         if (initial === "all") {
             isMatch = true;
-        } else if (rows[initial] && rows[initial].test(kana)) {
+        } else if (rows[initial] && rows[initial].test(optData.kana)) {
             isMatch = true;
         }
 
-        // 表示・非表示の切り替え
-        opt.style.display = isMatch ? "block" : "none";
-    }
+        if (isMatch) {
+            seriesSelect.add(new Option(optData.text, optData.value));
+        }
+    });
 
-    // 作品選択をリセットして一覧を更新
+    // 作品選択をリセット
     seriesSelect.value = "all";
-    showFigures();
+    
+    // 少しだけ時間を置いてからフィギュア一覧を更新（スマホの処理待ち対策）
+    setTimeout(() => {
+        showFigures();
+    }, 50);
 }
 
 // ==========================================
@@ -231,13 +242,7 @@ function clearFilters() {
     });
 
     // 2. 「あかさたな」で隠されていた作品の選択肢(display: none)をすべて「表示」に戻す
-    const seriesSelect = document.getElementById("series");
-    if (seriesSelect) {
-        const opts = seriesSelect.options;
-        for (let i = 0; i < opts.length; i++) {
-            opts[i].style.display = "block";
-        }
-    }
+  filterSeriesByInitial();
 
     // 3. 全表示モードなどのフラグをリセット
     isAllShowMode = false;
