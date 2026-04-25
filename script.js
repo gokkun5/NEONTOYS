@@ -44,6 +44,61 @@ function initShow() {
   updatePickupTitle(true);
 }
 
+// (省略: initShowの終わり)
+
+// ==========================================
+// シリーズの選択肢を頭文字で絞り込む
+// ==========================================
+function filterSeriesByInitial() {
+    // 1. HTML側の選択された「行」の値を取得する
+    const initialSelect = document.getElementById("initial-filter");
+    const initial = initialSelect.value; 
+
+    const seriesSelect = document.getElementById("series");
+    const options = seriesSelect.options;
+
+    // 2. 各行の判定ルール
+    const rows = {
+        "あ": /^[あ-おア-オ]/, "か": /^[か-こが-ごカ-コガ-ゴ]/,
+        "さ": /^[さ-そざ-ぞサ-ソザ-ゾ]/, "た": /^[た-とだ-どタ-トダ-ド]/,
+        "な": /^[な-のナ-ノ]/, "は": /^[は-ほば-ぼぱ-ぽハ-ホバ-ボパ-ポ]/,
+        "ま": /^[ま-もマ-モ]/, "や": /^[や-よヤ-ヨ]/,
+        "ら": /^[ら-ろラ-ロ]/, "わ": /^[わをんワヲン]/,
+        "english": /^[A-Za-z0-9]/
+    };
+
+    // 3. 全ての作品選択肢をループ
+    for (let i = 0; i < options.length; i++) {
+        const opt = options[i];
+        
+        if (opt.value === "all") {
+            opt.style.display = "block";
+            continue;
+        }
+
+        const kana = opt.getAttribute("data-kana") || "";
+
+        let isMatch = false;
+        if (initial === "all") {
+            isMatch = true;
+        } else if (rows[initial] && rows[initial].test(kana)) {
+            isMatch = true;
+        }
+
+        // 表示・非表示の切り替え
+        opt.style.display = isMatch ? "block" : "none";
+    }
+
+    // 作品選択をリセットして一覧を更新
+    seriesSelect.value = "all";
+    showFigures();
+}
+
+// ==========================================
+// 3. 絞り込み表示関数 (showFigures)
+// ==========================================
+// (以下、既存のコード)
+
 // ==========================================
 // 3. 絞り込み表示関数 (showFigures)
 // ==========================================
@@ -164,29 +219,41 @@ function showFigures() {
 // 4. フィルタークリア関数 (clearFilters)
 // ==========================================
 function clearFilters() {
-  const ids = ["search", "series", "type", "price", "sort"];
-  ids.forEach(id => {
-    const el = document.getElementById(id);
-    if (el) {
-      if (id === "sort") el.value = "none";
-      else if (id === "search") el.value = "";
-      else el.value = "all";
+    // 1. 各セレクトボックスと検索窓の値をリセット
+    const ids = ["search", "series", "type", "price", "sort", "initial-filter"]; // initial-filterを追加
+    ids.forEach(id => {
+        const el = document.getElementById(id);
+        if (el) {
+            if (id === "sort") el.value = "none";
+            else if (id === "search") el.value = "";
+            else el.value = "all";
+        }
+    });
+
+    // 2. 「あかさたな」で隠されていた作品の選択肢(display: none)をすべて「表示」に戻す
+    const seriesSelect = document.getElementById("series");
+    if (seriesSelect) {
+        const opts = seriesSelect.options;
+        for (let i = 0; i < opts.length; i++) {
+            opts[i].style.display = "block";
+        }
     }
-  });
 
-  isAllShowMode = false;
-  if (allShowBtn) {
-    allShowBtn.textContent = '全表示にする';
-    allShowBtn.classList.remove('active');
-  }
+    // 3. 全表示モードなどのフラグをリセット
+    isAllShowMode = false;
+    if (allShowBtn) {
+        allShowBtn.textContent = '全表示にする';
+        allShowBtn.classList.remove('active');
+    }
 
-  const listContainer = document.getElementById("figureList");
-  if (listContainer) {
-    listContainer.innerHTML = "";
-    listContainer.classList.remove('is-active');
-  }
+    // 4. 表示エリアを一旦空にして、初期表示（新着分）を再実行
+    const listContainer = document.getElementById("figureList");
+    if (listContainer) {
+        listContainer.innerHTML = "";
+        listContainer.classList.remove('is-active');
+    }
 
-  initShow();
+    initShow();
 }
 
 // ==========================================
