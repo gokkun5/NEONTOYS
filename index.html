@@ -33,178 +33,194 @@
     >
 
     <!-- シリーズ -->
-    <select id="series" onchange="showFigures()">
-    <option value="all">All Series</option>
-    <option value="kimetu">鬼滅の刃</option>
-    <option value="naruto">NARUTO</option>
-    <option value="wanpi">ワンピース</option>
-    <option value="db">ドラゴンボール</option>
-    <option value="zyuzyutu">呪術廻戦</option>
-    <option value="furi-ren">葬送のフリーレン</option>
-    <option value="hiro">僕のヒーローアカデミア</option>
-    <option value="haikyu">ハイキュー！！</option>
-    <option value="hant">Hunter×Hunter</option>
-    <option value="miku">初音ミク</option>
-    <option value="kisekoi">その着せ替え人形は恋をする</option>
-    <option value="kusuri">薬屋のひとりごと</option>
-    <option value="holo">hololive</option>
-    <option value="umamusume">ウマ娘プリティーダービー</option>
-    <option value="gotoyome">五等分の花嫁</option>
-    <option value="tora">To LOVE る</option>
-    <option value="rezero">Re:ゼロから始める異世界生活</option>
-    <option value="oba">オーバーロード</option>
-    <option value="deara">デート・ア・ライブ</option>
-    <option value="tensura">転生したらスライムだった件</option>
-    <option value="singeki">進撃の巨人</option>
-    <option value="buri">BLEACH</option>
-    <option value="tyen">チェンソーマン</option>
-    <option value="furi-bururo">ブルーロック</option>
-    <option value="dandadan">ダンダダン</option>
-    <option value="spy">SPY×FAMILY</option>
-    <option value="gintama">銀魂</option>
-    <option value="sakamoto">SAKAMOTO DAYS</option>
-    <option value="eva">新世紀エヴァンゲリオン</option>
-    <option value="zyozyo">ジョジョの奇妙な冒険</option>
-    <option value="wanpan">ワンパンマン</option>
-    <option value="kaizyu">怪獣８号</option>
-    <option value="zigoku">地獄楽</option>
-    <option value="guru">東京喰種トーキョーグール</option>
-    <option value="voice">VOICEROID</option>
-    <option value="orerebe">俺だけレベルアップな件</option>
-    <option value="watanare">わたしが恋人になれるわけないじゃん、
-ムリムリ!（※ムリじゃなかった!?）</option>
-    <option value="gati">ガチアクタ</option>
-    <option value="nikke">勝利の女神：NIKKE</option>
-    <option value="pansuto">PANTY ＆ STOCKING</option>
-    <option value="king">キングダム</option>
-    <option value="baki">刃牙</option>
-    <option value="toribe">東京リベンジャーズ</option>
-    <option value="osinoko">推しの子</option>
-    <option value="kon">けいおん！</option>
-    <option value="madomagi">魔法少女まどかマギカ</option>
-    <option value="mazyotabi">魔女の旅々</option>
-    <option value="soniko">すーぱーそに子</option>
-    <option value="aimasu">アイドルマスター</option>
-    <option value="vtu">Vtuberシリーズ</option>
-    <option value="botti">ぼっちざろっく</option>
-    <option value="konosuba">この素晴らしい世界に祝福を！</option>
-    <option value="garukura">ガールズバンドクライ</option>
-    <option value="aohako">アオのハコ</option>
-    <option value="rikorisu">リコリス・リコイル</option>
-    <option value="tensisama">お隣の天使様にいつの間にか駄目人間にされていた件</option>
-    <option value="toho">東方Project</option>
-    <option value="rosidere">時々ボソッとロシア語でデレる隣のアーリャさん</option>
-    <option value="uzaki">宇崎ちゃんは遊びたい!</option>
-    <option value="rerugan">とある科学の超電磁砲</option>
-    <option value="musyoku">無職転生 〜異世界行ったら本気だす〜</option>
-    <option value="togen">桃源暗鬼</option>
-    <option value="katainaka">片田舎のおっさん、剣聖になる</option>
-    <option value="guri">グリッドマン ユニバース</option>
-    <option value="makein">負けヒロインが多すぎる！</option>
-    <option value="nintama">忍たま乱太郎</option>
-    <option value="kuresin">クレヨンしんちゃん</option>
-    <option value="wind">WIND BREAKER</option>
-    <option value="dr">Dr.STONE</option>
-    <option value="uru">ウルトラマン</option>
-    <option value="gozira">ゴジラ</option>
-    <option value="mar">MARVEL</option>
-    <option value="zyurasikku">ジュラシック・ワールド</option>
-    <option value="kamen">仮面ライダー</option>
-    <option value="sanrio">サンリオキャラクターズ</option>
-    <option value="disny">ディズニーキャラクター</option>
-    <option value="hokuto">北斗の拳</option>
-    <option value="ryotu">こちら葛飾区亀有公園前派出所</option>
-    <option value="haruhi">涼宮ハルヒの憂鬱</option>
-    <option value="konan">名探偵コナン</option>
-    <option value="death">DEATH NOTE</option>
-    <option value="kaizi">賭博黙示録カイジ</option>
-    <option value="yugi">遊☆戯☆王</option>
-    <option value="yuyu">幽☆遊☆白書</option>
-    <option value="kinniku">キン肉マン</option>
-    <option value="masyu">マッシュル-MASHLE-</option>
-    <option value="kurosituzi">黒執事</option>
-    <option value="gorukamu">ゴールデンカムイ</option>
-    <option value="gundam">ガンダム</option>
-    <option value="pokemon">ポケットモンスター</option>
-    <option value="dezimon">デジモン</option>
-    <option value="uruse">うる星やつら</option>
-    <option value="ranma">らんま1/2</option>
-    <option value="ruroken">るろうに剣心 </option>
-    <option value="esi">絵師</option>
-    <option value="meidoin">メイドインアビス</option>
-    <option value="ika">侵略!イカ娘</option>
-    <option value="nigo">2.5次元の誘惑</option>
-    <option value="mahoako">魔法少女にあこがれて</option>
-    <option value="higurasi">ひぐらしのなく頃に</option>
-    <option value="purikyua">プリキュア</option>
-    <option value="aobuta">青春ブタ野郎シリーズ</option>
-    <option value="meda">メダリスト</option>
-    <option value="kaguyasama">かぐや様は告らせたい</option>
-    <option value="onimai">お兄ちゃんはおしまい！</option>
-    <option value="rinsaku">薫る花は凛と咲く</option>
-    <option value="nukitasi">ぬきたし</option>
-    <option value="yurukyan">ゆるキャン△</option>
-    <option value="youzyo">幼女戦記</option>
-    <option value="nigewaka">逃げ上手の若君</option>
-    <option value="syanguri">シャングリラ・フロンティア</option>
-    <option value="fate">Fate</option>
-    <option value="dorakue">ドラゴンクエスト</option>
-    <option value="suto">ストリートファイター</option>
-    <option value="monhan">モンスターハンター</option>
-    <option value="pro">プロジェクトセカイ</option>
-    <option value="atorie">アトリエシリーズ</option>
-    <option value="nia">ニーアオートマタ</option>
-    <option value="buruaka">ブルーアーカイブ -Blue Archive-</option>
-    <option value="kamitu">神椿市建設中。</option>
-    <option value="guno">グノーシア</option>
-    <option value="omori">OMORI</option>
-    <option value="nyanko">にゃんこ大戦争</option>
-    <option value="amoasu">Among Us</option>
-    <option value="akunai">アークナイツ</option>
-    <option value="hebu">ヘブンバーンズレッド</option>
-    <option value="monsuto">モンスターストライク</option>
-    <option value="mazyan">麻雀ファイトガール</option>
-    <option value="kabi">星のカービィ</option>
-    <option value="mario">スーパーマリオ</option>
-    <option value="supura">スプラトゥーン</option>
-    <option value="valo">VALORANT</option>
-    <option value="crazy">Crazy Raccoon</option>
-    <option value="sairen">SILENT HILL</option>
-    <option value="little">LITTLE NIGHTMARES</option>
-    <option value="beat">beatmania</option>
-    <option value="keroro">ケロロ軍曹</option>
-    <option value="yaiba">真·侍伝YAIBA</option>
-    <option value="sakura">カードキャプターさくら</option>
-    <option value="amagamisan">甘神さんちの縁結び</option>
-    <option value="yahari">やはり俺の青春ラブコメはまちがっている。</option>
-    <option value="saekano">冴えない彼女の育てかた</option>
-    <option value="mono">mono</option>
-    <option value="hanako">地縛少年花子くん</option>
-    <option value="medaka">黒岩メダカに私の可愛いが通じない</option>
-    <option value="witti">ウィッチウォッチ</option>
-    <option value="ruri">瑠璃の宝石</option>
-    <option value="tomuzyeri">トムとジェリー</option>
-    <option value="puniru">ぷにるはかわいいスライム</option>
-    <option value="tikawa">ちいかわ</option>
-    <option value="siunzi">紫雲寺家の子供たち</option>
-    <option value="samapoke">Summer Pockets</option>
-    <option value="reia">魔法騎士レイアース</option>
-    <option value="gomon">姫様“拷問”の時間です</option>
-    <option value="syuwa">VTuberなんだが配信切り忘れたら伝説になってた</option>
-    <option value="aoeku">青の祓魔師</option>
-    <option value="seiyu">声優ラジオのウラオモテ</option>
-    <option value="spykyousitu">スパイ教室</option>
-    <option value="motiduki">ドカ食いダイスキ！ もちづきさん</option>
-    <option value="yakusoku">魔法使いの約束</option>
-    <option value="daikirai">クラスの大嫌いな女子と結婚することになった。</option>
-    <option value="yorukura">夜のクラゲは泳げない</option>
-    <option value="wandaegg">ワンダーエッグ・プライオリティ</option>
-    <option value="city">CITY</option>
-    <option value="sentaired">戦隊レッド異世界で冒険者になる</option>
-    <option value="hora">ホラータイトル</option>
-    <option value="sonota">その他</option>
 
-    </select>
+<select id="initial-filter" onchange="filterSeriesByInitial()">
+  <option value="all">Seriesの頭文字を選択する</option>
+  <option value="あ">あ行</option>
+  <option value="か">か行</option>
+  <option value="さ">さ行</option>
+  <option value="た">た行</option>
+  <option value="な">な行</option>
+  <option value="は">は行</option>
+  <option value="ま">ま行</option>
+  <option value="や">や行</option>
+  <option value="ら">ら行</option>
+  <option value="わ">わ行</option>
+ </select>
+
+   <select id="series" onchange="showFigures()">
+    <option value="all" data-kana="">Series</option>
+    <option value="kimetu" data-kana="きめつのやいば">鬼滅の刃</option>
+    <option value="naruto" data-kana="なると">NARUTO</option>
+    <option value="wanpi" data-kana="わんぴーす">ワンピース</option>
+    <option value="db" data-kana="どらごんぼーる">ドラゴンボール</option>
+    <option value="zyuzyutu" data-kana="じゅじゅつかいせん">呪術廻戦</option>
+    <option value="furi-ren" data-kana="そうそうのふりーれん">葬送のフリーレン</option>
+    <option value="hiro" data-kana="ぼくのひーろーあかでみあ">僕のヒーローアカデミア</option>
+    <option value="haikyu" data-kana="はいきゅう">ハイキュー！！</option>
+    <option value="hant" data-kana="はんたーはんたー">Hunter×Hunter</option>
+    <option value="miku" data-kana="はつねみく">初音ミク</option>
+    <option value="kisekoi" data-kana="そのきせかえにんぎょうはこいをする">その着せ替え人形は恋をする</option>
+    <option value="kusuri" data-kana="くすりやのひとりごと">薬屋のひとりごと</option>
+    <option value="holo" data-kana="ほろらいぶ">hololive</option>
+    <option value="umamusume" data-kana="うまむすめぷりてぃーだーびー">ウマ娘プリティーダービー</option>
+    <option value="gotoyome" data-kana="ごとうぶんのはなよめ">五等分の花嫁</option>
+    <option value="tora" data-kana="とらぶる">To LOVE る</option>
+    <option value="rezero" data-kana="りぜろからはじめるいせかいせいかつ">Re:ゼロから始める異世界生活</option>
+    <option value="oba" data-kana="おーばーろーど">オーバーロード</option>
+    <option value="deara" data-kana="でーとあらいぶ">デート・ア・ライブ</option>
+    <option value="tensura" data-kana="てんせいしたらスライムだったけん">転生したらスライムだった件</option>
+    <option value="singeki" data-kana="しんげきのきょじん">進撃の巨人</option>
+    <option value="buri" data-kana="ぶりーち">BLEACH</option>
+    <option value="tyen" data-kana="ちぇんそーまん">チェンソーマン</option>
+    <option value="furi-bururo" data-kana="ぶるーろっく">ブルーロック</option>
+    <option value="dandadan" data-kana="だんだだん">ダンダダン</option>
+    <option value="spy" data-kana="すぱいふぁみりー">SPY×FAMILY</option>
+    <option value="gintama" data-kana="ぎんたま">銀魂</option>
+    <option value="sakamoto" data-kana="さかもとでいず">SAKAMOTO DAYS</option>
+    <option value="eva" data-kana="しんせいきえゔぁんげりおん">新世紀エヴァンゲリオン</option>
+    <option value="zyozyo" data-kana="じょじょのきみょうなぼうけん">ジョジョの奇妙な冒険</option>
+    <option value="wanpan" data-kana="わんぱんまん">ワンパンマン</option>
+    <option value="kaizyu" data-kana="かいじゅうはちごう">怪獣８号</option>
+    <option value="zigoku" data-kana="じごくらく">地獄楽</option>
+    <option value="guru" data-kana="とうきょうぐーる">東京喰種トーキョーグール</option>
+    <option value="voice" data-kana="ぼいすろいど">VOICEROID</option>
+    <option value="orerebe" data-kana="おれだけレベルアップなけん">俺だけレベルアップな件</option>
+    <option value="watanare" data-kana="わたしがこいびとになれるわけないじゃん">わたしが恋人になれるわけないじゃん、ムリムリ!</option>
+    <option value="gati" data-kana="がちあくた">ガチアクタ</option>
+    <option value="nikke" data-kana="しょうりのめがみにっけ">勝利の女神：NIKKE</option>
+    <option value="pansuto" data-kana="ぱんてぃあんどすとっきんぐ">PANTY ＆ STOCKING</option>
+    <option value="king" data-kana="きんぐだむ">キングダム</option>
+    <option value="baki" data-kana="ばき">刃牙</option>
+    <option value="toribe" data-kana="とうきょうりべんじゃーず">東京リベンジャーズ</option>
+    <option value="osinoko" data-kana="おしのこ">推しの子</option>
+    <option value="kon" data-kana="けいおん">けいおん！</option>
+    <option value="madomagi" data-kana="まほうしょうじょまどかまぎか">魔法少女まどかマギカ</option>
+    <option value="mazyotabi" data-kana="まじょのたびたび">魔女の旅々</option>
+    <option value="soniko" data-kana="すーぱーそにこ">すーぱーそに子</option>
+    <option value="aimasu" data-kana="あいどるますたー">アイドルマスター</option>
+    <option value="vtu" data-kana="ぶいちゅーばー">Vtuberシリーズ</option>
+    <option value="botti" data-kana="ぼっちざろっく">ぼっちざろっく</option>
+    <option value="konosuba" data-kana="このすばらしいせかいにしゅくふくを">この素晴らしい世界に祝福を！</option>
+    <option value="garukura" data-kana="がーるずばんどくらい">ガールズバンドクライ</option>
+    <option value="aohako" data-kana="あおのはこ">アオのハコ</option>
+    <option value="rikorisu" data-kana="りこりすりこいる">リコリス・リコイル</option>
+    <option value="tensisama" data-kana="おとなりのてんしさまにいつのまにかだめにんげんにされていたけん">お隣の天使様にいつの間にか駄目人間にされていた件</option>
+    <option value="toho" data-kana="とうほうぷろじぇくと">東方Project</option>
+    <option value="danmesi" data-kana="だんじょんめし">ダンジョン飯</option>
+    <option value="rosidere" data-kana="ときどきぼそっとろしあごででれるとなりのあーりゃさん">時々ボソッとロシア語でデレる隣のアーリャさん</option>
+    <option value="uzaki" data-kana="うざきちゃんはあそびたい">宇崎ちゃんは遊びたい!</option>
+    <option value="rerugan" data-kana="とあるかがくのれーるがん">とある科学の超電磁砲</option>
+    <option value="musyoku" data-kana="むしょくてんせい">無職転生 〜異世界行ったら本気だす〜</option>
+    <option value="togen" data-kana="とうげんあんき">桃源暗鬼</option>
+    <option value="katainaka" data-kana="かたいなかのおっさんけんせいになる">片田舎のおっさん、剣聖になる</option>
+    <option value="guri" data-kana="ぐりっどまんゆにばーす">グリッドマン ユニバース</option>
+    <option value="makein" data-kana="まけひろいんがおおすぎる">負けヒロインが多すぎる！</option>
+    <option value="nintama" data-kana="にんたまらんたろう">忍たま乱太郎</option>
+    <option value="kuresin" data-kana="くれよんしんちゃん">クレヨンしんちゃん</option>
+    <option value="wind" data-kana="うぃんどぶれいかー">WIND BREAKER</option>
+    <option value="dr" data-kana="どくたーすとーん">Dr.STONE</option>
+    <option value="uru" data-kana="うるとらまん">ウルトラマン</option>
+    <option value="gozira" data-kana="ごじら">ゴジラ</option>
+    <option value="mar" data-kana="まーべる">MARVEL</option>
+    <option value="zyurasikku" data-kana="じゅらしっくわーるど">ジュラシック・ワールド</option>
+    <option value="kamen" data-kana="かめんらいだー">仮面ライダー</option>
+    <option value="sanrio" data-kana="さんりおきゃらくたーず">サンリオキャラクターズ</option>
+    <option value="disny" data-kana="でぃずにーきゃらくたー">ディズニーキャラクター</option>
+    <option value="hazubin" data-kana="はずびんほてるへようこそ">ハズビン・ホテルへようこそ</option>
+    <option value="hokuto" data-kana="ほくとのけん">北斗の拳</option>
+    <option value="ryotu" data-kana="こちらかつしかくかめありこうえんまえはしゅつじょ">こちら葛飾区亀有公園前派出所</option>
+    <option value="haruhi" data-kana="すずみやはるひのゆううつ">涼宮ハルヒの憂鬱</option>
+    <option value="konan" data-kana="めいたんていこなん">名探偵コナン</option>
+    <option value="death" data-kana="ですのーと">DEATH NOTE</option>
+    <option value="kaizi" data-kana="とばくもくしろくかいじ">賭博黙示録カイジ</option>
+    <option value="yugi" data-kana="ゆうぎおう">遊☆戯☆王</option>
+    <option value="yuyu" data-kana="ゆうゆうはくしょ">幽☆遊☆白書</option>
+    <option value="kinniku" data-kana="きんにくまん">キン肉マン</option>
+    <option value="masyu" data-kana="まっしゅる">マッシュル-MASHLE-</option>
+    <option value="kurosituzi" data-kana="くろしつじ">黒執事</option>
+    <option value="gorukamu" data-kana="ごーるでんかむい">ゴールデンカムイ</option>
+    <option value="gundam" data-kana="がんだむ">ガンダム</option>
+    <option value="pokemon" data-kana="ぽけっともんすたー">ポケットモンスター</option>
+    <option value="dezimon" data-kana="でじもん">デジモン</option>
+    <option value="uruse" data-kana="うるせいやつら">うる星やつら</option>
+    <option value="ranma" data-kana="らんま">らんま1/2</option>
+    <option value="ruroken" data-kana="るろうにけんしん">るろうに剣心</option>
+    <option value="esi" data-kana="えし">絵師</option>
+    <option value="meidoin" data-kana="めいどいんあびす">メイドインアビス</option>
+    <option value="ika" data-kana="しんりゃくいかむすめ">侵略!イカ娘</option>
+    <option value="nigo" data-kana="にーてんごじげんのゆうわく">2.5次元の誘惑</option>
+    <option value="mahoako" data-kana="まほうしょうじょにあこがれて">魔法少女にあこがれて</option>
+    <option value="higurasi" data-kana="ひぐらしのなくころに">ひぐらしのなく頃に</option>
+    <option value="purikyua" data-kana="ぷりきゅあ">プリキュア</option>
+    <option value="aobuta" data-kana="せいしゅんぶたやろうしりーず">青春ブタ野郎シリーズ</option>
+    <option value="meda" data-kana="めだりすと">メダリスト</option>
+    <option value="kaguyasama" data-kana="かぐやさまはこくらせたい">かぐや様は告らせたい</option>
+    <option value="onimai" data-kana="おにいちゃんはおしまい">お兄ちゃんはおしまい！</option>
+    <option value="rinsaku" data-kana="かおるはなはりんとさく">薫る花は凛と咲く</option>
+    <option value="nukitasi" data-kana="ぬきたし">ぬきたし</option>
+    <option value="yurukyan" data-kana="ゆるきゃん">ゆるキャン△</option>
+    <option value="youzyo" data-kana="ようじょせんき">幼女戦記</option>
+    <option value="nigewaka" data-kana="にげじょうずのわかぎみ">逃げ上手の若君</option>
+    <option value="syanguri" data-kana="しゃんぐりらふろんてぃあ">シャングリラ・フロンティア</option>
+    <option value="fate" data-kana="ふぇいと">Fate</option>
+    <option value="dorakue" data-kana="どらごんくえすと">ドラゴンクエスト</option>
+    <option value="suto" data-kana="すとりーとふぁいたー">ストリートファイター</option>
+    <option value="monhan" data-kana="もんすたーはんたー">モンスターハンター</option>
+    <option value="pro" data-kana="ぷろじぇくとせかい">プロジェクトセカイ</option>
+    <option value="atorie" data-kana="あとりえしりーず">アトリエシリーズ</option>
+    <option value="nia" data-kana="にーあおーとまた">ニーアオートマタ</option>
+    <option value="buruaka" data-kana="ぶるーあーかいぶ">ブルーアーカイブ -Blue Archive-</option>
+    <option value="kamitu" data-kana="かみつばきしけんせつちゅう">神椿市建設中。</option>
+    <option value="guno" data-kana="ぐのーしあ">グノーシア</option>
+    <option value="omori" data-kana="おもり">OMORI</option>
+    <option value="nyanko" data-kana="にゃんこだいせんそう">にゃんこ大戦争</option>
+    <option value="amoasu" data-kana="あもんぐあす">Among Us</option>
+    <option value="akunai" data-kana="あーくないつ">アークナイツ</option>
+    <option value="hebu" data-kana="へぶんばーんずれっど">ヘブンバーンズレッド</option>
+    <option value="monsuto" data-kana="もんすたーすとらいく">モンスターストライク</option>
+    <option value="mazyan" data-kana="まーじゃんふぁいとがーる">麻雀ファイトガール</option>
+    <option value="kabi" data-kana="ほしのかーびぃ">星のカービィ</option>
+    <option value="mario" data-kana="すーぱーまりお">スーパーマリオ</option>
+    <option value="supura" data-kana="すぷらとぅーん">スプラトゥーン</option>
+    <option value="valo" data-kana="ゔぁろらんと">VALORANT</option>
+    <option value="crazy" data-kana="くれいじーらくーん">Crazy Raccoon</option>
+    <option value="sairen" data-kana="さいれんとひる">SILENT HILL</option>
+    <option value="little" data-kana="りとるないとめあ">LITTLE NIGHTMARES</option>
+    <option value="beat" data-kana="びーとまにあ">beatmania</option>
+    <option value="keroro" data-kana="けろろぐんそう">ケロロ軍曹</option>
+    <option value="yaiba" data-kana="しんさむらいでんやいば">真·侍伝YAIBA</option>
+    <option value="sakura" data-kana="かーどきゃぷたーさくら">カードキャプターさくら</option>
+    <option value="amagamisan" data-kana="あまがみさんちのえんむすび">甘神さんちの縁結び</option>
+    <option value="yahari" data-kana="やはりおれのせいしゅんらぶこめはまちがっている">やはり俺の青春ラブコメはまちがっている。</option>
+    <option value="saekano" data-kana="さえないひろいんのそだてかた">冴えない彼女の育てかた</option>
+    <option value="mono" data-kana="もの">mono</option>
+    <option value="hanako" data-kana="じばくしょうねんはなこくん">地縛少年花子くん</option>
+    <option value="medaka" data-kana="くろいわめだかにわたしのかわいいがつうじない">黒岩メダカに私の可愛いが通じない</option>
+    <option value="witti" data-kana="うぃっちうぉっち">ウィッチウォッチ</option>
+    <option value="ruri" data-kana="るりのほうせき">瑠璃の宝石</option>
+    <option value="tomuzyeri" data-kana="とむとじぇりー">トムとジェリー</option>
+    <option value="puniru" data-kana="ぷにるはかわいいすらいむ">ぷにるはかわいいスライム</option>
+    <option value="tikawa" data-kana="ちいかわ">ちいかわ</option>
+    <option value="siunzi" data-kana="しうんじけのこどもたち">紫雲寺家の子供たち</option>
+    <option value="samapoke" data-kana="さまーぽけっつ">Summer Pockets</option>
+    <option value="reia" data-kana="まじっくないとれいあーす">魔法騎士レイアース</option>
+    <option value="gomon" data-kana="ひめさまごうもんのじかんです">姫様“拷問”の時間です</option>
+    <option value="syuwa" data-kana="ぶいちゅーばーなんだがはいしんきりわすれたらでんせつになってた">VTuberなんだが配信切り忘れたら伝説になってた</option>
+    <option value="aoeku" data-kana="あおのえくそしすと">青の祓魔師</option>
+    <option value="seiyu" data-kana="せいゆうらじおのうらおもて">声優ラジオのウラオモテ</option>
+    <option value="spykyousitu" data-kana="すぱいきょうしつ">スパイ教室</option>
+    <option value="motiduki" data-kana="どかぐいだいすきもちづきさん">ドカ食いダイスキ！ もちづきさん</option>
+    <option value="yakusoku" data-kana="まほうつかいのやくそく">魔法使いの約束</option>
+    <option value="daikirai" data-kana="くらすのだいきらいなじょしとけっこんすることになった">クラスの大嫌いな女子と結婚することになった。</option>
+    <option value="yorukura" data-kana="よるのくらげはおよげない">夜のクラゲは泳げない</option>
+    <option value="wandaegg" data-kana="わんだーえっぐぷらいおりてぃ">ワンダーエッグ・プライオリティ</option>
+    <option value="need" data-kana="にーでぃーがーるおーばーどーず">NEEDYGIRLOVERDOSE</option>
+    <option value="city" data-kana="してぃ">CITY</option>
+    <option value="sentaired" data-kana="せんたいれっどいせかいでぼうけんしゃになる">戦隊レッド異世界で冒険者になる</option>
+    <option value="hora" data-kana="ほらー">ホラータイトル</option>
+    <option value="sonota" data-kana="ん">その他</option>
+</select>
 
     <!-- タイプ -->
     <select id="type" onchange="showFigures()">
@@ -279,9 +295,10 @@
     <option value="nakayosi">なかよしメモリーズ</option>
     <option value="ninkai">忍界造形列伝</option>
     <option value="nusuto">ぬーどるストッパー</option>
-    <option value="pen">ペンフレ！</option>
+    <option value="hikkake">ひっかけフィギュア</option>
     <option value="figc">ふぃぐきゅーぶ</option>
     <option value="figl">フィグライフ！</option>
+    <option value="pen">ペンフレ！</option>
     <option value="moni">モニタートップフィギュア</option>
     <option value="wcf">メガワールドコレクタブルフィギュア</option>
     <option value="wakore">ワールドコレクタブルフィギュア</option>
@@ -359,7 +376,6 @@
 </div> <!-- ★追加ここまで -->
 
 <script src="data1.js"></script>
-<script src="data2.js"></script> 
 
 <script src="script.js"></script>
 
