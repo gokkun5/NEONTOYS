@@ -5,6 +5,138 @@
 const figures = [
 
 {
+series:"ranma",
+name:"TVアニメ「らんま1/2」 SOFVIMATES～Pちゃん～",
+search:"ぴーちゃん",
+type:"sof",
+price:900,
+date: "",
+img:"images/ranma/p_sof.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"oba",
+name:"オーバーロード　Desktop Cute フィギュア　アルベド～チャイナドレスver.～Renewal",
+search:"あるべど",
+type:"desk",
+price:450,
+date: "",
+img:"images/oba/aru_chaina_re.jpg",
+source:"https://www.taito.co.jp/"
+},
+
+{
+series:"soniko",
+name:"Trio-Try-iT Figureーホワイト・チャイナドレスver.ー",
+search:"すーぱーそにこ　すーぱーそに子",
+type:"trio",
+price:700,
+date: "",
+img:"images/soniko/chaina_w.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"monogatari",
+name:"西尾維新アニメプロジェクト〈物語〉シリーズ EXQフィギュア～忍野忍～ -Celestial Feather ver.-",
+search:"おしのしのぶ",
+type:"",
+price:800,
+date: "",
+img:"images/monogatari/sinobu_sere.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"gotoyome",
+name:"Trio-Try-iT Figureー中野四葉・パステルドレスー",
+search:"なかのよつば",
+type:"trio",
+price:600,
+date: "",
+img:"images/gotoyome/yotuba_trio_pasuteru.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"gotoyome",
+name:"Trio-Try-iT Figureー中野五月・パステルドレスー",
+search:"なかのいつき",
+type:"trio",
+price:600,
+date: "",
+img:"images/gotoyome/ituki_trio_pasuteru.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"umamusume",
+name:"Trio-Try-iT Figure―アストンマーチャンー",
+search:"あすとんまーちゃん",
+type:"trio",
+price:800,
+date: "",
+img:"images/umamusume/asuton_trio.jpg",
+source:"https://charahiroba.com/"
+},
+
+{
+series:"zyuzyutu",
+name:"呪術廻戦 MAXIMATIC SATORU GOJO Ⅱ",
+search:"ごじょうさとる",
+type:"ma",
+price:800,
+date: "",
+img:"images/zyuzyutu/gozyo_ma2.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"ante",
+name:"UNDERTALE あみこっと～うざいイヌ～",
+search:"うざいぬ",
+type:"",
+price:800,
+date: "",
+img:"images/ante/uzainu.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"meidoin",
+name:"メイドインアビス 烈日の黄金郷 -Relax time-ナナチ",
+search:"ななち",
+type:"relax",
+price:800,
+date: "",
+img:"images/meidoin/nanati_relax.jpg",
+source:"https://bsp-prize.jp/"
+},
+
+{
+series:"rikorisu",
+name:"リコリス・リコイルLuminasta“井ノ上たきな ‐ 浴衣でお祭り”",
+search:"いのうえたきな",
+type: "lum",
+price:400,
+date: "",
+img:"images/rikorisu/takina_lum_yukata2.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
+series:"rikorisu",
+name:"リコリス・リコイルLuminasta“錦木千束 ‐ 浴衣でお祭り”",
+search:"にしきぎちさと",
+type: "lum",
+price:400,
+date: "",
+img:"images/rikorisu/tisato_lum_yukata2.jpg",
+source:"https://segaplaza.jp/"
+},
+
+{
 series:"danmesi",
 name:"ダンジョン飯ちょこのせプレミアムフィギュア“マルシル”",
 search:"まるしる",
@@ -186,7 +318,7 @@ series:"uru",
 name:"ウルトラマンメビウス 胸像ライト",
 search:"うるとらまんめびうす",
 type:"",
-price:800,
+price:500,
 date: "2026-04-11",
 img:"images/uru/mebiusu_rumu.jpg",
 source:"https://bsp-prize.jp/"
@@ -5130,7 +5262,7 @@ series:"bururo",
 name:"TVアニメ『ブルーロック』 フィギュア-sweets flavor-糸師凛",
 search:"いとしりん",
 type:"",
-price:1000,
+price:1300,
 date: "",
 img:"images/bururo/rin_sweet.jpg",
 source:"https://bsp-prize.jp/"
@@ -5947,7 +6079,7 @@ series:"hora",
 name:"『リング』ぬーどるストッパーフィギュアー 貞子 ー",
 search:"さだこ",
 type:"nusuto",
-price:800,
+price:700,
 date: "2026-04-11",
 img:"images/hora/sadako_nusuto.jpg",
 source:"https://charahiroba.com/"
@@ -6068,7 +6200,7 @@ series:"rerugan",
 name:"『とある科学の超電磁砲』Desktop Cute フィギュア 食蜂操祈～チャイナドレスver.～",
 search:"しょくほうみさき",
 type:"desk",
-price:800,
+price:700,
 date: "",
 img:"images/rerugan/syokuho_chaina.jpg",
 source:"https://www.taito.co.jp/"
@@ -6442,7 +6574,7 @@ series:"naruto",
 name:"-NARUTO 72 series- 26＆27 VIBRATION STARS-UZUMAKI NARUTO & UCHIHA SASUKE-",
 search:"うずまきナルト　なると",
 type:["vib", "72"],
-price:900,
+price:800,
 date: "",
 img:"images/naruto/naruto26_vib.jpg",
 source:"https://bsp-prize.jp/"
@@ -7938,7 +8070,7 @@ series:"naruto",
 name:"-NARUTO 72 series- 26＆27 VIBRATION STARS-UZUMAKI NARUTO & UCHIHA SASUKE-",
 search:"うちはサスケ　さすけ",
 type:["vib", "72"],
-price:900,
+price:800,
 date: "",
 img:"images/naruto/sasuke_vib_naru.jpg",
 source:"https://bsp-prize.jp/"
@@ -11101,7 +11233,7 @@ series:"zyuzyutu",
 name:"呪術廻戦 Grandista-ZEN’IN NAOYA-",
 search:"ぜんいんなおや　禪院直哉",
 type:"gra",
-price:900,
+price:800,
 date: "",
 img:"images/zyuzyutu/naoya_gra.jpg",
 source:"https://bsp-prize.jp/"
@@ -12514,7 +12646,7 @@ series:"wanpi",
 name:"『ワンピース』 Grandista -RORONOA ZORO Ⅱ-",
 search:"ロロノアゾロ　ろろのあぞろ",
 type:"gra",
-price:1000,
+price:1100,
 date: "",
 img:"images/wanpi/zoro_gra2.jpg",
 source:"https://bsp-prize.jp/"
@@ -13451,7 +13583,7 @@ series:"umamusume",
 name:"『ウマ娘 シンデレラグレイ』 BANPRESTO EVOLVE<br>オグリキャップフィギュア",
 search:"おぐりきゃっぷ",
 type:"bpev",
-price:2000,
+price:1600,
 date: "",
 img:"images/umamusume/oguri_bpev.jpg",
 source:"https://bsp-prize.jp/"
@@ -13950,7 +14082,7 @@ series:"kon",
 name:"Trio-Try-iT -中野梓-",
 search:"なかのあずさ",
 type:"trio",
-price:1900,
+price:1500,
 date: "",
 img:"images/kon/azu_trio.jpg",
 source:"https://charahiroba.com/"
@@ -14436,7 +14568,7 @@ source:"https://bsp-prize.jp/"
 
 {
 series:"zyuzyutu",
-name:"MAXIMATIC　五条悟",
+name:"呪術廻戦 MAXIMATIC SATORU GOJO",
 search:"ごじょうさとる",
 type:"ma",
 price:850,
