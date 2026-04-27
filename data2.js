@@ -3,7 +3,16 @@ window.figures2 = [
 
 
 
-
+{
+series:"eva",
+name:"ヱヴァンゲリヲン新劇場版VIGNETTEUM“シンジとカヲル”シンジVer.",
+search:"いかりしんじ",
+type:"",
+price:1000,
+date: "",
+img:"images/eva/sinzi_kaworu.jpg",
+source:"https://segaplaza.jp/"
+},
 
 {
 series:"ranma",
