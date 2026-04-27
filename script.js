@@ -1,7 +1,17 @@
-
 // ==========================================
 // 1. 変数と初期設定
 // ==========================================
+// ★ここが重要！ data1.js や data2.js で別々の名前にしている場合、ここで合体させます
+
+// 一旦 var を使って、名前の衝突エラーを無理やり回避します
+var figures = [];
+
+if (window.figures2) figures = [...figures, ...window.figures2];
+if (window.figures1) figures = [...figures, ...window.figures1];
+
+console.log("現在の全データ件数:", figures.length);
+
+
 let isAllShowMode = false;
 const allShowBtn = document.getElementById('allShowBtn');
 let ALL_SERIES_OPTIONS = []; // ★これを追加（元のリストを保存する用）
@@ -215,8 +225,7 @@ function showFigures() {
       }
     } else {
       // 本当に何も選んでいない時だけ、新着表示に戻す
-      listContainer.classList.remove('is-active');
-      initShow(); 
+ listContainer.classList.add('is-active');
     }
   }
 
