@@ -2,7 +2,7 @@ window.figures2 = [
 
 
 
-
+{series:"zyuzyutu", name:"呪術廻戦 呪魂ノ型-パンダ＆五条悟-", search:"", type:"", price:500, date:"1899-12-30", img:"images/zyuzyutu/panda_zyukon.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-BOA.HANCOCK-", search:"ハンコック　はんこっく", type:"bato", price:500, date:"1899-12-30", img:"images/wanpi/hankokku_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-SANJI Ⅱ-", search:"サンジ　さんじ", type:"bato", price:600, date:"1899-12-30", img:"images/wanpi/sanzi_bato2.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 ぬーどるストッパーフィギュアー竈門禰豆子×クラフトホリックー", search:"かまどねずこ", type:"nusuto", price:1000, date:"1899-12-30", img:"images/kimetu/nezuko_kurafuto.jpg", source:"https://charahiroba.com/"},
