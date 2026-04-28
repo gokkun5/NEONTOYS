@@ -1,5 +1,18 @@
 window.figures2 = [
 
+
+
+
+{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-BOA.HANCOCK-", search:"ハンコック　はんこっく", type:"bato", price:500, date:"1899-12-30", img:"images/wanpi/hankokku_bato.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-SANJI Ⅱ-", search:"サンジ　さんじ", type:"bato", price:600, date:"1899-12-30", img:"images/wanpi/sanzi_bato2.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 ぬーどるストッパーフィギュアー竈門禰豆子×クラフトホリックー", search:"かまどねずこ", type:"nusuto", price:1000, date:"1899-12-30", img:"images/kimetu/nezuko_kurafuto.jpg", source:"https://charahiroba.com/"},
+{series:"zyuzyutu", name:"呪術廻戦 Combination Battle3-釘崎野薔薇-", search:"くぎさきのばら", type:"combi", price:600, date:"1899-12-30", img:"images/zyuzyutu/kugisaki_itadori.jpg", source:"https://bsp-prize.jp/"},
+{series:"rezero", name:"王選候補者と騎士フィギュアープリシラ陣営ー", search:"", type:"", price:800, date:"1899-12-30", img:"images/rezero/puri_gigo.jpg", source:"https://charahiroba.com/"},
+{series:"tyen", name:"TVアニメ「チェンソーマン」Desktop×DecorateCollections“姫野”", search:"ひめの", type:"ddc", price:1500, date:"1899-12-30", img:"images/tyen/himeno_ddc.jpg", source:"https://segaplaza.jp/"},
+{series:"tyen", name:"チェンソーマン ちょこのせプレミアムフィギュア “早川アキ”", search:"はやかわあき", type:"tyoko", price:1500, date:"1899-12-30", img:"images/tyen/aki_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"tyen", name:"チェンソーマン Break time collection vol.1", search:"でんじ　デンジ　ぽちた　ポチ太", type:"bre", price:1800, date:"1899-12-30", img:"images/tyen/denzi_bre1.jpg", source:"https://bsp-prize.jp/"},
+{series:"zeruda", name:"ゼルダの伝説ティアーズオブザキングダムFIGURIZMα“リンク”", search:"りんく", type:"fig", price:1800, date:"1899-12-30", img:"images/zeruda/rinku_fig.jpg", source:"https://segaplaza.jp/"}, 
+{series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Grandista-BOMB-", search:"ボム　ぼむ", type:"gra", price:2400, date:"1899-12-30", img:"images/tyen/bomb_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦FIGURIZMα“脹相”赫鱗躍動・載", search:"ちょうそう", type:"fig", price:1500, date:"1899-12-30", img:"images/zyuzyutu/tyouso_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC NAOYA ZEN’IN", search:"ぜんいんなおや　禪院直哉", type:"ma", price:1100, date:"1899-12-30", img:"images/zyuzyutu/naoya_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC YUJI ITADORI-死滅回游-", search:"いたどりゆうじ　虎杖悠仁", type:"ma", price:600, date:"1899-12-30", img:"images/zyuzyutu/itadori_ma.jpg", source:"https://bsp-prize.jp/"},
@@ -122,7 +135,7 @@ window.figures2 = [
 {series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -JEWELRY.BONNEY THE MOST FREE FUTURE-", search:"じゅえりーぼにー　ジュエリーボニー", type:"bato", price:550, date:"1899-12-30", img:"images/wanpi/boni_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -MONKEY.D.LUFFY GEAR5 SPECIAL ver.-", search:"ルフィ　るふぃ　にか　ニカ", type:"bato", price:600, date:"1899-12-30", img:"images/wanpi/nika_bato_sp.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 KING OF ARTIST MONKEY.D.LUFFY GEAR5 III", search:"るふぃ　ルフィ　にか　ニカ", type:"koa", price:900, date:"1899-12-30", img:"images/wanpi/rufi3_koa.jpg", source:"https://bsp-prize.jp/"},
-{series:"wanpi", name:"『ワンピース』 KING OF ARTIST JEWELRY.BONNEY THE MOST FREE FUTURE", search:"じゅえりーぼにー　ジュエリーボニー", type:"koa", price:800, date:"1899-12-30", img:"images/wanpi/boni_koa.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"『ワンピース』 KING OF ARTIST JEWELRY.BONNEY THE MOST FREE FUTURE", search:"じゅえりーぼにー　ジュエリーボニー", type:"koa", price:600, date:"1899-12-30", img:"images/wanpi/boni_koa.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 KING OF ARTIST MONKEY.D.LUFFY -ワノ国 Ⅱ SPECIAL ver.-", search:"るふぃ　ルフィ", type:"koa", price:800, date:"1899-12-30", img:"images/wanpi/rufi_wa2_koa.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 Grandista -RORONOA ZORO Ⅱ-", search:"ロロノアゾロ　ろろのあぞろ", type:"gra", price:1100, date:"1899-12-30", img:"images/wanpi/zoro_gra2.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 Grandista -PORTGAS.D.ACE-", search:"エース　えーす", type:"gra", price:600, date:"1899-12-30", img:"images/wanpi/ace_gra.jpg", source:"https://bsp-prize.jp/"},
@@ -180,9 +193,9 @@ window.figures2 = [
 {series:"db", name:"『ドラゴンボール超』 CLEARISE ゴジータ&ベジット", search:"ごじーた", type:"cle", price:700, date:"1899-12-30", img:"images/db/gozi_cle.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボール超』 MATCH MAKERS ジレン（VS孫悟空 身勝手の極意）", search:"じれん", type:"mat", price:600, date:"1899-12-30", img:"images/db/ziren_mat.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボール』 History Box 桃白白", search:"たおぱいぱい", type:"his", price:600, date:"1899-12-30", img:"images/db/pai_his.jpg", source:"https://bsp-prize.jp/"},
-{series:"db", name:"『ドラゴンボールZ』 MATCH MAKERS フリーザ（VS孫悟空）", search:"ふりーざ", type:"mat", price:900, date:"1899-12-30", img:"images/db/furiza_mat.jpg", source:"https://bsp-prize.jp/"},
-{series:"db", name:"『ドラゴンボールZ』 MATCH MAKERS 孫悟空（VSフリーザ）", search:"そんごくう", type:"mat", price:700, date:"1899-12-30", img:"images/db/goku_mat.jpg", source:"https://bsp-prize.jp/"},
-{series:"db", name:"『ドラゴンボールZ』 SOLID EDGE WORKS -THE出陣- ブロリー", search:"ぶろりー", type:"syutu", price:800, date:"1899-12-30", img:"images/db/burori2_syutu.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"『ドラゴンボールZ』 MATCH MAKERS フリーザ（VS孫悟空）", search:"ふりーざ", type:"mat", price:1000, date:"1899-12-30", img:"images/db/furiza_mat.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"『ドラゴンボールZ』 MATCH MAKERS 孫悟空（VSフリーザ）", search:"そんごくう", type:"mat", price:600, date:"1899-12-30", img:"images/db/goku_mat.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"『ドラゴンボールZ』 SOLID EDGE WORKS -THE出陣- ブロリー", search:"ぶろりー", type:"syutu", price:500, date:"1899-12-30", img:"images/db/burori2_syutu.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『DRAGON BALL Z DOKKAN BATTLE』 10TH ANNIVERSARY FIGURE -超ゴジータ-", search:"ごじーた", type:"", price:800, date:"1899-12-30", img:"images/db/dokkan_gozi.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『DRAGON BALL Z DOKKAN BATTLE』 10TH ANNIVERSARY FIGURE -超ベジット-", search:"べじっと", type:"", price:700, date:"1899-12-30", img:"images/db/dokkan_bezi.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボールZ』 SOLID EDGE WORKS-THE出陣- メタルクウラ", search:"めたるくうら", type:"syutu", price:500, date:"1899-12-30", img:"images/db/kuura.jpg", source:"https://bsp-prize.jp/"},
@@ -351,5 +364,6 @@ window.figures2 = [
 {series:"purikyua", name:"ふたりはプリキュア フィグライフ! カードコミューン型スタンド", search:"めっぷる", type:"figl", price:600, date:"1899-12-30", img:"images/purikyua/meppu.jpg", source:"https://bsp-prize.jp/"},
 {series:"purikyua", name:"ふたりはプリキュア フィグライフ! カードコミューン型スタンド", search:"みっぷる", type:"figl", price:600, date:"1899-12-30", img:"images/purikyua/mippu.jpg", source:"https://bsp-prize.jp/"},
 {series:"ranma", name:"TVアニメ「らんま1/2」ちょこのせプレミアムフィギュア“らんま”", search:"", type:"tyoko", price:400, date:"1899-12-30", img:"images/ranma/ranma_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"spy", name:"TVアニメ「SPY×FAMILY」Luminasta（ヨル・フォージャー）いばら姫～missionextend～", search:"よるふぉーじゃー", type:"lum", price:1000, date:"1899-12-30", img:"images/spy/yoru_lum.jpg", source:"https://segaplaza.jp/"},
 
 ];

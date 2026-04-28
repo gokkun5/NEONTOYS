@@ -3,9 +3,11 @@
 // ==========================================
 // 各ファイルから読み込んだデータを合体させる
 var figures = [
+
+    
+    ...(window.figures3 || []),
+    ...(window.figures2 || []), 
     ...(window.figures1 || []),
-    ...(window.figures2 || []),
-    ...(window.figures3 || []) // 今後データが増えたらここを追加するだけ！
 ];
 
 console.log("現在の全データ件数:", figures.length);
