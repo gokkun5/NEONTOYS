@@ -1,13 +1,12 @@
 // ==========================================
 // 1. 変数と初期設定
 // ==========================================
-// ★ここが重要！ data1.js や data2.js で別々の名前にしている場合、ここで合体させます
-
-// 一旦 var を使って、名前の衝突エラーを無理やり回避します
-var figures = [];
-
-if (window.figures2) figures = [...figures, ...window.figures2];
-if (window.figures1) figures = [...figures, ...window.figures1];
+// 各ファイルから読み込んだデータを合体させる
+var figures = [
+    ...(window.figures1 || []),
+    ...(window.figures2 || []),
+    ...(window.figures3 || []) // 今後データが増えたらここを追加するだけ！
+];
 
 console.log("現在の全データ件数:", figures.length);
 
