@@ -116,12 +116,13 @@ function filterSeriesByInitial() {
 }
 
 // ==========================================
-// 3. 絞り込み表示関数 (showFigures)
+// 追加：表示件数を管理する変数
 // ==========================================
-// (以下、既存のコード)
+let displayCount = 30; // 最初に表示する件数
+const DISPLAY_STEP = 30; // 「もっと見る」で増える件数
 
 // ==========================================
-// 3. 絞り込み表示関数 (showFigures)
+// 3. 絞り込み表示関数 (showFigures) ★ここをリニューアル
 // ==========================================
 function showFigures() {
   const search = document.getElementById("search").value.toLowerCase();
@@ -136,7 +137,6 @@ function showFigures() {
   if (isAllShowMode) {
     filtered = [...figures];
   } else if (search === "" && series === "all" && type === "all" && price === "all") {
-    // 【重要】新着表示中にソートだけ変える場合、新着分(30日)だけを対象にする
     const today = new Date();
     const period = 30;
     filtered = figures.filter(f => {
@@ -148,11 +148,9 @@ function showFigures() {
     filtered = [...figures];
   }
 
-  // --- フィルター処理 ---
+  // --- フィルター処理（既存のまま） ---
   if (!isAllShowMode) {
-    if (series !== "all") {
-      filtered = filtered.filter(f => f.series === series);
-    }
+    if (series !== "all") filtered = filtered.filter(f => f.series === series);
     if (type !== "all") {
       filtered = filtered.filter(f =>
         Array.isArray(f.type) ? f.type.includes(type) : f.type === type
@@ -173,21 +171,23 @@ function showFigures() {
     }
   }
 
-  // --- ソート処理 ---
-  if (sort === "priceLow") {
-    filtered.sort((a, b) => a.price - b.price);
-  } else if (sort === "priceHigh") {
-    filtered.sort((a, b) => b.price - a.price);
-  } else if (sort === "name") {
-    filtered.sort((a, b) => a.name.localeCompare(b.name, "ja"));
-  }
+  // --- ソート処理（既存のまま） ---
+  if (sort === "priceLow") filtered.sort((a, b) => a.price - b.price);
+  else if (sort === "priceHigh") filtered.sort((a, b) => b.price - a.price);
+  else if (sort === "name") filtered.sort((a, b) => a.name.localeCompare(b.name, "ja"));
+
+  // ★追加：全件数を保存（件数表示用）
+  const totalCount = filtered.length;
+
+  // ★重要：「もっと見る」のために表示件数で切り取る
+  const visibleFigures = filtered.slice(0, displayCount);
 
   // --- HTMLの組み立て ---
   let html = "";
   const today = new Date();
   const period = 30;
 
-  filtered.forEach(f => {
+  visibleFigures.forEach(f => {
     let badgeHtml = "";
     if (f.date) {
       const diffDays = (today - new Date(f.date)) / (1000 * 60 * 60 * 24);
@@ -207,25 +207,26 @@ function showFigures() {
     `;
   });
 
-  // --- 画面表示の切り替え ---
+  // --- 画面表示とボタン制御 ---
   const listContainer = document.getElementById("figureList");
+  const moreButton = document.getElementById("load-more");
+
   if (listContainer) {
     listContainer.innerHTML = html;
+    listContainer.classList.add('is-active');
 
-    // ソート(sort)も含めてデフォルト状態かを判定
-    const isDefault = (search === "" && series === "all" && type === "all" && price === "all" && sort === "none");
-    
-    // 「全表示モード」である、または「ユーザーが何かしら操作（検索・絞り込み）をしている」なら表示
-    if (isAllShowMode || !isDefault) {
-      listContainer.classList.add('is-active');
-
-      // もし操作した結果、該当する景品が0件だった場合の処理
-      if (html === "") {
+    if (html === "" && (isAllShowMode || search !== "" || series !== "all")) {
         listContainer.innerHTML = '<p class="no-result">該当する景品がありません</p>';
-      }
+    }
+  }
+
+  // ★「もっと見る」ボタンの出し分け
+  if (moreButton) {
+    if (displayCount < totalCount) {
+      moreButton.style.display = "block";
+      moreButton.textContent = `もっと見る (${totalCount - displayCount}件残っています)`;
     } else {
-      // 本当に何も選んでいない時だけ、新着表示に戻す
- listContainer.classList.add('is-active');
+      moreButton.style.display = "none";
     }
   }
 
@@ -234,6 +235,31 @@ function showFigures() {
   const hasNewItem = html.includes('new-badge');
   updatePickupTitle(!isAllShowMode && !isFiltering && hasNewItem);
 }
+
+// ==========================================
+// 追加：もっと見るボタン・トップへ戻るボタンの処理
+// ==========================================
+function loadMore() {
+  displayCount += DISPLAY_STEP;
+  showFigures();
+}
+
+// フィルターを変えたときは表示件数をリセットする
+document.querySelectorAll('select, input').forEach(el => {
+  el.addEventListener('change', () => {
+    displayCount = DISPLAY_STEP; 
+  });
+});
+
+// トップへ戻るスクロール
+window.addEventListener('scroll', () => {
+  const btn = document.getElementById('backToTop');
+  if (window.scrollY > 500) {
+    btn.style.display = 'block';
+  } else {
+    btn.style.display = 'none';
+  }
+});
 
 // ==========================================
 // 4. フィルタークリア関数 (clearFilters)

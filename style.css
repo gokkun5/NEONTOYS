@@ -186,6 +186,57 @@ h1 img {
   line-height: 1;       /* 文字自体の高さを最小限に */
 }
 
+/* 1. スティッキー（サイドバー）の補強 */
+/* すでに設定済みとのことですが、念のため z-index を確認 */
+.sidebar {
+  position: sticky;
+  top: 10px;
+  z-index: 100;
+}
+
+/* 2. もっと見るボタンのデザイン */
+.button-container {
+  text-align: center;
+  margin: 40px 0;
+}
+
+#load-more {
+  padding: 15px 40px;
+  font-size: 1.1rem;
+  background: #111;
+  color: #39ff14; /* ライムネオン */
+  border: 2px solid #39ff14;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 0 10px rgba(57, 255, 20, 0.3);
+}
+
+#load-more:hover {
+  background: #39ff14;
+  color: #000;
+  box-shadow: 0 0 20px rgba(57, 255, 20, 0.6);
+}
+
+/* 3. トップへ戻るボタン */
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  background: #00ffff; /* ネオンブルー */
+  color: #111;
+  text-align: center;
+  line-height: 50px;
+  border-radius: 50%;
+  text-decoration: none;
+  font-weight: bold;
+  z-index: 200;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);
+  display: block; /* 最初から表示しておく設定 */
+}
+
 /* ===== カード一覧（初期は非表示） ===== */
 #figureList {
   display: none; /* ← ここが重要：最初は隠す */
