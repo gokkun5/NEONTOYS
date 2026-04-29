@@ -2,7 +2,7 @@ window.figures2 = [
 
 
 
-
+{series:"deara", name:"BiCute Pure Figureー星宮六喰ー", search:"ほしみやむくろ", type:"pure", price:700, date:"2026-04-22", img:"images/deara/mukuro_pure.jpg", source:"https://charahiroba.com/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス GLITTER&GLAMOURS 結城美柑", search:"ゆうきみかん", type:"gli", price:300, date:"1899-12-30", img:"images/tora/mikan_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"nigoriri", name:"2.5次元の誘惑 GLITTER&GLAMOURS リリエル 天使空挺隊ver.", search:"りりえる", type:"gli", price:350, date:"1899-12-30", img:"images/nigoriri/ririeru_tensi.jpg", source:"https://bsp-prize.jp/"},
 {series:"disny", name:"ディズニーキャラクター センサーライトフィギュア～ベイマックス～", search:"べいまっくす", type:"", price:300, date:"2026-04-17", img:"images/disny/bei_rumu.jpg", source:"https://bsp-prize.jp/"},
@@ -126,7 +126,7 @@ window.figures2 = [
 {series:"gotoyome", name:"『五等分の花嫁∬』 Desktop Cute フィギュア 中野二乃 ～描き下ろしCat room wear ver.～", search:"なかのにの", type:"desk", price:600, date:"1899-12-30", img:"images/gotoyome/nino_desk_neko.jpg", source:"https://www.taito.co.jp/"},
 {series:"gotoyome", name:"『五等分の花嫁＊』 Desktop Cute フィギュア 中野一花 〜バニーver.〜", search:"なかのいちか", type:"desk", price:450, date:"1899-12-30", img:"images/gotoyome/itika_desk_bani.jpg", source:"https://www.taito.co.jp/"},
 {series:"gotoyome", name:"『五等分の花嫁＊』 BiCute Dark Figure ー 中野三玖 ー", search:"なかのみく", type:"daku", price:1200, date:"1899-12-30", img:"images/gotoyome/miku_daku.jpg", source:"https://charahiroba.com/"},
-{series:"gotoyome", name:"『五等分の花嫁＊』 BiCute Dark Figure ー 中野四葉 ー", search:"なかのよつば", type:"daku", price:800, date:"1899-12-30", img:"images/gotoyome/yotuba_daku.jpg", source:"https://charahiroba.com/"},
+{series:"gotoyome", name:"『五等分の花嫁＊』 BiCute Dark Figure ー 中野四葉 ー", search:"なかのよつば", type:"daku", price:1200, date:"1899-12-30", img:"images/gotoyome/yotuba_daku.jpg", source:"https://charahiroba.com/"},
 {series:"deara", name:"『デート・ア・ライブV』 Desktop Cute フィギュア 夜刀神十香 〜バニーver.〜 Renewal タイクレ限定", search:"やとがみとおか", type:"desk", price:1100, date:"1899-12-30", img:"images/deara/toka_bani_taikure.jpg", source:"https://www.taito.co.jp/"},
 {series:"deara", name:"『デート・ア・ライブV』 ぬーどるストッパーフィギュア ー 時崎狂三・ 水着 ver. ー", search:"ときさきくるみ", type:"nusuto", price:350, date:"1899-12-30", img:"images/deara/kurumi_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"deara", name:"『デート・ア・ライブV』 BiCute Dark Figure ー 時崎狂三 ー", search:"ときさきくるみ", type:"daku", price:1000, date:"1899-12-30", img:"images/deara/kurumi_daku.jpg", source:"https://charahiroba.com/"},
@@ -151,7 +151,7 @@ window.figures2 = [
 {series:"hant", name:"HUNTER×HUNTER HUNTING ARCHIVES ネテロ-音を置き去りにした-", search:"ねてろ", type:"", price:400, date:"1899-12-30", img:"images/hant/netero_oto.jpg", source:"https://bsp-prize.jp/"},
 {series:"pawapuro", name:"パワフルプロ野球パワプロくん プライズアクションフィギュア", search:"ぱわぷろくん", type:"", price:500, date:"1899-12-30", img:"images/pawapuro/pawapuro.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"buri", name:"BLEACH MAXIMATIC GRIMMJOW JAEGERJAQUES", search:"ぐりむじょーじゃがーじゃっく　グリムジョージャガージャック", type:"ma", price:1500, date:"1899-12-30", img:"images/buri/gurimu_ma.jpg", source:"https://bsp-prize.jp/"},
-{series:"orerebe", name:"『俺だけレベルアップな件』 Trio-Try-iT Figure ー 水篠旬 ー", search:"みずしのしゅん", type:"trio", price:1000, date:"1899-12-30", img:"images/orerebe/mizusino_trio.jpg", source:"https://charahiroba.com/"},
+{series:"orerebe", name:"『俺だけレベルアップな件』 Trio-Try-iT Figure ー 水篠旬 ー", search:"みずしのしゅん", type:"trio", price:600, date:"1899-12-30", img:"images/orerebe/mizusino_trio.jpg", source:"https://charahiroba.com/"},
 {series:"hant", name:"HUNTER×HUNTER Grandista-クラピカ-", search:"くらぴか", type:"gra", price:1000, date:"1899-12-30", img:"images/hant/kura_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"botti", name:"アニメ「ぼっち・ざ・ろっく！」 鎮座獣 承認欲求モンスター", search:"ぼっち　ごとうひとり　しょうにんよっきゅうもんすたー", type:"tinza", price:900, date:"1899-12-30", img:"images/botti/syounin.jpg", source:"https://bsp-prize.jp/"},
 {series:"gundam", name:"『機動戦士Gundam GQuuuuuuX』 ニャアン フィギュア 私服ver.", search:"にゃあん", type:"", price:300, date:"1899-12-30", img:"images/gundam/nyan.jpg", source:"https://bsp-prize.jp/"},
@@ -325,7 +325,7 @@ window.figures2 = [
 {series:"naruto", name:"『-NARUTO 72 series- 16』フィギュア うずまきナルト＆うみのイルカ", search:"うずまきなると", type:"72", price:800, date:"1899-12-30", img:"images/naruto/naruto_72.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"『-NARUTO 72 series- 16』フィギュア うずまきナルト＆うみのイルカ", search:"うみのいるか", type:"72", price:800, date:"1899-12-30", img:"images/naruto/iruka_72.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"『呪術廻戦』 Grandista GOJO SATORU", search:"ごじょうさとる　五条悟", type:"gra", price:2500, date:"1899-12-30", img:"images/zyuzyutu/gozyo_gra.jpg", source:"https://bsp-prize.jp/"},
-{series:"kimetu", name:"『鬼滅の刃』 XrossLink フィギュア “猗窩座” －無限城編－", search:"あかざ", type:"xros", price:1000, date:"1899-12-30", img:"images/kimetu/akaza_xros.jpg", source:"https://segaplaza.jp/"},
+{series:"kimetu", name:"『鬼滅の刃』 XrossLink フィギュア “猗窩座” －無限城編－", search:"あかざ", type:"xros", price:800, date:"1899-12-30", img:"images/kimetu/akaza_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 XrossLink フィギュア “冨岡義勇” －無限城編－", search:"とみおかぎゆう", type:"xros", price:1200, date:"1899-12-30", img:"images/kimetu/tomioka_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 XrossLink フィギュア “竈門炭治郎” －無限城編－", search:"かまどたんじろう", type:"xros", price:1000, date:"1899-12-30", img:"images/kimetu/tanziro_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 Grandista-TOMIOKA GIYU-", search:"冨岡義勇　とみおかぎゆう", type:"gra", price:1500, date:"1899-12-30", img:"images/kimetu/giyu_gra.jpg", source:"https://bsp-prize.jp/"},
@@ -381,7 +381,7 @@ window.figures2 = [
 {series:"wanpi", name:"ワンピース アニメロゴライト", search:"", type:"", price:800, date:"2026-04-20", img:"images/wanpi/rogo.jpg", source:"https://bsp-prize.jp/"},
 {series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“シルバーサーファー”", search:"しるばーさーふぁー", type:"act", price:800, date:"1899-12-30", img:"images/mar/siruba.jpg", source:"https://segaplaza.jp/"},
 {series:"mazyotabi", name:"魔女の旅々　ふぃぐきゅーぶ イレイナ", search:"いれいな", type:"figc", price:800, date:"2026-04-20", img:"images/mazyotabi/figkyu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
-{series:"oba", name:"BiCute Bunnies Figure ーアルベド・another costumeー", search:"あるべど", type:"bani", price:1000, date:"2026-04-20", img:"images/oba/aru_bani_ano.jpg", source:"https://charahiroba.com/"},
+{series:"oba", name:"BiCute Bunnies Figure ーアルベド・another costumeー", search:"あるべど", type:"bani", price:900, date:"2026-04-20", img:"images/oba/aru_bani_ano.jpg", source:"https://charahiroba.com/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Noir Edge Collection-UZUMAKI NARUTO-", search:"なると　ナルト", type:"noir", price:1600, date:"2026-04-20", img:"images/naruto/naruto_noir.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン おおきなSOFVIMATES～縦ロールになっちゃった～", search:"ふりーれん", type:"", price:900, date:"2026-04-20", img:"images/furi-ren/furi_sof_tate.jpg", source:"https://bsp-prize.jp/"},
 {series:"gundam", name:"『機動戦士ガンダムSEED FREEDOM』GLITTER&GLAMOURS-Lunamaria Hawke- Racing ver.", search:"ルナマリア　るなまりあ", type:"", price:600, date:"2026-04-20", img:"images/gundam/runa_gli_re.jpg", source:"https://bsp-prize.jp/"},
