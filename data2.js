@@ -1,3 +1,3 @@
-const data2 = [
+window.figures2= [
 
 ];
