@@ -388,7 +388,7 @@ window.figures2 = [
 {series:"yusyakei", name:"TVアニメ「勇者刑に処す懲罰勇者9004隊刑務記録」ちょこのせプレミアムフィギュア“テオリッタ”", search:"ておりった", type:"tyoko", price:800, date:"2026-04-22", img:"images/yusyakei/teo_tyoko.jpg", source:"https://segaplaza.jp/"},,
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-UZUMAKI NARUTO ＆ UCHIHA SASUKE-", search:"うちはサスケ　さすけ", type:"figuno", price:500, date:"1899-12-30", img:"images/naruto/sasuke_figuno.jpg", source:"https://bsp-prize.jp/"},,
 {series:"disny", name:"ディズニーキャラクター センサーライトフィギュア～ベイマックス～", search:"べいまっくす", type:"", price:300, date:"2026-04-17", img:"images/disny/bei_rumu.jpg", source:"https://bsp-prize.jp/"},,
-{series:"nigoriri", name:"2.5次元の誘惑 GLITTER&GLAMOURS リリエル 天使空挺隊ver.", search:"りりえる", type:"gli", price:350, date:"1899-12-30", img:"images/nigoriri/ririeru_tensi.jpg", source:"https://bsp-prize.jp/"},,
+{series:"nigoriri", name:"2.5次元の誘惑 GLITTER&GLAMOURS リリエル 天使空挺隊ver.", search:"りりえる", type:"gli", price:350, date:"1899-12-30", img:"images/nigoriri/ririeru_tensi.jpg", source:"https://bsp-prize.jp/"},,
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス GLITTER&GLAMOURS 結城美柑", search:"ゆうきみかん", type:"gli", price:300, date:"1899-12-30", img:"images/tora/mikan_gli.jpg", source:"https://bsp-prize.jp/"},,
 {series:"deara", name:"BiCute Pure Figureー星宮六喰ー", search:"ほしみやむくろ", type:"pure", price:700, date:"2026-04-22", img:"images/deara/mukuro_pure.jpg", source:"https://charahiroba.com/"},,
 {series:"reurgan", name:"とある科学の超電磁砲 ESPRESTO-LEVEL5 Mental Out-食蜂操祈", search:"しょくほうみさき", type:"esp", price:700, date:"1899-12-30", img:"images/rerugan/syokuho_esp.jpg", source:"https://bsp-prize.jp/"},,
