@@ -1,4 +1,5 @@
 window.figures2 = [
+{series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～ベロニカver.～", search:"べろにか", type:"core", price:1000, date:"2026-04-30", img:"images/kisekoi/bero_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"holo", name:"ホロライブ #hololive IF -Relax time-轟はじめ", search:"とどろきはじめ", type:"relax", price:800, date:"2026-04-30", img:"images/holo/hazime_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"桜ミク BANPRESTO EVOLVE 桜ミクフィギュア", search:"さくらみく", type:"bpev", price:1100, date:"2026-04-30", img:"images/miku/sakura_bpev.jpg", source:"https://bsp-prize.jp/"},
 {series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER＆GLAMOURS-喜多川海夢 文化祭ver.-", search:"きたがわまりん", type:"gli", price:1000, date:"2026-04-30", img:"images/kisekoi/marin_gli_bunka.jpg", source:"https://bsp-prize.jp/"},
