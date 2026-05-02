@@ -287,11 +287,19 @@ h1 img {
 }
 
 .card p.price {
-  font-size: 28px;
+  font-size: 36px; /* 少しサイズを落とすと余白ができて見やすくなります */
   margin-top: auto;
-  color: #ff3b3b;
+  color: #fff0f0; /* 前回の「中心白抜き」をベースにしています */
   font-weight: bold;
-  font-family: "Arial Black", sans-serif;
+  font-family: "Verdana", "Geneva", sans-serif; /* 数字が読みやすいフォント */
+  
+  /* --- 斜体と可読性の設定 --- */
+  font-style: italic;
+  letter-spacing: 0.05em; /* 文字の間を少し開ける */
+  
+  text-shadow:
+    0 0 8px #ff3b3b,
+    0 0 15px #ff3b3b;
 }
 
 .card .source{
