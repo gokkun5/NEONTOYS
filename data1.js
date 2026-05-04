@@ -973,7 +973,7 @@ window.figures1 = [
 {series:"sanrio", name:"サンリオキャラクターズ なかよしメモリーズ おうちでリラックスタイム～クロミ＆ウサハナ～", search:"くろみ", type:"nakayosi", price:500, date:"2026-04-17", img:"images/sanrio/kuro_usa.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ なかよしメモリーズ おうちでリラックスタイム～クロミ＆ウサハナ～", search:"うさはな", type:"nakayosi", price:500, date:"2026-04-17", img:"images/sanrio/usa_kuro.jpg", source:"https://bsp-prize.jp/"},
 {series:"gotoyome", name:"五等分の花嫁＊　Desktop Cute フィギュア　中野四葉～バニーver.～", search:"なかのよつば", type:"desk", price:600, date:"1899-12-30", img:"images/gotoyome/yotuba_desk_bani.jpg", source:"https://www.taito.co.jp/"},
-{series:"aobuta", name:"「青春ブタ野郎」シリーズXStellar“桜島麻衣”チャイナ服", search:"さくらじままい", type:"xs", price:800, date:"2026-04-20", img:"images/aobuta/xs_chaina.jpg", source:"https://segaplaza.jp/"},
+{series:"aobuta", name:"「青春ブタ野郎」シリーズXStellar“桜島麻衣”チャイナ服", search:"さくらじままい", type:"xs", price:700, date:"2026-04-20", img:"images/aobuta/xs_chaina.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"桜ミク　Coreful フィギュア　～描き下ろし和風喫茶ver.～", search:"さくらみく　はつねみく　わふうきっさ", type:"core", price:800, date:"2026-04-20", img:"images/miku/sakuramiku_wafu.jpg", source:"https://www.taito.co.jp/"},
 {series:"konan", name:"名探偵コナンXrossLinkフィギュア“萩原研二”", search:"はぎわらけんじ", type:"xros", price:400, date:"2026-04-20", img:"images/konan/hagiwara_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"wanpi", name:"ワンピース メガワールドコレクタブルフィギュア-カイドウ-", search:"かいどう", type:"wcf", price:500, date:"1899-12-30", img:"images/wanpi/kaido_wcf.jpg", source:"https://bsp-prize.jp/"},

@@ -2,6 +2,10 @@ window.figures2 = [
 
 
 
+
+
+
+{series:"meidoin", name:"メイドインアビス 烈日の黄金郷　Desktop Cute フィギュア　ナナチ～食事の時間ver.～", search:"ななち", type:"desk", price:800, date:"2026-04-30", img:"images/meidoin/nanati_syokuzi.jpg", source:"https://www.taito.co.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ なかよしメモリーズ おうちでリラックスタイム～シナモロール＆ポムポムプリン～", search:"ぽむぽむぷりん", type:"nakayosi", price:500, date:"1899-12-30", img:"images/sanrio/pomu_sina.jpg", source:"https://bsp-prize.jp/"},
 {series:"gotoyome", name:"五等分の花嫁＊ 中野四葉フィギュア五等分の花嫁アニメ原画展ver.", search:"なかのよつば", type:"", price:400, date:"1899-12-30", img:"images/gotoyome/yotuba_genga.jpg", source:"https://bsp-prize.jp/"},
 {series:"gotoyome", name:"五等分の花嫁＊ 中野二乃フィギュア五等分の花嫁アニメ原画展ver.", search:"なかのにの", type:"", price:300, date:"1899-12-30", img:"images/gotoyome/nino_genga.jpg", source:"https://bsp-prize.jp/"},
