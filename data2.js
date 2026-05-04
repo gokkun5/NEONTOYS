@@ -1,4 +1,11 @@
 window.figures2 = [
+{series:"siunzi", name:"TVアニメ「紫雲寺家の子供たち」ちょこのせプレミアムフィギュア“紫雲寺清葉”", search:"しうんじせいは", type:"lum", price:300, date:"1899-12-30", img:"images/siunzi/seiha_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"amagamisan", name:"甘神さんちの縁結びLuminasta“甘神夜重”", search:"あまがみやえ", type:"lum", price:400, date:"1899-12-30", img:"images/amagamisan/yae_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"amagamisan", name:"甘神さんちの縁結びLuminasta“甘神朝姫”", search:"あまがみあさひ", type:"lum", price:400, date:"1899-12-30", img:"images/amagamisan/asahi_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"amagamisan", name:"甘神さんちの縁結びLuminasta“甘神夕奈”", search:"あまがみゆな", type:"lum", price:400, date:"1899-12-30", img:"images/amagamisan/yuna_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA KOUZUKI MOMONOSUKE", search:"こうづきもものすけ　光月モモの助", type:"dxf", price:300, date:"1899-12-30", img:"images/wanpi/momonosuke_dxf.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA KIKUNOJO", search:"きくのじょう　菊の丞", type:"dxf", price:300, date:"1899-12-30", img:"images/wanpi/okiku_dxf.jpg", source:"https://bsp-prize.jp/"},
+{series:"aoeku", name:"青の祓魔師島根啓明結社篇 ちょこのせプレミアムフィギュア“奥村雪男”", search:"おくむらゆきお", type:"tyoko", price:300, date:"1899-12-30", img:"images/aoeku/yukio_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"gotoyome", name:"Trio-Try-iT Figureー中野一花・パステルドレスー", search:"なかのいちか", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/itika_pasuteru.jpg", source:"https://charahiroba.com/"},
 {series:"ruroken", name:"TVアニメ「るろうに剣心－明治剣客浪漫譚－」Luminasta“斎藤一”", search:"さいとうはじめ", type:"lum", price:500, date:"1899-12-30", img:"images/ruroken/hazime_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"nyanko", name:"にゃんこ大戦争 にゃんこ軍団出陣フィギュア～狂乱のネコムート～", search:"きょうらんのねこむーと", type:"", price:500, date:"2026-04-30", img:"images/nyanko/kyouran.jpg", source:"https://bsp-prize.jp/"},
