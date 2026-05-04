@@ -69,7 +69,7 @@ window.figures1 = [
 {series:"db", name:"ドラゴンボール SOFVIMATES～亀仙人(スーツスタイル)～", search:"かめせんにん", type:"sof", price:1000, date:"1899-12-30", img:"images/db/kame_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース 戦光絶景-BORSALINO-", search:"きざる　ぼるさりーの　黄猿　ボルサリーノ", type:"senko", price:600, date:"1899-12-30", img:"images/wanpi/kizaru_senko.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"『To LOVEる-とらぶる-ダークネス』 Aqua Float Girls フィギュア モモ", search:"もも", type:"aqua", price:700, date:"1899-12-30", img:"images/tora/momo_aqua.jpg", source:"https://www.taito.co.jp/"},
-{series:"uzaki", name:"『宇崎ちゃんは遊びたい！ω』 Desktop Cute フィギュア 宇崎月 ～浜辺で水着ver.～", search:"うざきつき", type:"desk", price:700, date:"1899-12-30", img:"images/uzaki/tuki_desk.jpg", source:"https://www.taito.co.jp/"},
+{series:"uzaki", name:"『宇崎ちゃんは遊びたい！ω』 Desktop Cute フィギュア 宇崎月 ～浜辺で水着ver.～", search:"うざきつき", type:"desk", price:600, date:"1899-12-30", img:"images/uzaki/tuki_desk.jpg", source:"https://www.taito.co.jp/"},
 {series:"yugi", name:"アニメ「遊☆戯☆王」シリーズ　Monsters LEGION オベリスクの巨神兵", search:"おべりすく", type:"mon", price:1200, date:"1899-12-30", img:"images/yugi/obe.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"yugi", name:"『遊☆戯☆王シリーズ』 奈落の落とし穴 フィギュア付きダストボックス", search:"ならくのおとしあな", type:"", price:500, date:"1899-12-30", img:"images/yugi/naraku.jpg", source:"https://www.taito.co.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん スーパービッグフィギュア～アクション仮面～", search:"あくしょんかめん", type:"", price:600, date:"1899-12-30", img:"images/kuresin/akusyon.jpg", source:"https://bsp-prize.jp/"},
