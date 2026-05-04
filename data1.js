@@ -606,7 +606,7 @@ window.figures1 = [
 {series:"tyen", name:"BiCute Bunnies Figure ― コベニ ― ラウンドワン限定", search:"こべに", type:"bani", price:1500, date:"1899-12-30", img:"images/tyen/kobeni_bani.jpg", source:"https://charahiroba.com/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活　AMP レム フィギュア～Winter Maid image ver.～", search:"れむ", type:"amp", price:900, date:"1899-12-30", img:"images/rezero/remu_amp.jpg", source:"https://www.taito.co.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活　でふぉるむぷらす　レム　フルアクションデフォルメフィギュア", search:"れむ", type:"defo", price:600, date:"1899-12-30", img:"images/rezero/remu_defo.jpg", source:"https://www.elcocoland.com/shop/"},
-{series:"gotoyome", name:"五等分の花嫁＊ 中野五月フィギュア五等分の花嫁アニメ原画展ver.", search:"なかのいつき", type:"", price:500, date:"1899-12-30", img:"images/gotoyome/ituki_genga.jpg", source:"https://bsp-prize.jp/"},
+{series:"gotoyome", name:"五等分の花嫁＊ 中野五月フィギュア五等分の花嫁アニメ原画展ver.", search:"なかのいつき", type:"", price:400, date:"1899-12-30", img:"images/gotoyome/ituki_genga.jpg", source:"https://bsp-prize.jp/"},
 {series:"meidoin", name:"メイドインアビス 烈日の黄金郷 -Relax time-ファプタ", search:"ふぁぷた", type:"relax", price:800, date:"1899-12-30", img:"images/meidoin/faputa_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"rikorisu", name:"リコリス・リコイル　Trio－Try－iT Figureー井ノ上たきなー", search:"いのうえたきな", type:"trio", price:1200, date:"1899-12-30", img:"images/rikorisu/takina_trio.jpg", source:"https://charahiroba.com/"},
 {series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Grandista-CHAINSAW MAN-", search:"ちぇんそーまん", type:"gra", price:1100, date:"1899-12-30", img:"images/tyen/tyen_gra.jpg", source:"https://bsp-prize.jp/"},
