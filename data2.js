@@ -96,7 +96,7 @@ window.figures2 = [
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-UZUMAKI NARUTO ＆ UCHIHA SASUKE-", search:"うちはサスケ　さすけ", type:"figuno", price:500, date:"1899-12-30", img:"images/naruto/sasuke_figuno.jpg", source:"https://bsp-prize.jp/"},
 {series:"yusyakei", name:"TVアニメ「勇者刑に処す懲罰勇者9004隊刑務記録」ちょこのせプレミアムフィギュア“テオリッタ”", search:"ておりった", type:"tyoko", price:800, date:"2026-04-22", img:"images/yusyakei/teo_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"kusuri", name:"Trio-Try-iT Figureー壬氏ー", search:"じんし", type:"trio", price:1200, date:"2026-04-22", img:"images/kusuri/zinsi_trio.jpg", source:"https://charahiroba.com/"},
-{series:"inu", name:"Trio-Try-iT Figure―犬夜叉―vol.2", search:"いぬやしゃ", type:"trio", price:1400, date:"2026-04-20", img:"images/inu/inu_trio2.jpg", source:"https://charahiroba.com/"},
+{series:"inu", name:"Trio-Try-iT Figure―犬夜叉―vol.2", search:"いぬやしゃ", type:"trio", price:1200, date:"2026-04-20", img:"images/inu/inu_trio2.jpg", source:"https://charahiroba.com/"},
 {series:"oba", name:"オーバーロード ぬーどるストッパーフィギュアーシャルティアー", search:"しゃるてぃあ", type:"nusuto", price:400, date:"1899-12-30", img:"images/oba/syaru_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"oba", name:"オーバーロード　Desktop Cute フィギュア　シャルティア～バニーver.～", search:"しゃるてぃあ", type:"desk", price:600, date:"1899-12-30", img:"images/oba/syaru_desk_bani.jpg", source:"https://www.taito.co.jp/"},
 {series:"gozira", name:"ガメラ 大怪獣空中決戦 怪獣咆哮撃 ガメラ（1995）", search:"がめら", type:"", price:500, date:"1899-12-30", img:"images/gozira/gamera_1995.jpg", source:"https://bsp-prize.jp/"},
