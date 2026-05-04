@@ -474,7 +474,7 @@ window.figures1 = [
 {series:"oba", name:"『オーバーロード』One-Seventh Caratフィギュアアルベド バニー ホワイトVer.", search:"あるべど", type:"one", price:700, date:"2026-04-11", img:"images/oba/aru_one_w.jpg", source:"http://fansclub.jp/pc/top/"},
 {series:"tora", name:"『To LOVEる-とらぶる-ダークネス』Trio-Try-iT Figure― 結城美柑 ―", search:"ゆうきみかん", type:"trio", price:800, date:"2026-04-11", img:"images/tora/mikan_trio.jpg", source:"https://charahiroba.com/"},
 {series:"db", name:"ドラゴンボールZ BLOOD OF SAIYANS-超サイヤ人孫悟飯-", search:"そんごはん", type:"blood", price:700, date:"2026-04-11", img:"images/db/gohan_blood.jpg", source:"https://bsp-prize.jp/"},
-{series:"db", name:"ドラゴンボールZ BLOOD OF SAIYANS-超サイヤ人孫悟天-", search:"そんごてん", type:"blood", price:800, date:"2026-04-11", img:"images/db/goten_blood.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ BLOOD OF SAIYANS-超サイヤ人孫悟天-", search:"そんごてん", type:"blood", price:700, date:"2026-04-11", img:"images/db/goten_blood.jpg", source:"https://bsp-prize.jp/"},
 {series:"konan", name:"『名探偵コナン』VIGNETTEUM “江戸川コナン”～小さくなった名探偵～", search:"えどがわこなん", type:"", price:600, date:"2026-04-11", img:"images/konan/tisakunatta.jpg", source:"https://segaplaza.jp/"},
 {series:"voice", name:"『ずんだもん』ぬーどるストッパーフィギュアー ずんだもん ー", search:"ずんだもん", type:"nusuto", price:600, date:"2026-04-11", img:"images/voice/zunda_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"death", name:"『DEATH NOTE』ぬーどるストッパーフィギュアー 夜神月 ー", search:"やがみらいと", type:"nusuto", price:800, date:"2026-04-11", img:"images/death/raito_nusuto.jpg", source:"https://charahiroba.com/"},
