@@ -2,7 +2,7 @@ window.figures2 = [
 
 
 
-
+{series:"kaizyu", name:"怪獣８号 ぬーどるストッパーフィギュアー鳴海弦ー", search:"なるみげん", type:"nusuto", price:1500, date:"1899-12-30", img:"images/kaizyu/narumi_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-RORONOA ZORO-", search:"ろろのあぞろ　ロロノアゾロ", type:"bato", price:800, date:"1899-12-30", img:"images/wanpi/zoro_bato_egg.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース GRANDLINE JOURNEY-SPECIAL-", search:"はんこっく　ハンコック", type:"", price:800, date:"1899-12-30", img:"images/wanpi/hanko_jo_sp.jpg", source:"https://bsp-prize.jp/"},
 {series:"meidoin", name:"メイドインアビス 烈日の黄金郷　Desktop Cute フィギュア　ナナチ～食事の時間ver.～", search:"ななち", type:"desk", price:800, date:"2026-04-30", img:"images/meidoin/nanati_syokuzi.jpg", source:"https://www.taito.co.jp/"},
