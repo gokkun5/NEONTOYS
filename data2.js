@@ -98,7 +98,7 @@ window.figures2 = [
 {series:"kusuri", name:"Trio-Try-iT Figureー壬氏ー", search:"じんし", type:"trio", price:1200, date:"2026-04-22", img:"images/kusuri/zinsi_trio.jpg", source:"https://charahiroba.com/"},
 {series:"inu", name:"Trio-Try-iT Figure―犬夜叉―vol.2", search:"いぬやしゃ", type:"trio", price:1200, date:"2026-04-20", img:"images/inu/inu_trio2.jpg", source:"https://charahiroba.com/"},
 {series:"oba", name:"オーバーロード ぬーどるストッパーフィギュアーシャルティアー", search:"しゃるてぃあ", type:"nusuto", price:400, date:"1899-12-30", img:"images/oba/syaru_nusuto.jpg", source:"https://charahiroba.com/"},
-{series:"oba", name:"オーバーロード　Desktop Cute フィギュア　シャルティア～バニーver.～", search:"しゃるてぃあ", type:"desk", price:600, date:"1899-12-30", img:"images/oba/syaru_desk_bani.jpg", source:"https://www.taito.co.jp/"},
+{series:"oba", name:"オーバーロード　Desktop Cute フィギュア　シャルティア～バニーver.～", search:"しゃるてぃあ", type:"desk", price:500, date:"1899-12-30", img:"images/oba/syaru_desk_bani.jpg", source:"https://www.taito.co.jp/"},
 {series:"gozira", name:"ガメラ 大怪獣空中決戦 怪獣咆哮撃 ガメラ（1995）", search:"がめら", type:"", price:500, date:"1899-12-30", img:"images/gozira/gamera_1995.jpg", source:"https://bsp-prize.jp/"},
 {series:"sakamoto", name:"SAKAMOTO DAYS SOLID SCENE COLLECTION-ASAKURA SHIN-", search:"朝倉シン　あさくらしん", type:"", price:500, date:"1899-12-30", img:"images/sakamoto/sin.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC HIROMI HIGURUMA", search:"日車寛見　ひぐるまひろみ", type:"ma", price:1100, date:"2026-04-21", img:"images/zyuzyutu/higuruma_ma.jpg", source:"https://bsp-prize.jp/"},
