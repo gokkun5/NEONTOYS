@@ -478,7 +478,7 @@ window.figures1 = [
 {series:"konan", name:"『名探偵コナン』VIGNETTEUM “江戸川コナン”～小さくなった名探偵～", search:"えどがわこなん", type:"", price:600, date:"2026-04-11", img:"images/konan/tisakunatta.jpg", source:"https://segaplaza.jp/"},
 {series:"voice", name:"『ずんだもん』ぬーどるストッパーフィギュアー ずんだもん ー", search:"ずんだもん", type:"nusuto", price:600, date:"2026-04-11", img:"images/voice/zunda_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"death", name:"『DEATH NOTE』ぬーどるストッパーフィギュアー 夜神月 ー", search:"やがみらいと", type:"nusuto", price:800, date:"2026-04-11", img:"images/death/raito_nusuto.jpg", source:"https://charahiroba.com/"},
-{series:"hant", name:"『HUNTER×HUNTER』ぬーどるストッパーフィギュアー ノブナガ ー", search:"のぶなが", type:"nusuto", price:700, date:"2026-04-11", img:"images/hant/nobunaga_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"hant", name:"『HUNTER×HUNTER』ぬーどるストッパーフィギュアー ノブナガ ー", search:"のぶなが", type:"nusuto", price:600, date:"2026-04-11", img:"images/hant/nobunaga_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"kaizi", name:"賭博黙示録カイジ 魔天の地獄・・・・ どこでも鉄骨渡り・・・！フィギュア", search:"カイジ　かいじ", type:"", price:700, date:"2026-04-11", img:"images/kaizi/kaizi.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"『To LOVEる-とらぶる-ダークネス』BiCute Bunnies Figure― 金色の闇 ―", search:"こんじきのやみ", type:"bani", price:800, date:"2026-04-11", img:"images/tora/yami_bani.jpg", source:"https://charahiroba.com/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス GLITTER&GLAMOURS 古手川唯 ポリスver.", search:"こてがわゆい", type:"gli", price:800, date:"2026-04-11", img:"images/tora/kotegawa_porice.jpg", source:"https://bsp-prize.jp/"},

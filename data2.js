@@ -2,7 +2,7 @@ window.figures2 = [
 
 
 
-
+{series:"sanrio", name:"サンリオキャラクターズ なかよしメモリーズ おうちでリラックスタイム～シナモロール＆ポムポムプリン～", search:"ぽむぽむぷりん", type:"nakayosi", price:500, date:"1899-12-30", img:"images/sanrio/pomu_sina.jpg", source:"https://bsp-prize.jp/"},
 {series:"gotoyome", name:"五等分の花嫁＊ 中野四葉フィギュア五等分の花嫁アニメ原画展ver.", search:"なかのよつば", type:"", price:400, date:"1899-12-30", img:"images/gotoyome/yotuba_genga.jpg", source:"https://bsp-prize.jp/"},
 {series:"gotoyome", name:"五等分の花嫁＊ 中野二乃フィギュア五等分の花嫁アニメ原画展ver.", search:"なかのにの", type:"", price:300, date:"1899-12-30", img:"images/gotoyome/nino_genga.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース THE出航-BENN.BECKMAN-", search:"べんべっくまん", type:"syukkko", price:450, date:"1899-12-30", img:"images/wanpi/ben_syukko.jpg", source:"https://bsp-prize.jp/"},
