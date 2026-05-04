@@ -42,7 +42,7 @@ window.figures2 = [
 {series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:500, date:"2026-05-01", img:"images/monhan/furu_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"monhan", name:"モンスターハンター 鎮座獣 ナルガクルガ～漆黒の影～", search:"なるがくるが", type:"tinaza", price:500, date:"2026-04-30", img:"images/monhan/naruga.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"Trio-Try-iT-Figure―爆豪勝己―", search:"ばくごうかつき", type:"trio", price:1000, date:"2026-04-30", img:"images/hiro/bakugo_trio.jpg", source:"https://charahiroba.com/"},
-{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION EXTRA-KAIDOU-", search:"かいどう　カイドウ", type:"bato", price:1000, date:"2026-04-30", img:"images/wanpi/kaido_bato.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION EXTRA-KAIDOU-", search:"かいどう　カイドウ", type:"bato", price:800, date:"2026-04-30", img:"images/wanpi/kaido_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボール SOLID EDGE WORKS-THE出陣-亀仙人", search:"かめせんにん", type:"syutu", price:1000, date:"2026-04-30", img:"images/db/kame_syutu.jpg", source:"https://bsp-prize.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活 -Relax time-ラム Sweet Angel ver.", search:"らむ", type:"relax", price:1300, date:"2026-04-30", img:"images/rezero/ramu_relax_ang.jpg", source:"https://bsp-prize.jp/"},
 {series:"aimasu", name:"学園アイドルマスター ESPRESTO-Majestic pose-花海咲季", search:"はなみさき", type:"esp", price:800, date:"2026-04-30", img:"images/aimasu/saki_esp.jpg", source:"https://bsp-prize.jp/"},
