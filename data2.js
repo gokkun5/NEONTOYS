@@ -4,7 +4,7 @@ window.figures2 = [
 
 
 
-
+{series:"wanpi", name:"ワンピース THE出航-BENN.BECKMAN-", search:"べんべっくまん", type:"syukkko", price:450, date:"1899-12-30", img:"images/wanpi/ben_syukko.jpg", source:"https://bsp-prize.jp/"},
 {series:"namaanaru", name:"「生徒会にも穴はある！」Desktop×DecorateCollections“古都吹寿子”", search:"ことぶきひさこ", type:"ddc", price:300, date:"1899-12-30", img:"images/namaanaru/hisako_ddc.jpg", source:"https://segaplaza.jp/"},
 {series:"kamen", name:"仮面ライダーアギト BIGサイズソフビ マスクディスプレイ-アギト-", search:"あぎと", type:"", price:400, date:"1899-12-30", img:"images/kamen/agito.jpg", source:"https://bsp-prize.jp/"},
 {series:"siunzi", name:"TVアニメ「紫雲寺家の子供たち」ちょこのせプレミアムフィギュア“紫雲寺清葉”", search:"しうんじせいは", type:"lum", price:300, date:"1899-12-30", img:"images/siunzi/seiha_tyoko.jpg", source:"https://segaplaza.jp/"},
