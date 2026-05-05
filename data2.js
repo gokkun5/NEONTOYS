@@ -2,6 +2,11 @@ window.figures2 = [
 
 
 
+
+{series:"miku", name:"初音ミク Birthday2024　AMP＋ フィギュア～Flower ver.～", search:"はつねみく　ふらわー　フラワー", type:"amp", price:1100, date:"1899-12-30", img:"images/miku/2024_birth.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"巡音ルカ　BiCute Bunnies Figureー巡音ルカー", search:"めぐりねるか", type:"bani", price:600, date:"1899-12-30", img:"images/miku/ruka_bani.jpg", source:"https://charahiroba.com/"},
+{series:"miku", name:"初音ミク　Wonderland フィギュア 眠れる森の美女", search:"はつねみく　ねむれるもりのびじょ", type:"wo", price:1000, date:"1899-12-30", img:"images/miku/nemuri.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"初音ミク　Trio-Try-iT Figureーペイントガールー", search:"ぺいんと　はつねみく", type:"trio", price:1000, date:"1899-12-30", img:"images/miku/peinto.jpg", source:"https://charahiroba.com/"},
 {series:"kaizyu", name:"怪獣８号 スケールフィギュア“保科” ～GiGO限定～", search:"ほしな", type:"", price:1000, date:"1899-12-30", img:"images/kaizyu/hosina_gigo.jpg", source:"https://www.gigo.co.jp/prizes"},
 {series:"haikyu", name:"ハイキュー!! ぬーどるストッパーフィギュアー月島 蛍ー", search:"つきしまけい", type:"nusuto", price:800, date:"1899-12-30", img:"images/haikyu/tukisima_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"初音ミク Birthday2025　AMP＋ フィギュア～Party ver.～", search:"はつねみく　パーティー　ぱーてぃー", type:"amp", price:1600, date:"1899-12-30", img:"images/miku/2025_birth.jpg", source:"https://www.taito.co.jp/"},
