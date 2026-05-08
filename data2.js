@@ -5,7 +5,11 @@ window.figures2 = [
 
 
 
-
+{series:"kimetu", name:"鬼滅の刃 フィギュア-絆ノ装-肆拾伍ノ型", search:"かんろじみつり　甘露寺蜜璃", type:"kizuna", price:1500, date:"1899-12-30", img:"images/kimetu/kanrozi_kizuna.jpg", source:"https://bsp-prize.jp/"},
+{series:"nigoriri", name:"2.5次元の誘惑 ペンフレ！ ノノア(乃愛)～制服ver.～", search:"ののあ", type:"pen", price:500, date:"1899-12-30", img:"images/nigoriri/nonoa_pen.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"鬼滅の刃　プレミアムちょこのせフィギュア“我妻善逸”", search:"あがつまぜんいつ", type:"tyoko", price:1500, date:"1899-12-30", img:"images/kimetu/zenitu_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"tyen", name:"チェンソーマン　ぬーどるストッパーフィギュアーマキマー", search:"まきま", type:"nusuto", price:1300, date:"1899-12-30", img:"images/tyen/makima_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"toribe", name:"東京リベンジャーズ ぬーどるストッパーフィギュアー灰谷蘭ー", search:"はいたにらん", type:"nusuto", price:1200, date:"1899-12-30", img:"images/toribe/ran_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"kimetu", name:"『鬼滅の刃』ちょこのせプレミアムフィギュア“伊黒小芭内”－柱合会議－", search:"いぐろおばない", type:"tyoko", price:2600, date:"1899-12-30", img:"images/kimetu/iguro_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"tyen", name:"チェンソーマン GLITTER&GLAMOURS-POWER-", search:"ぱわー　パワー", type:"gli", price:900, date:"1899-12-30", img:"images/tyen/pawa_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　ララ～チャイナドレスver.～", search:"らら", type:"desk", price:600, date:"1899-12-30", img:"images/tora/rara_chaina.jpg", source:"https://www.taito.co.jp/"},
@@ -385,7 +389,7 @@ window.figures2 = [
 {series:"gintama", name:"『新劇場版 銀魂-吉原大炎上-』 VIBRATION STARS -神楽-", search:"かぐら", type:"vib", price:800, date:"1899-12-30", img:"images/gintama/kagura_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"gintama", name:"『新劇場版 銀魂-吉原大炎上-』 VIBRATION STARS -神威-", search:"かむい", type:"vib", price:800, date:"1899-12-30", img:"images/gintama/kamui_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"『NARUTO-ナルト- 疾風伝』 VIBRATION STARS -ZETSU & HOSHIGAKI KISAME-", search:"ぜつ　ゼツ", type:"vib", price:1300, date:"1899-12-30", img:"images/naruto/zetu_vib.jpg", source:"https://bsp-prize.jp/"},
-{series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS -胡蝶しのぶ-", search:"こちょうしのぶ", type:"vib", price:1800, date:"1899-12-30", img:"images/kimetu/sinobu_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS -胡蝶しのぶ-", search:"こちょうしのぶ", type:"vib", price:1500, date:"1899-12-30", img:"images/kimetu/sinobu_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -煉獄杏寿郎-", search:"れんごくきょうじゅろう", type:"vib", price:1600, date:"1899-12-30", img:"images/kimetu/rengoku_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -不死川実弥-", search:"しなずがわさねみ", type:"vib", price:1800, date:"1899-12-30", img:"images/kimetu/sina_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 Grandista-DOMA-", search:"どうま　童磨", type:"gra", price:1500, date:"1899-12-30", img:"images/kimetu/doma_gra.jpg", source:"https://bsp-prize.jp/"},
@@ -512,7 +516,7 @@ window.figures2 = [
 {series:"buri", name:"BLEACH GrandistaｰKUROSAKI ICHIGOｰ", search:"くろさきいちご　黒崎一護", type:"gra", price:1500, date:"1899-12-30", img:"images/buri/itigo_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpan", name:"ワンパンマン Grandista-SAITAMA-", search:"さいたま　サイタマ", type:"gra", price:700, date:"1899-12-30", img:"images/wanpan/saitama_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpan", name:"ワンパンマン One Punch Life サイタマ～買い物～", search:"さいたま", type:"", price:700, date:"1899-12-30", img:"images/wanpan/life.jpg", source:"https://bsp-prize.jp/"},
-{series:"gintama", name:"3年Z組銀八先生 デスクフィギュア-坂田銀八-", search:"さかたぎんぱち", type:"", price:2200, date:"1899-12-30", img:"images/gintama/gintoki_desk.jpg", source:"https://bsp-prize.jp/"},
+{series:"gintama", name:"3年Z組銀八先生 デスクフィギュア-坂田銀八-", search:"さかたぎんぱち", type:"", price:2100, date:"1899-12-30", img:"images/gintama/gintoki_desk.jpg", source:"https://bsp-prize.jp/"},
 {series:"sakamoto", name:"SAKAMOTODAYSちょこのせプレミアムフィギュア“坂本太郎”本気Ver.", search:"さかもとたろう", type:"tyoko", price:400, date:"1899-12-30", img:"images/sakamoto/sakamoto_honki.jpg", source:"https://segaplaza.jp/"},
 {series:"sakamoto", name:"『SAKAMOTO DAYS』 ぬーどるストッパーフィギュア ー 朝倉シン ー", search:"あさくらしん", type:"nusuto", price:600, date:"1899-12-30", img:"images/sakamoto/sin_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"sakamoto", name:"SAKAMOTODAYSLuminasta“坂本太郎”店長Ver.", search:"さかもとたろう", type:"lum", price:500, date:"1899-12-30", img:"images/sakamoto/sakamoto_lum.jpg", source:"https://segaplaza.jp/"},
