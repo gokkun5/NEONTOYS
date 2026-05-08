@@ -959,7 +959,7 @@ window.figures1 = [
 {series:"kisekoi", name:"BiCute Dark Figure ー喜多川海夢 黒江雫ver.ー", search:"くろえしずく", type:"daku", price:1000, date:"2026-04-17", img:"images/kisekoi/sizuku_dark.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"ぬーどるストッパーフィギュアー桜ミク2025ウィンクー", search:"さくらみく　はつねみく", type:"nusuto", price:800, date:"2026-04-17", img:"images/miku/sakura_2025_wink.jpg", source:"https://charahiroba.com/"},
 {series:"hiro", name:"僕のヒーローアカデミア Noir Edge Collection-HIMIKO TOGA-", search:"とがひみこ　トガヒミコ", type:"noir", price:500, date:"2026-04-17", img:"images/hiro/toga_noir.jpg", source:"https://bsp-prize.jp/"},
-{series:"umamusume", name:"Trio-Try-iT Figure―ネオユニヴァースー", search:"ねおゆにヴぁーす", type:"trio", price:1000, date:"2026-04-17", img:"images/umamusume/neo_trio.jpg", source:"https://charahiroba.com/"},
+{series:"umamusume", name:"Trio-Try-iT Figure―ネオユニヴァースー", search:"ねおゆにヴぁーす", type:"trio", price:900, date:"2026-04-17", img:"images/umamusume/neo_trio.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-CHARLOTTE KATAKURI-SPECIAL ver.", search:"かたくり　カタクリ", type:"bato", price:800, date:"2026-04-17", img:"images/wanpi/katakuri_bato_sp.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ Grandista-VEGITO-", search:"べじっと　ベジット", type:"gra", price:800, date:"2026-04-17", img:"images/db/bezitto_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-SHIKI-", search:"しき　シキ", type:"bato", price:700, date:"2026-04-17", img:"images/wanpi/siki_bato.jpg", source:"https://bsp-prize.jp/"},

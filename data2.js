@@ -3,6 +3,12 @@ window.figures2 = [
 
 
 
+
+
+
+
+
+{series:"kimetu", name:"アニメ「鬼滅の刃」スーパープレミアムフィギュア“竈門炭治郎”－兄妹の絆－", search:"かまどたんじろう", type:"spm", price:800, date:"1899-12-30", img:"images/kimetu/tanzi_spm.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"初音ミク Birthday2024　AMP＋ フィギュア～Flower ver.～", search:"はつねみく　ふらわー　フラワー", type:"amp", price:1100, date:"1899-12-30", img:"images/miku/2024_birth.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"巡音ルカ　BiCute Bunnies Figureー巡音ルカー", search:"めぐりねるか", type:"bani", price:600, date:"1899-12-30", img:"images/miku/ruka_bani.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"初音ミク　Wonderland フィギュア 眠れる森の美女", search:"はつねみく　ねむれるもりのびじょ", type:"wo", price:1000, date:"1899-12-30", img:"images/miku/nemuri.jpg", source:"https://www.taito.co.jp/"},
@@ -64,7 +70,7 @@ window.figures2 = [
 {series:"dorakue", name:"ドラゴンクエスト　AM　スライムのいろいろ飾れる万年カレンダー", search:"すらいむ", type:"", price:300, date:"1899-12-30", img:"images/dorakue/mannen.jpg", source:"https://www.taito.co.jp/"},
 {series:"osinoko", name:"Trio－Try－iT Figureーアイー", search:"あい", type:"trio", price:350, date:"1899-12-30", img:"images/osinoko/ai_trio.jpg", source:"https://charahiroba.com/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」スーパープレミアムフィギュア“竈門禰󠄀豆子”－兄妹の絆－", search:"かまどねずこ", type:"spm", price:800, date:"1899-12-30", img:"images/kimetu/nezuko_spm.jpg", source:"https://segaplaza.jp/"},
-{series:"hiro", name:"僕のヒーローアカデミア Break time collection vol.1", search:"みどりやいずく　でく　緑谷出久　デク", type:"bre", price:500, date:"1899-12-30", img:"images/hiro/deku_break1.jpg", source:"https://bsp-prize.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア Break time collection vol.1", search:"みどりやいずく　でく　緑谷出久　デク", type:"bre", price:800, date:"1899-12-30", img:"images/hiro/deku_break1.jpg", source:"https://bsp-prize.jp/"},
 {series:"sakamoto", name:"SAKAMOTO DAYS 坂本太郎フィギュア-その店長、元・伝説の殺し屋-", search:"さかもとたろう", type:"", price:400, date:"1899-12-30", img:"images/sakamoto/sakamoto.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン フィギュアライト フリーレン-ゾルトラーク-", search:"ぞるとらーく", type:"", price:700, date:"1899-12-30", img:"images/furi-ren/zoru_raito.jpg", source:"https://bsp-prize.jp/"},
 {series:"aohako", name:"アオのハコ 蝶野雛 フィギュア 文化祭ver.", search:"ちょうのひな", type:"", price:400, date:"1899-12-30", img:"images/aohako/tyono_bunka.jpg", source:"https://bsp-prize.jp/"},
@@ -195,7 +201,7 @@ window.figures2 = [
 {series:"furi-ren", name:"『葬送のフリーレン』 MAXIMATIC STARK", search:"しゅたるく　シュタルク", type:"ma", price:800, date:"1899-12-30", img:"images/furi-ren/syuta_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 MAXIMATIC フェルン", search:"ふぇるん", type:"ma", price:800, date:"1899-12-30", img:"images/furi-ren/fer_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 Grandista -FRIEREN-", search:"フリーレン　ふりーれん", type:"gra", price:600, date:"1899-12-30", img:"images/furi-ren/furi_gra.jpg", source:"https://bsp-prize.jp/"},
-{series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC SATORU GOJO", search:"ごじょうさとる", type:"ma", price:850, date:"1899-12-30", img:"images/zyuzyutu/gozyo_ma.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC SATORU GOJO", search:"ごじょうさとる", type:"ma", price:800, date:"1899-12-30", img:"images/zyuzyutu/gozyo_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"kusuri", name:"『薬屋のひとりごと』 猫猫 フィギュア～園遊会～", search:"まおまお", type:"", price:700, date:"1899-12-30", img:"images/kusuri/maomao_enyu.jpg", source:"https://bsp-prize.jp/"},
 {series:"kusuri", name:"BRILLIANTフィギュア 猫猫", search:"まおまお", type:"bri", price:800, date:"1899-12-30", img:"images/kusuri/maomao_buri.jpg", source:"http://fansclub.jp/pc/top/"},
 {series:"kisekoi", name:"『その着せ替え人形は恋をする』 T-most 喜多川海夢 フィギュア 〜黒江雫ver.〜", search:"くろえしずく", type:"tmost", price:1200, date:"1899-12-30", img:"images/kisekoi/sizuku_tmost.jpg", source:"https://www.taito.co.jp/"},
