@@ -5,8 +5,8 @@ window.figures2 = [
 
 
 
-
-
+{series:"wanpi", name:"ワンピース Grandista-THE GRANDLINE MEN-TRAFALGAR･LAW", search:"トラファルガーロー　とらふぁるがーろー", type:"gra", price:1500, date:"1899-12-30", img:"images/wanpi/ro_gra1.jpg", source:"https://bsp-prize.jp/"},
+{series:"zigoku", name:"地獄楽　Luminasta　“杠”", search:"ゆずりは", type:"lum", price:1400, date:"1899-12-30", img:"images/zigoku/yuzuriha_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 EFFECTREME-UCHIHA SASUKE-Ⅱ", search:"うちはサスケ　さすけ", type:"eff", price:2600, date:"1899-12-30", img:"images/naruto/sasuke_eff2.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミクシリーズちょこのせプレミアムフィギュア“初音ミク×シナモロール”おすましVer.", search:"はつねみく　しなもろーる", type:"tyoko", price:900, date:"1899-12-30", img:"images/miku/sinamo_tyoko2.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 呪魂ノ型-脹相-", search:"ちょうそう", type:"zyukon", price:1100, date:"1899-12-30", img:"images/zyuzyutu/tyousou_zyukon.jpg", source:"https://bsp-prize.jp/"},
@@ -73,7 +73,7 @@ window.figures2 = [
 {series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～ベロニカver.～", search:"べろにか", type:"core", price:1000, date:"2026-04-30", img:"images/kisekoi/bero_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"holo", name:"ホロライブ #hololive IF -Relax time-轟はじめ", search:"とどろきはじめ", type:"relax", price:800, date:"2026-04-30", img:"images/holo/hazime_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"桜ミク BANPRESTO EVOLVE 桜ミクフィギュア", search:"さくらみく", type:"bpev", price:1000, date:"2026-04-30", img:"images/miku/sakura_bpev.jpg", source:"https://bsp-prize.jp/"},
-{series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER＆GLAMOURS-喜多川海夢 文化祭ver.-", search:"きたがわまりん", type:"gli", price:1000, date:"2026-04-30", img:"images/kisekoi/marin_gli_bunka.jpg", source:"https://bsp-prize.jp/"},
+{series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER＆GLAMOURS-喜多川海夢 文化祭ver.-", search:"きたがわまりん", type:"gli", price:800, date:"2026-04-30", img:"images/kisekoi/marin_gli_bunka.jpg", source:"https://bsp-prize.jp/"},
 {series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:500, date:"2026-05-01", img:"images/monhan/furu_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:500, date:"2026-05-01", img:"images/monhan/furu_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"monhan", name:"モンスターハンター 鎮座獣 ナルガクルガ～漆黒の影～", search:"なるがくるが", type:"tinaza", price:500, date:"2026-04-30", img:"images/monhan/naruga.jpg", source:"https://bsp-prize.jp/"},
