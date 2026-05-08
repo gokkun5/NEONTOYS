@@ -739,7 +739,7 @@ window.figures1 = [
 {series:"puniru", name:"TVアニメ「ぷにるはかわいいスライム」 ふぃぐきゅーぶ いつものかわいいぷにる", search:"", type:"figc", price:350, date:"1899-12-30", img:"images/puniru/figc.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"sanrio", name:"【箱ver.】サンリオキャラクターズ SOFVIMATES～シナモロール リラックスver.～", search:"しなもろーる", type:"sof", price:400, date:"1899-12-30", img:"images/sanrio/sinamo_sof_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"deara", name:"デート・ア・ライブⅤ　Coreful フィギュア　夜刀神十香～猫耳メイドver.～", search:"やとがみとおか", type:"core", price:650, date:"1899-12-30", img:"images/deara/toka_neko_core.jpg", source:"https://www.taito.co.jp/"},
-{series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　ナナ～チャイナドレスver.～", search:"なな", type:"desk", price:600, date:"1899-12-30", img:"images/tora/nana_desk_chaina.jpg", source:"https://www.taito.co.jp/"},
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　ナナ～チャイナドレスver.～", search:"なな", type:"desk", price:800, date:"1899-12-30", img:"images/tora/nana_desk_chaina.jpg", source:"https://www.taito.co.jp/"},
 {series:"wanpi", name:"ワンピース Fluffy Puffy〜チョッパーvol.1〜", search:"ちょっぱー", type:"ful", price:600, date:"1899-12-30", img:"images/wanpi/tyoppa_flu.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース Fluffy Puffy〜チョッパーvol.1〜", search:"ちょっぱー", type:"ful", price:600, date:"1899-12-30", img:"images/wanpi/tyoppa_flu_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア SPECIAL 最悪の世代 ユースタス・キッド", search:"ゆーすたすきっど", type:"wacf", price:500, date:"1899-12-30", img:"images/wanpi/kiddo_wakore.jpg", source:"https://bsp-prize.jp/"},
