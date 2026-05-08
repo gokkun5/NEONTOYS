@@ -4,10 +4,9 @@ window.figures2 = [
 
 
 
-
-
-
-
+{series:"umamusume", name:"ウマ娘 プリティーダービー　ぬーどるストッパーフィギュア―オグリキャップ―", search:"おぐりきゃっぷ", type:"nusuto", price:1300, date:"1899-12-30", img:"images/umamusume/oguri_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"pro", name:"プロジェクトセカイカラフルステージ！feat.初音ミクDesktop×DecorateCollections“朝比奈まふゆ”", search:"あさひなまふゆ", type:"ddc", price:1100, date:"1899-12-30", img:"images/pro/mafuyu_ddc.jpg", source:"https://segaplaza.jp/"},
+{series:"kuroko", name:"劇場版 黒子のバスケ LAST GAME Interval-黒子テツヤ＆テツヤ2号-", search:"くろこてつや", type:"", price:800, date:"1899-12-30", img:"images/kuroko/kuroko.jpg", source:"https://bsp-prize.jp/"},
 {series:"hikanatu", name:"TVアニメ「光が死んだ夏」ちょこのせプレミアムフィギュア“ヒカル”", search:"ひかる", type:"tyoko", price:1200, date:"1899-12-30", img:"images/hikanatu/hikaru_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"hikanatu", name:"TVアニメ「光が死んだ夏」ちょこのせプレミアムフィギュア“よしき”", search:"", type:"tyoko", price:1200, date:"1899-12-30", img:"images/hikanatu/yosiki_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"鬼滅の刃 フィギュア-絆ノ装-玖ノ型", search:"嘴平伊之助　はしびらいのすけ", type:"kizuna", price:1100, date:"1899-12-30", img:"images/kimetu/inosuke_kizuna.jpg", source:"https://bsp-prize.jp/"},
