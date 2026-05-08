@@ -31,7 +31,7 @@ window.figures1 = [
 {series:"zyuzyutu", name:"呪術廻戦 KING OF ARTIST SATORU GOJO-懐玉・玉折-Ⅱ", search:"ごじょうさとる　五条悟", type:"koa", price:800, date:"1899-12-30", img:"images/zyuzyutu/gozyo2_koa.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"『呪術廻戦』Vivitフィギュア 五条悟 呪術高専Ver.GiGOグループ限定", search:"ごじょうさとる", type:"vivi", price:800, date:"1899-12-30", img:"images/zyuzyutu/gozyo_vivi.jpg", source:"http://fansclub.jp/pc/top/"},
 {series:"zyuzyutu", name:"劇場版呪術廻戦0Yumemirize“狗巻棘”", search:"いぬまきとげ", type:"yume", price:1000, date:"1899-12-30", img:"images/zyuzyutu/inumaki.jpg", source:"https://segaplaza.jp/"},
-{series:"zyuzyutu", name:"劇場版呪術廻戦0Yumemirize“乙骨憂太”", search:"おっこつゆうた", type:"yume", price:1000, date:"1899-12-30", img:"images/zyuzyutu/otukotu_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"zyuzyutu", name:"劇場版呪術廻戦0Yumemirize“乙骨憂太”", search:"おっこつゆうた", type:"yume", price:800, date:"1899-12-30", img:"images/zyuzyutu/otukotu_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦Luminasta“虎杖悠仁”黒閃", search:"いたどりゆうじ", type:"lum", price:1200, date:"1899-12-30", img:"images/zyuzyutu/itadori_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"wanpi", name:"ワンピース KING OF ARTIST THE ROB LUCCI Awakening ver.", search:"ろぶるっち　ロブルッチ", type:"koa", price:450, date:"1899-12-30", img:"images/wanpi/rutti_koa.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース KING OF ARTIST THE TRAFALGAR.LAW Ⅱ", search:"とらふぁるがーろー　トラファルガーロー", type:"koa", price:1000, date:"1899-12-30", img:"images/wanpi/ro2_koa.jpg", source:"https://bsp-prize.jp/"},

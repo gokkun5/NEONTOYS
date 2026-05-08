@@ -5,9 +5,12 @@ window.figures2 = [
 
 
 
-
-
-
+{series:"zyuzyutu", name:"呪術廻戦 KING OF ARTIST THE TOJI FUSHIGURO", search:"ふしぐろとうじ", type:"koa", price:1300, date:"1899-12-30", img:"images/zyuzyutu/touzi_koa.jpg", source:"https://bsp-prize.jp/"},
+{series:"bururo", name:"TVアニメ『ブルーロック』 糸師凛 フィギュア-”青い監獄”11傑-", search:"いとしりん", type:"", price:1400, date:"1899-12-30", img:"images/bururo/rin_11.jpg", source:"https://bsp-prize.jp/"},
+{series:"umamusume", name:"ウマ娘 プリティーダービー オグリキャップ フィギュア", search:"おぐりきゃっぷ", type:"", price:1300, date:"1899-12-30", img:"images/umamusume/oguri.jpg", source:"https://bsp-prize.jp/"},
+{series:"umamusume", name:"ウマ娘 プリティーダービー マルゼンスキー フィギュア", search:"まるぜんすきー", type:"", price:1400, date:"1899-12-30", img:"images/umamusume/maruzen.jpg", source:"https://bsp-prize.jp/"},
+{series:"umamusume", name:"ウマ娘 プリティーダービー アグネスタキオン フィギュア", search:"あぐねすたきおん", type:"", price:1300, date:"1899-12-30", img:"images/umamusume/agunesu.jpg", source:"https://bsp-prize.jp/"},
+{series:"umamusume", name:"ウマ娘 プリティーダービー ゴールドシップ フィギュア", search:"ごーるどしっぷ", type:"", price:800, date:"1899-12-30", img:"images/umamusume/gorusi.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」スーパープレミアムフィギュア“竈門炭治郎”－兄妹の絆－", search:"かまどたんじろう", type:"spm", price:800, date:"1899-12-30", img:"images/kimetu/tanzi_spm.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"初音ミク Birthday2024　AMP＋ フィギュア～Flower ver.～", search:"はつねみく　ふらわー　フラワー", type:"amp", price:1100, date:"1899-12-30", img:"images/miku/2024_birth.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"巡音ルカ　BiCute Bunnies Figureー巡音ルカー", search:"めぐりねるか", type:"bani", price:600, date:"1899-12-30", img:"images/miku/ruka_bani.jpg", source:"https://charahiroba.com/"},
@@ -235,7 +238,7 @@ window.figures2 = [
 {series:"naruto", name:"『NARUTO-ナルト- 疾風伝』フィギュア うちはサスケ・うちはイタチ～GiGOグループのお店限定～", search:"うちはさすけ", type:"", price:1600, date:"1899-12-30", img:"images/naruto/sasuke_gigo.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"『初音ミクシリーズ』 Fashion フィギュア Outdoor", search:"アウトドア　あうとどあ　はつねみく", type:"fa", price:1400, date:"1899-12-30", img:"images/miku/miku_auto.jpg", source:"https://www.taito.co.jp/"},
 {series:"oba", name:"『オーバーロード』 T-most アルベド フィギュア ～純白の悪魔ver.～", search:"あるべど", type:"tmost", price:1100, date:"1899-12-30", img:"images/oba/aru_tmost.jpg", source:"https://www.taito.co.jp/"},
-{series:"orerebe", name:"『俺だけレベルアップな件』 XrossLink フィギュア “水篠旬”", search:"みずしのしゅん", type:"xros", price:800, date:"1899-12-30", img:"images/orerebe/mizu_xros.jpg", source:"https://segaplaza.jp/"},
+{series:"orerebe", name:"『俺だけレベルアップな件』 XrossLink フィギュア “水篠旬”", search:"みずしのしゅん", type:"xros", price:600, date:"1899-12-30", img:"images/orerebe/mizu_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"orerebe", name:"『俺だけレベルアップな件』 XrossLink フィギュア “向坂雫”", search:"こうさかしずく", type:"xros", price:800, date:"1899-12-30", img:"images/orerebe/kou_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"『呪術廻戦』 Luminasta “宿儺” 「■」「開」", search:"すくな　ふーが", type:"lum", price:1200, date:"1899-12-30", img:"images/zyuzyutu/sukuna_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"nikke", name:"『勝利の女神：NIKKE』 ぬーどるストッパーフィギュア ー シンデレラ ー", search:"しんでれら", type:"nusuto", price:1200, date:"1899-12-30", img:"images/nikke/sin_nusuto.jpg", source:"https://charahiroba.com/"},
