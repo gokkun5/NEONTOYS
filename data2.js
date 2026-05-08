@@ -4,6 +4,13 @@ window.figures2 = [
 
 
 
+
+
+
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 EFFECTREME-UCHIHA SASUKE-Ⅱ", search:"うちはサスケ　さすけ", type:"eff", price:2600, date:"1899-12-30", img:"images/naruto/sasuke_eff2.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"初音ミクシリーズちょこのせプレミアムフィギュア“初音ミク×シナモロール”おすましVer.", search:"はつねみく　しなもろーる", type:"tyoko", price:900, date:"1899-12-30", img:"images/miku/sinamo_tyoko2.jpg", source:"https://segaplaza.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦 呪魂ノ型-脹相-", search:"ちょうそう", type:"zyukon", price:1100, date:"1899-12-30", img:"images/zyuzyutu/tyousou_zyukon.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦 Combination Battle-花御-", search:"はなみ", type:"combi", price:800, date:"1899-12-30", img:"images/zyuzyutu/hanami_comb.jpg", source:"https://bsp-prize.jp/"},
 {series:"umamusume", name:"ウマ娘 プリティーダービー　ぬーどるストッパーフィギュア―オグリキャップ―", search:"おぐりきゃっぷ", type:"nusuto", price:1300, date:"1899-12-30", img:"images/umamusume/oguri_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"pro", name:"プロジェクトセカイカラフルステージ！feat.初音ミクDesktop×DecorateCollections“朝比奈まふゆ”", search:"あさひなまふゆ", type:"ddc", price:1100, date:"1899-12-30", img:"images/pro/mafuyu_ddc.jpg", source:"https://segaplaza.jp/"},
 {series:"kuroko", name:"劇場版 黒子のバスケ LAST GAME Interval-黒子テツヤ＆テツヤ2号-", search:"くろこてつや", type:"", price:800, date:"1899-12-30", img:"images/kuroko/kuroko.jpg", source:"https://bsp-prize.jp/"},
