@@ -5,6 +5,14 @@ window.figures2 = [
 
 
 
+
+
+
+{series:"hikanatu", name:"TVアニメ「光が死んだ夏」ちょこのせプレミアムフィギュア“ヒカル”", search:"ひかる", type:"tyoko", price:1200, date:"1899-12-30", img:"images/hikanatu/hikaru_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"hikanatu", name:"TVアニメ「光が死んだ夏」ちょこのせプレミアムフィギュア“よしき”", search:"", type:"tyoko", price:1200, date:"1899-12-30", img:"images/hikanatu/yosiki_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"kimetu", name:"鬼滅の刃 フィギュア-絆ノ装-玖ノ型", search:"嘴平伊之助　はしびらいのすけ", type:"kizuna", price:1100, date:"1899-12-30", img:"images/kimetu/inosuke_kizuna.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」ちょこのせプレミアムフィギュア“幼少期の錆兎”－柱稽古編－", search:"さびと", type:"tyoko", price:2000, date:"1899-12-30", img:"images/kimetu/sabito_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"kimetu", name:"鬼滅の刃 VIBRATION STARS-妓夫太郎-", search:"ぎゅうたろう", type:"vib", price:1400, date:"1899-12-30", img:"images/kimetu/gyutaro_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 KING OF ARTIST THE TOJI FUSHIGURO", search:"ふしぐろとうじ", type:"koa", price:1300, date:"1899-12-30", img:"images/zyuzyutu/touzi_koa.jpg", source:"https://bsp-prize.jp/"},
 {series:"bururo", name:"TVアニメ『ブルーロック』 糸師凛 フィギュア-”青い監獄”11傑-", search:"いとしりん", type:"", price:1400, date:"1899-12-30", img:"images/bururo/rin_11.jpg", source:"https://bsp-prize.jp/"},
 {series:"umamusume", name:"ウマ娘 プリティーダービー オグリキャップ フィギュア", search:"おぐりきゃっぷ", type:"", price:1300, date:"1899-12-30", img:"images/umamusume/oguri.jpg", source:"https://bsp-prize.jp/"},
@@ -262,7 +270,7 @@ window.figures2 = [
 {series:"kusuri", name:"『薬屋のひとりごと』 Vivit フィギュア 猫猫 （狩り）", search:"まおまお", type:"vivi", price:600, date:"1899-12-30", img:"images/kusuri/maomao_vivi.jpg", source:"http://fansclub.jp/pc/top/"},
 {series:"tyen", name:"『チェンソーマン』 Break time collection vol.4", search:"ぽちた　でんじ　ポチ太　デンジ", type:"bre", price:1800, date:"1899-12-30", img:"images/tyen/potita_bre.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -獪岳-", search:"かいがく", type:"vib", price:1000, date:"1899-12-30", img:"images/kimetu/kai_vib.jpg", source:"https://bsp-prize.jp/"},
-{series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -我妻善逸-", search:"あがつまぜんいつ", type:"vib", price:1200, date:"1899-12-30", img:"images/kimetu/zen_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -我妻善逸-", search:"あがつまぜんいつ", type:"vib", price:1000, date:"1899-12-30", img:"images/kimetu/zen_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"hant", name:"『HUNTER×HUNTER』 フィギュア-ゴン-G.I.編", search:"ごん", type:"", price:800, date:"1899-12-30", img:"images/hant/gon_gi.jpg", source:"https://bsp-prize.jp/"},
 {series:"hant", name:"『HUNTER×HUNTER』 フィギュア-キルア-G.I.編", search:"きるあ", type:"", price:1000, date:"1899-12-30", img:"images/hant/kirua_gi.jpg", source:"https://bsp-prize.jp/"},
 {series:"hant", name:"『HUNTER×HUNTER』 フィギュア-ヒソカ-G.I.編", search:"ひそか", type:"", price:800, date:"1899-12-30", img:"images/hant/hisoka_gi.jpg", source:"https://bsp-prize.jp/"},
@@ -338,7 +346,7 @@ window.figures2 = [
 {series:"furi-ren", name:"『葬送のフリーレン』 Luminasta “フリーレン” ～インミミック～", search:"ふりーれん　みみっく", type:"lum", price:1300, date:"1899-12-30", img:"images/furi-ren/furi_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 Luminasta “フェルン” ～メイド服～", search:"ふぇるん", type:"lum", price:900, date:"1899-12-30", img:"images/furi-ren/fer_meido.jpg", source:"https://segaplaza.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 Yumemirize “フェルン”～一眠り～", search:"ふぇるん", type:"yume", price:500, date:"1899-12-30", img:"images/furi-ren/fer_yume.jpg", source:"https://segaplaza.jp/"},
-{series:"furi-ren", name:"『葬送のフリーレン』 ちょこのせプレミアムフィギュア “ヒンメル”", search:"ひんめる", type:"tyoko", price:700, date:"1899-12-30", img:"images/furi-ren/hin_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"furi-ren", name:"『葬送のフリーレン』 ちょこのせプレミアムフィギュア “ヒンメル”", search:"ひんめる", type:"tyoko", price:900, date:"1899-12-30", img:"images/furi-ren/hin_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 Desktop Cute フィギュア フリーレン ～トランクver.～", search:"ふりーれん", type:"desk", price:1000, date:"1899-12-30", img:"images/furi-ren/furi_torank.jpg", source:"https://www.taito.co.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 Luminasta “フリーレン” ～SUMMER DRESS～", search:"ふりーれん", type:"lum", price:600, date:"1899-12-30", img:"images/furi-ren/furi_summer.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"『初音ミクシリーズ』 ぬーどるストッパーフィギュア ー うさ耳パジャマ・ブルーver. ー", search:"うさみみぱじゃま　はつねみく", type:"nusuto", price:1200, date:"1899-12-30", img:"images/miku/usamimi_nusuto.jpg", source:"https://charahiroba.com/"},
@@ -493,7 +501,7 @@ window.figures2 = [
 {series:"dr", name:"『Dr.STONE』FIGURE of STONE WORLD-造形の科学-Dr.ゼノ＆スタンリー・スナイダー", search:"すたんりーすないだー", type:"", price:1400, date:"1899-12-30", img:"images/dr/suta.jpg", source:"https://bsp-prize.jp/"},
 {series:"yuyu", name:"幽☆遊☆白書 MAXIMATIC HIEI", search:"ひえい　飛影", type:"ma", price:500, date:"1899-12-30", img:"images/yuyu/hiei.jpg", source:"https://bsp-prize.jp/"},
 {series:"wind", name:"TVアニメ『WIND BREAKER』 桜遥 フィギュア～Chatting time!～", search:"さくらはるか", type:"", price:500, date:"1899-12-30", img:"images/wind/sakura.jpg", source:"https://bsp-prize.jp/"},
-{series:"wind", name:"TVアニメ『WIND BREAKER』 梶蓮 フィギュア～Chatting time!～", search:"かじれん", type:"", price:550, date:"1899-12-30", img:"images/wind/kazi.jpg", source:"https://bsp-prize.jp/"},
+{series:"wind", name:"TVアニメ『WIND BREAKER』 梶蓮 フィギュア～Chatting time!～", search:"かじれん", type:"", price:1000, date:"1899-12-30", img:"images/wind/kazi.jpg", source:"https://bsp-prize.jp/"},
 {series:"wind", name:"TVアニメ『WIND BREAKER』 蘇枋隼飛 フィギュア～Chatting time!～", search:"すおうはやと", type:"", price:600, date:"1899-12-30", img:"images/wind/sobo.jpg", source:"https://bsp-prize.jp/"},
 {series:"wind", name:"TVアニメ『WIND BREAKER』 梅宮一 フィギュア～Chatting time!～", search:"うめみやはじめ", type:"", price:600, date:"1899-12-30", img:"images/wind/ume.jpg", source:"https://bsp-prize.jp/"},
 {series:"kamen", name:"仮面ライダークウガ BIGサイズソフビ マスクディスプレイ-クウガ-", search:"かめんらいだーくうが", type:"", price:500, date:"1899-12-30", img:"images/kamen/kuga.jpg", source:"https://bsp-prize.jp/"},
