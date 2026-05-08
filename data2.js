@@ -5,6 +5,11 @@ window.figures2 = [
 
 
 
+
+{series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～パーカーver.～", search:"きたがわまりん", type:"core", price:900, date:"1899-12-30", img:"images/kisekoi/paka_core.jpg", source:"https://www.taito.co.jp/"},
+{series:"konan", name:"名探偵コナン　プレミアムちょこのせフィギュア“怪盗キッド”", search:"かいとうきっど", type:"tyoko", price:800, date:"1899-12-30", img:"images/konan/kiddo_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"ban", name:"BanG Dream!　プレミアムフィギュア MyGO!!!!! 千早愛音", search:"ちはやあのん", type:"", price:900, date:"1899-12-30", img:"images/ban/anon.jpg", source:"http://fansclub.jp/pc/top/"},
+{series:"tyen", name:"チェンソーマン　マキマフィギュア", search:"まきま", type:"", price:1400, date:"1899-12-30", img:"images/tyen/makima_taito.jpg", source:"https://www.taito.co.jp/"},
 {series:"wanpi", name:"ワンピース Grandista-THE GRANDLINE MEN-TRAFALGAR･LAW", search:"トラファルガーロー　とらふぁるがーろー", type:"gra", price:1500, date:"1899-12-30", img:"images/wanpi/ro_gra1.jpg", source:"https://bsp-prize.jp/"},
 {series:"zigoku", name:"地獄楽　Luminasta　“杠”", search:"ゆずりは", type:"lum", price:1400, date:"1899-12-30", img:"images/zigoku/yuzuriha_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 EFFECTREME-UCHIHA SASUKE-Ⅱ", search:"うちはサスケ　さすけ", type:"eff", price:2600, date:"1899-12-30", img:"images/naruto/sasuke_eff2.jpg", source:"https://bsp-prize.jp/"},
@@ -82,7 +87,7 @@ window.figures2 = [
 {series:"db", name:"ドラゴンボール SOLID EDGE WORKS-THE出陣-亀仙人", search:"かめせんにん", type:"syutu", price:1000, date:"2026-04-30", img:"images/db/kame_syutu.jpg", source:"https://bsp-prize.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活 -Relax time-ラム Sweet Angel ver.", search:"らむ", type:"relax", price:1300, date:"2026-04-30", img:"images/rezero/ramu_relax_ang.jpg", source:"https://bsp-prize.jp/"},
 {series:"aimasu", name:"学園アイドルマスター ESPRESTO-Majestic pose-花海咲季", search:"はなみさき", type:"esp", price:800, date:"2026-04-30", img:"images/aimasu/saki_esp.jpg", source:"https://bsp-prize.jp/"},
-{series:"aimasu", name:"学園アイドルマスター ESPRESTO-Inflatable-花海佑芽", search:"はなみうめ", type:"esp", price:800, date:"2026-04-30", img:"images/aimasu/ume_esp.jpg", source:"https://bsp-prize.jp/"},
+{series:"aimasu", name:"学園アイドルマスター ESPRESTO-Inflatable-花海佑芽", search:"はなみうめ", type:"esp", price:700, date:"2026-04-30", img:"images/aimasu/ume_esp.jpg", source:"https://bsp-prize.jp/"},
 {series:"sao", name:"BiCute Pure Figure ーアスナー", search:"あすな", type:"pure", price:800, date:"1899-12-30", img:"images/sao/asuna_pure.jpg", source:"https://charahiroba.com/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　スライムのいろいろ飾れる万年カレンダー", search:"すらいむ", type:"", price:300, date:"1899-12-30", img:"images/dorakue/mannen.jpg", source:"https://www.taito.co.jp/"},
 {series:"osinoko", name:"Trio－Try－iT Figureーアイー", search:"あい", type:"trio", price:350, date:"1899-12-30", img:"images/osinoko/ai_trio.jpg", source:"https://charahiroba.com/"},
@@ -327,7 +332,7 @@ window.figures2 = [
 {series:"db", name:"『ドラゴンボールGT』 SOLID EDGE WORKS-THE出陣- 超サイヤ人4ゴジータ", search:"ごじーた", type:"syutu", price:550, date:"1899-12-30", img:"images/db/gozita4_solid.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボール』 History Box クリリン", search:"くりりん", type:"his", price:500, date:"1899-12-30", img:"images/db/kuri_his.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 フィギュアライト 乙骨憂太・リカ", search:"おっこつゆうた　りか", type:"", price:500, date:"1899-12-30", img:"images/zyuzyutu/otukotu_raito.jpg", source:"https://bsp-prize.jp/"},
-{series:"zyuzyutu", name:"呪術廻戦 コガネスピーカー", search:"こがね", type:"", price:1000, date:"1899-12-30", img:"images/zyuzyutu/kogane.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦 コガネスピーカー", search:"こがね", type:"", price:1200, date:"1899-12-30", img:"images/zyuzyutu/kogane.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボールZ』 MATCH MAKERS 超サイヤ人3孫悟空（VS魔人ブウ(純粋)）", search:"そんごくう", type:"mat", price:650, date:"1899-12-30", img:"images/db/goku3_mat.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボールZ』 MATCH MAKERS 超サイヤ人3孫悟空（VS魔人ブウ）", search:"そんごくう", type:"mat", price:600, date:"1899-12-30", img:"images/db/goku3_mat2.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボールZ』 MATCH MAKERS 魔人ブウ（VSアルティメット悟飯）", search:"まじんぶう", type:"mat", price:700, date:"1899-12-30", img:"images/db/bu_mat2.jpg", source:"https://bsp-prize.jp/"},
@@ -506,7 +511,7 @@ window.figures2 = [
 {series:"sakamoto", name:"SAKAMOTODAYSLuminasta“坂本太郎”店長Ver.", search:"さかもとたろう", type:"lum", price:500, date:"1899-12-30", img:"images/sakamoto/sakamoto_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"dr", name:"『Dr.STONE』FIGURE of STONE WORLD-造形の科学-Dr.ゼノ＆スタンリー・スナイダー", search:"すたんりーすないだー", type:"", price:1400, date:"1899-12-30", img:"images/dr/suta.jpg", source:"https://bsp-prize.jp/"},
 {series:"yuyu", name:"幽☆遊☆白書 MAXIMATIC HIEI", search:"ひえい　飛影", type:"ma", price:500, date:"1899-12-30", img:"images/yuyu/hiei.jpg", source:"https://bsp-prize.jp/"},
-{series:"wind", name:"TVアニメ『WIND BREAKER』 桜遥 フィギュア～Chatting time!～", search:"さくらはるか", type:"", price:500, date:"1899-12-30", img:"images/wind/sakura.jpg", source:"https://bsp-prize.jp/"},
+{series:"wind", name:"TVアニメ『WIND BREAKER』 桜遥 フィギュア～Chatting time!～", search:"さくらはるか", type:"", price:1400, date:"1899-12-30", img:"images/wind/sakura.jpg", source:"https://bsp-prize.jp/"},
 {series:"wind", name:"TVアニメ『WIND BREAKER』 梶蓮 フィギュア～Chatting time!～", search:"かじれん", type:"", price:1000, date:"1899-12-30", img:"images/wind/kazi.jpg", source:"https://bsp-prize.jp/"},
 {series:"wind", name:"TVアニメ『WIND BREAKER』 蘇枋隼飛 フィギュア～Chatting time!～", search:"すおうはやと", type:"", price:600, date:"1899-12-30", img:"images/wind/sobo.jpg", source:"https://bsp-prize.jp/"},
 {series:"wind", name:"TVアニメ『WIND BREAKER』 梅宮一 フィギュア～Chatting time!～", search:"うめみやはじめ", type:"", price:600, date:"1899-12-30", img:"images/wind/ume.jpg", source:"https://bsp-prize.jp/"},
