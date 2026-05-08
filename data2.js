@@ -6,7 +6,7 @@ window.figures2 = [
 
 
 
-
+{series:"kimetu", name:"『鬼滅の刃』ちょこのせプレミアムフィギュア“伊黒小芭内”－柱合会議－", search:"いぐろおばない", type:"tyoko", price:2600, date:"1899-12-30", img:"images/kimetu/iguro_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"tyen", name:"チェンソーマン GLITTER&GLAMOURS-POWER-", search:"ぱわー　パワー", type:"gli", price:900, date:"1899-12-30", img:"images/tyen/pawa_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　ララ～チャイナドレスver.～", search:"らら", type:"desk", price:600, date:"1899-12-30", img:"images/tora/rara_chaina.jpg", source:"https://www.taito.co.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　モモ～チャイナドレスver.～", search:"もも", type:"desk", price:700, date:"1899-12-30", img:"images/tora/momo_chaina.jpg", source:"https://www.taito.co.jp/"},
