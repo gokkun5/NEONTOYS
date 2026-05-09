@@ -436,7 +436,7 @@ window.figures2 = [
 {series:"wanpi", name:"『ワンピース』 KING OF ARTIST JEWELRY.BONNEY THE MOST FREE FUTURE", search:"じゅえりーぼにー　ジュエリーボニー", type:"koa", price:600, date:"1899-12-30", img:"images/wanpi/boni_koa.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 KING OF ARTIST MONKEY.D.LUFFY GEAR5 III", search:"るふぃ　ルフィ　にか　ニカ", type:"koa", price:900, date:"1899-12-30", img:"images/wanpi/rufi3_koa.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -MONKEY.D.LUFFY GEAR5 SPECIAL ver.-", search:"ルフィ　るふぃ　にか　ニカ", type:"bato", price:600, date:"1899-12-30", img:"images/wanpi/nika_bato_sp.jpg", source:"https://bsp-prize.jp/"},
-{series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -JEWELRY.BONNEY THE MOST FREE FUTURE-", search:"じゅえりーぼにー　ジュエリーボニー", type:"bato", price:550, date:"1899-12-30", img:"images/wanpi/boni_bato.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -JEWELRY.BONNEY THE MOST FREE FUTURE-", search:"じゅえりーぼにー　ジュエリーボニー", type:"bato", price:500, date:"1899-12-30", img:"images/wanpi/boni_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -NAMI-", search:"なみ　ナミ", type:"bato", price:900, date:"1899-12-30", img:"images/wanpi/nami_egg_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -TRAFALGAR.LAW Ⅱ-", search:"ろー　ロー", type:"bato", price:600, date:"1899-12-30", img:"images/wanpi/ro2_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 THE出航 LOGIA -BORSALINO-", search:"きざる　黄猿　ボルサリーノ　ぼるさりーの", type:"syukko", price:600, date:"1899-12-30", img:"images/wanpi/kizaru_syukko.jpg", source:"https://bsp-prize.jp/"},
