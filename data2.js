@@ -6,6 +6,19 @@ window.figures2 = [
 
 
 
+
+
+
+{series:"rosidere", name:"時々ボソッとロシア語でデレる隣のアーリャさん　Desktop Cute フィギュア　アーリャ～猫耳ルームウェアver.～", search:"あーりゃ", type:"desk", price:1000, date:"1899-12-30", img:"images/rosidere/arya_desk_neko.jpg", source:"https://www.taito.co.jp/"},
+{series:"mono", name:"TVアニメ「mono」ちょこのせプレミアムフィギュア“霧山アン”", search:"きりやまあん", type:"tyoko", price:600, date:"1899-12-30", img:"images/mono/an_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"wanpi", name:"ワンピース Sweet Style Pirates-NAMI-", search:"なみ　ナミ", type:"", price:1200, date:"1899-12-30", img:"images/wanpi/nami_sweet.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ONE PIECE MASTER STARS PIECE THE TRAFALGAR.LAW", search:"トラファルガーロー　とらふぁるがーろー", type:"", price:900, date:"1899-12-30", img:"images/wanpi/ro_msp.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE MEN～ワノ国 vol.21", search:"ちょっぱー　チョッパー", type:"dxf", price:400, date:"1899-12-30", img:"images/wanpi/tyoppa_wa21.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース THE出航-KOALA-", search:"こあら　コアラ", type:"syukko", price:350, date:"1899-12-30", img:"images/wanpi/koara_syukko.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース KING OF ARTIST THE RORONOA ZORO-ワノ国 Ⅱ-", search:"ろろのあぞろ　ロロノアゾロ", type:"koa", price:800, date:"1899-12-30", img:"images/wanpi/zoro_koa_wa2.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"『ONE PIECE FILM RED』 DXF～THE GRANDLINE MEN～vol.9", search:"ぶるっく　ブルック", type:"dxf", price:800, date:"1899-12-30", img:"images/wanpi/buru_dxf9.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE MEN～vol.17", search:"ヴぇるご　ヴェルゴ", type:"dxf", price:1000, date:"1899-12-30", img:"images/wanpi/veru.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-SABO-", search:"さぼ　サボ", type:"bato", price:400, date:"1899-12-30", img:"images/wanpi/sabo_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UCHIHA ITACHI-Ⅱ", search:"うちはイタチ　いたち", type:"vib", price:1300, date:"1899-12-30", img:"images/naruto/itati_vib2.jpg", source:"https://bsp-prize.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活 GLITTER&GLAMOURS-REM-maid ver.", search:"れむ　レム", type:"gli", price:1000, date:"1899-12-30", img:"images/rezero/remu_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"kamitu", name:"TVアニメ『神椿市建設中。』Luminasta“森先化歩”", search:"もりさきかふ", type:"lum", price:500, date:"1899-12-30", img:"images/kamitu/kafu_lum.jpg", source:"https://segaplaza.jp/"},
@@ -171,7 +184,7 @@ window.figures2 = [
 {series:"keroro", name:"ケロロ軍曹 ケロロ小隊フィギュア～ペコポンを侵略するであります～vol.2", search:"タママ二等兵　たままにとうへい", type:"", price:1000, date:"2026-04-22", img:"images/keroro/tamama_peko.jpg", source:"https://bsp-prize.jp/"},
 {series:"keroro", name:"ケロロ軍曹 ケロロ小隊フィギュア～ペコポンを侵略するであります～vol.2", search:"ギロロ伍長　ぎろろごちょう", type:"", price:1000, date:"2026-04-21", img:"images/keroro/giroro_peko.jpg", source:"https://bsp-prize.jp/"},
 {series:"keroro", name:"ケロロ軍曹 ケロロ小隊フィギュア～ペコポンを侵略するであります～vol.1", search:"ケロロ軍曹　けろろぐんそう", type:"", price:1000, date:"2026-04-20", img:"images/keroro/keroro_peko.jpg", source:"https://bsp-prize.jp/"},
-{series:"tensura", name:"転生したらスライムだった件 ESPRESTO-Threefold union-リムル＝テンペスト", search:"りむるてんぺすと", type:"esp", price:1000, date:"2026-04-20", img:"images/tensura/rimuru_esp_uni.jpg", source:"https://bsp-prize.jp/"},
+{series:"tensura", name:"転生したらスライムだった件 ESPRESTO-Threefold union-リムル＝テンペスト", search:"りむるてんぺすと", type:"esp", price:800, date:"2026-04-20", img:"images/tensura/rimuru_esp_uni.jpg", source:"https://bsp-prize.jp/"},
 {series:"nube", name:"Trio-Try-iT Figureー鵺野鳴介ー", search:"ぬえのめいすけ", type:"trio", price:800, date:"2026-04-20", img:"images/nube/nube_trio.jpg", source:"https://charahiroba.com/"},
 {series:"buruaka", name:"ブルーアーカイブYumemirize“ハルカ”", search:"はるか", type:"yume", price:800, date:"2026-04-21", img:"images/buruaka/haruka.jpg", source:"https://segaplaza.jp/"},
 {series:"buruaka", name:"ブルーアーカイブYumemirize“カヨコ”", search:"かよこ", type:"yume", price:800, date:"2026-04-20", img:"images/buruaka/kayoko.jpg", source:"https://segaplaza.jp/"},
