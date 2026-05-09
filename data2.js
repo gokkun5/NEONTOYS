@@ -7,7 +7,8 @@ window.figures2 = [
 
 
 
-
+{series:"spy", name:"SPY×FAMILY Fluffy Puffy-ボンド・フォージャー-vol.2", search:"ぼんど", type:"flu", price:600, date:"1899-12-30", img:"images/spy/bondo_flu_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"spy", name:"SPY×FAMILY Fluffy Puffy-ボンド・フォージャー-vol.3", search:"ぼんど", type:"flu", price:600, date:"1899-12-30", img:"images/spy/bondo_flu_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース THE出航-MONKEY.D.LUFFY-ver.EGGHEAD", search:"ルフィ　るふぃ", type:"syukko", price:550, date:"1899-12-30", img:"images/wanpi/rufi_syukko_egg.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"劇場版 呪術廻戦 0 MAXIMATIC YUTA OKKOTSU", search:"おっこつゆうた　乙骨憂太", type:"ma", price:600, date:"1899-12-30", img:"images/zyuzyutu/otukoto_ma1.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ History Box vol.10", search:"そんごはん　孫悟飯", type:"his", price:1400, date:"1899-12-30", img:"images/db/his_10.jpg", source:"https://bsp-prize.jp/"},
@@ -208,7 +209,7 @@ window.figures2 = [
 {series:"disny", name:"ディズニーキャラクター センサーライトフィギュア～ベイマックス～", search:"べいまっくす", type:"", price:300, date:"2026-04-17", img:"images/disny/bei_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-UZUMAKI NARUTO ＆ UCHIHA SASUKE-", search:"うちはサスケ　さすけ", type:"figuno", price:500, date:"1899-12-30", img:"images/naruto/sasuke_figuno.jpg", source:"https://bsp-prize.jp/"},
 {series:"yusyakei", name:"TVアニメ「勇者刑に処す懲罰勇者9004隊刑務記録」ちょこのせプレミアムフィギュア“テオリッタ”", search:"ておりった", type:"tyoko", price:800, date:"2026-04-22", img:"images/yusyakei/teo_tyoko.jpg", source:"https://segaplaza.jp/"},
-{series:"kusuri", name:"Trio-Try-iT Figureー壬氏ー", search:"じんし", type:"trio", price:1200, date:"2026-04-22", img:"images/kusuri/zinsi_trio.jpg", source:"https://charahiroba.com/"},
+{series:"kusuri", name:"Trio-Try-iT Figureー壬氏ー", search:"じんし", type:"trio", price:1100, date:"2026-04-22", img:"images/kusuri/zinsi_trio.jpg", source:"https://charahiroba.com/"},
 {series:"inu", name:"Trio-Try-iT Figure―犬夜叉―vol.2", search:"いぬやしゃ", type:"trio", price:1200, date:"2026-04-20", img:"images/inu/inu_trio2.jpg", source:"https://charahiroba.com/"},
 {series:"oba", name:"オーバーロード ぬーどるストッパーフィギュアーシャルティアー", search:"しゃるてぃあ", type:"nusuto", price:400, date:"1899-12-30", img:"images/oba/syaru_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"oba", name:"オーバーロード　Desktop Cute フィギュア　シャルティア～バニーver.～", search:"しゃるてぃあ", type:"desk", price:500, date:"1899-12-30", img:"images/oba/syaru_desk_bani.jpg", source:"https://www.taito.co.jp/"},
