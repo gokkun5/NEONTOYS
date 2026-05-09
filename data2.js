@@ -5,10 +5,17 @@ window.figures2 = [
 
 
 
-
-
-
-
+{series:"gotoyome", name:"BiCute Dark Figure ─ 中野二乃 ─", search:"なかのにの", type:"daku", price:1200, date:"1899-12-30", img:"images/gotoyome/nino_daku.jpg", source:"https://charahiroba.com/"},
+{series:"wanpi", name:"ワンピース THE出航-TRAFALGAR.LAW-", search:"ろー　ロー", type:"syukko", price:400, date:"1899-12-30", img:"images/wanpi/ro_syukko.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース THE出航-SHANKS-", search:"しゃんくす　シャンクス", type:"syukko", price:600, date:"1899-12-30", img:"images/wanpi/syan_syukko.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース SOFVIMATES～チョッパー エッグヘッドver.～", search:"ちょっぱー", type:"sof", price:600, date:"1899-12-30", img:"images/wanpi/tyoppa_sof_egg.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア SPECIAL サボ", search:"さぼ", type:"wcf", price:500, date:"1899-12-30", img:"images/wanpi/sabo_wcf.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア ログストーリーズ-ロロノア・ゾロVSジュラキュール・ミホーク-", search:"ろろのあぞろ　みほーく", type:"wakore", price:800, date:"1899-12-30", img:"images/wanpi/senaka.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～S-HAWK", search:"えすほーく", type:"dxf", price:400, date:"1899-12-30", img:"images/wanpi/shoku_dxf.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"『ONE PIECE FILM RED』 DXF～THE GRANDLINE LADY～vol.1", search:"うた　ウタ", type:"dxf", price:400, date:"1899-12-30", img:"images/wanpi/uta_dxf1.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア SPECIAL モンキー・D・ルフィ-ギア5-", search:"るふぃ　にか　ニカ", type:"wcf", price:600, date:"1899-12-30", img:"images/wanpi/nika_wcf1.jpg", source:"https://bsp-prize.jp/"},
+{series:"tensnisama", name:"お隣の天使様にいつの間にか駄目人間にされていた件　Coreful フィギュア　椎名真昼～制服ver.～", search:"しいなまひる", type:"core", price:1300, date:"2026-05-10", img:"images/tensisama/core.jpg", source:"https://www.taito.co.jp/"},
+{series:"rosidere", name:"時々ボソッとロシア語でデレる隣のアーリャさん　Coreful フィギュア　アーリャ～制服ver.～", search:"あーりゃ", type:"core", price:1200, date:"1899-12-30", img:"images/rosidere/arya_core_seifuku.jpg", source:"https://www.taito.co.jp/"},
 {series:"rosidere", name:"時々ボソッとロシア語でデレる隣のアーリャさん　Desktop Cute フィギュア　アーリャ～猫耳ルームウェアver.～", search:"あーりゃ", type:"desk", price:1000, date:"1899-12-30", img:"images/rosidere/arya_desk_neko.jpg", source:"https://www.taito.co.jp/"},
 {series:"mono", name:"TVアニメ「mono」ちょこのせプレミアムフィギュア“霧山アン”", search:"きりやまあん", type:"tyoko", price:600, date:"1899-12-30", img:"images/mono/an_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"wanpi", name:"ワンピース Sweet Style Pirates-NAMI-", search:"なみ　ナミ", type:"", price:1200, date:"1899-12-30", img:"images/wanpi/nami_sweet.jpg", source:"https://bsp-prize.jp/"},
