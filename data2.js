@@ -6,6 +6,14 @@ window.figures2 = [
 
 
 
+
+
+
+
+{series:"db", name:"ドラゴンボールZ History Box vol.10", search:"そんごはん　孫悟飯", type:"his", price:1400, date:"1899-12-30", img:"images/db/his_10.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ History Box vol.9", search:"そんごくう　孫悟空", type:"his", price:1200, date:"1899-12-30", img:"images/db/his_9.jpg", source:"https://bsp-prize.jp/"},
+{series:"tomuzyeri", name:"トムとジェリー フィグライフ! Jerry＆Tuffy", search:"とむ", type:"figl", price:400, date:"1899-12-30", img:"images/tomuzyeri/pen.jpg", source:"https://bsp-prize.jp/"},
+{series:"dandadan", name:"TVアニメ『ダンダダン』Luminasta“オカルン（変身）”Vol.1", search:"おかるん", type:"lum", price:1200, date:"1899-12-30", img:"images/dandadan/okarun_lum1.jpg", source:"https://segaplaza.jp/"},
 {series:"eva", name:"シン・エヴァンゲリオン劇場版Luminasta“式波・アスカ・ラングレー×カシウスの槍”", search:"しきなみあすからんぐれー", type:"lum", price:1000, date:"1899-12-30", img:"images/eva/asuka_kasiusu.jpg", source:"https://segaplaza.jp/"},
 {series:"disny", name:"ズートピア２ACT/CUTプレミアムフィギュア“ジュディ&ニック”", search:"じゅでぃ　にっく", type:"act", price:500, date:"1899-12-30", img:"images/disny/zutopia.jpg", source:"https://segaplaza.jp/"},
 {series:"uruse", name:"うる星やつら -Relax time-ラム", search:"らむ", type:"relax", price:800, date:"1899-12-30", img:"images/uruse/ramu_relax.jpg", source:"https://bsp-prize.jp/"},
@@ -556,7 +564,7 @@ window.figures2 = [
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Combination Battle-うちはイタチ-", search:"うちはいたち", type:"combi", price:900, date:"1899-12-30", img:"images/naruto/itati_combi.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- Combination Battle2-我愛羅-", search:"があら", type:"combi", price:800, date:"1899-12-30", img:"images/naruto/gara2_combi.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Memorable Saga Special-うちはイタチ-", search:"うちはいたち", type:"memo", price:2000, date:"1899-12-30", img:"images/naruto/itati_memo.jpg", source:"https://bsp-prize.jp/"},
-{series:"naruto", name:"-NARUTO 72 series- 33 VIBRATION STARS-UZUMAKI NARUTO-", search:"うずまきなると　うずまきナルト", type:"vib, 72", price:800, date:"1899-12-30", img:"images/naruto/naruto_72_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"-NARUTO 72 series- 33 VIBRATION STARS-UZUMAKI NARUTO-", search:"うずまきなると　うずまきナルト", type:"vib, 72", price:700, date:"1899-12-30", img:"images/naruto/naruto_72_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Memorable Saga Special-うずまきナルト-", search:"うずまきなると", type:"memo", price:1200, date:"1899-12-30", img:"images/naruto/naruto_memo.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- NARUTOP99 うちはシスイ フィギュア", search:"うちはしすい", type:"99", price:600, date:"1899-12-30", img:"images/naruto/sisui.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- Memorable Saga-うちはサスケ-", search:"うちはさすけ", type:"memo", price:1200, date:"1899-12-30", img:"images/naruto/fuma_memo.jpg", source:"https://bsp-prize.jp/"},
