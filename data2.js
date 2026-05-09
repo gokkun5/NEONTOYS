@@ -5,6 +5,16 @@ window.figures2 = [
 
 
 
+
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UCHIHA ITACHI-Ⅱ", search:"うちはイタチ　いたち", type:"vib", price:1300, date:"1899-12-30", img:"images/naruto/itati_vib2.jpg", source:"https://bsp-prize.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 GLITTER&GLAMOURS-REM-maid ver.", search:"れむ　レム", type:"gli", price:1000, date:"1899-12-30", img:"images/rezero/remu_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"kamitu", name:"TVアニメ『神椿市建設中。』Luminasta“森先化歩”", search:"もりさきかふ", type:"lum", price:500, date:"1899-12-30", img:"images/kamitu/kafu_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～ワノ国 vol.1", search:"ろろのあぞろ　ロロノアゾロ", type:"dxf", price:1000, date:"1899-12-30", img:"images/wanpi/zoro_dxf_wa1.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-ULTI-", search:"うるてぃ　うるティ", type:"gli", price:700, date:"1899-12-30", img:"images/wanpi/urute_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE MEN～15TH EDITION vol.7", search:"とらふぁるがーろー　トラファルガーロー", type:"dxf", price:800, date:"1899-12-30", img:"images/wanpi/ro_dxf_15.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア ログストーリーズ-モンキー・D・ルフィ＆シャンクス-", search:"るふぃ　しゃんくす", type:"wakore", price:800, date:"1899-12-30", img:"images/wanpi/rufi_syankusu_wakore.jpg", source:"https://bsp-prize.jp/"},
+{series:"kisekoi", name:"その着せ替え人形は恋をする　ぬーどるストッパーフィギュアー喜多川海夢ー", search:"きたがわまりん", type:"nusuto", price:1100, date:"1899-12-30", img:"images/kisekoi/marin_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"kimetu", name:"「鬼滅の刃」　プレミアムちょこのせフィギュア“悲鳴嶼行冥”", search:"ひめじまぎょうめい", type:"tyoko", price:1200, date:"1899-12-30", img:"images/kimetu/himezima_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"鬼滅の刃 フィギュア-絆ノ装-肆拾伍ノ型", search:"かんろじみつり　甘露寺蜜璃", type:"kizuna", price:1500, date:"1899-12-30", img:"images/kimetu/kanrozi_kizuna.jpg", source:"https://bsp-prize.jp/"},
 {series:"nigoriri", name:"2.5次元の誘惑 ペンフレ！ ノノア(乃愛)～制服ver.～", search:"ののあ", type:"pen", price:500, date:"1899-12-30", img:"images/nigoriri/nonoa_pen.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"鬼滅の刃　プレミアムちょこのせフィギュア“我妻善逸”", search:"あがつまぜんいつ", type:"tyoko", price:1500, date:"1899-12-30", img:"images/kimetu/zenitu_tyoko.jpg", source:"https://segaplaza.jp/"},
