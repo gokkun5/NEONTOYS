@@ -6,7 +6,15 @@ window.figures2 = [
 
 
 
-
+{series:"tomuzyeri", name:"トムとジェリー フィギュアコレクション～Slytherin Tom and Gryffindor Jerry～WB100周年ver.", search:"とむ", type:"", price:400, date:"1899-12-30", img:"images/tomuzyeri/maho.jpg", source:"http://fansclub.jp/pc/top/"},
+{series:"tomuzyeri", name:"トムとジェリー フィギュアコレクション～Slytherin Tom and Gryffindor Jerry～WB100周年ver.", search:"じぇりー", type:"", price:400, date:"1899-12-30", img:"images/tomuzyeri/maho_zyeri.jpg", source:"http://fansclub.jp/pc/top/"},
+{series:"musyoku", name:"無職転生II ～異世界行ったら本気だす～ Vivitフィギュア ロキシー・ミグルディア バニーVer.", search:"ろきしー", type:"vivi", price:700, date:"1899-12-30", img:"images/musyoku/rokisi_bani.jpg", source:"http://fansclub.jp/pc/top/"},
+{series:"miku", name:"初音ミク　Desktop Cute フィギュア　～猫耳Tシャツver.～", search:"はつねみく　ねこみみてぃーしゃつ", type:"desk", price:2000, date:"1899-12-30", img:"images/miku/nekomimi_desk.jpg", source:"https://www.taito.co.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-NAMIKAZE MINATO-Ⅱ", search:"波風ミナト　なみかぜみなと", type:"vib", price:1400, date:"1899-12-30", img:"images/naruto/minato_vib2.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- TVアニメ20周年記念フィギュア うずまきナルト-少年-", search:"うずまきナルト　なると", type:"", price:1200, date:"1899-12-30", img:"images/naruto/naruto_20.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UZUMAKI NARUTO-Ⅴ", search:"うずまきナルト　なると", type:"vib", price:1200, date:"1899-12-30", img:"images/naruto/naruto_vib5.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UZUMAKI NARUTO-Ⅲ", search:"うずまきナルト　なると", type:"vib", price:800, date:"1899-12-30", img:"images/naruto/naruto_vib3.jpg", source:"https://bsp-prize.jp/"},
+{series:"mononoke", name:"ぬーどるストッパーフィギュアー薬売りー", search:"くすりうり", type:"nusuto", price:1800, date:"2026-05-10", img:"images/mononoke/kusuriuri.jpg", source:"https://charahiroba.com/"},
 {series:"hiro", name:"僕のヒーローアカデミア 7TH SEASON FIGURE-IZUKU MIDORIYA-", search:"みどりやいずく　でく　緑谷出久　デク", type:"", price:1000, date:"1899-12-30", img:"images/hiro/deku_7.jpg", source:"https://bsp-prize.jp/"},
 {series:"gintama", name:"3年Z組銀八先生 デスクフィギュア-沖田総悟-", search:"おきたそうご", type:"", price:1000, date:"1899-12-30", img:"images/gintama/okita.jpg", source:"https://bsp-prize.jp/"},
 {series:"kamen", name:"仮面ライダー電王 BIGサイズソフビ マスクディスプレイ-電王-", search:"でんおう", type:"", price:400, date:"1899-12-30", img:"images/kamen/deno_rumu.jpg", source:"https://bsp-prize.jp/"},
@@ -276,7 +284,7 @@ window.figures2 = [
 {series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC SATORU GOJO", search:"ごじょうさとる", type:"ma", price:800, date:"1899-12-30", img:"images/zyuzyutu/gozyo_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"kusuri", name:"『薬屋のひとりごと』 猫猫 フィギュア～園遊会～", search:"まおまお", type:"", price:700, date:"1899-12-30", img:"images/kusuri/maomao_enyu.jpg", source:"https://bsp-prize.jp/"},
 {series:"kusuri", name:"BRILLIANTフィギュア 猫猫", search:"まおまお", type:"bri", price:800, date:"1899-12-30", img:"images/kusuri/maomao_buri.jpg", source:"http://fansclub.jp/pc/top/"},
-{series:"kisekoi", name:"『その着せ替え人形は恋をする』 T-most 喜多川海夢 フィギュア 〜黒江雫ver.〜", search:"くろえしずく", type:"tmost", price:1200, date:"1899-12-30", img:"images/kisekoi/sizuku_tmost.jpg", source:"https://www.taito.co.jp/"},
+{series:"kisekoi", name:"『その着せ替え人形は恋をする』 T-most 喜多川海夢 フィギュア 〜黒江雫ver.〜", search:"くろえしずく", type:"tmost", price:1100, date:"1899-12-30", img:"images/kisekoi/sizuku_tmost.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"初音ミク×ラスカル Trio-Try-iT -悪魔-", search:"あくま　らすかる　はつねみく", type:"trio", price:2400, date:"1899-12-30", img:"images/miku/miku_akuma.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"初音ミク ぬーどるストッパー　-ヴィンテージドール-", search:"はつねみく　ヴぃんてーじ", type:"nusuto", price:2200, date:"1899-12-30", img:"images/miku/miku_vin.jpg", source:"https://charahiroba.com/"},
 {series:"zyuzyutu", name:"『呪術廻戦』 FIGURIZMα　“宿儺”", search:"すくな", type:"fig", price:1400, date:"1899-12-30", img:"images/zyuzyutu/sukuna_fig.jpg", source:"https://segaplaza.jp/"},
