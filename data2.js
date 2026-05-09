@@ -8,7 +8,7 @@ window.figures2 = [
 
 
 
-
+{series:"wanpi", name:"ワンピース THE出航-MONKEY.D.LUFFY-ver.EGGHEAD", search:"ルフィ　るふぃ", type:"syukko", price:550, date:"1899-12-30", img:"images/wanpi/rufi_syukko_egg.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"劇場版 呪術廻戦 0 MAXIMATIC YUTA OKKOTSU", search:"おっこつゆうた　乙骨憂太", type:"ma", price:600, date:"1899-12-30", img:"images/zyuzyutu/otukoto_ma1.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ History Box vol.10", search:"そんごはん　孫悟飯", type:"his", price:1400, date:"1899-12-30", img:"images/db/his_10.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ History Box vol.9", search:"そんごくう　孫悟空", type:"his", price:1200, date:"1899-12-30", img:"images/db/his_9.jpg", source:"https://bsp-prize.jp/"},
