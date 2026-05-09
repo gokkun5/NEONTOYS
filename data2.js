@@ -9,7 +9,7 @@ window.figures2 = [
 
 
 
-
+{series:"zyuzyutu", name:"劇場版 呪術廻戦 0 MAXIMATIC YUTA OKKOTSU", search:"おっこつゆうた　乙骨憂太", type:"ma", price:600, date:"1899-12-30", img:"images/zyuzyutu/otukoto_ma1.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ History Box vol.10", search:"そんごはん　孫悟飯", type:"his", price:1400, date:"1899-12-30", img:"images/db/his_10.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ History Box vol.9", search:"そんごくう　孫悟空", type:"his", price:1200, date:"1899-12-30", img:"images/db/his_9.jpg", source:"https://bsp-prize.jp/"},
 {series:"tomuzyeri", name:"トムとジェリー フィグライフ! Jerry＆Tuffy", search:"とむ", type:"figl", price:400, date:"1899-12-30", img:"images/tomuzyeri/pen.jpg", source:"https://bsp-prize.jp/"},
@@ -145,9 +145,9 @@ window.figures2 = [
 {series:"dandadan", name:"Trio-Try-iT Figureーアイラ(変身)ー", search:"あいら", type:"trio", price:600, date:"2026-04-30", img:"images/dandadan/aira_trio_hensin.jpg", source:"https://charahiroba.com/"},
 {series:"furi-ren", name:"葬送のフリーレン　Desktop Cute フィギュア　フリーレン～サマーワンピースver.～", search:"ふりーれん", type:"desk", price:900, date:"2026-04-30", img:"images/furi-ren/furi_desk_summer.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"ぬーどるストッパーフィギュアー10th Anniversaryー", search:"はつねみく", type:"nusuto", price:1100, date:"2026-04-30", img:"images/miku/nusuto10.jpg", source:"https://charahiroba.com/"},
-{series:"kimetu", name:"ぬーどるストッパーフィギュアー竈門炭治郎ー", search:"かまどたんじろう", type:"nusuto", price:1000, date:"2026-04-30", img:"images/kimetu/tanzi_nusuto_round.jpg", source:"https://charahiroba.com/"},
+{series:"kimetu", name:"ぬーどるストッパーフィギュアー竈門炭治郎ー", search:"かまどたんじろう", type:"nusuto", price:900, date:"2026-04-30", img:"images/kimetu/tanzi_nusuto_round.jpg", source:"https://charahiroba.com/"},
 {series:"kimetu", name:"ぬーどるストッパーフィギュアー冨岡義勇ー", search:"とみおかぎゆう", type:"nusuto", price:1200, date:"2026-04-30", img:"images/kimetu/giyu_nusuto.jpg", source:"https://charahiroba.com/"},
-{series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～ベロニカver.～", search:"べろにか", type:"core", price:1000, date:"2026-04-30", img:"images/kisekoi/bero_core.jpg", source:"https://www.taito.co.jp/"},
+{series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～ベロニカver.～", search:"べろにか", type:"core", price:800, date:"2026-04-30", img:"images/kisekoi/bero_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"holo", name:"ホロライブ #hololive IF -Relax time-轟はじめ", search:"とどろきはじめ", type:"relax", price:800, date:"2026-04-30", img:"images/holo/hazime_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"桜ミク BANPRESTO EVOLVE 桜ミクフィギュア", search:"さくらみく", type:"bpev", price:1000, date:"2026-04-30", img:"images/miku/sakura_bpev.jpg", source:"https://bsp-prize.jp/"},
 {series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER＆GLAMOURS-喜多川海夢 文化祭ver.-", search:"きたがわまりん", type:"gli", price:800, date:"2026-04-30", img:"images/kisekoi/marin_gli_bunka.jpg", source:"https://bsp-prize.jp/"},
@@ -156,7 +156,7 @@ window.figures2 = [
 {series:"monhan", name:"モンスターハンター 鎮座獣 ナルガクルガ～漆黒の影～", search:"なるがくるが", type:"tinaza", price:500, date:"2026-04-30", img:"images/monhan/naruga.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"Trio-Try-iT-Figure―爆豪勝己―", search:"ばくごうかつき", type:"trio", price:1000, date:"2026-04-30", img:"images/hiro/bakugo_trio.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION EXTRA-KAIDOU-", search:"かいどう　カイドウ", type:"bato", price:800, date:"2026-04-30", img:"images/wanpi/kaido_bato.jpg", source:"https://bsp-prize.jp/"},
-{series:"db", name:"ドラゴンボール SOLID EDGE WORKS-THE出陣-亀仙人", search:"かめせんにん", type:"syutu", price:1000, date:"2026-04-30", img:"images/db/kame_syutu.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボール SOLID EDGE WORKS-THE出陣-亀仙人", search:"かめせんにん", type:"syutu", price:800, date:"2026-04-30", img:"images/db/kame_syutu.jpg", source:"https://bsp-prize.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活 -Relax time-ラム Sweet Angel ver.", search:"らむ", type:"relax", price:1300, date:"2026-04-30", img:"images/rezero/ramu_relax_ang.jpg", source:"https://bsp-prize.jp/"},
 {series:"aimasu", name:"学園アイドルマスター ESPRESTO-Majestic pose-花海咲季", search:"はなみさき", type:"esp", price:800, date:"2026-04-30", img:"images/aimasu/saki_esp.jpg", source:"https://bsp-prize.jp/"},
 {series:"aimasu", name:"学園アイドルマスター ESPRESTO-Inflatable-花海佑芽", search:"はなみうめ", type:"esp", price:700, date:"2026-04-30", img:"images/aimasu/ume_esp.jpg", source:"https://bsp-prize.jp/"},
@@ -316,7 +316,7 @@ window.figures2 = [
 {series:"naruto", name:"『-NARUTO 72 series- 16』フィギュア うずまきナルト＆うみのイルカ", search:"うずまきなると", type:"72", price:800, date:"1899-12-30", img:"images/naruto/naruto_72.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボールZ』SOLID EDGE WORKS -THE出陣- ブロリーⅡ", search:"ぶろりー", type:"syutu", price:700, date:"1899-12-30", img:"images/db/burori_syutu.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"Grandista　-うずまきナルトⅡ-", search:"うずまきなると", type:"gra", price:1000, date:"1899-12-30", img:"images/naruto/naruto_gra2.jpg", source:"https://bsp-prize.jp/"},
-{series:"naruto", name:"『-NARUTO 72 series- 45』 Grandista -UZUMAKI NARUTO-", search:"うずまきなると　うずまきナルト", type:"gra, 72", price:1000, date:"1899-12-30", img:"images/naruto/naruto_gra3.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"『-NARUTO 72 series- 45』 Grandista -UZUMAKI NARUTO-", search:"うずまきなると　うずまきナルト", type:"gra, 72", price:900, date:"1899-12-30", img:"images/naruto/naruto_gra3.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"『呪術廻戦』 FIGURIZMα “伏黒甚爾” 邂逅", search:"ふしぐろとうじ", type:"fig", price:1100, date:"1899-12-30", img:"images/zyuzyutu/touzi_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"『呪術廻戦』 FIGURIZMα “伏黒恵” 邂逅", search:"ふしぐろめぐみ", type:"fig", price:1100, date:"1899-12-30", img:"images/zyuzyutu/fusi_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"hant", name:"『HUNTER×HUNTER』 Exc∞d Creative Figure ークロロ・鎮魂歌ー", search:"くろろ", type:"ex", price:1000, date:"1899-12-30", img:"images/hant/kuroro_ex.jpg", source:"https://charahiroba.com/"},
@@ -352,7 +352,7 @@ window.figures2 = [
 {series:"wanpi", name:"『ワンピース』 Grandista ボア・ハンコック", search:"ぼあはんこっく", type:"gra", price:1300, date:"1899-12-30", img:"images/wanpi/han_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"kusuri", name:"『薬屋のひとりごと』 Vivit フィギュア 猫猫 （狩り）", search:"まおまお", type:"vivi", price:600, date:"1899-12-30", img:"images/kusuri/maomao_vivi.jpg", source:"http://fansclub.jp/pc/top/"},
 {series:"tyen", name:"『チェンソーマン』 Break time collection vol.4", search:"ぽちた　でんじ　ポチ太　デンジ", type:"bre", price:1800, date:"1899-12-30", img:"images/tyen/potita_bre.jpg", source:"https://bsp-prize.jp/"},
-{series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -獪岳-", search:"かいがく", type:"vib", price:1000, date:"1899-12-30", img:"images/kimetu/kai_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -獪岳-", search:"かいがく", type:"vib", price:800, date:"1899-12-30", img:"images/kimetu/kai_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -我妻善逸-", search:"あがつまぜんいつ", type:"vib", price:1000, date:"1899-12-30", img:"images/kimetu/zen_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"hant", name:"『HUNTER×HUNTER』 フィギュア-ゴン-G.I.編", search:"ごん", type:"", price:800, date:"1899-12-30", img:"images/hant/gon_gi.jpg", source:"https://bsp-prize.jp/"},
 {series:"hant", name:"『HUNTER×HUNTER』 フィギュア-キルア-G.I.編", search:"きるあ", type:"", price:1000, date:"1899-12-30", img:"images/hant/kirua_gi.jpg", source:"https://bsp-prize.jp/"},
