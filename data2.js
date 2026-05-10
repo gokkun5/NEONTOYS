@@ -2,6 +2,16 @@ window.figures2 = [
 
 
 
+
+
+
+
+{series:"haikyu", name:"ハイキュー‼ すやすやルームライト-黒尾鉄朗-", search:"くろおてつろう", type:"", price:600, date:"1899-12-30", img:"images/haikyu/kuroo_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん ビッグフィギュア～野原しんのすけ～いくゾー！", search:"のはらしんのすけ", type:"", price:700, date:"1899-12-30", img:"images/kuresin/ikuzo.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボール G×materia SON GOKU Ⅲ", search:"孫悟空　そんごくう", type:"gma", price:500, date:"1899-12-30", img:"images/db/goku_gma3.jpg", source:"https://bsp-prize.jp/"},
+{series:"tyen", name:"チェンソーマン CHAIN SPIRITS vol.4", search:"パワー　ぱわー", type:"", price:500, date:"1899-12-30", img:"images/tyen/pawa_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦懐玉・玉折Yumemirize“夏油傑”", search:"げとうすぐる", type:"yume", price:1200, date:"1899-12-30", img:"images/zyuzyutu/geto_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア THE AMAZING HEROES-PLUS-IZUKU MIDORIYA SPECIAL ver.", search:"緑谷出久　みどりやいずく　デク　でく", type:"ame", price:800, date:"1899-12-30", img:"images/hiro/deku_ame_sp.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ 銀河ギリギリ!!ぶっちぎりの凄い奴 SOLID EDGE WORKS-THE出陣-11", search:"トランクス　とらんくす", type:"syutu", price:1000, date:"1899-12-30", img:"images/db/syutu_11_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"spy", name:"SPY×FAMILY ピーナツルームライト～アーニャ・フォージャー～", search:"あーにゃふぉーじゃー", type:"", price:700, date:"1899-12-30", img:"images/spy/pinatu_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"sonota", name:"サルゲッチュ SOFVIMATES～ピポサル～", search:"ぴぽさる", type:"sof", price:400, date:"1899-12-30", img:"images/sonota/saru.jpg", source:"https://bsp-prize.jp/"},
@@ -160,9 +170,9 @@ window.figures2 = [
 {series:"holo", name:"ホロライブ #hololive IF -Relax time-轟はじめ", search:"とどろきはじめ", type:"relax", price:600, date:"2026-04-30", img:"images/holo/hazime_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"桜ミク BANPRESTO EVOLVE 桜ミクフィギュア", search:"さくらみく", type:"bpev", price:800, date:"2026-04-30", img:"images/miku/sakura_bpev.jpg", source:"https://bsp-prize.jp/"},
 {series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER＆GLAMOURS-喜多川海夢 文化祭ver.-", search:"きたがわまりん", type:"gli", price:800, date:"2026-04-30", img:"images/kisekoi/marin_gli_bunka.jpg", source:"https://bsp-prize.jp/"},
-{series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:500, date:"2026-05-01", img:"images/monhan/furu_a.jpg", source:"https://bsp-prize.jp/"},
-{series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:500, date:"2026-05-01", img:"images/monhan/furu_b.jpg", source:"https://bsp-prize.jp/"},
-{series:"monhan", name:"モンスターハンター 鎮座獣 ナルガクルガ～漆黒の影～", search:"なるがくるが", type:"tinaza", price:500, date:"2026-04-30", img:"images/monhan/naruga.jpg", source:"https://bsp-prize.jp/"},
+{series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:400, date:"2026-05-01", img:"images/monhan/furu_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:400, date:"2026-05-01", img:"images/monhan/furu_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"monhan", name:"モンスターハンター 鎮座獣 ナルガクルガ～漆黒の影～", search:"なるがくるが", type:"tinaza", price:400, date:"2026-04-30", img:"images/monhan/naruga.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"Trio-Try-iT-Figure―爆豪勝己―", search:"ばくごうかつき", type:"trio", price:900, date:"2026-04-30", img:"images/hiro/bakugo_trio.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION EXTRA-KAIDOU-", search:"かいどう　カイドウ", type:"bato", price:800, date:"2026-04-30", img:"images/wanpi/kaido_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボール SOLID EDGE WORKS-THE出陣-亀仙人", search:"かめせんにん", type:"syutu", price:800, date:"2026-04-30", img:"images/db/kame_syutu.jpg", source:"https://bsp-prize.jp/"},

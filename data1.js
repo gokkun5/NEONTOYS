@@ -281,7 +281,7 @@ window.figures1 = [
 {series:"kimetu", name:"『鬼滅の刃』 ぬーどるストッパーフィギュア ー 甘露寺蜜璃×クラフトホリック ー ラウンドワン限定", search:"かんろじみつり", type:"nusuto", price:1300, date:"1899-12-30", img:"images/kimetu/kanrozi_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"kisekoi", name:"『その着せ替え人形は恋をする』 Coreful フィギュア 喜多川海夢 〜水着ver.〜", search:"きたがわまりん", type:"core", price:1000, date:"1899-12-30", img:"images/kisekoi/marin_mizugi.jpg", source:"https://www.taito.co.jp/"},
 {series:"garukura", name:"ガールズバンドクライXStellar“井芹仁菜”", search:"いせりにな", type:"xs", price:1000, date:"1899-12-30", img:"images/garukura/iseri_xs.jpg", source:"https://segaplaza.jp/"},
-{series:"zyuzyutu", name:"呪術廻戦懐玉・玉折Yumemirize“五条悟”", search:"ごじょうさとる", type:"yume", price:1200, date:"1899-12-30", img:"images/zyuzyutu/gozyo_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦懐玉・玉折Yumemirize“五条悟”", search:"ごじょうさとる", type:"yume", price:2500, date:"1899-12-30", img:"images/zyuzyutu/gozyo_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"togen", name:"桃源暗鬼　無陀野無人　28Fig", search:"むだのないと", type:"", price:800, date:"1899-12-30", img:"images/togen/mudano.jpg", source:"https://www.taito.co.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Combination Battle-うちはサスケ-", search:"うちはさすけ", type:"combi", price:800, date:"1899-12-30", img:"images/naruto/sasuke_combi3.jpg", source:"https://bsp-prize.jp/"},
 {series:"osinoko", name:"【推しの子】　１／７スケールフィギュア　ルビー", search:"るびー", type:"", price:500, date:"1899-12-30", img:"images/osinoko/rubi.jpg", source:"https://www.elcocoland.com/shop/"},
