@@ -2,12 +2,12 @@ window.figures2 = [
 
 
 
-
-
-
-
-
-{series:"kimetu", name:"アニメ「鬼滅の刃」Luminasta“胡蝶しのぶ”", search:"こちょうしのぶ", type:"", price:1500, date:"1899-12-30", img:"images/kimetu/sinobu_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"db", name:"ドラゴンボールZ 銀河ギリギリ!!ぶっちぎりの凄い奴 SOLID EDGE WORKS-THE出陣-11", search:"トランクス　とらんくす", type:"syutu", price:1000, date:"1899-12-30", img:"images/db/syutu_11_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"spy", name:"SPY×FAMILY ピーナツルームライト～アーニャ・フォージャー～", search:"あーにゃふぉーじゃー", type:"", price:700, date:"1899-12-30", img:"images/spy/pinatu_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"sonota", name:"サルゲッチュ SOFVIMATES～ピポサル～", search:"ぴぽさる", type:"sof", price:400, date:"1899-12-30", img:"images/sonota/saru.jpg", source:"https://bsp-prize.jp/"},
+{series:"oba", name:"オーバーロード GLITTER&GLAMOURS-ALBEDO-WEDDING ver.", search:"アルベド　あるべど", type:"gli", price:600, date:"1899-12-30", img:"images/oba/aru_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"crazy", name:"Crazy Raccoon デスクトップフィギュア-Mondo-", search:"もんど", type:"", price:600, date:"1899-12-30", img:"images/crazy/mondo.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」Luminasta“胡蝶しのぶ”", search:"こちょうしのぶ", type:"lum", price:1500, date:"1899-12-30", img:"images/kimetu/sinobu_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"sonota", name:"パチンコ牙狼 金翔枠 翔撃・牙狼剣ギミック", search:"がろうけん", type:"", price:800, date:"2026-04-25", img:"images/sonota/garo.jpg", source:"https://www.u-np.jp/"},
 {series:"vsupo", name:"ぶいすぽっ！デフォルメフィギュアvol.6 ～GiGO限定～", search:"紡木こかげ　つむぎこかげ", type:"", price:1000, date:"2026-04-26", img:"images/vsupo/kokage_gigo.jpg", source:"https://www.gigo.co.jp/prizes"},
 {series:"furi-ren", name:"葬送のフリーレンちょこのせプレミアムフィギュア“フリーレン”", search:"ふりーれん", type:"tyoko", price:1000, date:"1899-12-30", img:"images/furi-ren/furi_tyoko.jpg", source:"https://segaplaza.jp/"},
@@ -163,11 +163,11 @@ window.figures2 = [
 {series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:500, date:"2026-05-01", img:"images/monhan/furu_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:500, date:"2026-05-01", img:"images/monhan/furu_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"monhan", name:"モンスターハンター 鎮座獣 ナルガクルガ～漆黒の影～", search:"なるがくるが", type:"tinaza", price:500, date:"2026-04-30", img:"images/monhan/naruga.jpg", source:"https://bsp-prize.jp/"},
-{series:"hiro", name:"Trio-Try-iT-Figure―爆豪勝己―", search:"ばくごうかつき", type:"trio", price:1000, date:"2026-04-30", img:"images/hiro/bakugo_trio.jpg", source:"https://charahiroba.com/"},
+{series:"hiro", name:"Trio-Try-iT-Figure―爆豪勝己―", search:"ばくごうかつき", type:"trio", price:900, date:"2026-04-30", img:"images/hiro/bakugo_trio.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION EXTRA-KAIDOU-", search:"かいどう　カイドウ", type:"bato", price:800, date:"2026-04-30", img:"images/wanpi/kaido_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボール SOLID EDGE WORKS-THE出陣-亀仙人", search:"かめせんにん", type:"syutu", price:800, date:"2026-04-30", img:"images/db/kame_syutu.jpg", source:"https://bsp-prize.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活 -Relax time-ラム Sweet Angel ver.", search:"らむ", type:"relax", price:1200, date:"2026-04-30", img:"images/rezero/ramu_relax_ang.jpg", source:"https://bsp-prize.jp/"},
-{series:"aimasu", name:"学園アイドルマスター ESPRESTO-Majestic pose-花海咲季", search:"はなみさき", type:"esp", price:800, date:"2026-04-30", img:"images/aimasu/saki_esp.jpg", source:"https://bsp-prize.jp/"},
+{series:"aimasu", name:"学園アイドルマスター ESPRESTO-Majestic pose-花海咲季", search:"はなみさき", type:"esp", price:700, date:"2026-04-30", img:"images/aimasu/saki_esp.jpg", source:"https://bsp-prize.jp/"},
 {series:"aimasu", name:"学園アイドルマスター ESPRESTO-Inflatable-花海佑芽", search:"はなみうめ", type:"esp", price:700, date:"2026-04-30", img:"images/aimasu/ume_esp.jpg", source:"https://bsp-prize.jp/"},
 {series:"sao", name:"BiCute Pure Figure ーアスナー", search:"あすな", type:"pure", price:800, date:"1899-12-30", img:"images/sao/asuna_pure.jpg", source:"https://charahiroba.com/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　スライムのいろいろ飾れる万年カレンダー", search:"すらいむ", type:"", price:300, date:"1899-12-30", img:"images/dorakue/mannen.jpg", source:"https://www.taito.co.jp/"},
@@ -311,7 +311,7 @@ window.figures2 = [
 {series:"miku", name:"初音ミク×ラスカル Trio-Try-iT -悪魔-", search:"あくま　らすかる　はつねみく", type:"trio", price:2400, date:"1899-12-30", img:"images/miku/miku_akuma.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"初音ミク ぬーどるストッパー　-ヴィンテージドール-", search:"はつねみく　ヴぃんてーじ", type:"nusuto", price:2200, date:"1899-12-30", img:"images/miku/miku_vin.jpg", source:"https://charahiroba.com/"},
 {series:"zyuzyutu", name:"『呪術廻戦』 FIGURIZMα　“宿儺”", search:"すくな", type:"fig", price:1400, date:"1899-12-30", img:"images/zyuzyutu/sukuna_fig.jpg", source:"https://segaplaza.jp/"},
-{series:"kimetu", name:"『鬼滅の刃』 GLITTER&GLAMOURS -SHINOBU KOCHO-", search:"こちょうしのぶ　胡蝶しのぶ", type:"gli", price:1000, date:"1899-12-30", img:"images/kimetu/kotyo_gri.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"『鬼滅の刃』 GLITTER&GLAMOURS -SHINOBU KOCHO-", search:"こちょうしのぶ　胡蝶しのぶ", type:"gli", price:1100, date:"1899-12-30", img:"images/kimetu/kotyo_gri.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"『桜ミク』 AMP＋ フィギュア 〜桜ドレス ver.〜", search:"はつねみく　さくらみく", type:"", price:1000, date:"1899-12-30", img:"images/miku/sakuramiku2026.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"ガンダム45周年×初音ミク フィギュアシャアザクぐるみ 初音ミクVer.", search:"しゃあざく　はつねみく", type:"", price:600, date:"1899-12-30", img:"images/miku/miku_zaku.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"『初音ミクシリーズ』 Trio-Try-iT Figure ー 雪ミクxクロミ ー", search:"はつねみく　くろみ　ゆきみく", type:"trio", price:1800, date:"1899-12-30", img:"images/miku/kuromi_miku.jpg", source:"https://charahiroba.com/"},
