@@ -3,6 +3,11 @@ window.figures2 = [
 
 
 
+
+
+{series:"gotoyome", name:"五等分の花嫁∬ スーパープレミアムフィギュア“中野二乃”シスターVer.", search:"なかのにの", type:"spm", price:300, date:"1899-12-30", img:"images/gotoyome/nino_sisu.jpg", source:"https://segaplaza.jp/"},
+{series:"umamusume", name:"ウマ娘 プリティーダービー　ぬーどるストッパーフィギュアーファインモーションー", search:"ふぁいんもーしょん", type:"nusuto", price:400, date:"1899-12-30", img:"images/umamusume/fain_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"bokuyaba", name:"僕の心のヤバイやつ　[PM]フィギュア“山田杏奈”", search:"やまだあんな", type:"", price:1500, date:"1899-12-30", img:"images/bokuyaba/yamada.jpg", source:"https://segaplaza.jp/"},
 {series:"vtu", name:"NIJISANJI EN Luxiem おひるねこ ミニフィギュア “VoxAkuma&MystaRias”", search:"ヴぉっくすあくま", type:"", price:300, date:"1899-12-30", img:"images/vtu/vox.jpg", source:"https://segaplaza.jp/"},
 {series:"eva", name:"ヱヴァンゲリヲン新劇場版　Luminasta　“アスカ”", search:"あすか", type:"lum", price:600, date:"1899-12-30", img:"images/eva/asuka_lum_singeki.jpg", source:"https://segaplaza.jp/"},
 {series:"sonota", name:"SKZOO BIRTHDAY CAKE コレクションvol.2", search:"じにれっと", type:"", price:500, date:"1899-12-30", img:"images/sk/cake2_b.jpg", source:"https://bsp-prize.jp/"},
@@ -328,7 +333,7 @@ window.figures2 = [
 {series:"kisekoi", name:"『その着せ替え人形は恋をする』 T-most 喜多川海夢 フィギュア 〜黒江雫ver.〜", search:"くろえしずく", type:"tmost", price:1200, date:"1899-12-30", img:"images/kisekoi/sizuku_tmost.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"初音ミク×ラスカル Trio-Try-iT -悪魔-", search:"あくま　らすかる　はつねみく", type:"trio", price:2400, date:"1899-12-30", img:"images/miku/miku_akuma.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"初音ミク ぬーどるストッパー　-ヴィンテージドール-", search:"はつねみく　ヴぃんてーじ", type:"nusuto", price:2200, date:"1899-12-30", img:"images/miku/miku_vin.jpg", source:"https://charahiroba.com/"},
-{series:"zyuzyutu", name:"『呪術廻戦』 FIGURIZMα　“宿儺”", search:"すくな", type:"fig", price:1400, date:"1899-12-30", img:"images/zyuzyutu/sukuna_fig.jpg", source:"https://segaplaza.jp/"},
+{series:"zyuzyutu", name:"『呪術廻戦』 FIGURIZMα　“宿儺”", search:"すくな", type:"fig", price:1500, date:"1899-12-30", img:"images/zyuzyutu/sukuna_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 GLITTER&GLAMOURS -SHINOBU KOCHO-", search:"こちょうしのぶ　胡蝶しのぶ", type:"gli", price:1100, date:"1899-12-30", img:"images/kimetu/kotyo_gri.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"『桜ミク』 AMP＋ フィギュア 〜桜ドレス ver.〜", search:"はつねみく　さくらみく", type:"", price:1000, date:"1899-12-30", img:"images/miku/sakuramiku2026.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"ガンダム45周年×初音ミク フィギュアシャアザクぐるみ 初音ミクVer.", search:"しゃあざく　はつねみく", type:"", price:600, date:"1899-12-30", img:"images/miku/miku_zaku.jpg", source:"https://bsp-prize.jp/"},
