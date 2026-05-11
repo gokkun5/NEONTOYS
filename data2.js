@@ -3,8 +3,8 @@ window.figures2 = [
 
 
 
-
-
+{series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」 ESPRESTO-Detailed Elegance-乾紗寿叶 ブラックリリィver.", search:"ぶらっくりりぃ　いぬいさじゅな　じゅじゅ", type:"esp", price:400, date:"1899-12-30", img:"images/kisekoi/black_esp.jpg", source:"https://bsp-prize.jp/"},
+{series:"deara", name:"デート・ア・ライブ GLITTER&GLAMOURS-TOHKA YATOGAMI-", search:"やとがみとおか", type:"gli", price:300, date:"1899-12-30", img:"images/deara/toka_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- NARUTOP99 うちはイタチフィギュア", search:"いたち", type:"99", price:1300, date:"1899-12-30", img:"images/naruto/itati_99.jpg", source:"https://bsp-prize.jp/"},
 {series:"botti", name:"ぼっち・ざ・ろっく！　ちょこのせ　プレミアムフィギュア“山田リョウ”", search:"やまだりょう", type:"tyoko", price:1000, date:"1899-12-30", img:"images/botti/yamada_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"gotoyome", name:"五等分の花嫁∬ Kyunties 中野三玖 フィギュア", search:"なかのみく", type:"", price:500, date:"1899-12-30", img:"images/gotoyome/miku.jpg", source:"https://bsp-prize.jp/"},
@@ -411,7 +411,7 @@ window.figures2 = [
 {series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -GOL.D.ROGER-", search:"ごーるどろじゃー　ゴールドロジャー", type:"bato", price:700, date:"1899-12-30", img:"images/wanpi/rozya_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -SILVERS.RAYLEIGH-", search:"しるばーれいりー　シルバーレイリー", type:"bato", price:700, date:"1899-12-30", img:"images/wanpi/reiri_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"vtu", name:"『赤見かるびの「お笑いかるび塾」』 Luminasta　“赤見かるび”", search:"あかみかるび", type:"lum", price:500, date:"1899-12-30", img:"images/vtu/akami_lum.jpg", source:"https://segaplaza.jp/"},
-{series:"zyuzyutu", name:"『呪術廻戦 死滅回游』 Luminasta　“脹相”", search:"ちょうそう", type:"lum", price:1300, date:"1899-12-30", img:"images/zyuzyutu/tyousou_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"zyuzyutu", name:"『呪術廻戦 死滅回游』 Luminasta　“脹相”", search:"ちょうそう", type:"lum", price:1400, date:"1899-12-30", img:"images/zyuzyutu/tyousou_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"eva", name:"『シン・エヴァンゲリオン劇場版』 FIGURIZMα　“アヤナミレイ（仮称）”", search:"あやなみれい", type:"fig", price:800, date:"1899-12-30", img:"images/eva/ayanami_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"tyen", name:"『チェンソーマン』 Luminasta “マキマ”", search:"まきま", type:"lum", price:900, date:"1899-12-30", img:"images/tyen/makima_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"tora", name:"『To LOVE る―とらぶる―ダークネス』 Trio-Try-iT Figure ― モモ・ベリア・デビルーク ―", search:"もも", type:"trio", price:700, date:"1899-12-30", img:"images/tora/momo_trio.jpg", source:"https://charahiroba.com/"},
