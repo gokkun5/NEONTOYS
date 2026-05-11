@@ -485,7 +485,7 @@ window.figures1 = [
 {series:"miku", name:"『初音ミクシリーズ』Trio-Try-iT Figure― 初音ミク 赤ドレス ー", search:"はつねみく", type:"trio", price:800, date:"2026-04-11", img:"images/miku/odekake_aka.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース KING OF ARTIST MONKEY.D.LUFFY-SPECIAL ver.Ⅱ-", search:"ルフィ　るふぃ　ばうんどまん　バウンドマン", type:"koa", price:700, date:"2026-04-11", img:"images/wanpi/baundo_koa.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース KING OF ARTIST MONKEY.D.LUFFY-SPECIAL ver.Ⅱ-", search:"ルフィ　るふぃ　すねーくまん　スネークマン", type:"koa", price:700, date:"2026-04-11", img:"images/wanpi/snake_koa.jpg", source:"https://bsp-prize.jp/"},
-{series:"haikyu", name:"ハイキュー!! ポージングフィギュア-孤爪研磨・黒尾鉄朗 セカンドユニフォームver.-", search:"くろおてつろう", type:"", price:800, date:"2026-04-11", img:"images/haikyu/kuroo_2.jpg", source:"https://bsp-prize.jp/"},
+{series:"haikyu", name:"ハイキュー!! ポージングフィギュア-孤爪研磨・黒尾鉄朗 セカンドユニフォームver.-", search:"くろおてつろう", type:"", price:500, date:"2026-04-11", img:"images/haikyu/kuroo_2.jpg", source:"https://bsp-prize.jp/"},
 {series:"haikyu", name:"ハイキュー!! ポージングフィギュア-孤爪研磨・黒尾鉄朗 セカンドユニフォームver.-", search:"こづめけんま", type:"", price:800, date:"2026-04-11", img:"images/haikyu/kodume_2.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 Trio-Try-iT Figure ー フリーレン ー", search:"ふりーれん", type:"trio", price:700, date:"2026-04-11", img:"images/furi-ren/furi-ren_trio.jpg", source:"https://charahiroba.com/"},
 {series:"furi-ren", name:"葬送のフリーレン ほおづえ胸像フィギュア-フリーレン-", search:"フリーレン　ふりーれん", type:"", price:800, date:"2026-04-11", img:"images/furi-ren/furi_hodue.jpg", source:"https://bsp-prize.jp/"},
