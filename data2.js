@@ -1,5 +1,7 @@
 window.figures2 = [
 
+{series:"haruhi", name:"BiCute Bunnies Figure ー涼宮ハルヒー", search:"すずみやはるひ", type:"bani", price:600, date:"1899-12-30", img:"images/haruhi/haruhi_bani.jpg", source:"https://charahiroba.com/"},
+{series:"haruhi", name:"BiCute Bunnies Figure ー長門有希ー", search:"ながとゆき", type:"bani", price:600, date:"1899-12-30", img:"images/haruhi/nagato_bani.jpg", source:"https://charahiroba.com/"},
 {series:"nikke", name:"ぬーどるストッパーフィギュアーD：キラーワイフー", search:"でぃーきらーわいふ", type:"nusuto", price:900, date:"2026-05-12", img:"images/nikke/waifu.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"ぬーどるストッパーフィギュアー桜ミク2026ー", search:"さくらみく", type:"nusuto", price:1000, date:"2026-05-12", img:"images/miku/sakura2026_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"death", name:"ぬーどるストッパーフィギュアーリューク―", search:"りゅーく", type:"nusuto", price:1100, date:"2026-05-12", img:"images/death/ryuku.jpg", source:"https://charahiroba.com/"},
