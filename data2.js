@@ -1,5 +1,9 @@
 window.figures2 = [
 
+{series:"furi-ren", name:"葬送のフリーレン 杖ペン", search:"ふりーれんのつえ", type:"", price:800, date:"2026-05-08", img:"images/furi-ren/furi_pen.jpg", source:"https://bsp-prize.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン 杖ペン", search:"フェルンの杖　ふぇるんのつえ", type:"", price:800, date:"2026-05-08", img:"images/furi-ren/fe_pen.jpg", source:"https://bsp-prize.jp/"},
+{series:"rezero", name:"王選候補者と騎士フィギュアークルシュ陣営ー", search:"くるしゅ", type:"", price:1200, date:"2026-05-08", img:"images/rezero/kurusyu_gigo.jpg", source:"https://charahiroba.com/"},
+{series:"rezero", name:"王選候補者と騎士フィギュアークルシュ陣営ー", search:"フェリス　ふぇりす", type:"", price:1200, date:"2026-05-08", img:"images/rezero/ferisu_gigo.jpg", source:"https://charahiroba.com/"},
 {series:"haruhi", name:"BiCute Bunnies Figure ー涼宮ハルヒー", search:"すずみやはるひ", type:"bani", price:600, date:"1899-12-30", img:"images/haruhi/haruhi_bani.jpg", source:"https://charahiroba.com/"},
 {series:"haruhi", name:"BiCute Bunnies Figure ー長門有希ー", search:"ながとゆき", type:"bani", price:600, date:"1899-12-30", img:"images/haruhi/nagato_bani.jpg", source:"https://charahiroba.com/"},
 {series:"nikke", name:"ぬーどるストッパーフィギュアーD：キラーワイフー", search:"でぃーきらーわいふ", type:"nusuto", price:900, date:"2026-05-12", img:"images/nikke/waifu.jpg", source:"https://charahiroba.com/"},
