@@ -1,5 +1,6 @@
 window.figures2 = [
 
+{series:"death", name:"ぬーどるストッパーフィギュアーリューク―", search:"りゅーく", type:"nusuto", price:1100, date:"2026-05-12", img:"images/death/ryuku.jpg", source:"https://charahiroba.com/"},
 {series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.8", search:"大神ミオ　おおかみみお", type:"hikkake", price:600, date:"1899-12-30", img:"images/holo/mio_hikkake.jpg", source:"https://charahiroba.com/"},
 {series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.8", search:"白上フブキ　しらかみふぶき", type:"hikkake", price:800, date:"1899-12-30", img:"images/holo/fubuki_hikkake.jpg", source:"https://charahiroba.com/"},
 {series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.8", search:"夏色まつり　なついろ", type:"hikkake", price:400, date:"1899-12-30", img:"images/holo/maturi_hikkake.jpg", source:"https://charahiroba.com/"},
