@@ -1,11 +1,4 @@
 window.figures2 = [
-
-
-
-
-
-
-
 {series:"deara", name:"デート・ア・ライブⅤ　Desktop Cute フィギュア　夜刀神十香～バニーver.～Renewal", search:"やとがみとおか", type:"desk", price:400, date:"1899-12-30", img:"images/deara/toka_desk_bani_re.jpg", source:"https://www.taito.co.jp/"},
 {series:"uruse", name:"うる星やつら -Relax time-ラム 4", search:"らむ", type:"relax", price:700, date:"1899-12-30", img:"images/uruse/relax4.jpg", source:"https://bsp-prize.jp/"},
 {series:"haruhi", name:"BiCute Bunnies Figure ー涼宮ハルヒー", search:"すずみやはるひ", type:"bani", price:600, date:"1899-12-30", img:"images/haruhi/haruhi_bani.jpg", source:"https://charahiroba.com/"},
