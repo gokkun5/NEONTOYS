@@ -538,7 +538,7 @@ window.figures1 = [
 {series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“ブラックパンサー”", search:"ぶらっくぱんさー", type:"act", price:600, date:"1899-12-30", img:"images/mar/burapan.jpg", source:"https://segaplaza.jp/"},
 {series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“スカーレット・スパイダー”", search:"すぱいだーまん", type:"act", price:800, date:"1899-12-30", img:"images/mar/supa.jpg", source:"https://segaplaza.jp/"},
 {series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“スパイダーグウェン”", search:"すぱいだーぐ", type:"act", price:1000, date:"1899-12-30", img:"images/mar/gwen.jpg", source:"https://segaplaza.jp/"},
-{series:"zyuzyutu", name:"呪術廻戦Luminasta“五条悟”鏖殺", search:"ごじょうさとる", type:"lum", price:1200, date:"1899-12-30", img:"images/zyuzyutu/zinsatu_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦Luminasta“五条悟”鏖殺", search:"ごじょうさとる", type:"lum", price:1400, date:"1899-12-30", img:"images/zyuzyutu/zinsatu_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦懐玉・玉折Luminasta“五条悟”激戦", search:"ごじょうさとる", type:"lum", price:500, date:"1899-12-30", img:"images/zyuzyutu/gekisen_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"初音ミクレーシングVer. レーシングミク2022 Tropical Maid Ver.", search:"れーしんぐみく　初音ミク　はつねみく", type:"", price:400, date:"1899-12-30", img:"images/miku/resingu_2022.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミクレーシングVer. レーシングミク2023 Tropical Ver.", search:"れーしんぐみく　初音ミク　はつねみく", type:"", price:1000, date:"1899-12-30", img:"images/miku/resingu_2023.jpg", source:"https://bsp-prize.jp/"},
