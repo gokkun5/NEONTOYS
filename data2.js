@@ -1,5 +1,8 @@
 window.figures2 = [
 
+{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.8", search:"大神ミオ　おおかみみお", type:"hikkake", price:600, date:"1899-12-30", img:"images/holo/mio_hikkake.jpg", source:"https://charahiroba.com/"},
+{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.8", search:"白上フブキ　しらかみふぶき", type:"hikkake", price:800, date:"1899-12-30", img:"images/holo/fubuki_hikkake.jpg", source:"https://charahiroba.com/"},
+{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.8", search:"夏色まつり　なついろ", type:"hikkake", price:400, date:"1899-12-30", img:"images/holo/maturi_hikkake.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"ぬーどるストッパーフィギュアー桜ミク2026ー", search:"さくらみく", type:"nusuto", price:1000, date:"2026-05-12", img:"images/miku/sakura_2026_nusuto2.jpg", source:"https://charahiroba.com/"},
 {series:"death", name:"ぬーどるストッパーフィギュアーリューク―", search:"りゅーく", type:"nusuto", price:1100, date:"2026-05-12", img:"images/death/ryuku_nusuto2.jpg", source:"https://charahiroba.com/"},
 {series:"nikke", name:"ぬーどるストッパーフィギュアーD：キラーワイフー", search:"でぃーきらーわいふ", type:"nusuto", price:900, date:"2026-05-12", img:"images/nikke/waifu_nusuto2.jpg", source:"https://charahiroba.com/"},
