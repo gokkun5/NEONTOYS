@@ -2,13 +2,6 @@ window.figures2 = [
 
 {series:"rezero", name:"MeloDoll Figureーレム・ナイトドレスー", search:"れむ", type:"melo", price:1000, date:"2026-05-12", img:"images/rezero/remu_mero.jpg", source:"https://charahiroba.com/"},
 {series:"haikyu", name:"ハイキュー‼ すやすやルームライト-西谷 夕-", search:"にしのやゆう", type:"", price:800, date:"2026-05-08", img:"images/haikyu/nisi_rumu.jpg", source:"https://bsp-prize.jp/"},
-{series:"deara", name:"デート・ア・ライブⅤ　Desktop Cute フィギュア　夜刀神十香～バニーver.～Renewal", search:"やとがみとおか", type:"desk", price:400, date:"1899-12-30", img:"images/deara/toka_desk_bani_re.jpg", source:"https://www.taito.co.jp/"},
-{series:"uruse", name:"うる星やつら -Relax time-ラム 4", search:"らむ", type:"relax", price:700, date:"1899-12-30", img:"images/uruse/relax4.jpg", source:"https://bsp-prize.jp/"},
-{series:"haruhi", name:"BiCute Bunnies Figure ー涼宮ハルヒー", search:"すずみやはるひ", type:"bani", price:600, date:"1899-12-30", img:"images/haruhi/haruhi_bani.jpg", source:"https://charahiroba.com/"},
-{series:"haruhi", name:"BiCute Bunnies Figure ー長門有希ー", search:"ながとゆき", type:"bani", price:600, date:"1899-12-30", img:"images/haruhi/nagato_bani.jpg", source:"https://charahiroba.com/"},
-{series:"nikke", name:"ぬーどるストッパーフィギュアーD：キラーワイフー", search:"でぃーきらーわいふ", type:"nusuto", price:900, date:"2026-05-12", img:"images/nikke/waifu_nusuto.jpg", source:"https://charahiroba.com/"},
-{series:"death", name:"ぬーどるストッパーフィギュアーリューク―", search:"りゅーく", type:"nusuto", price:1100, date:"2026-05-12", img:"images/death/ryuku_nusuto.jpg", source:"https://charahiroba.com/"},
-{series:"miku", name:"ぬーどるストッパーフィギュアー桜ミク2026ー", search:"さくらみく", type:"nusuto", price:1000, date:"2026-05-12", img:"images/miku/sakura2026_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」 ESPRESTO-Detailed Elegance-乾紗寿叶 ブラックリリィver.", search:"ぶらっくりりぃ　いぬいさじゅな　じゅじゅ", type:"esp", price:400, date:"1899-12-30", img:"images/kisekoi/black_esp.jpg", source:"https://bsp-prize.jp/"},
 {series:"deara", name:"デート・ア・ライブ GLITTER&GLAMOURS-TOHKA YATOGAMI-", search:"やとがみとおか", type:"gli", price:300, date:"1899-12-30", img:"images/deara/toka_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- NARUTOP99 うちはイタチフィギュア", search:"いたち", type:"99", price:1300, date:"1899-12-30", img:"images/naruto/itati_99.jpg", source:"https://bsp-prize.jp/"},
