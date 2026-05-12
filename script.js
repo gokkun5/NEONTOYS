@@ -22,7 +22,7 @@ let ALL_SERIES_OPTIONS = []; // ★これを追加（元のリストを保存す
 // ==========================================
 function initShow() {
   const today = new Date();
-  const period = 30;
+  const period = 21;
 
   const newFigures = figures.filter(f => {
     if (!f.date) return false;
