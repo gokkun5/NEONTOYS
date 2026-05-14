@@ -414,7 +414,7 @@ window.figures1 = [
 {series:"furi-ren", name:"『葬送のフリーレン』AMP＋ フリーレン フィギュア タイクレ限定", search:"ふりーれん", type:"amp", price:1200, date:"1899-12-30", img:"images/furi-ren/furi_amp_taikure.jpg", source:"https://www.taito.co.jp/"},
 {series:"kisekoi", name:"『その着せ替え人形は恋をする』AMP＋ 喜多川海夢 フィギュア〜ブラックロベリア ver.〜タイクレ限定", search:"ぶらっくろべりあ", type:"amp", price:800, date:"1899-12-30", img:"images/kisekoi/burarobe_amp_taikure.jpg", source:"https://www.taito.co.jp/"},
 {series:"uzaki", name:"『宇崎ちゃんは遊びたい！ω』Desktop Cute フィギュア 宇崎月～浜辺で水着ver.～ タイクレ限定", search:"うざきつき", type:"desk", price:1100, date:"1899-12-30", img:"images/uzaki/tuki_desk_taikure.jpg", source:"https://www.taito.co.jp/"},
-{series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UZUMAKI NARUTO-Ⅴ SPECIAL", search:"うずまきナルト　なると", type:"vib", price:1500, date:"1899-12-30", img:"images/naruto/naruto5_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UZUMAKI NARUTO-Ⅴ SPECIAL", search:"うずまきナルト　なると", type:"vib", price:1600, date:"1899-12-30", img:"images/naruto/naruto5_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』Coreful フィギュア フリーレン", search:"ふりーれん", type:"core", price:600, date:"1899-12-30", img:"images/furi-ren/furi_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"spy", name:"SPY×FAMILY ESPRESTO-School style-アーニャ・フォージャー Another color ver.", search:"あーにゃふぉーじゃー", type:"esp", price:700, date:"1899-12-30", img:"images/spy/anya_sp.jpg", source:"https://bsp-prize.jp/"},
 {series:"gundam", name:"機動戦士Gundam GQuuuuuuX 限械突破 白いガンダム", search:"しろいがんだむ", type:"", price:400, date:"1899-12-30", img:"images/gundam/siroi.jpg", source:"https://bsp-prize.jp/"},
