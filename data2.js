@@ -1,5 +1,8 @@
 window.figures2 = [
 
+
+
+{series:"gundam", name:"機動戦士Gundam GQuuuuuuX 限械突破 GQuuuuuuX（ジークアクス）", search:"じーくあくす", type:"", price:400, date:"1899-12-30", img:"images/gundam/gq.jpg", source:"https://bsp-prize.jp/"},
 {series:"kankore", name:"艦隊これくしょん -艦これ- EXQフィギュア ～時雨 私服mode～", search:"しぐれ", type:"", price:500, date:"1899-12-30", img:"images/kankore/sigure.jpg", source:"https://bsp-prize.jp/"},
 {series:"oba", name:"オーバーロード　One-Seventh Caratフィギュア アルベド バニーVer.", search:"あるべど", type:"one", price:700, date:"1899-12-30", img:"images/oba/aru_one.jpg", source:"http://www.fans.co.jp/"},
 {series:"meidoin", name:"メイドインアビス 烈日の黄金郷 ソフビフィギュア～壺ミーティ～", search:"みーてぃ", type:"sof", price:600, date:"1899-12-30", img:"images/meidoin/mite_sof.jpg", source:"https://bsp-prize.jp/"},
