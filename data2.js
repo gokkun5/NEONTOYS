@@ -1,6 +1,11 @@
 window.figures2 = [
 
 
+
+
+{series:"soniko", name:"『すーぱーそに子』 ぬーどるストッパーフィギュア ー ホワイトビキニver. ー", search:"そにこ", type:"nusuto", price:500, date:"1899-12-30", img:"images/soniko/nusuto_white.jpg", source:"https://charahiroba.com/"},
+{series:"oba", name:"オーバーロード　ぬーどるストッパーフィギュアーアルベド・水着ver.ー", search:"あるべど", type:"nusuto", price:500, date:"1899-12-30", img:"images/oba/aru_nusuto_mizu.jpg", source:"https://charahiroba.com/"},
+{series:"aobuta", name:"青春ブタ野郎はおでかけシスターの夢を見ない　AMP＋ フィギュア 桜島麻衣～バニーver.～", search:"さくらじままい", type:"amp", price:1000, date:"1899-12-30", img:"images/aobuta/sakura_amp_bani.jpg", source:"https://www.taito.co.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活　Luminasta　“レム”-ことりあそび-", search:"れむ", type:"lum", price:800, date:"1899-12-30", img:"images/rezero/remu_kotori.jpg", source:"https://segaplaza.jp/"},
 {series:"crazy", name:"フィギュア　じゃすぱー 「Crazy Raccoon」 フィギュア-STREAMER-Vol.1 ～GiGOグループのお店限定～", search:"", type:"", price:600, date:"1899-12-30", img:"images/crazy/zyasu_gigo.jpg", source:"https://www.gigo.co.jp/prizes"},
 {series:"kurosituzi", name:"アニメ「黒執事-寄宿学校編-」 PetiteWorldMemoriesミニフィギュア“葬儀屋（アンダーテイカー）”", search:"あんだーていかー", type:"", price:500, date:"1899-12-30", img:"images/kurosituzi/an_mini.jpg", source:"https://segaplaza.jp/"},
@@ -222,7 +227,7 @@ window.figures2 = [
 {series:"umamusume", name:"ウマ娘 プリティーダービー アグネスタキオン フィギュア", search:"あぐねすたきおん", type:"", price:1300, date:"1899-12-30", img:"images/umamusume/agunesu.jpg", source:"https://bsp-prize.jp/"},
 {series:"umamusume", name:"ウマ娘 プリティーダービー ゴールドシップ フィギュア", search:"ごーるどしっぷ", type:"", price:800, date:"1899-12-30", img:"images/umamusume/gorusi.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」スーパープレミアムフィギュア“竈門炭治郎”－兄妹の絆－", search:"かまどたんじろう", type:"spm", price:800, date:"1899-12-30", img:"images/kimetu/tanzi_spm.jpg", source:"https://segaplaza.jp/"},
-{series:"miku", name:"初音ミク Birthday2024　AMP＋ フィギュア～Flower ver.～", search:"はつねみく　ふらわー　フラワー", type:"amp", price:1100, date:"1899-12-30", img:"images/miku/2024_birth.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"初音ミク Birthday2024　AMP＋ フィギュア～Flower ver.～", search:"はつねみく　ふらわー　フラワー", type:"amp", price:1000, date:"1899-12-30", img:"images/miku/2024_birth.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"巡音ルカ　BiCute Bunnies Figureー巡音ルカー", search:"めぐりねるか", type:"bani", price:600, date:"1899-12-30", img:"images/miku/ruka_bani.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"初音ミク　Wonderland フィギュア 眠れる森の美女", search:"はつねみく　ねむれるもりのびじょ", type:"wo", price:1000, date:"1899-12-30", img:"images/miku/nemuri.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"初音ミク　Trio-Try-iT Figureーペイントガールー", search:"ぺいんと　はつねみく", type:"trio", price:1000, date:"1899-12-30", img:"images/miku/peinto.jpg", source:"https://charahiroba.com/"},
@@ -408,7 +413,7 @@ window.figures2 = [
 {series:"oba", name:"オーバーロード　Desktop Cute フィギュア　アルベド～チャイナドレスver.～Renewal", search:"あるべど", type:"desk", price:450, date:"1899-12-30", img:"images/oba/aru_chaina_re.jpg", source:"https://www.taito.co.jp/"},
 {series:"ranma", name:"TVアニメ「らんま1/2」 SOFVIMATES～Pちゃん～", search:"ぴーちゃん", type:"sof", price:900, date:"1899-12-30", img:"images/ranma/p_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"eva", name:"ヱヴァンゲリヲン新劇場版VIGNETTEUM“シンジとカヲル”シンジVer.", search:"いかりしんじ", type:"", price:1000, date:"1899-12-30", img:"images/eva/sinzi_kaworu.jpg", source:"https://segaplaza.jp/"},
-{series:"furi-ren", name:"『葬送のフリーレン』 MAXIMATIC HIMMEL", search:"ひんめる　ヒンメル", type:"ma", price:700, date:"1899-12-30", img:"images/furi-ren/hin_ma.jpg", source:"https://bsp-prize.jp/"},
+{series:"furi-ren", name:"『葬送のフリーレン』 MAXIMATIC HIMMEL", search:"ひんめる　ヒンメル", type:"ma", price:600, date:"1899-12-30", img:"images/furi-ren/hin_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 MAXIMATIC FRIEREN Ⅱ", search:"フリーレン　ふりーれん", type:"ma", price:500, date:"1899-12-30", img:"images/furi-ren/furi_ma2.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 MAXIMATIC FRIEREN", search:"ふりーれん　フリーレン", type:"ma", price:500, date:"1899-12-30", img:"images/furi-ren/furi_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 MAXIMATIC STARK", search:"しゅたるく　シュタルク", type:"ma", price:800, date:"1899-12-30", img:"images/furi-ren/syuta_ma.jpg", source:"https://bsp-prize.jp/"},
