@@ -2,8 +2,12 @@ window.figures2 = [
 
 
 
-
-
+{series:"suta", name:"ぬーどるストッパーフィギュアーグローグーー", search:"ぐろーぐ", type:"nusuto", price:600, date:"2026-05-15", img:"images/suta/manda_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"osinoko", name:"【推しの子】　T-most アイ フィギュア", search:"あい", type:"tmost", price:800, date:"2026-05-16", img:"images/osinoko/ai_tmost.jpg", source:"https://www.taito.co.jp/"},
+{series:"need", name:"アニメ「NEEDYGIRLOVERDOSE」Luminasta“超絶最かわてんしちゃん”", search:"ちょうぜつさいかわてんしちゃん", type:"lum", price:1000, date:"2026-05-15", img:"images/need/saikawa_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"furi-ren", name:"葬送のフリーレンちょこのせプレミアムフィギュア“フリーレン”～ツンツンのフリーレン～", search:"ふりーれん", type:"tyoko", price:1000, date:"2026-05-15", img:"images/furi-ren/furi_tun.jpg", source:"https://segaplaza.jp/"},
+{series:"furi-ren", name:"葬送のフリーレンちょこのせプレミアムフィギュア“シュタルク”～腰が抜けて歩けない…～", search:"しゅたるく", type:"tyoko", price:700, date:"2026-05-15", img:"images/furi-ren/syuta_kosi.jpg", source:"https://segaplaza.jp/"},
+{series:"furi-ren", name:"葬送のフリーレンちょこのせプレミアムフィギュア“フェルン”～拘束魔法～", search:"ふぇるん", type:"tyoko", price:700, date:"2026-05-15", img:"images/furi-ren/fe_ko.jpg", source:"https://segaplaza.jp/"},
 {series:"amoasu", name:"Among Us モニタートップフィギュアvol.1", search:"", type:"", price:300, date:"2026-05-12", img:"images/amoasu/red.jpg", source:"https://bsp-prize.jp/"},
 {series:"amoasu", name:"Among Us モニタートップフィギュアvol.1", search:"", type:"", price:300, date:"2026-05-12", img:"images/amoasu/blue.jpg", source:"https://bsp-prize.jp/"},
 {series:"amoasu", name:"Among Us モニタートップフィギュアvol.1", search:"", type:"", price:300, date:"2026-05-12", img:"images/amoasu/kiiro.jpg", source:"https://bsp-prize.jp/"},
