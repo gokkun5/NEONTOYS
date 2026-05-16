@@ -1,6 +1,16 @@
 window.figures2 = [
 
 
+{series:"haikyu", name:"ハイキュー!!　ぬーどるストッパーフィギュアー影山飛雄ー", search:"かげやまとびお", type:"nusuto", price:500, date:"1899-12-30", img:"images/haikyu/tobio_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"deara", name:"デート・ア・ライブⅤ　Desktop Cute フィギュア　夜刀神十香～バニーver.～Renewal", search:"やとがみとおか", type:"desk", price:400, date:"1899-12-30", img:"images/deara/toka_desk_bani.jpg", source:"https://www.taito.co.jp/"},
+{series:"gotoyome", name:"五等分の花嫁∽Luminasta“中野四葉”", search:"なかのよつば", type:"lum", price:700, date:"1899-12-30", img:"images/gotoyome/yotuba_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"gotoyome", name:"五等分の花嫁∽Luminasta“中野一花”", search:"なかのいちか", type:"lum", price:700, date:"1899-12-30", img:"images/gotoyome/itika_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"gotoyome", name:"五等分の花嫁∽Luminasta“中野五月”", search:"なかのいつき", type:"lum", price:700, date:"1899-12-30", img:"images/gotoyome/ituki_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"gotoyome", name:"五等分の花嫁∽Luminasta“中野三玖”", search:"なかのみく", type:"lum", price:800, date:"1899-12-30", img:"images/gotoyome/miku_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"gotoyome", name:"五等分の花嫁∽Luminasta“中野二乃”", search:"なかのにの", type:"lum", price:700, date:"1899-12-30", img:"images/gotoyome/nino_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Luminasta“喜多川海夢”-リズ-", search:"きたがわまりん　りず", type:"lum", price:550, date:"1899-12-30", img:"images/kisekoi/rizu_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"gotoyome", name:"五等分の花嫁∽　Fascinity Figure (ファシニティフィギュア)　三玖～猫耳パーカー～", search:"なかのみく　中野三玖", type:"", price:500, date:"1899-12-30", img:"images/gotoyome/miku_nekopaka.jpg", source:"https://www.fancy-fukuya.co.jp/"},
+{series:"nigoriri", name:"2.5次元の誘惑 GLITTER&GLAMOURS ノキエル 天使空挺隊ver.", search:"のきえる", type:"gli", price:300, date:"1899-12-30", img:"images/nigoriri/noki_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"haikyu", name:"ハイキュー!! 木兎光太郎フィギュア-エースの心得-", search:"ぼくとこうたろう", type:"", price:700, date:"1899-12-30", img:"images/haikyu/bokuto.jpg", source:"https://bsp-prize.jp/"},
 {series:"nigoriri", name:"2.5次元の誘惑 ペンフレ！ リリエル～衛生小隊ver.～", search:"りりえる", type:"pen", price:700, date:"1899-12-30", img:"images/nigoriri/riri_pen.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA DRACULE.MIHAWK", search:"みほーく　ミホーク", type:"dxf", price:600, date:"1899-12-30", img:"images/wanpi/miho_dxf_ex.jpg", source:"https://bsp-prize.jp/"},

@@ -526,7 +526,7 @@ window.figures1 = [
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-PORTGAS.D.ACE-", search:"えーす　エース", type:"bato", price:400, date:"1899-12-30", img:"images/wanpi/ace_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"eva", name:"シン・エヴァンゲリオン劇場版 スーパープレミアムフィギュア “アヤナミレイ（仮称）”～HandOver～", search:"あやなみれい", type:"", price:800, date:"1899-12-30", img:"images/eva/rei_supa.jpg", source:"https://segaplaza.jp/"},
 {series:"spy", name:"『SPY×FAMILY』 プチエットフィギュア アーニャ・フォージャー vol.3", search:"あーにゃふぉーじゃー", type:"", price:400, date:"1899-12-30", img:"images/spy/anya3.jpg", source:"https://www.taito.co.jp/"},
-{series:"oba", name:"『オーバーロード』 ぬーどるストッパーフィギュア ーシャルティア・ルームウェアver.ー", search:"シャルティア", type:"nusuto", price:450, date:"1899-12-30", img:"images/oba/syaru_nusuto_rumu.jpg", source:"https://charahiroba.com/"},
+{series:"oba", name:"『オーバーロード』 ぬーどるストッパーフィギュア ーシャルティア・ルームウェアver.ー", search:"シャルティア　しゃるてぃあ", type:"nusuto", price:300, date:"1899-12-30", img:"images/oba/syaru_nusuto_rumu.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース ルームライト モンキー・D・ルフィ GEAR5-解放のドラム-", search:"るふぃ　にか", type:"", price:400, date:"1899-12-30", img:"images/wanpi/kaiho_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"konan", name:"ちょこのせ プレミアムフィギュア “安室透”", search:"あむろとおる", type:"", price:500, date:"1899-12-30", img:"images/konan/amuro_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"haikyu", name:"ハイキュー!! 宮侑フィギュア-俺のサーブの邪魔すんなや-", search:"みやあつむ", type:"", price:400, date:"1899-12-30", img:"images/haikyu/atumu_zyama.jpg", source:"https://bsp-prize.jp/"},
