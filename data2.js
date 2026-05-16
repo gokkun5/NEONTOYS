@@ -1,8 +1,13 @@
 window.figures2 = [
 
 
-
-
+{series:"haikyu", name:"ハイキュー!! 木兎光太郎フィギュア-エースの心得-", search:"ぼくとこうたろう", type:"", price:700, date:"1899-12-30", img:"images/haikyu/bokuto.jpg", source:"https://bsp-prize.jp/"},
+{series:"nigoriri", name:"2.5次元の誘惑 ペンフレ！ リリエル～衛生小隊ver.～", search:"りりえる", type:"pen", price:700, date:"1899-12-30", img:"images/nigoriri/riri_pen.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA DRACULE.MIHAWK", search:"みほーく　ミホーク", type:"dxf", price:600, date:"1899-12-30", img:"images/wanpi/miho_dxf_ex.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA SABO", search:"さぼ　サボ", type:"dxf", price:400, date:"1899-12-30", img:"images/wanpi/sabo_dxf_ex.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース SOFVIMATES～チョッパー アラバスタver.～", search:"ちょっぱー", type:"sof", price:400, date:"1899-12-30", img:"images/wanpi/tyo_ara.jpg", source:"https://bsp-prize.jp/"},
+{series:"nigoriri", name:"2.5次元の誘惑 ペンフレ！ ラスタロッテ～幻の衣装ver.～", search:"らすたろって", type:"pen", price:500, date:"1899-12-30", img:"images/nigoriri/rasuta_pen.jpg", source:"https://bsp-prize.jp/"},
+{series:"nigoriri", name:"2.5次元の誘惑 ペンフレ！ イコラ～パージver.～", search:"いこら", type:"pen", price:400, date:"1899-12-30", img:"images/nigoriri/ikora_pen.jpg", source:"https://bsp-prize.jp/"},
 {series:"deara", name:"デート・ア・ライブ GLITTER&GLAMOURS-YOSHINO-", search:"よしの　四糸乃", type:"gli", price:500, date:"1899-12-30", img:"images/deara/yosino_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア THE MOVIE ユアネクスト フィギュアvol.3", search:"だーくまいと　ダークマイト", type:"", price:600, date:"1899-12-30", img:"images/hiro/dakuma.jpg", source:"https://bsp-prize.jp/"},
 {series:"crazy", name:"Crazy Raccoon モニタートップフィギュア-だるまいずごっど-", search:"", type:"", price:200, date:"1899-12-30", img:"images/crazy/daruma.jpg", source:"https://bsp-prize.jp/"},
