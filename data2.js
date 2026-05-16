@@ -2,7 +2,12 @@ window.figures2 = [
 
 
 
-
+{series:"zyuzyutu", name:"呪術廻戦 Q posket-七海建人-", search:"ななみけんと", type:"qpos", price:500, date:"1899-12-30", img:"images/zyuzyutu/nanami_qpos_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"tyen", name:"チェンソーマン Q posket-デンジ-", search:"でんじ", type:"qpos", price:300, date:"1899-12-30", img:"images/tyen/denzi_qpos.jpg", source:"https://bsp-prize.jp/"},
+{series:"mario", name:"スーパーマリオSTDフィギュアVol.01", search:"ルイージ　るいーじ", type:"", price:400, date:"1899-12-30", img:"images/mario/rui_std.jpg", source:"https://stuffed-toys.jp/"},
+{series:"mario", name:"スーパーマリオSTDフィギュアVol.01", search:"わりお　ワリオ", type:"", price:400, date:"1899-12-30", img:"images/mario/wario_std.jpg", source:"https://stuffed-toys.jp/"},
+{series:"mario", name:"スーパーマリオSTDフィギュアVol.01", search:"ワルイージ　わるいーじ", type:"", price:400, date:"1899-12-30", img:"images/mario/waru_std.jpg", source:"https://stuffed-toys.jp/"},
+{series:"wanpi", name:"『ONE PIECE FILM RED』 GLITTER&GLAMOURS-UTA-", search:"うた　ウタ", type:"gli", price:450, date:"1899-12-30", img:"images/wanpi/uta_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"soniko", name:"『すーぱーそに子』 ぬーどるストッパーフィギュア ー ホワイトビキニver. ー", search:"そにこ", type:"nusuto", price:500, date:"1899-12-30", img:"images/soniko/nusuto_white.jpg", source:"https://charahiroba.com/"},
 {series:"oba", name:"オーバーロード　ぬーどるストッパーフィギュアーアルベド・水着ver.ー", search:"あるべど", type:"nusuto", price:500, date:"1899-12-30", img:"images/oba/aru_nusuto_mizu.jpg", source:"https://charahiroba.com/"},
 {series:"aobuta", name:"青春ブタ野郎はおでかけシスターの夢を見ない　AMP＋ フィギュア 桜島麻衣～バニーver.～", search:"さくらじままい", type:"amp", price:1000, date:"1899-12-30", img:"images/aobuta/sakura_amp_bani.jpg", source:"https://www.taito.co.jp/"},
@@ -289,7 +294,7 @@ window.figures2 = [
 {series:"osinoko", name:"Trio－Try－iT Figureーアイー", search:"あい", type:"trio", price:350, date:"1899-12-30", img:"images/osinoko/ai_trio.jpg", source:"https://charahiroba.com/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」スーパープレミアムフィギュア“竈門禰󠄀豆子”－兄妹の絆－", search:"かまどねずこ", type:"spm", price:800, date:"1899-12-30", img:"images/kimetu/nezuko_spm.jpg", source:"https://segaplaza.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア Break time collection vol.1", search:"みどりやいずく　でく　緑谷出久　デク", type:"bre", price:800, date:"1899-12-30", img:"images/hiro/deku_break1.jpg", source:"https://bsp-prize.jp/"},
-{series:"sakamoto", name:"SAKAMOTO DAYS 坂本太郎フィギュア-その店長、元・伝説の殺し屋-", search:"さかもとたろう", type:"", price:400, date:"1899-12-30", img:"images/sakamoto/sakamoto.jpg", source:"https://bsp-prize.jp/"},
+{series:"sakamoto", name:"SAKAMOTO DAYS 坂本太郎フィギュア-その店長、元・伝説の殺し屋-", search:"さかもとたろう", type:"", price:300, date:"1899-12-30", img:"images/sakamoto/sakamoto.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン フィギュアライト フリーレン-ゾルトラーク-", search:"ぞるとらーく", type:"", price:700, date:"1899-12-30", img:"images/furi-ren/zoru_raito.jpg", source:"https://bsp-prize.jp/"},
 {series:"aohako", name:"アオのハコ 蝶野雛 フィギュア 文化祭ver.", search:"ちょうのひな", type:"", price:400, date:"1899-12-30", img:"images/aohako/tyono_bunka.jpg", source:"https://bsp-prize.jp/"},
 {series:"rokkuman", name:"ロックマン Grandista-ROCKMAN-メタリックカラーver.", search:"ろっくまん", type:"gra", price:1000, date:"1899-12-30", img:"images/rokkuman/metarikku.jpg", source:"https://bsp-prize.jp/"},
@@ -367,7 +372,7 @@ window.figures2 = [
 {series:"zeruda", name:"ゼルダの伝説ティアーズオブザキングダムFIGURIZMα“リンク”", search:"りんく", type:"fig", price:1800, date:"1899-12-30", img:"images/zeruda/rinku_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Grandista-BOMB-", search:"ボム　ぼむ", type:"gra", price:2400, date:"1899-12-30", img:"images/tyen/bomb_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"spy", name:"TVアニメ「SPY×FAMILY」Luminasta（ヨル・フォージャー）いばら姫～missionextend～", search:"よるふぉーじゃー", type:"lum", price:1000, date:"1899-12-30", img:"images/spy/yoru_lum.jpg", source:"https://segaplaza.jp/"},
-{series:"ranma", name:"TVアニメ「らんま1/2」ちょこのせプレミアムフィギュア“らんま”", search:"", type:"tyoko", price:400, date:"1899-12-30", img:"images/ranma/ranma_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"ranma", name:"TVアニメ「らんま1/2」ちょこのせプレミアムフィギュア“らんま”", search:"", type:"tyoko", price:300, date:"1899-12-30", img:"images/ranma/ranma_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"purikyua", name:"ふたりはプリキュア フィグライフ! カードコミューン型スタンド", search:"みっぷる", type:"figl", price:600, date:"1899-12-30", img:"images/purikyua/mippu.jpg", source:"https://bsp-prize.jp/"},
 {series:"purikyua", name:"ふたりはプリキュア フィグライフ! カードコミューン型スタンド", search:"めっぷる", type:"figl", price:600, date:"1899-12-30", img:"images/purikyua/meppu.jpg", source:"https://bsp-prize.jp/"},
 {series:"pro", name:"プロジェクトセカイカラフルステージ！feat.初音ミクDesktop×DecorateCollections“ストリートのセカイの鏡音レン”", search:"かがみねれん", type:"ddc", price:600, date:"1899-12-30", img:"images/pro/ren_ddc.jpg", source:"https://segaplaza.jp/"},
