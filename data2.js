@@ -1,7 +1,6 @@
 window.figures2 = [
 
 
-
 {series:"zyuzyutu", name:"呪術廻戦 Q posket-七海建人-", search:"ななみけんと", type:"qpos", price:500, date:"1899-12-30", img:"images/zyuzyutu/nanami_qpos_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"tyen", name:"チェンソーマン Q posket-デンジ-", search:"でんじ", type:"qpos", price:300, date:"1899-12-30", img:"images/tyen/denzi_qpos.jpg", source:"https://bsp-prize.jp/"},
 {series:"mario", name:"スーパーマリオSTDフィギュアVol.01", search:"ルイージ　るいーじ", type:"", price:400, date:"1899-12-30", img:"images/mario/rui_std.jpg", source:"https://stuffed-toys.jp/"},
