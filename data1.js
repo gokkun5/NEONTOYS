@@ -71,7 +71,7 @@ window.figures1 = [
 {series:"tora", name:"『To LOVEる-とらぶる-ダークネス』 Aqua Float Girls フィギュア モモ", search:"もも", type:"aqua", price:800, date:"1899-12-30", img:"images/tora/momo_aqua.jpg", source:"https://www.taito.co.jp/"},
 {series:"uzaki", name:"『宇崎ちゃんは遊びたい！ω』 Desktop Cute フィギュア 宇崎月 ～浜辺で水着ver.～", search:"うざきつき", type:"desk", price:500, date:"1899-12-30", img:"images/uzaki/tuki_desk.jpg", source:"https://www.taito.co.jp/"},
 {series:"yugi", name:"アニメ「遊☆戯☆王」シリーズ　Monsters LEGION オベリスクの巨神兵", search:"おべりすく", type:"mon", price:1200, date:"1899-12-30", img:"images/yugi/obe.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
-{series:"yugi", name:"『遊☆戯☆王シリーズ』 奈落の落とし穴 フィギュア付きダストボックス", search:"ならくのおとしあな", type:"", price:500, date:"1899-12-30", img:"images/yugi/naraku.jpg", source:"https://www.taito.co.jp/"},
+{series:"yugi", name:"『遊☆戯☆王シリーズ』 奈落の落とし穴 フィギュア付きダストボックス", search:"ならくのおとしあな", type:"", price:450, date:"1899-12-30", img:"images/yugi/naraku.jpg", source:"https://www.taito.co.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん スーパービッグフィギュア～アクション仮面～", search:"あくしょんかめん", type:"", price:600, date:"1899-12-30", img:"images/kuresin/akusyon.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 Desktop Cute フィギュア フリーレン 〜ルームウェアver.〜", search:"ふりーれん", type:"desk", price:1100, date:"1899-12-30", img:"images/furi-ren/furi_rumu.jpg", source:"https://www.taito.co.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア ちあぴこ～みどりやいずく～", search:"", type:"", price:1500, date:"1899-12-30", img:"images/hiro/deku_tia.jpg", source:"https://bsp-prize.jp/"},

@@ -121,6 +121,15 @@ h1 img {
   outline: none;
 }
 
+/* 修正後：:focus を除去 */
+#search.active,
+select.active,
+.custom-button.active {
+  border-color: #39ff14;
+  color: #39ff14;
+  background: #0a1a0a;
+}
+
 .btn-clear {
   background: transparent;
   border: none;

@@ -1,7 +1,7 @@
 window.figures2 = [
 
 
-
+{series:"kamitu", name:"TVアニメ『神椿市建設中。』ちょこのせプレミアムフィギュア “森先化歩”", search:"もりさきかふ", type:"tyoko", price:350, date:"1899-12-30", img:"images/kamitu/kafu_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"kaizyu", name:"『怪獣8号』 TOONIZEー怪獣８号ー", search:"かいじゅう8ごう", type:"too", price:400, date:"1899-12-30", img:"images/kaizyu/kaizyu_too_b.jpg", source:"https://charahiroba.com/"},
 {series:"spy", name:"TVアニメ「SPY×FAMILY」Luminasta （ロイド・フォージャー）黄昏 ～missionextend～", search:"ろいどふぉーじゃー　たそがれ", type:"lum", price:1300, date:"1899-12-30", img:"images/spy/tasogare_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"disny", name:"ディズニーキャラクター おおきなSOFVIMATES～ベイマックス スペシャルコスチューム～水泳ver.", search:"べいまっくす", type:"sof", price:300, date:"1899-12-30", img:"images/disny/bei_sof_suiei.jpg", source:"https://bsp-prize.jp/"},
@@ -409,8 +409,8 @@ window.figures2 = [
 {series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Grandista-BOMB-", search:"ボム　ぼむ", type:"gra", price:2400, date:"1899-12-30", img:"images/tyen/bomb_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"spy", name:"TVアニメ「SPY×FAMILY」Luminasta（ヨル・フォージャー）いばら姫～missionextend～", search:"よるふぉーじゃー", type:"lum", price:1000, date:"1899-12-30", img:"images/spy/yoru_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"ranma", name:"TVアニメ「らんま1/2」ちょこのせプレミアムフィギュア“らんま”", search:"", type:"tyoko", price:300, date:"1899-12-30", img:"images/ranma/ranma_tyoko.jpg", source:"https://segaplaza.jp/"},
-{series:"purikyua", name:"ふたりはプリキュア フィグライフ! カードコミューン型スタンド", search:"みっぷる", type:"figl", price:600, date:"1899-12-30", img:"images/purikyua/mippu.jpg", source:"https://bsp-prize.jp/"},
-{series:"purikyua", name:"ふたりはプリキュア フィグライフ! カードコミューン型スタンド", search:"めっぷる", type:"figl", price:600, date:"1899-12-30", img:"images/purikyua/meppu.jpg", source:"https://bsp-prize.jp/"},
+{series:"purikyua", name:"ふたりはプリキュア フィグライフ! カードコミューン型スタンド", search:"みっぷる", type:"figl", price:800, date:"1899-12-30", img:"images/purikyua/mippu.jpg", source:"https://bsp-prize.jp/"},
+{series:"purikyua", name:"ふたりはプリキュア フィグライフ! カードコミューン型スタンド", search:"めっぷる", type:"figl", price:800, date:"1899-12-30", img:"images/purikyua/meppu.jpg", source:"https://bsp-prize.jp/"},
 {series:"pro", name:"プロジェクトセカイカラフルステージ！feat.初音ミクDesktop×DecorateCollections“ストリートのセカイの鏡音レン”", search:"かがみねれん", type:"ddc", price:600, date:"1899-12-30", img:"images/pro/ren_ddc.jpg", source:"https://segaplaza.jp/"},
 {series:"wanpi", name:"『ONE PIECE FILM RED』 DXF～THE GRANDLINE MEN～vol.4", search:"サンジ　さんじ", type:"dxf", price:400, date:"1899-12-30", img:"images/wanpi/sanzi_dxf4.jpg", source:"https://bsp-prize.jp/"},
 {series:"maebasi", name:"前橋ウィッチーズDesktop×DecorateCollections“北原キョウカ”", search:"きたはらきょうか", type:"ddc", price:300, date:"1899-12-30", img:"images/maebasi/kyouka_ddc.jpg", source:"https://segaplaza.jp/"},
@@ -568,7 +568,7 @@ window.figures2 = [
 {series:"db", name:"『ドラゴンボール超』 Grandista -GOGETA-Ⅱ", search:"ごじーた　ゴジータ", type:"gra", price:600, date:"1899-12-30", img:"images/db/gozita_gra2.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボールGT』 SOLID EDGE WORKS-THE出陣- 超サイヤ人4ゴジータ", search:"ごじーた", type:"syutu", price:550, date:"1899-12-30", img:"images/db/gozita4_solid.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボール』 History Box クリリン", search:"くりりん", type:"his", price:500, date:"1899-12-30", img:"images/db/kuri_his.jpg", source:"https://bsp-prize.jp/"},
-{series:"zyuzyutu", name:"呪術廻戦 フィギュアライト 乙骨憂太・リカ", search:"おっこつゆうた　りか", type:"", price:500, date:"1899-12-30", img:"images/zyuzyutu/otukotu_raito.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦 フィギュアライト 乙骨憂太・リカ", search:"おっこつゆうた　りか", type:"", price:700, date:"1899-12-30", img:"images/zyuzyutu/otukotu_raito.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 コガネスピーカー", search:"こがね", type:"", price:1200, date:"1899-12-30", img:"images/zyuzyutu/kogane.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボールZ』 MATCH MAKERS 超サイヤ人3孫悟空（VS魔人ブウ(純粋)）", search:"そんごくう", type:"mat", price:600, date:"1899-12-30", img:"images/db/goku3_mat.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボールZ』 MATCH MAKERS 超サイヤ人3孫悟空（VS魔人ブウ）", search:"そんごくう", type:"mat", price:600, date:"1899-12-30", img:"images/db/goku3_mat2.jpg", source:"https://bsp-prize.jp/"},

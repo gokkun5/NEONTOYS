@@ -183,6 +183,20 @@ function showFigures() {
   // ★重要：「もっと見る」のために表示件数で切り取る
   const visibleFigures = filtered.slice(0, displayCount);
 
+// ===== 選択時カラー更新 =====
+  document.querySelectorAll('select').forEach(sel => {
+    sel.classList.toggle('active', sel.value !== '' && sel.value !== 'all' && sel.value !== 'none');
+  });
+  const searchInput = document.getElementById('search');
+  if (searchInput) {
+    searchInput.classList.toggle('active', searchInput.value.trim() !== '');
+  }
+  document.querySelectorAll('.custom-button').forEach(btn => {
+    btn.classList.toggle('active', isAllShowMode);
+  });
+
+  // ===========================
+
   // --- HTMLの組み立て ---
   let html = "";
   const today = new Date();
@@ -266,8 +280,7 @@ window.addEventListener('scroll', () => {
 // 4. フィルタークリア関数 (clearFilters)
 // ==========================================
 function clearFilters() {
-    // 1. 各セレクトボックスと検索窓の値をリセット
-    const ids = ["search", "series", "type", "price", "sort", "initial-filter"]; // initial-filterを追加
+    const ids = ["search", "series", "type", "price", "sort", "initial-filter"];
     ids.forEach(id => {
         const el = document.getElementById(id);
         if (el) {
@@ -277,17 +290,14 @@ function clearFilters() {
         }
     });
 
-    // 2. 「あかさたな」で隠されていた作品の選択肢(display: none)をすべて「表示」に戻す
-  filterSeriesByInitial();
+    filterSeriesByInitial();
 
-    // 3. 全表示モードなどのフラグをリセット
     isAllShowMode = false;
     if (allShowBtn) {
-        allShowBtn.textContent = '全表示にする';
+        allShowBtn.textContent = '全てのプライズを表示';
         allShowBtn.classList.remove('active');
     }
 
-    // 4. 表示エリアを一旦空にして、初期表示（新着分）を再実行
     const listContainer = document.getElementById("figureList");
     if (listContainer) {
         listContainer.innerHTML = "";
@@ -303,6 +313,7 @@ function clearFilters() {
 if (allShowBtn) {
   allShowBtn.addEventListener('click', () => {
     isAllShowMode = true;
+    allShowBtn.textContent = '全表示にする'; // ← テキストを固定
     showFigures();
     updatePickupTitle(false); 
   });
