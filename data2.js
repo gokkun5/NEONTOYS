@@ -1,6 +1,8 @@
 window.figures2 = [
 
 
+{series:"spy", name:"TVアニメ「SPY×FAMILY」Luminasta （ロイド・フォージャー）黄昏 ～missionextend～", search:"ろいどふぉーじゃー　たそがれ", type:"lum", price:1300, date:"1899-12-30", img:"images/spy/tasogare_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"disny", name:"ディズニーキャラクター おおきなSOFVIMATES～ベイマックス スペシャルコスチューム～水泳ver.", search:"べいまっくす", type:"sof", price:300, date:"1899-12-30", img:"images/disny/bei_sof_suiei.jpg", source:"https://bsp-prize.jp/"},
 {series:"ante", name:"UNDERTALE フィギュア～FOOD DESIGN～vol.2", search:"なぷすたぶるーく　ナプスタブルーク", type:"", price:700, date:"1899-12-30", img:"images/ante/napu.jpg", source:"https://bsp-prize.jp/"},
 {series:"ante", name:"UNDERTALE フィギュア～FOOD DESIGN～vol.3", search:"めたとん　メタトン", type:"", price:800, date:"1899-12-30", img:"images/ante/metaton.jpg", source:"https://bsp-prize.jp/"},
 {series:"holo", name:"ホロライブ #hololive IF -ホロベイビーズ-姫森ルーナ", search:"ひめもりるーな", type:"", price:300, date:"1899-12-30", img:"images/holo/runa_baby.jpg", source:"https://bsp-prize.jp/"},
