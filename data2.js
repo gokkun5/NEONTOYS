@@ -1,6 +1,8 @@
 window.figures2 = [
 
 
+
+{series:"kaizyu", name:"『怪獣8号』 TOONIZEー怪獣８号ー", search:"かいじゅう8ごう", type:"too", price:400, date:"1899-12-30", img:"images/kaizyu/kaizyu_too_b.jpg", source:"https://charahiroba.com/"},
 {series:"spy", name:"TVアニメ「SPY×FAMILY」Luminasta （ロイド・フォージャー）黄昏 ～missionextend～", search:"ろいどふぉーじゃー　たそがれ", type:"lum", price:1300, date:"1899-12-30", img:"images/spy/tasogare_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"disny", name:"ディズニーキャラクター おおきなSOFVIMATES～ベイマックス スペシャルコスチューム～水泳ver.", search:"べいまっくす", type:"sof", price:300, date:"1899-12-30", img:"images/disny/bei_sof_suiei.jpg", source:"https://bsp-prize.jp/"},
 {series:"ante", name:"UNDERTALE フィギュア～FOOD DESIGN～vol.2", search:"なぷすたぶるーく　ナプスタブルーク", type:"", price:700, date:"1899-12-30", img:"images/ante/napu.jpg", source:"https://bsp-prize.jp/"},
@@ -293,7 +295,7 @@ window.figures2 = [
 {series:"aoeku", name:"青の祓魔師島根啓明結社篇 ちょこのせプレミアムフィギュア“奥村雪男”", search:"おくむらゆきお", type:"tyoko", price:300, date:"1899-12-30", img:"images/aoeku/yukio_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"gotoyome", name:"Trio-Try-iT Figureー中野一花・パステルドレスー", search:"なかのいちか", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/itika_pasuteru.jpg", source:"https://charahiroba.com/"},
 {series:"ruroken", name:"TVアニメ「るろうに剣心－明治剣客浪漫譚－」Luminasta“斎藤一”", search:"さいとうはじめ", type:"lum", price:500, date:"1899-12-30", img:"images/ruroken/hazime_lum.jpg", source:"https://segaplaza.jp/"},
-{series:"nyanko", name:"にゃんこ大戦争 にゃんこ軍団出陣フィギュア～狂乱のネコムート～", search:"きょうらんのねこむーと", type:"", price:500, date:"2026-04-30", img:"images/nyanko/kyouran.jpg", source:"https://bsp-prize.jp/"},
+{series:"nyanko", name:"にゃんこ大戦争 にゃんこ軍団出陣フィギュア～狂乱のネコムート～", search:"きょうらんのねこむーと", type:"", price:800, date:"2026-04-30", img:"images/nyanko/kyouran.jpg", source:"https://bsp-prize.jp/"},
 {series:"gotoyome", name:"TVスペシャルアニメ「五等分の花嫁∽」 Bloo-me！ー中野四葉ー (プライズ)", search:"なかのよつば", type:"", price:300, date:"1899-12-30", img:"images/gotoyome/yotuba_bloo.jpg", source:"https://charahiroba.com/"},
 {series:"gotoyome", name:"TVスペシャルアニメ「五等分の花嫁∽」 Bloo-me!ー中野二乃ー", search:"なかのにの", type:"", price:300, date:"1899-12-30", img:"images/gotoyome/nino_bloo.jpg", source:"https://charahiroba.com/"},
 {series:"gotoyome", name:"TVスペシャルアニメ「五等分の花嫁∽」 Bloo-me!ー中野一花ー", search:"なかのいちか", type:"", price:300, date:"1899-12-30", img:"images/gotoyome/itika_bloo.jpg", source:"https://charahiroba.com/"},
