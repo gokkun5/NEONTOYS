@@ -2,7 +2,11 @@ window.figures2 = [
 
 
 
-
+{series:"deara", name:"デート・ア・ライブV　Desktop Cute フィギュア　時崎狂三～ナイトウェアver.～", search:"ときさきくるみ", type:"desk", price:500, date:"1899-12-30", img:"images/deara/kurumi_desk_night.jpg", source:"https://www.taito.co.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 -Relax time-エルザ・グランヒルテ", search:"えるざぐらんひるて", type:"relax", price:600, date:"1899-12-30", img:"images/rezero/eruza_relax.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"初音ミクシリーズ　[SPM]フィギュア“初音ミク 15th Anniversary”村上ゆいちVer.", search:"はつねみく", type:"spm", price:1100, date:"1899-12-30", img:"images/miku/15_spm.jpg", source:"https://segaplaza.jp/"},
+{series:"aohako", name:"「アオのハコ」ちょこのせプレミアムフィギュア“鹿野千夏”", search:"かのちなつ", type:"tyoko", price:600, date:"1899-12-30", img:"images/aohako/tinatu_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"onimai", name:"お兄ちゃんはおしまい！　Desktop Cute フィギュア　緒山まひろ～制服ver.～", search:"おやままひろ", type:"desk", price:900, date:"1899-12-30", img:"images/onimai/mahiro_desk.jpg", source:"https://www.taito.co.jp/"},
 {series:"monogatari", name:"〈物語〉シリーズ　Desktop Cute フィギュア　戦場ヶ原ひたぎ", search:"せんじょうがはらひたぎ", type:"desk", price:1000, date:"1899-12-30", img:"images/monogatari/hitagi_desk.jpg", source:"https://www.taito.co.jp/"},
 {series:"zyozyo", name:"ジョジョの奇妙な冒険 戦闘潮流 柱の男たちアンティーク風ミラー", search:"はしらのおこと", type:"", price:500, date:"1899-12-30", img:"images/zyozyo/hasira_kagami.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン　Coreful フィギュア　ユーベル（タイクレ限定）", search:"ゆーべる", type:"core", price:900, date:"1899-12-30", img:"images/furi-ren/yube_core_taikure.jpg", source:"https://www.taito.co.jp/"},
