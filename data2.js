@@ -1,5 +1,9 @@
 window.figures2 = [
 
+
+{series:"miku", name:"初音ミク　AMP フィギュア～Latidos-2022 ver.-～", search:"らてぃどす　はつねみく　ラティドス", type:"amp", price:3000, date:"1899-12-30", img:"images/miku/latidos_amp2022.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"Trio-Try-iT Figure ーおでかけドレスー", search:"どれす", type:"trio", price:900, date:"1899-12-30", img:"images/miku/odekake.jpg", source:"https://charahiroba.com/"},
+{series:"miku", name:"初音ミク　ぬーどるストッパーフィギュアーオータムデート・ピンクver.ー", search:"おーたむでーと　はつねみく", type:"nusuto", price:600, date:"1899-12-30", img:"images/miku/ota_pink.jpg", source:"https://charahiroba.com/"},
 {series:"toho", name:"東方Project ぬーどるストッパーフィギュアー十六夜咲夜ー", search:"いざよさくや", type:"nusuto", price:800, date:"1899-12-30", img:"images/toho/sakuya_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"初音ミク BANPRESTO EVOLVE Classical tuning-バレエ組曲「白鳥の湖」より-フィギュア", search:"はくちょうのみずうみ　はつねみく", type:"bpev", price:900, date:"1899-12-30", img:"images/miku/hakutyo_bpev.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミクシリーズLuminasta“初音ミク×シナモロール”ホワイトドレスVer.", search:"ほわいとどれす　はつねみく　しなもろーる", type:"lum", price:1500, date:"1899-12-30", img:"images/miku/whitedoresu.jpg", source:"https://segaplaza.jp/"},
@@ -506,7 +510,7 @@ window.figures2 = [
 {series:"naruto", name:"『NARUTO-ナルト-疾風伝』 忍界造形列伝 -波風ミナト-", search:"なみかぜみなと", type:"ninkai", price:1400, date:"1899-12-30", img:"images/naruto/minato_ninkai.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"『NARUTO-ナルト- 疾風伝』フィギュア うちはサスケ・うちはイタチ～GiGOグループのお店限定～", search:"うちはいたち", type:"", price:1600, date:"1899-12-30", img:"images/naruto/itati_gigo.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"『NARUTO-ナルト- 疾風伝』フィギュア うちはサスケ・うちはイタチ～GiGOグループのお店限定～", search:"うちはさすけ", type:"", price:1000, date:"1899-12-30", img:"images/naruto/sasuke_gigo.jpg", source:"https://bsp-prize.jp/"},
-{series:"miku", name:"『初音ミクシリーズ』 Fashion フィギュア Outdoor", search:"アウトドア　あうとどあ　はつねみく", type:"fa", price:1400, date:"1899-12-30", img:"images/miku/miku_auto.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"『初音ミクシリーズ』 Fashion フィギュア Outdoor", search:"アウトドア　あうとどあ　はつねみく", type:"fa", price:1300, date:"1899-12-30", img:"images/miku/miku_auto.jpg", source:"https://www.taito.co.jp/"},
 {series:"oba", name:"『オーバーロード』 T-most アルベド フィギュア ～純白の悪魔ver.～", search:"あるべど", type:"tmost", price:800, date:"1899-12-30", img:"images/oba/aru_tmost.jpg", source:"https://www.taito.co.jp/"},
 {series:"orerebe", name:"『俺だけレベルアップな件』 XrossLink フィギュア “水篠旬”", search:"みずしのしゅん", type:"xros", price:500, date:"1899-12-30", img:"images/orerebe/mizu_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"orerebe", name:"『俺だけレベルアップな件』 XrossLink フィギュア “向坂雫”", search:"こうさかしずく", type:"xros", price:500, date:"1899-12-30", img:"images/orerebe/kou_xros.jpg", source:"https://segaplaza.jp/"},
@@ -613,7 +617,7 @@ window.figures2 = [
 {series:"furi-ren", name:"『葬送のフリーレン』 Luminasta “フリーレン” ～SUMMER DRESS～", search:"ふりーれん", type:"lum", price:600, date:"1899-12-30", img:"images/furi-ren/furi_summer.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"『初音ミクシリーズ』 ぬーどるストッパーフィギュア ー うさ耳パジャマ・ブルーver. ー", search:"うさみみぱじゃま　はつねみく", type:"nusuto", price:1200, date:"1899-12-30", img:"images/miku/usamimi_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"『初音ミク×チロルチョコ』 Trio-Try-iT Figure ー 初音ミクｘチロルチョコ ミルクver. ー", search:"ちろるちょこ　はつねみく", type:"trio", price:1400, date:"1899-12-30", img:"images/miku/tiroru.jpg", source:"https://charahiroba.com/"},
-{series:"miku", name:"『初音ミクシリーズ』 Fashion フィギュア Country", search:"かんとりー　カントリー　はつねみく", type:"fa", price:1300, date:"1899-12-30", img:"images/miku/kantori.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"『初音ミクシリーズ』 Fashion フィギュア Country", search:"かんとりー　カントリー　はつねみく", type:"fa", price:1600, date:"1899-12-30", img:"images/miku/kantori.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"初音ミク　Aqua Float Girls フィギュア", search:"はつねみく", type:"aqua", price:800, date:"1899-12-30", img:"images/miku/aqua.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"初音ミクシリーズ Lminasta “初音ミク 16th Anniversary” ぶーたVer.", search:"はつねみく", type:"lum", price:1000, date:"1899-12-30", img:"images/miku/16_anni.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"『初音ミクシリーズ』Luminasta “初音ミク”－クラシカルメイド－", search:"はつねみく　くらしかるめいど", type:"lum", price:700, date:"1899-12-30", img:"images/miku/meido.jpg", source:"https://segaplaza.jp/"},
