@@ -2,7 +2,11 @@ window.figures2 = [
 
 
 
-
+{series:"rezero", name:"Re:ゼロから始める異世界生活　ぬーどるストッパーフィギュアーレム・花の妖精ー", search:"れむ", type:"nusuto", price:800, date:"1899-12-30", img:"images/rezero/remu_hanayousei.jpg", source:"https://charahiroba.com/"},
+{series:"furi-ren", name:"葬送のフリーレンYumemirizeフリーレン～あの頃～", search:"ふりーれん", type:"yume", price:1000, date:"1899-12-30", img:"images/furi-ren/furi_yume_ano.jpg", source:"https://segaplaza.jp/"},
+{series:"deara", name:"デート・ア・ライブⅤ　Desktop Cute フィギュア　夜刀神十香～バニーver.～（タイクレ限定）", search:"やとがみとおか", type:"desk", price:1300, date:"1899-12-30", img:"images/deara/toka_desk_bani_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"rosidere", name:"TVアニメ『時々ボソッとロシア語でデレる隣のアーリャさん』Luminasta“アーリャ”ワンピース", search:"あーりゃ", type:"lum", price:300, date:"1899-12-30", img:"images/rosidere/arya_wanpi.jpg", source:"https://segaplaza.jp/"},
+{series:"monogatari", name:"〈物語〉シリーズプレミアムフィギュア“斧乃木余接”", search:"おののきよつぎ", type:"spm", price:500, date:"1899-12-30", img:"images/monogatari/yotugi_spm.jpg", source:"https://segaplaza.jp/"},
 {series:"gotoyome", name:"TVスペシャルアニメ「五等分の花嫁∽」　Trio－Try－iT Figureー中野四葉・マリンルックー", search:"なかのよつば", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/yotuba_marin.jpg", source:"https://www.taito.co.jp/"},
 {series:"amagamisan", name:"甘神さんちの縁結びYumemirize“甘神夕奈”", search:"あまがみゆな", type:"yume", price:300, date:"1899-12-30", img:"images/amagamisan/yuna_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"vtu", name:"洛天依　Coreful フィギュア　～Star Dress ver.～（タイクレ限定）", search:"るおてんい", type:"core", price:1000, date:"1899-12-30", img:"images/vtu/ruo_taikure.jpg", source:"https://www.taito.co.jp/"},
@@ -228,7 +232,7 @@ window.figures2 = [
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UZUMAKI NARUTO-Ⅴ", search:"うずまきナルト　なると", type:"vib", price:1200, date:"1899-12-30", img:"images/naruto/naruto_vib5.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UZUMAKI NARUTO-Ⅲ", search:"うずまきナルト　なると", type:"vib", price:800, date:"1899-12-30", img:"images/naruto/naruto_vib3.jpg", source:"https://bsp-prize.jp/"},
 {series:"mononoke", name:"ぬーどるストッパーフィギュアー薬売りー", search:"くすりうり", type:"nusuto", price:1800, date:"2026-05-10", img:"images/mononoke/kusuriuri.jpg", source:"https://charahiroba.com/"},
-{series:"hiro", name:"僕のヒーローアカデミア 7TH SEASON FIGURE-IZUKU MIDORIYA-", search:"みどりやいずく　でく　緑谷出久　デク", type:"", price:1000, date:"1899-12-30", img:"images/hiro/deku_7.jpg", source:"https://bsp-prize.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア 7TH SEASON FIGURE-IZUKU MIDORIYA-", search:"みどりやいずく　でく　緑谷出久　デク", type:"", price:600, date:"1899-12-30", img:"images/hiro/deku_7.jpg", source:"https://bsp-prize.jp/"},
 {series:"gintama", name:"3年Z組銀八先生 デスクフィギュア-沖田総悟-", search:"おきたそうご", type:"", price:1100, date:"1899-12-30", img:"images/gintama/okita.jpg", source:"https://bsp-prize.jp/"},
 {series:"kamen", name:"仮面ライダー電王 BIGサイズソフビ マスクディスプレイ-電王-", search:"でんおう", type:"", price:400, date:"1899-12-30", img:"images/kamen/deno_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"buri", name:"BLEACH MAXIMATIC ICHIGO KUROSAKI", search:"黒崎一護　くろさきいちご", type:"ma", price:1800, date:"1899-12-30", img:"images/buri/itigo_ma.jpg", source:"https://bsp-prize.jp/"},
