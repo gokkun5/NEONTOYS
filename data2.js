@@ -1,6 +1,12 @@
 window.figures2 = [
 
 
+
+
+{series:"monogatari", name:"〈物語〉シリーズ　Desktop Cute フィギュア　戦場ヶ原ひたぎ", search:"せんじょうがはらひたぎ", type:"desk", price:1000, date:"1899-12-30", img:"images/monogatari/hitagi_desk.jpg", source:"https://www.taito.co.jp/"},
+{series:"zyozyo", name:"ジョジョの奇妙な冒険 戦闘潮流 柱の男たちアンティーク風ミラー", search:"はしらのおこと", type:"", price:500, date:"1899-12-30", img:"images/zyozyo/hasira_kagami.jpg", source:"https://bsp-prize.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン　Coreful フィギュア　ユーベル（タイクレ限定）", search:"ゆーべる", type:"core", price:900, date:"1899-12-30", img:"images/furi-ren/yube_core_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン　Desktop Cute フィギュア　フリーレン～ルームウェアver.～（タイクレ限定）", search:"フリーレン", type:"desk", price:1200, date:"1899-12-30", img:"images/furi-ren/furi_rumu_taikure.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"初音ミク　AMP フィギュア～Latidos-2022 ver.-～", search:"らてぃどす　はつねみく　ラティドス", type:"amp", price:3000, date:"1899-12-30", img:"images/miku/latidos_amp2022.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"Trio-Try-iT Figure ーおでかけドレスー", search:"どれす", type:"trio", price:900, date:"1899-12-30", img:"images/miku/odekake.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"初音ミク　ぬーどるストッパーフィギュアーオータムデート・ピンクver.ー", search:"おーたむでーと　はつねみく", type:"nusuto", price:600, date:"1899-12-30", img:"images/miku/ota_pink.jpg", source:"https://charahiroba.com/"},
@@ -519,7 +525,7 @@ window.figures2 = [
 {series:"pansuto", name:"『New PANTY ＆ STOCKING with GARTERBELT』 BRILLIANT フィギュア パンティ", search:"ぱんてぃ", type:"bri", price:1000, date:"1899-12-30", img:"images/pansuto/panty.jpg", source:"http://www.fans.co.jp/"},
 {series:"singeki", name:"Grandista　-エレン・イェーガー-", search:"えれん", type:"gra", price:1200, date:"1899-12-30", img:"images/singeki/eren_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"singeki", name:"Grandista　-リヴァイ-", search:"りヴぁい", type:"gra", price:1500, date:"1899-12-30", img:"images/singeki/riva_gra.jpg", source:"https://bsp-prize.jp/"},
-{series:"kon", name:"Trio-Try-iT -琴吹紬-", search:"ことぶきつむぎ", type:"trio", price:1400, date:"1899-12-30", img:"images/kon/mugi_trio.jpg", source:"https://charahiroba.com/"},
+{series:"kon", name:"Trio-Try-iT -琴吹紬-", search:"ことぶきつむぎ", type:"trio", price:1300, date:"1899-12-30", img:"images/kon/mugi_trio.jpg", source:"https://charahiroba.com/"},
 {series:"kon", name:"Trio-Try-iT -田井中律-", search:"たいなかりつ", type:"trio", price:1400, date:"1899-12-30", img:"images/kon/ritu_trio.jpg", source:"https://charahiroba.com/"},
 {series:"kon", name:"Trio-Try-iT -秋山澪-", search:"あきやまみお", type:"trio", price:1500, date:"1899-12-30", img:"images/kon/mio_trio.jpg", source:"https://charahiroba.com/"},
 {series:"kon", name:"Trio-Try-iT -中野梓-", search:"なかのあずさ", type:"trio", price:1500, date:"1899-12-30", img:"images/kon/azu_trio.jpg", source:"https://charahiroba.com/"},
@@ -715,7 +721,7 @@ window.figures2 = [
 {series:"tensura", name:"劇場版 転生したらスライムだった件 蒼海の涙編 GLITTER&GLAMOURS ユラ", search:"ゆら", type:"gli", price:500, date:"1899-12-30", img:"images/tensura/yura.jpg", source:"https://bsp-prize.jp/"},
 {series:"nikke", name:"『勝利の女神：NIKKE』 ぬーどるストッパーフィギュア ー モダニア ファースト・アフェクション ー", search:"もだにあ", type:"nusuto", price:600, date:"1899-12-30", img:"images/nikke/moda_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"nikke", name:"『勝利の女神：NIKKE』 ぬーどるストッパーフィギュア ー ブリッド ー", search:"ぶりっど", type:"nusuto", price:400, date:"1899-12-30", img:"images/nikke/buriddo_nusuto.jpg", source:"https://charahiroba.com/"},
-{series:"nikke", name:"勝利の女神：NIKKE アニス こーどリールフィギュア", search:"あにす", type:"ko-do", price:600, date:"1899-12-30", img:"images/nikke/anisu_ko-do.jpg", source:"https://bsp-prize.jp/"},
+{series:"nikke", name:"勝利の女神：NIKKE アニス こーどリールフィギュア", search:"あにす", type:"ko-do", price:700, date:"1899-12-30", img:"images/nikke/anisu_ko-do.jpg", source:"https://bsp-prize.jp/"},
 {series:"nikke", name:"勝利の女神：NIKKE バイパー こーどリールフィギュア", search:"ばいぱー", type:"ko-do", price:600, date:"1899-12-30", img:"images/nikke/baipa_ko-do.jpg", source:"https://bsp-prize.jp/"},
 {series:"mahoako", name:"魔法少女にあこがれて Vivitフィギュア マジアベーゼ Ver.1.5", search:"まじあべーぜ", type:"vivi", price:1200, date:"1899-12-30", img:"images/mahoako/mazi_vivit.jpg", source:"http://www.fans.co.jp/"},
 {series:"mahoako", name:"『魔法少女にあこがれて』 One-Seventh Caratフィギュア マジアベーゼ 悪のバニーVer.", search:"まじあべーぜ", type:"one", price:800, date:"1899-12-30", img:"images/mahoako/mazi_aku.jpg", source:"http://www.fans.co.jp/"},
