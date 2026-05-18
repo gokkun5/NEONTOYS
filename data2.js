@@ -2,6 +2,12 @@ window.figures2 = [
 
 
 
+
+{series:"gotoyome", name:"TVスペシャルアニメ「五等分の花嫁∽」　Trio－Try－iT Figureー中野四葉・マリンルックー", search:"なかのよつば", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/yotuba_marin.jpg", source:"https://www.taito.co.jp/"},
+{series:"amagamisan", name:"甘神さんちの縁結びYumemirize“甘神夕奈”", search:"あまがみゆな", type:"yume", price:300, date:"1899-12-30", img:"images/amagamisan/yuna_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"vtu", name:"洛天依　Coreful フィギュア　～Star Dress ver.～（タイクレ限定）", search:"るおてんい", type:"core", price:1000, date:"1899-12-30", img:"images/vtu/ruo_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活　Desktop Cute フィギュア　レム～Star Dreamy ver.～（タイクレ限定）", search:"れむ", type:"desk", price:1200, date:"1899-12-30", img:"images/rezero/remu_rumu_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン　Desktop Cute フィギュア　フリーレン～トランクver.～（タイクレ限定）", search:"ふりーれん", type:"desk", price:1200, date:"1899-12-30", img:"images/furi-ren/furi_toranku_taikure.jpg", source:"https://www.taito.co.jp/"},
 {series:"deara", name:"デート・ア・ライブV　Desktop Cute フィギュア　時崎狂三～ナイトウェアver.～", search:"ときさきくるみ", type:"desk", price:500, date:"1899-12-30", img:"images/deara/kurumi_desk_night.jpg", source:"https://www.taito.co.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活 -Relax time-エルザ・グランヒルテ", search:"えるざぐらんひるて", type:"relax", price:600, date:"1899-12-30", img:"images/rezero/eruza_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミクシリーズ　[SPM]フィギュア“初音ミク 15th Anniversary”村上ゆいちVer.", search:"はつねみく", type:"spm", price:1100, date:"1899-12-30", img:"images/miku/15_spm.jpg", source:"https://segaplaza.jp/"},
