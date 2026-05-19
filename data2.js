@@ -2,9 +2,12 @@ window.figures2 = [
 
 
 
-
-
-
+{series:"ranma", name:"TVアニメ「らんま1/2」 響良牙 フィギュア", search:"ひびきりょうが", type:"", price:700, date:"1899-12-30", img:"images/ranma/ryoga.jpg", source:"https://bsp-prize.jp/"},
+{series:"nikke", name:"勝利の女神：NIKKEYumemirize“ドレイク”", search:"どれいく", type:"yume", price:350, date:"1899-12-30", img:"images/nikke/dore_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"monogatari", name:"西尾維新アニメプロジェクト〈物語〉シリーズ ESPRESTO-Clear material another color-忍野忍", search:"おしのしのぶ", type:"esp", price:500, date:"1899-12-30", img:"images/monogatari/sinobu_esp.jpg", source:"https://bsp-prize.jp/"},
+{series:"monogatari", name:"〈物語〉シリーズ 『結物語』　Cover Visual 戦場ヶ原ひたぎ", search:"せんじょうがはらひたぎ", type:"", price:300, date:"1899-12-30", img:"images/monogatari/hitagi_musubi.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"aobuta", name:"青春ブタ野郎はバニーガール先輩の夢を見ないLuminasta “桜島麻衣”～casualclothes～", search:"さくらじままい", type:"lum", price:600, date:"1899-12-30", img:"images/aobuta/casual.jpg", source:"https://segaplaza.jp/"},
+{series:"rosidere", name:"TVアニメ『時々ボソッとロシア語でデレる隣のアーリャさん』ちょこのせプレミアムフィギュア“マーシャ”", search:"まーしゃ", type:"tyoko", price:800, date:"1899-12-30", img:"images/rosidere/masya_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"gotoyome", name:"Trio-Try-iT Figure ー 中野五月・マリンルック ー", search:"なかのいつき", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/ituki_marin.jpg", source:"https://charahiroba.com/"},
 {series:"gotoyome", name:"Trio-Try-iT Figure ー中野二乃・マリンルックー", search:"なかのにの", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/nino_marin.jpg", source:"https://charahiroba.com/"},
 {series:"gotoyome", name:"Trio－Try－iT Figureー中野一花・マリンルックー", search:"なかのいちか", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/itika_marin.jpg", source:"https://charahiroba.com/"},
