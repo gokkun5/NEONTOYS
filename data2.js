@@ -2,12 +2,20 @@ window.figures2 = [
 
 
 
+
+
+
+{series:"gotoyome", name:"Trio-Try-iT Figure ー 中野五月・マリンルック ー", search:"なかのいつき", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/ituki_marin.jpg", source:"https://charahiroba.com/"},
+{series:"gotoyome", name:"Trio-Try-iT Figure ー中野二乃・マリンルックー", search:"なかのにの", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/nino_marin.jpg", source:"https://charahiroba.com/"},
+{series:"gotoyome", name:"Trio－Try－iT Figureー中野一花・マリンルックー", search:"なかのいちか", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/itika_marin.jpg", source:"https://charahiroba.com/"},
+{series:"gotoyome", name:"Trio-Try-iT Figure ー中野三玖・マリンルックー", search:"なかのみく", type:"trio", price:500, date:"1899-12-30", img:"images/gotoyome/miku_marin.jpg", source:"https://charahiroba.com/"},
+{series:"hosikuzu", name:"Trio-Try-iT Figure ー明内ユウー", search:"あけうちゆう", type:"trio", price:300, date:"1899-12-30", img:"images/hosikuzu/yu_trio.jpg", source:"https://charahiroba.com/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活　ぬーどるストッパーフィギュアーレム・花の妖精ー", search:"れむ", type:"nusuto", price:800, date:"1899-12-30", img:"images/rezero/remu_hanayousei.jpg", source:"https://charahiroba.com/"},
 {series:"furi-ren", name:"葬送のフリーレンYumemirizeフリーレン～あの頃～", search:"ふりーれん", type:"yume", price:1000, date:"1899-12-30", img:"images/furi-ren/furi_yume_ano.jpg", source:"https://segaplaza.jp/"},
 {series:"deara", name:"デート・ア・ライブⅤ　Desktop Cute フィギュア　夜刀神十香～バニーver.～（タイクレ限定）", search:"やとがみとおか", type:"desk", price:1300, date:"1899-12-30", img:"images/deara/toka_desk_bani_taikure.jpg", source:"https://www.taito.co.jp/"},
 {series:"rosidere", name:"TVアニメ『時々ボソッとロシア語でデレる隣のアーリャさん』Luminasta“アーリャ”ワンピース", search:"あーりゃ", type:"lum", price:300, date:"1899-12-30", img:"images/rosidere/arya_wanpi.jpg", source:"https://segaplaza.jp/"},
 {series:"monogatari", name:"〈物語〉シリーズプレミアムフィギュア“斧乃木余接”", search:"おののきよつぎ", type:"spm", price:500, date:"1899-12-30", img:"images/monogatari/yotugi_spm.jpg", source:"https://segaplaza.jp/"},
-{series:"gotoyome", name:"TVスペシャルアニメ「五等分の花嫁∽」　Trio－Try－iT Figureー中野四葉・マリンルックー", search:"なかのよつば", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/yotuba_marin.jpg", source:"https://www.taito.co.jp/"},
+{series:"gotoyome", name:"Trio－Try－iT Figureー中野四葉・マリンルックー", search:"なかのよつば", type:"trio", price:300, date:"1899-12-30", img:"images/gotoyome/yotuba_marin.jpg", source:"https://www.taito.co.jp/"},
 {series:"amagamisan", name:"甘神さんちの縁結びYumemirize“甘神夕奈”", search:"あまがみゆな", type:"yume", price:300, date:"1899-12-30", img:"images/amagamisan/yuna_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"vtu", name:"洛天依　Coreful フィギュア　～Star Dress ver.～（タイクレ限定）", search:"るおてんい", type:"core", price:1000, date:"1899-12-30", img:"images/vtu/ruo_taikure.jpg", source:"https://www.taito.co.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活　Desktop Cute フィギュア　レム～Star Dreamy ver.～（タイクレ限定）", search:"れむ", type:"desk", price:1200, date:"1899-12-30", img:"images/rezero/remu_rumu_taikure.jpg", source:"https://www.taito.co.jp/"},
