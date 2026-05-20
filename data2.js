@@ -1,6 +1,14 @@
 window.figures2 = [
 
 
+
+
+{series:"vtu", name:"洛天依 ぬーどるストッパーフィギュアー洛天依・ウェイトレスver.ー", search:"るおてんい", type:"nusuto", price:600, date:"1899-12-30", img:"images/vtu/we_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"samapoke", name:"『Summer Pockets』ぬーどるストッパーフィギュアー加藤うみー", search:"かとううみ", type:"nusuto", price:450, date:"1899-12-30", img:"images/samapoke/umi_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"siunzi", name:"紫雲寺家の子供たち ぬーどるストッパーフィギュアー紫雲寺ことのー", search:"しうんじことの", type:"nusuto", price:400, date:"1899-12-30", img:"images/siunzi/kotono_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"ruri", name:"瑠璃の宝石 ぬーどるストッパーフィギュアー谷川瑠璃ー", search:"たにがわるり", type:"nusuto", price:350, date:"1899-12-30", img:"images/ruri/ruri_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"syumatu", name:"終末ツーリング ぬーどるストッパーフィギュア―アイリ―", search:"あいり", type:"nusuto", price:300, date:"1899-12-30", img:"images/syumatu/airi_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア SPECIAL モンキー・D・ルフィ ギア5 -ゴムゴムの白い銃乱打-", search:"るふぃ", type:"wcf", price:500, date:"1899-12-30", img:"images/wanpi/gomugomusiro.jpg", source:"https://bsp-prize.jp/"},
 {series:"gotoyome", name:"五等分の花嫁∽ -Celestial vivi-中野一花", search:"なかのいちか", type:"cele", price:300, date:"1899-12-30", img:"images/gotoyome/itika_cele.jpg", source:"https://bsp-prize.jp/"},
 {series:"gotoyome", name:"五等分の花嫁∽ -Celestial vivi-中野二乃", search:"なかのにの", type:"cele", price:300, date:"1899-12-30", img:"images/gotoyome/nino_cele.jpg", source:"https://bsp-prize.jp/"},
 {series:"gotoyome", name:"五等分の花嫁∽ -Celestial vivi-中野三玖", search:"なかのみく", type:"cele", price:400, date:"1899-12-30", img:"images/gotoyome/miku_cele.jpg", source:"https://bsp-prize.jp/"},
@@ -534,7 +542,7 @@ window.figures2 = [
 {series:"uruse", name:"うる星やつら GLITTER&GLAMOURS-LUM-～Sparkle style～", search:"らむ", type:"gli", price:600, date:"1899-12-30", img:"images/uruse/ramu_supa_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"danmesi", name:"ダンジョン飯ちょこのせプレミアムフィギュア“マルシル”", search:"まるしる", type:"tyoko", price:500, date:"1899-12-30", img:"images/danmesi/marusiru_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"rikorisu", name:"リコリス・リコイルLuminasta“錦木千束 ‐ 浴衣でお祭り”", search:"にしきぎちさと", type:"lum", price:400, date:"1899-12-30", img:"images/rikorisu/tisato_lum_yukata2.jpg", source:"https://segaplaza.jp/"},
-{series:"rikorisu", name:"リコリス・リコイルLuminasta“井ノ上たきな ‐ 浴衣でお祭り”", search:"いのうえたきな", type:"lum", price:400, date:"1899-12-30", img:"images/rikorisu/takina_lum_yukata2.jpg", source:"https://segaplaza.jp/"},
+{series:"rikorisu", name:"リコリス・リコイルLuminasta“井ノ上たきな ‐ 浴衣でお祭り”", search:"いのうえたきな", type:"lum", price:350, date:"1899-12-30", img:"images/rikorisu/takina_lum_yukata2.jpg", source:"https://segaplaza.jp/"},
 {series:"meidoin", name:"メイドインアビス 烈日の黄金郷 -Relax time-ナナチ", search:"ななち", type:"relax", price:800, date:"1899-12-30", img:"images/meidoin/nanati_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"ante", name:"UNDERTALE あみこっと～うざいイヌ～", search:"うざいぬ", type:"", price:800, date:"1899-12-30", img:"images/ante/uzainu.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC SATORU GOJO Ⅱ", search:"ごじょうさとる　五条悟", type:"ma", price:1000, date:"1899-12-30", img:"images/zyuzyutu/gozyo_ma2.jpg", source:"https://bsp-prize.jp/"},
@@ -609,7 +617,7 @@ window.figures2 = [
 {series:"wanpi", name:"『ワンピース』 Grandista ボア・ハンコック", search:"ぼあはんこっく", type:"gra", price:1300, date:"1899-12-30", img:"images/wanpi/han_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"kusuri", name:"『薬屋のひとりごと』 Vivit フィギュア 猫猫 （狩り）", search:"まおまお", type:"vivi", price:550, date:"1899-12-30", img:"images/kusuri/maomao_vivi.jpg", source:"http://www.fans.co.jp/"},
 {series:"tyen", name:"『チェンソーマン』 Break time collection vol.4", search:"ぽちた　でんじ　ポチ太　デンジ", type:"bre", price:1400, date:"1899-12-30", img:"images/tyen/potita_bre.jpg", source:"https://bsp-prize.jp/"},
-{series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -獪岳-", search:"かいがく", type:"vib", price:700, date:"1899-12-30", img:"images/kimetu/kai_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -獪岳-", search:"かいがく", type:"vib", price:600, date:"1899-12-30", img:"images/kimetu/kai_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -我妻善逸-", search:"あがつまぜんいつ", type:"vib", price:900, date:"1899-12-30", img:"images/kimetu/zen_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"hant", name:"『HUNTER×HUNTER』 フィギュア-ゴン-G.I.編", search:"ごん", type:"", price:700, date:"1899-12-30", img:"images/hant/gon_gi.jpg", source:"https://bsp-prize.jp/"},
 {series:"hant", name:"『HUNTER×HUNTER』 フィギュア-キルア-G.I.編", search:"きるあ", type:"", price:900, date:"1899-12-30", img:"images/hant/kirua_gi.jpg", source:"https://bsp-prize.jp/"},
