@@ -1,8 +1,9 @@
 window.figures2 = [
 
-
-
-
+{series:"witti", name:"TVアニメ『ウィッチウォッチ』 フィギュア-若月ニコ-", search:"わかつきにこ", type:"", price:300, date:"1899-12-30", img:"images/witti/niko_seifuku.jpg", source:"https://bsp-prize.jp/"},
+{series:"osinoko", name:"【推しの子】 黒川あかね HereDitailフィギュア", search:"くろかわあかね", type:"here", price:600, date:"1899-12-30", img:"images/osinoko/akane_sk.jpg", source:"https://www.sk-japan.co.jp/charatoru/topic"},
+{series:"gotoyome", name:"『五等分の花嫁∽』 Bloo-me! ー中野五月ー", search:"なかのいつき", type:"", price:550, date:"1899-12-30", img:"images/gotoyome/ituki_bloo.jpg", source:"https://charahiroba.com/"},
+{series:"gotoyome", name:"『五等分の花嫁∽』 Bloo-me! ー 中野三玖 ー", search:"なかのみく", type:"", price:550, date:"1899-12-30", img:"images/gotoyome/miku_bloo.jpg", source:"https://charahiroba.com/"},
 {series:"vtu", name:"洛天依 ぬーどるストッパーフィギュアー洛天依・ウェイトレスver.ー", search:"るおてんい", type:"nusuto", price:600, date:"1899-12-30", img:"images/vtu/we_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"samapoke", name:"『Summer Pockets』ぬーどるストッパーフィギュアー加藤うみー", search:"かとううみ", type:"nusuto", price:450, date:"1899-12-30", img:"images/samapoke/umi_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"siunzi", name:"紫雲寺家の子供たち ぬーどるストッパーフィギュアー紫雲寺ことのー", search:"しうんじことの", type:"nusuto", price:400, date:"1899-12-30", img:"images/siunzi/kotono_nusuto.jpg", source:"https://charahiroba.com/"},
@@ -183,7 +184,7 @@ window.figures2 = [
 {series:"katainaka", name:"片田舎のおっさん、剣聖になるハイプレミアムフィギュア“スレナ・リサンデラ”", search:"すれなりさんでら", type:"hi", price:450, date:"1899-12-30", img:"images/katainaka/sure_hi.jpg", source:"https://segaplaza.jp/"},
 {series:"deara", name:"デート・ア・ライブⅤ　Desktop Cute フィギュア　崇宮澪～バニーver.～", search:"たかみやみお", type:"desk", price:500, date:"1899-12-30", img:"images/deara/mio_desk_bani.jpg", source:"https://www.taito.co.jp/"},
 {series:"witti", name:"TVアニメ『ウィッチウォッチ』ちょこのせプレミアムフィギュア“乙木守仁”", search:"おとぎもりひと", type:"tyoko", price:350, date:"1899-12-30", img:"images/witti/morihito_tyoko.jpg", source:"https://segaplaza.jp/"},
-{series:"yugi", name:"遊☆戯☆王デュエルモンスターズ ブラック・マジシャン・ガール HereDitailフィギュア クリーミーカラーVer.", search:"ぶらっくまじしゃんがーる", type:"", price:500, date:"1899-12-30", img:"images/yugi/buramazi_kuri.jpg", source:"https://www.sk-japan.co.jp/charatoru/topic"},
+{series:"yugi", name:"遊☆戯☆王デュエルモンスターズ ブラック・マジシャン・ガール HereDitailフィギュア クリーミーカラーVer.", search:"ぶらっくまじしゃんがーる", type:"here", price:500, date:"1899-12-30", img:"images/yugi/buramazi_kuri.jpg", source:"https://www.sk-japan.co.jp/charatoru/topic"},
 {series:"dezimon", name:"デジモンアドベンチャー フィギュアライト パタモン-デジヴァイス-", search:"ぱたもん", type:"", price:500, date:"2026-05-08", img:"images/dezimon/pata_dezi.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 須佐能乎＆九喇嘛(九喇嘛リンクモード)フィギュア", search:"すさのお", type:"", price:1000, date:"2026-05-14", img:"images/naruto/susanoo.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 須佐能乎＆九喇嘛(九喇嘛リンクモード)フィギュア", search:"くらま", type:"", price:700, date:"2026-05-14", img:"images/naruto/kurama_susanoo.jpg", source:"https://bsp-prize.jp/"},
