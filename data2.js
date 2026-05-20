@@ -1,6 +1,10 @@
 window.figures2 = [
 
 
+
+
+
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　結城美柑～チャイナドレスver.～", search:"ゆうきみかん", type:"desk", price:600, date:"1899-12-30", img:"images/tora/mikan_chaina_desk.jpg", source:"https://www.taito.co.jp/"},
 {series:"oba", name:"オーバーロード アルベドフィギュアBIKINI ARMOR ver.", search:"あるべど", type:"", price:600, date:"1899-12-30", img:"images/oba/aru_bikini.jpg", source:"https://bsp-prize.jp/"},
 {series:"oba", name:"オーバーロード　Coreful フィギュア　アルベド～踊り子ver.～", search:"あるべど", type:"core", price:600, date:"1899-12-30", img:"images/oba/aru_odoriko.jpg", source:"https://www.taito.co.jp/"},
 {series:"oba", name:"オーバーロード　Desktop Cute フィギュア　アルベド～バニーver.～Renewal", search:"あるべど", type:"desk", price:600, date:"1899-12-30", img:"images/oba/aru_bani_re.jpg", source:"https://www.taito.co.jp/"},
@@ -347,7 +351,7 @@ window.figures2 = [
 {series:"tyen", name:"チェンソーマン GLITTER&GLAMOURS-POWER-", search:"ぱわー　パワー", type:"gli", price:900, date:"1899-12-30", img:"images/tyen/pawa_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　ララ～チャイナドレスver.～", search:"らら", type:"desk", price:600, date:"1899-12-30", img:"images/tora/rara_chaina.jpg", source:"https://www.taito.co.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　モモ～チャイナドレスver.～", search:"もも", type:"desk", price:700, date:"1899-12-30", img:"images/tora/momo_chaina.jpg", source:"https://www.taito.co.jp/"},
-{series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　古手川唯～チャイナドレスver.～", search:"こてがわゆい", type:"desk", price:800, date:"1899-12-30", img:"images/tora/yui_chaina.jpg", source:"https://www.taito.co.jp/"},
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　古手川唯～チャイナドレスver.～", search:"こてがわゆい", type:"desk", price:700, date:"1899-12-30", img:"images/tora/yui_chaina.jpg", source:"https://www.taito.co.jp/"},
 {series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～制服ver.～", search:"きたがわまりん", type:"core", price:1200, date:"1899-12-30", img:"images/kisekoi/seifuku_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～水着ver.～", search:"きたがわまりん", type:"core", price:1100, date:"1899-12-30", img:"images/kisekoi/mizugi_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～パーカーver.～", search:"きたがわまりん", type:"core", price:900, date:"1899-12-30", img:"images/kisekoi/paka_core.jpg", source:"https://www.taito.co.jp/"},
