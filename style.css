@@ -347,6 +347,15 @@ select.active,
     gap: 8px !important;
     padding: 5px !important;
   }
+  
+  #pickupContainer {
+    display: flex !important;
+  }
+
+  .pickup-text {
+    font-size: 18px !important;
+  }
+  
 }
 
 /* ===== 出典セクション（修正） ===== */
@@ -454,3 +463,4 @@ select.active,
   margin-top: 10px;
   margin-bottom: 5px;
 }
+
