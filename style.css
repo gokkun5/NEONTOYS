@@ -437,3 +437,20 @@ select.active,
   border-bottom: 1px solid #00eaff;
 }
 
+.result-count {
+  font-size: 1em;
+  font-weight: bold;
+  color: #fffce1;
+  text-shadow: 0 0 5px #fff, 0 0 10px #ffdf00, 0 0 20px #ffdf00;
+  letter-spacing: 0.05em;
+}
+
+#pickupContainer {
+  position: relative;
+  width: 100%;
+  min-height: 10px; 
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}

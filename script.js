@@ -248,7 +248,7 @@ function showFigures() {
   // 看板の更新
   const isFiltering = (search !== "" || series !== "all" || type !== "all" || price !== "all" || sort !== "none");
   const hasNewItem = html.includes('new-badge');
-  updatePickupTitle(!isAllShowMode && !isFiltering && hasNewItem);
+updatePickupTitle(!isAllShowMode && !isFiltering && hasNewItem, totalCount);
 }
 
 // ==========================================
@@ -319,13 +319,16 @@ if (allShowBtn) {
   });
 }
 
-function updatePickupTitle(show) {
+function updatePickupTitle(show, count) {
   const container = document.getElementById("pickupContainer");
   if (!container) return;
 
   if (show && !isAllShowMode) {
-    container.innerHTML = '<h2 class="pickup-text">PICKUP</h2>';
+    container.innerHTML = '<h2 class="pickup-text">新着プライズ</h2>';
+  } else if (count !== undefined) {
+container.innerHTML = `<h2 class="pickup-text">検索結果 <span class="result-count">${count}件</span></h2>`;
   } else {
     container.innerHTML = '';
   }
 }
+
