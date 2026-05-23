@@ -10,3 +10,22 @@ body h2 {
 body p {
   color: white;
 }
+
+.nagare h1 {
+  color: #00ffff;
+  text-align: center;
+  font-size: 2em;
+  letter-spacing: 0.1em;
+  border-bottom: 2px solid #00ffff;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+}
+
+.nagare img {
+  width: 100%;
+  max-width: 800px;
+  display: block;
+  margin: 0 auto 20px;
+  border: 2px solid #00ffff;
+  border-radius: 8px;
+}
