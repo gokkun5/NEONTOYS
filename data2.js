@@ -2,6 +2,10 @@ window.figures2 = [
 
 
 
+{series:"aogiri", name:"あおぎり高校　１/７スケールフィギュア　春雨麗女", search:"はるさめうらめ", type:"", price:600, date:"1899-12-30", img:"images/aogiri/urame_el.jpg", source:"https://www.elcocoland.com/shop/"},
+{series:"kuresin", name:"クレヨンしんちゃん SOFVIMATES～シロとひまわり～", search:"しろ", type:"sof", price:600, date:"1899-12-30", img:"images/kuresin/sirohima_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん SOFVIMATES～シロとひまわり～", search:"", type:"sof", price:600, date:"1899-12-30", img:"images/kuresin/himasiro_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん おおきなSOFVIMATES～ぶりぶりざえもん～よ", search:"", type:"", price:800, date:"1899-12-30", img:"images/kuresin/buriburi.jpg", source:"https://bsp-prize.jp/"},
 {series:"soniko", name:"すーぱーそに子　BiCute Bunnies FigureーNewly Drawn Costume 燕尾ver.ー", search:"すーぱーそにこ", type:"bani", price:600, date:"1899-12-30", img:"images/soniko/enbi.jpg", source:"https://charahiroba.com/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 Figuno-TANJIRO KAMADO・NEZUKO KAMADO-", search:"竈門禰豆子　かまどねずこ", type:"figu", price:400, date:"2026-05-21", img:"images/kimetu/nezu_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 Figuno-TANJIRO KAMADO・NEZUKO KAMADO-", search:"竈門禰豆子　かまどねずこ", type:"figu", price:400, date:"2026-05-21", img:"images/kimetu/nezu_b.jpg", source:"https://bsp-prize.jp/"},
@@ -295,7 +299,7 @@ window.figures2 = [
 {series:"rezero", name:"王選候補者と騎士フィギュアークルシュ陣営ー", search:"フェリス　ふぇりす", type:"", price:1200, date:"2026-05-08", img:"images/rezero/ferisu_gigo.jpg", source:"https://charahiroba.com/"},
 {series:"haruhi", name:"BiCute Bunnies Figure ー涼宮ハルヒー", search:"すずみやはるひ", type:"bani", price:600, date:"1899-12-30", img:"images/haruhi/haruhi_bunny.jpg", source:"https://charahiroba.com/"},
 {series:"haruhi", name:"BiCute Bunnies Figure ー長門有希ー", search:"ながとゆき", type:"bani", price:600, date:"1899-12-30", img:"images/haruhi/nagato_bani.jpg", source:"https://charahiroba.com/"},
-{series:"nikke", name:"ぬーどるストッパーフィギュアーD：キラーワイフー", search:"でぃーきらーわいふ", type:"nusuto", price:900, date:"2026-05-12", img:"images/nikke/waifu.jpg", source:"https://charahiroba.com/"},
+{series:"nikke", name:"ぬーどるストッパーフィギュアーD：キラーワイフー", search:"でぃーきらーわいふ", type:"nusuto", price:700, date:"2026-05-12", img:"images/nikke/waifu.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"ぬーどるストッパーフィギュアー桜ミク2026ー", search:"さくらみく", type:"nusuto", price:800, date:"2026-05-12", img:"images/miku/sakura2026_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"death", name:"ぬーどるストッパーフィギュアーリューク―", search:"りゅーく", type:"nusuto", price:800, date:"2026-05-12", img:"images/death/ryuku.jpg", source:"https://charahiroba.com/"},
 {series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.8", search:"大神ミオ　おおかみみお", type:"hikkake", price:600, date:"1899-12-30", img:"images/holo/mio_hikkake.jpg", source:"https://charahiroba.com/"},
@@ -709,7 +713,7 @@ window.figures2 = [
 {series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ 叛逆の物語 佐倉杏子 フィギュア", search:"さくらきょうこ", type:"", price:1000, date:"1899-12-30", img:"images/madomagi/kyoko.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボールZ』 G×materia VEGETA Ⅱ", search:"べじーた", type:"gma", price:600, date:"1899-12-30", img:"images/db/bezi_gma.jpg", source:"https://bsp-prize.jp/"},
 {series:"aimasu", name:"『学園アイドルマスター』 ESPRESTO-Sweet moment-篠澤 広", search:"しのさわひろ", type:"esp", price:600, date:"1899-12-30", img:"images/aimasu/aimasu_hiro_es.jpg", source:"https://bsp-prize.jp/"},
-{series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -GOL.D.ROGER-", search:"ごーるどろじゃー　ゴールドロジャー", type:"bato", price:700, date:"1899-12-30", img:"images/wanpi/rozya_bato.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -GOL.D.ROGER-", search:"ごーるどろじゃー　ゴールドロジャー", type:"bato", price:600, date:"1899-12-30", img:"images/wanpi/rozya_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ワンピース』 BATTLE RECORD COLLECTION -SILVERS.RAYLEIGH-", search:"しるばーれいりー　シルバーレイリー", type:"bato", price:600, date:"1899-12-30", img:"images/wanpi/reiri_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"vtu", name:"『赤見かるびの「お笑いかるび塾」』 Luminasta　“赤見かるび”", search:"あかみかるび", type:"lum", price:400, date:"1899-12-30", img:"images/vtu/akami_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"『呪術廻戦 死滅回游』 Luminasta　“脹相”", search:"ちょうそう", type:"lum", price:1300, date:"1899-12-30", img:"images/zyuzyutu/tyousou_lum.jpg", source:"https://segaplaza.jp/"},
@@ -793,7 +797,7 @@ window.figures2 = [
 {series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS -胡蝶しのぶ-", search:"こちょうしのぶ", type:"vib", price:1500, date:"1899-12-30", img:"images/kimetu/sinobu_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -煉獄杏寿郎-", search:"れんごくきょうじゅろう", type:"vib", price:1600, date:"1899-12-30", img:"images/kimetu/rengoku_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 VIBRATION STARS PLUS -不死川実弥-", search:"しなずがわさねみ", type:"vib", price:1800, date:"1899-12-30", img:"images/kimetu/sina_vib.jpg", source:"https://bsp-prize.jp/"},
-{series:"kimetu", name:"『鬼滅の刃』 Grandista-DOMA-", search:"どうま　童磨", type:"gra", price:1500, date:"1899-12-30", img:"images/kimetu/doma_gra.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"『鬼滅の刃』 Grandista-DOMA-", search:"どうま　童磨", type:"gra", price:1400, date:"1899-12-30", img:"images/kimetu/doma_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 Grandista-RENGOKU KYOJURO-", search:"れんごくきょうじゅろう　煉獄杏寿郎", type:"gra", price:1000, date:"1899-12-30", img:"images/kimetu/rengoku_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 Grandista-AKAZA-", search:"あかざ　猗窩座", type:"gra", price:1000, date:"1899-12-30", img:"images/kimetu/akaza_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 Xross Link フィギュア “猗窩座”", search:"あかざ", type:"xros", price:800, date:"1899-12-30", img:"images/kimetu/akaza2_xros.jpg", source:"https://segaplaza.jp/"},
@@ -931,7 +935,7 @@ window.figures2 = [
 {series:"sonota", name:"『おぱんちゅうさぎ』ぬーどるストッパーフィギュア－ 盛れおぱんちゅうさぎ －", search:"", type:"nusuto", price:500, date:"1899-12-30", img:"images/sonota/opantyu.jpg", source:"https://charahiroba.com/"},
 {series:"oba", name:"『オーバーロード』Classical tuning アルベド 千夜一夜物語", search:"あるべど", type:"", price:600, date:"1899-12-30", img:"images/oba/aru_senyo.jpg", source:"https://bsp-prize.jp/"},
 {series:"oba", name:"『オーバーロード』BiCute Bunnies Figureー アルベド ー", search:"あるべど", type:"bani", price:700, date:"1899-12-30", img:"images/oba/aru_bani.jpg", source:"https://charahiroba.com/"},
-{series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC YUJI ITADORI-死滅回游-", search:"いたどりゆうじ　虎杖悠仁", type:"ma", price:600, date:"1899-12-30", img:"images/zyuzyutu/itadori_ma.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC YUJI ITADORI-死滅回游-", search:"いたどりゆうじ　虎杖悠仁", type:"ma", price:500, date:"1899-12-30", img:"images/zyuzyutu/itadori_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC NAOYA ZEN’IN", search:"ぜんいんなおや　禪院直哉", type:"ma", price:1200, date:"1899-12-30", img:"images/zyuzyutu/naoya_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦FIGURIZMα“脹相”赫鱗躍動・載", search:"ちょうそう", type:"fig", price:1800, date:"1899-12-30", img:"images/zyuzyutu/tyouso_fig.jpg", source:"https://segaplaza.jp/"},
 ];
