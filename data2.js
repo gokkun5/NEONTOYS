@@ -1,6 +1,10 @@
 window.figures2 = [
 
 
+{series:"tensisama", name:"お隣の天使様にいつの間にか駄目人間にされていた件　Coreful フィギュア　椎名真昼～制服ver.～（タイクレ限定）", search:"しいなまひる", type:"core", price:2000, date:"2026-05-16", img:"images/tensisama/core_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"初音ミク　フィギュア 3rd season spring ver.（タイクレ限定）", search:"さーどしーずん　すぷりんぐばー　はつねみく", type:"", price:1600, date:"2026-05-23", img:"images/miku/3rd_spring_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"uzaki", name:"宇崎ちゃんは遊びたい！ω　Desktop Cute フィギュア　宇崎花～浜辺で水着ver.～（タイクレ限定）", search:"うざきはな", type:"desk", price:1400, date:"2026-05-23", img:"images/uzaki/hana_mizugi_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"初音ミク　フィギュア 3rd season spring ver.", search:"さーどしーずん　すぷりんぐばー　はつねみく", type:"", price:900, date:"2026-05-23", img:"images/miku/3rd_spring.jpg", source:"https://www.taito.co.jp/"},
 {series:"saniro", name:"サンリオキャラクターズ おおきなSOFVIMATES～ハローキティ tropical summer ver.～", search:"はろーきてぃ", type:"sof", price:600, date:"1899-12-30", img:"images/sanrio/haro_sama_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"uzaki", name:"宇崎ちゃんは遊びたい！ω GLITTER&GLAMOURS 宇崎月 メイドver.", search:"うざきつき", type:"gli", price:700, date:"1899-12-30", img:"images/uzaki/tuki_meido.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん おおきなSOFVIMATES～野原しんのすけ～ゆかただゾ", search:"のはらしんのすけ", type:"sof", price:600, date:"1899-12-30", img:"images/kuresin/yukata.jpg", source:"https://bsp-prize.jp/"},
