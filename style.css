@@ -404,13 +404,13 @@ select.active,
 
 .x-btn{
   display:inline-block;
-  padding:6px 10px;
+  padding:10px 16px;
   border-radius:12px;
   background:#111;
   border:1px solid #444;
   color:#fff;
   text-decoration:none;
-  font-size:12px;
+  font-size:15px;
 }
 
 .x-btn:hover{
