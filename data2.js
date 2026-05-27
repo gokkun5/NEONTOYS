@@ -1,6 +1,18 @@
 window.figures2 = [
 
 
+
+
+{series:"yugi", name:"アニメ「遊☆戯☆王」シリーズ　インセクター羽蛾", search:"いんせくたーはが", type:"", price:700, date:"2026-05-26", img:"images/yugi/haga.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"zyozyo", name:"ジョジョの奇妙な冒険 黄金の風 レクイエムの矢ライト", search:"れくいえむのや", type:"", price:700, date:"2026-05-26", img:"images/zyozyo/reku_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ ぷちころフレンズ～みんなでサッカー～", search:"くろみ　クロミ", type:"", price:500, date:"2026-05-26", img:"images/sanrio/kuromi_saka.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ ぷちころフレンズ～みんなでサッカー～", search:"ぺんころ　ペンコロ", type:"", price:500, date:"2026-05-26", img:"images/sanrio/pen_saka.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ ぷちころフレンズ～みんなでサッカー～", search:"ぽむぽむぷりん　ポムポムプリン", type:"", price:500, date:"2026-05-26", img:"images/sanrio/pomu_saka.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ ぷちころフレンズ～みんなでサッカー～", search:"きてぃ　キティ", type:"", price:500, date:"2026-05-26", img:"images/sanrio/kite_saka.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-HATAKE KAKASHI ＆ UCHIHA ITACHI-", search:"はたけかかし　はたけカカシ", type:"figu", price:500, date:"2026-05-26", img:"images/naruto/kakasi_figu_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-HATAKE KAKASHI ＆ UCHIHA ITACHI-", search:"はたけかかし　はたけカカシ", type:"figu", price:500, date:"2026-05-26", img:"images/naruto/kakasi_figu_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-HATAKE KAKASHI ＆ UCHIHA ITACHI-", search:"うちはいたち　うちはイタチ", type:"figu", price:500, date:"2026-05-26", img:"images/naruto/itati_figu_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-HATAKE KAKASHI ＆ UCHIHA ITACHI-", search:"うちはいたち　うちはイタチ", type:"figu", price:500, date:"2026-05-26", img:"images/naruto/itati_figu_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"spy", name:"SPY×FAMILY スマホスタンド～ボンド・フォージャー～", search:"ぼんどふぉーじゃー", type:"", price:400, date:"1899-12-30", img:"images/spy/bondo_sutando.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボール ロゴルームライト-レッドリボン軍-", search:"れっどりぼんぐん", type:"", price:800, date:"1899-12-30", img:"images/db/redribon.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボール ロゴルームライト-カプセルコーポレーション-", search:"かぷせるこーぽれーしょん", type:"", price:800, date:"1899-12-30", img:"images/db/kapuseru.jpg", source:"https://bsp-prize.jp/"},
