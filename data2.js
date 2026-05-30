@@ -3,6 +3,17 @@ window.figures2 = [
 
 
 
+{series:"nube", name:"Trio-Try-iT Figureーゆきめー", search:"", type:"trio", price:700, date:"2026-05-27", img:"images/nube/yukime_trio.jpg", source:"https://charahiroba.com/"},
+{series:"nube", name:"Trio-Try-iT Figureー玉藻京介ー", search:"たまもきょうすけ", type:"trio", price:700, date:"2026-05-27", img:"images/nube/tamamo_trio.jpg", source:"https://charahiroba.com/"},
+{series:"pokemon", name:"ポケットモンスター もぐもぐタイムフィギュア～ピカチュウ＆イーブイ～", search:"ぴかちゅう　いーぶい", type:"", price:700, date:"2026-05-27", img:"images/pokemon/pikabui.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～ネネちゃんと", search:"しんのすけ", type:"nakayosi", price:700, date:"2026-05-27", img:"images/kuresin/sinnene_sin.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～ネネちゃんと", search:"ねねちゃん　ネネちゃん", type:"nakayosi", price:700, date:"2026-05-27", img:"images/kuresin/sinnene_nene.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～風間くんと", search:"しんのすけ", type:"nakayosi", price:700, date:"2026-05-27", img:"images/kuresin/sin_nakayosi.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～風間くんと", search:"かざまくん　風間くん", type:"nakayosi", price:700, date:"2026-05-27", img:"images/kuresin/kaza_nakayosi.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"-NARUTO 72 series- 53 フィギュア", search:"波風ミナト　なみかぜみなと　うずまきクシナ　うずまきくしな　", type:"72", price:1200, date:"2026-05-27", img:"images/naruto/53_72.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース おおきなSOFVIMATES モンキー・D・ルフィ おれは遊び半分なんかじゃないっ！！", search:"るふぃ", type:"sof", price:800, date:"2026-05-26", img:"images/wanpi/ore_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース KING OF ARTIST EDWARD.NEWGATE", search:"えどわーどにゅーげーと　エドワードニューゲート", type:"koa", price:1000, date:"2026-05-26", img:"images/wanpi/edo_koa.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION EXTRA-CHARLOTTE LINLIN-", search:"しゃーろっとりんりん　シャーロットリンリン", type:"bato", price:1000, date:"2026-05-26", img:"images/wanpi/rin_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"yugi", name:"アニメ「遊☆戯☆王」シリーズ　インセクター羽蛾", search:"いんせくたーはが", type:"", price:700, date:"2026-05-26", img:"images/yugi/haga.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"zyozyo", name:"ジョジョの奇妙な冒険 黄金の風 レクイエムの矢ライト", search:"れくいえむのや", type:"", price:700, date:"2026-05-26", img:"images/zyozyo/reku_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ ぷちころフレンズ～みんなでサッカー～", search:"くろみ　クロミ", type:"", price:500, date:"2026-05-26", img:"images/sanrio/kuromi_saka.jpg", source:"https://bsp-prize.jp/"},
