@@ -3,6 +3,16 @@ window.figures2 = [
 
 
 
+
+{series:"oba", name:"オーバーロード　Desktop Cute フィギュア　アルベド～ネグリジェver.～（タイクレ限定）", search:"あるべど", type:"desk", price:1500, date:"2026-05-30", img:"images/oba/aru_desk_negu.jpg", source:"https://www.taito.co.jp/"},
+{series:"oba", name:"オーバーロード　Desktop Cute フィギュア　アルベド～ネグリジェver.～", search:"あるべど", type:"desk", price:800, date:"2026-05-30", img:"images/oba/aru_desk_neguri.jpg", source:"https://www.taito.co.jp/"},
+{series:"db", name:"ドラゴンボールGT MATCH MAKERS 超一星龍（VS超サイヤ人4ゴジータ）", search:"すーぱーいーしんろん", type:"mat", price:800, date:"2026-05-26", img:"images/db/tyo_mat_gozi.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールGT MATCH MAKERS 超サイヤ人4ゴジータ（VS超一星龍）", search:"ごじーた", type:"mat", price:800, date:"2026-05-26", img:"images/db/gozi_mati_tyo.jpg", source:"https://bsp-prize.jp/"},
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス　Aqua Float Girls フィギュア　ララ", search:"らら", type:"aqua", price:800, date:"2026-05-30", img:"images/tora/rara_aqua.jpg", source:"https://www.taito.co.jp/"},
+{series:"ban", name:"BanG Dream!　プレミアムフィギュア MyGO!!!!! 高松 燈 制服 ver.", search:"たかまつともり", type:"", price:800, date:"2026-05-22", img:"images/ban/tomori_seifuku.jpg", source:"https://prize.bushiroad-creative.com/"},
+{series:"mazyan", name:"麻雀ファイトガール　フィギュアコレクション ダブリエル", search:"だぶりえる", type:"", price:800, date:"2026-05-28", img:"images/mazyan/daburi.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"mazyan", name:"麻雀ファイトガール　フィギュアコレクション アンコク・ミツバ", search:"あんこくみつば", type:"", price:800, date:"2026-05-28", img:"images/mazyan/mituba.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"rupan", name:"LUPIN THE ⅢRD ルパン三世 フィギュア", search:"るぱんさんせい", type:"", price:700, date:"2026-05-27", img:"images/rupan/rupan3.jpg", source:"https://bsp-prize.jp/"},
 {series:"nube", name:"Trio-Try-iT Figureーゆきめー", search:"", type:"trio", price:700, date:"2026-05-27", img:"images/nube/yukime_trio.jpg", source:"https://charahiroba.com/"},
 {series:"nube", name:"Trio-Try-iT Figureー玉藻京介ー", search:"たまもきょうすけ", type:"trio", price:700, date:"2026-05-27", img:"images/nube/tamamo_trio.jpg", source:"https://charahiroba.com/"},
 {series:"pokemon", name:"ポケットモンスター もぐもぐタイムフィギュア～ピカチュウ＆イーブイ～", search:"ぴかちゅう　いーぶい", type:"", price:700, date:"2026-05-27", img:"images/pokemon/pikabui.jpg", source:"https://bsp-prize.jp/"},
@@ -463,7 +473,7 @@ window.figures2 = [
 {series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～水着ver.～", search:"きたがわまりん", type:"core", price:1100, date:"1899-12-30", img:"images/kisekoi/mizugi_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～パーカーver.～", search:"きたがわまりん", type:"core", price:900, date:"1899-12-30", img:"images/kisekoi/paka_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"konan", name:"名探偵コナン　プレミアムちょこのせフィギュア“怪盗キッド”", search:"かいとうきっど", type:"tyoko", price:800, date:"1899-12-30", img:"images/konan/kiddo_tyoko.jpg", source:"https://segaplaza.jp/"},
-{series:"ban", name:"BanG Dream!　プレミアムフィギュア MyGO!!!!! 千早愛音", search:"ちはやあのん", type:"", price:900, date:"1899-12-30", img:"images/ban/anon.jpg", source:"http://www.fans.co.jp/"},
+{series:"ban", name:"BanG Dream!　プレミアムフィギュア MyGO!!!!! 千早愛音", search:"ちはやあのん", type:"", price:900, date:"1899-12-30", img:"images/ban/anon.jpg", source:"https://prize.bushiroad-creative.com/"},
 {series:"tyen", name:"チェンソーマン　マキマフィギュア", search:"まきま", type:"", price:1400, date:"1899-12-30", img:"images/tyen/makima_taito.jpg", source:"https://www.taito.co.jp/"},
 {series:"wanpi", name:"ワンピース Grandista-THE GRANDLINE MEN-TRAFALGAR･LAW", search:"トラファルガーロー　とらふぁるがーろー", type:"gra", price:1500, date:"1899-12-30", img:"images/wanpi/ro_gra1.jpg", source:"https://bsp-prize.jp/"},
 {series:"zigoku", name:"地獄楽　Luminasta　“杠”", search:"ゆずりは", type:"lum", price:1400, date:"1899-12-30", img:"images/zigoku/yuzuriha_lum.jpg", source:"https://segaplaza.jp/"},
