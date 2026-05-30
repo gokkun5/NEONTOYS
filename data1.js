@@ -212,7 +212,7 @@ window.figures1 = [
 {series:"oba", name:"オーバーロード -Relax time-アルベドRoll bandage ver.", search:"あるべど", type:"relax", price:600, date:"1899-12-30", img:"images/oba/aru_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"monsuto", name:"モンスターストライク ESPRESTO-Ordinary chronicles-ヤクモ", search:"やくも", type:"esp", price:300, date:"1899-12-30", img:"images/monsuto/yakumo.jpg", source:"https://bsp-prize.jp/"},
 {series:"monsuto", name:"モンスターストライク ESPRESTO-Ordinary chronicles-マサムネ", search:"まさむね", type:"esp", price:300, date:"1899-12-30", img:"images/monsuto/masamune.jpg", source:"https://bsp-prize.jp/"},
-{series:"furi-ren", name:"葬送のフリーレンYumemirize“フリーレン”～一眠り～", search:"ふりーれん", type:"yume", price:1300, date:"1899-12-30", img:"images/furi-ren/furi_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"furi-ren", name:"葬送のフリーレンYumemirize“フリーレン”～一眠り～", search:"ふりーれん", type:"yume", price:1600, date:"1899-12-30", img:"images/furi-ren/furi_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"furi-ren", name:"葬送のフリーレンLuminasta“フェルン”～一般攻撃魔法～", search:"ふぇるん", type:"lum", price:500, date:"1899-12-30", img:"images/furi-ren/ferun_zoru.jpg", source:"https://segaplaza.jp/"},
 {series:"furi-ren", name:"葬送のフリーレンLuminasta“ユーベル”～大体なんでも切る魔法～", search:"ゆーべる", type:"lum", price:1200, date:"1899-12-30", img:"images/furi-ren/yube_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"oba", name:"オーバーロード BANPRESTO EVOLVE-Empress of Darkness-アルベドフィギュア", search:"あるべど", type:"bpev", price:900, date:"1899-12-30", img:"images/oba/aru_bpev.jpg", source:"https://bsp-prize.jp/"},
