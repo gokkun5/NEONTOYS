@@ -2,6 +2,14 @@ window.figures3 = [
 
 
 
+
+{series:"uru", name:"ウルトラマンシリーズ 鎮座獣 コイン怪獣カネゴン", search:"こいんかいじゅうかねごん", type:"tinza", price:500, date:"2026-05-27", img:"images/uru/kane_tinza.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"ウルトラマンシリーズ 鎮座獣 コイン怪獣カネゴン", search:"こいんかいじゅうかねごん", type:"tinza", price:500, date:"2026-05-27", img:"images/uru/kane_tinza_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"monhan", name:"モンスターハンター 鎮座獣 アルシュベルド～夢から覚めて～", search:"あるしゅべると", type:"tinza", price:500, date:"2026-05-27", img:"images/monhan/arusyu_tinza.jpg", source:"https://bsp-prize.jp/"},
+{series:"dandadan", name:"Trio-Try-iT Figureージジ(変身)ー", search:"じじ", type:"trio", price:500, date:"2026-05-27", img:"images/dandadan/zizi_trio.jpg", source:"https://charahiroba.com/"},
+{series:"umamusume", name:"Trio-Try-iT Figure―ヒシミラクルー", search:"ひしみらくる", type:"trio", price:900, date:"2026-05-27", img:"images/umamusume/hisi_trio.jpg", source:"https://charahiroba.com/"},
+{series:"holo", name:"ホロライブ #hololive IF -ホロベイビーズ-宝鐘マリン", search:"ほうしょうまりん", type:"", price:500, date:"2026-05-26", img:"images/holo/marin_baby.jpg", source:"https://bsp-prize.jp/"},
+{series:"holo", name:"ホロライブ #hololive IF -ホロベイビーズ-こぼ・かなえる", search:"", type:"", price:500, date:"2026-05-26", img:"images/holo/kobo_baby.jpg", source:"https://bsp-prize.jp/"},
 {series:"king", name:"キングダム オギコフィギュア", search:"おぎこ", type:"", price:500, date:"2026-05-27", img:"images/king/ogiko.jpg", source:"https://bsp-prize.jp/"},
 {series:"tomuzyeri", name:"トムとジェリー ビッグソフビフィギュア-Yummy Bread-", search:"じぇりー　たふぃー　ジェリー　タフィー", type:"", price:500, date:"2026-05-27", img:"images/tomuzyeri/zyeritafi.jpg", source:"https://bsp-prize.jp/"},
 {series:"sonota", name:"UNIVERSAL おおきなSOFVIMATES～おさるのジョージ～", search:"おさるのじょーじ", type:"sof", price:400, date:"2026-05-26", img:"images/sonota/zyozi_sof.jpg", source:"https://bsp-prize.jp/"},

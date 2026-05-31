@@ -12,7 +12,7 @@ window.figures2 = [
 {series:"spy", name:"TVアニメ「SPY×FAMILY」Luminasta（アーニャ・フォージャー&ボンド・フォージャー）～missionextend～", search:"あーにゃふぉーじゃー　ぼんどふぉーじゃー", type:"lum", price:2000, date:"1899-12-30", img:"images/spy/anyabon_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦懐玉・玉折Luminasta“五条悟”虚式「茈」", search:"ごじょうさとる", type:"lum", price:2000, date:"1899-12-30", img:"images/zyuzyutu/murasaki1_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"inu", name:"Trio-Try-iT Figure―殺生丸―vol.2", search:"せっしょうまる", type:"trio", price:1200, date:"2026-05-27", img:"images/inu/sessyo2_trio.jpg", source:"https://charahiroba.com/"},
-{series:"rakisuta", name:"Trio-Try-iT Figureー泉こなたー", search:"いずみこなた", type:"trio", price:1000, date:"2026-05-27", img:"images/rakisuta/konata_trio.jpg", source:"https://charahiroba.com/"},
+{series:"rakisuta", name:"Trio-Try-iT Figureー泉こなたー", search:"いずみこなた", type:"trio", price:1100, date:"2026-05-27", img:"images/rakisuta/konata_trio.jpg", source:"https://charahiroba.com/"},
 {series:"oba", name:"オーバーロード　Desktop Cute フィギュア　アルベド～ネグリジェver.～（タイクレ限定）", search:"あるべど", type:"desk", price:1500, date:"2026-05-30", img:"images/oba/aru_desk_negu.jpg", source:"https://www.taito.co.jp/"},
 {series:"oba", name:"オーバーロード　Desktop Cute フィギュア　アルベド～ネグリジェver.～", search:"あるべど", type:"desk", price:800, date:"2026-05-30", img:"images/oba/aru_desk_neguri.jpg", source:"https://www.taito.co.jp/"},
 {series:"db", name:"ドラゴンボールGT MATCH MAKERS 超一星龍（VS超サイヤ人4ゴジータ）", search:"すーぱーいーしんろん", type:"mat", price:800, date:"2026-05-26", img:"images/db/tyo_mat_gozi.jpg", source:"https://bsp-prize.jp/"},
