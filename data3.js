@@ -3,8 +3,12 @@ window.figures3 = [
 
 
 
-
-
+{series:"botti", name:"アニメ「ぼっち・ざ・ろっく！」 伊地知虹夏 フィギュア vol.2", search:"いじちにじか", type:"", price:600, date:"1899-12-30", img:"images/botti/nizika2.jpg", source:"https://bsp-prize.jp/"},
+{series:"osinoko", name:"【推しの子】　Aqua Float Girls フィギュア　アイ", search:"あい", type:"aqua", price:900, date:"1899-12-30", img:"images/osinoko/ai_aqua.jpg", source:"https://www.taito.co.jp/"},
+{series:"atorie", name:"アニメ『ライザのアトリエ ～常闇の女王と秘密の隠れ家～』　Coreful フィギュア　ライザ～水着ver.～", search:"らいざ", type:"core", price:600, date:"1899-12-30", img:"images/atorie/raiza_core_mizugi.jpg", source:"https://www.taito.co.jp/"},
+{series:"sonota", name:"勇気爆発バーンブレイバーン Break time collection vol.1", search:"ゆうきばくはつばーんぶれいばーん", type:"bre", price:300, date:"1899-12-30", img:"images/sonota/ban_bre.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.4", search:"るふぃ　ニカ　にか", type:"figl", price:400, date:"1899-12-30", img:"images/wanpi/nika_figl4.jpg", source:"https://bsp-prize.jp/"},
+{series:"osinoko", name:"【推しの子】 アイ-サインはB-フィギュア", search:"あい", type:"", price:600, date:"1899-12-30", img:"images/osinoko/ai_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"eva", name:"シン・エヴァンゲリオン劇場版Luminasta“真希波・マリ・イラストリアス”", search:"まきなみまりいらすとりあす", type:"lum", price:800, date:"1899-12-30", img:"images/eva/mari_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"鬼滅の刃 ぬーどるストッパーフィギュア ―伊黒小芭内―", search:"いぐろおばない", type:"nusuto", price:4500, date:"1899-12-30", img:"images/kimetu/iguro_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"zyuzyutu", name:"呪術廻戦懐玉・玉折FIGURIZMα“五条悟”覚醒", search:"ごじょうさとる", type:"fig", price:1300, date:"1899-12-30", img:"images/zyuzyutu/gozyo_kakusei.jpg", source:"https://segaplaza.jp/"},
