@@ -595,7 +595,7 @@ window.figures2 = [
 {series:"watanare", name:"Trio-Try-iT Figure―甘織れな子―", search:"あまおりれなこ", type:"trio", price:2200, date:"1899-12-30", img:"images/watanare/renako_trio.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース 戦光絶景-ROB LUCCI-", search:"るっち　ルッチ", type:"senko", price:400, date:"1899-12-30", img:"images/wanpi/rutti_rufi.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース 戦光絶景-MONKEY.D.LUFFY-", search:"るふぃ　ルフィ", type:"senko", price:600, date:"1899-12-30", img:"images/wanpi/rufi_rutti.jpg", source:"https://bsp-prize.jp/"},
-{series:"mazyotabi", name:"魔女の旅々　Desktop Cute フィギュア　イレイナ～私服ver.～", search:"いれいな", type:"desk", price:400, date:"1899-12-30", img:"images/mazyotabi/sifuku_desk.jpg", source:"https://www.taito.co.jp/"},
+{series:"mazyotabi", name:"魔女の旅々　Desktop Cute フィギュア　イレイナ～私服ver.～", search:"いれいな", type:"desk", price:900, date:"1899-12-30", img:"images/mazyotabi/sifuku_desk.jpg", source:"https://www.taito.co.jp/"},
 {series:"mazyotabi", name:"魔女の旅々　Coreful フィギュア　イレイナ～小悪魔ver.～Renewal", search:"いれいな", type:"core", price:600, date:"1899-12-30", img:"images/mazyotabi/akuma_re.jpg", source:"https://www.taito.co.jp/"},
 {series:"mazyotabi", name:"魔女の旅々　Coreful フィギュア　イレイナ～ドレスver.～Renewal", search:"いれいな", type:"core", price:600, date:"2026-04-22", img:"images/mazyotabi/doresu_re.jpg", source:"https://www.taito.co.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　金色の闇～チャイナドレスver.～Renewal", search:"こんじきのやみ", type:"desk", price:700, date:"2026-04-22", img:"images/tora/yami_chaina_b.jpg", source:"https://www.taito.co.jp/"},
