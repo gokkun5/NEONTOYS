@@ -654,7 +654,7 @@ window.figures2 = [
 {series:"zyozyo", name:"ジョジョの奇妙な冒険 黄金の風 フィグライフ！ Mt", search:"", type:"figl", price:900, date:"2026-04-20", img:"images/zyozyo/mt_figl.jpg", source:"https://bsp-prize.jp/"},
 {series:"kozyo", name:"公女殿下の家庭教師Yumemirize“ティナ・ハワード”", search:"てぃなはわーど", type:"yume", price:400, date:"1899-12-30", img:"images/kozyo/texina.jpg", source:"https://segaplaza.jp/"},
 {series:"gundam", name:"『機動戦士ガンダムSEED FREEDOM』GLITTER&GLAMOURS-Lunamaria Hawke- Racing ver.", search:"ルナマリア　るなまりあ", type:"", price:700, date:"2026-04-20", img:"images/gundam/runa_gli_re.jpg", source:"https://bsp-prize.jp/"},
-{series:"furi-ren", name:"葬送のフリーレン おおきなSOFVIMATES～縦ロールになっちゃった～", search:"ふりーれん", type:"", price:800, date:"2026-04-20", img:"images/furi-ren/furi_sof_tate.jpg", source:"https://bsp-prize.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン おおきなSOFVIMATES～縦ロールになっちゃった～", search:"ふりーれん", type:"", price:600, date:"2026-04-20", img:"images/furi-ren/furi_sof_tate.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Noir Edge Collection-UZUMAKI NARUTO-", search:"なると　ナルト", type:"noir", price:1200, date:"2026-04-20", img:"images/naruto/naruto_noir.jpg", source:"https://bsp-prize.jp/"},
 {series:"oba", name:"BiCute Bunnies Figure ーアルベド・another costumeー", search:"あるべど", type:"bani", price:700, date:"2026-04-20", img:"images/oba/aru_bani_ano.jpg", source:"https://charahiroba.com/"},
 {series:"mazyotabi", name:"魔女の旅々　ふぃぐきゅーぶ イレイナ", search:"いれいな", type:"figc", price:700, date:"2026-04-20", img:"images/mazyotabi/figkyu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
