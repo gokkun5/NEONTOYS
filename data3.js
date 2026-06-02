@@ -4,10 +4,11 @@ window.figures3 = [
 
 
 
-
-
-
-
+{series:"deara", name:"デート・ア・ライブ GLITTER&GLAMOURS-KURUMI TOKISAKI-", search:"ときさきくるみ", type:"gli", price:400, date:"1899-12-30", img:"images/deara/kurumi_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"witti", name:"TVアニメ『ウィッチウォッチ』　浴衣フィギュア 若月ニコ", search:"わかつきにこ", type:"", price:300, date:"1899-12-30", img:"images/witti/niko_yukata.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"witti", name:"TVアニメ『ウィッチウォッチ』　浴衣フィギュア 宮尾音夢", search:"みやおねむ", type:"", price:300, date:"1899-12-30", img:"images/witti/nemu_yukata.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"sao", name:"ソードアート・オンライン BiCute Bunnies Figureーアスナー", search:"あすな", type:"bani", price:600, date:"1899-12-30", img:"images/sao/asuna_bani.jpg", source:"https://charahiroba.com/"},
+{series:"100kano", name:"君のことが大大大大大好きな100人の彼女 -Relax time-花園羽香里", search:"はなぞのはかり", type:"relax", price:1000, date:"1899-12-30", img:"images/100kano/hana_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"konosuba", name:"この素晴らしい世界に祝福を！３　Coreful フィギュア　ダクネス～水着ver.～", search:"だくねす", type:"core", price:900, date:"1899-12-30", img:"images/konosuba/daku_core_mizugi.jpg", source:"https://www.taito.co.jp/"},
 {series:"spy", name:"SPY×FAMILY　Trio－Try－iT Figureーアーニャ・フォージャーー", search:"あーにゃふぉーじゃー", type:"trio", price:500, date:"1899-12-30", img:"images/spy/anya_trio.jpg", source:"https://charahiroba.com/"},
 {series:"kimetu", name:"「鬼滅の刃」　FIGURIZMα　“甘露寺蜜璃”", search:"かんろじみつり", type:"fig", price:1300, date:"1899-12-30", img:"images/kimetu/kanrozi_fig.jpg", source:"https://segaplaza.jp/"},

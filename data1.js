@@ -780,7 +780,7 @@ window.figures1 = [
 {series:"zyuzyutu", name:"呪術廻戦 獄門疆ルームライト", search:"ごくもんきょう", type:"", price:1500, date:"1899-12-30", img:"images/zyuzyutu/gokumon_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"nintama", name:"劇場版 忍たま乱太郎 雑渡昆奈門 フィギュア", search:"ざっとこんなもん", type:"", price:400, date:"1899-12-30", img:"images/nintama/zatto.jpg", source:"https://bsp-prize.jp/"},
 {series:"disny", name:"ディズニーキャラクター きゅむころ～ディズニースティッチ～", search:"すてぃっち", type:"", price:500, date:"1899-12-30", img:"images/disny/sute_kyumu.jpg", source:"https://bsp-prize.jp/"},
-{series:"db", name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-魔人ブウ", search:"まじんぶう", type:"syutu", price:1200, date:"1899-12-30", img:"images/db/bu_syutu.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-魔人ブウ", search:"まじんぶう", type:"syutu", price:1000, date:"1899-12-30", img:"images/db/bu_syutu.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールDAIMA ピッコロ（ミニ） パネル付きフィギュア", search:"ぴっころ", type:"", price:400, date:"1899-12-30", img:"images/db/pikkoro_daima.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボール 神龍の模型ルームライト", search:"しぇんろん　シェンロン", type:"his", price:500, date:"1899-12-30", img:"images/db/syenron_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～SPECIAL GOL.D.ROGER", search:"ろじゃー　ロジャー", type:"dxf", price:500, date:"1899-12-30", img:"images/wanpi/rozya_dxf.jpg", source:"https://bsp-prize.jp/"},
