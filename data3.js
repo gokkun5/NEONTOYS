@@ -3,6 +3,15 @@ window.figures3 = [
 
 
 
+
+
+
+
+
+{series:"konosuba", name:"この素晴らしい世界に祝福を！３　Coreful フィギュア　ダクネス～水着ver.～", search:"だくねす", type:"core", price:900, date:"1899-12-30", img:"images/konosuba/daku_core_mizugi.jpg", source:"https://www.taito.co.jp/"},
+{series:"spy", name:"SPY×FAMILY　Trio－Try－iT Figureーアーニャ・フォージャーー", search:"あーにゃふぉーじゃー", type:"trio", price:500, date:"1899-12-30", img:"images/spy/anya_trio.jpg", source:"https://charahiroba.com/"},
+{series:"kimetu", name:"「鬼滅の刃」　FIGURIZMα　“甘露寺蜜璃”", search:"かんろじみつり", type:"fig", price:1300, date:"1899-12-30", img:"images/kimetu/kanrozi_fig.jpg", source:"https://segaplaza.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 MAXIMATIC THE MITSURI KANROJI", search:"かんろじみつり", type:"ma", price:1700, date:"1899-12-30", img:"images/kimetu/kanrozi_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"botti", name:"アニメ「ぼっち・ざ・ろっく！」 伊地知虹夏 フィギュア vol.2", search:"いじちにじか", type:"", price:600, date:"1899-12-30", img:"images/botti/nizika2.jpg", source:"https://bsp-prize.jp/"},
 {series:"osinoko", name:"【推しの子】　Aqua Float Girls フィギュア　アイ", search:"あい", type:"aqua", price:900, date:"1899-12-30", img:"images/osinoko/ai_aqua.jpg", source:"https://www.taito.co.jp/"},
 {series:"atorie", name:"アニメ『ライザのアトリエ ～常闇の女王と秘密の隠れ家～』　Coreful フィギュア　ライザ～水着ver.～", search:"らいざ", type:"core", price:600, date:"1899-12-30", img:"images/atorie/raiza_core_mizugi.jpg", source:"https://www.taito.co.jp/"},
