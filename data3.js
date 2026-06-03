@@ -2,9 +2,12 @@ window.figures3 = [
 
 
 
-
-
-
+{series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～ララ～", search:"らら", type:"sof", price:800, date:"1899-12-30", img:"images/sanrio/rara_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～キキ～", search:"きき", type:"sof", price:800, date:"1899-12-30", img:"images/sanrio/kiki_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"haikyu", name:"ハイキュー‼ すやすやルームライト-日向翔陽-", search:"ひなたしょうよう", type:"", price:800, date:"1899-12-30", img:"images/haikyu/hinata_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"ozya", name:"おジャ魔女どれみ Paldolce collection Grande-春風どれみ-", search:"はるかぜどれみ", type:"", price:300, date:"1899-12-30", img:"images/ozya/doremi.jpg", source:"https://bsp-prize.jp/"},
+{series:"gegege", name:"映画「鬼太郎誕生 ゲゲゲの謎」　Vivitフィギュア ねこ娘", search:"ねこむすめ", type:"vivi", price:300, date:"1899-12-30", img:"images/gegege/neko_vivi.jpg", source:"http://www.fans.co.jp/"},
+{series:"nyanko", name:"にゃんこ大戦争 にゃんこ軍団出陣フィギュア～超極ネコ祭 厄災の子キャスリィ～", search:"やくさいのこきゃすりぃ", type:"", price:500, date:"1899-12-30", img:"images/nyanko/kyasu.jpg", source:"https://bsp-prize.jp/"},
 {series:"pawapuro", name:"パワフルプロ野球&プロ野球スピリッツ プライズボブルヘッドコレクション", search:"パワプロくん　ぱわぷろくん", type:"", price:400, date:"2026-05-28", img:"images/pawapuro/pawa_bobu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"pawapuro", name:"パワフルプロ野球&プロ野球スピリッツ プライズボブルヘッドコレクション", search:"ちょうしくん　調子くん", type:"", price:400, date:"2026-05-28", img:"images/pawapuro/tyousi_bobu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"zyuzyutu", name:"呪術廻戦 KING OF ARTIST GOJO・GETO-懐玉・玉折-SPECIAL ver.", search:"げとうすぐる　夏油傑", type:"koa", price:1100, date:"1899-12-30", img:"images/zyuzyutu/geto_koa_sp.jpg", source:"https://bsp-prize.jp/"},
