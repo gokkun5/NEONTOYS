@@ -4,7 +4,12 @@ window.figures3 = [
 
 
 
-
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～幼稚園にいくゾ～ネネちゃんと", search:"野原しんのすけ　のはらしんのすけ", type:"nakayosi", price:600, date:"1899-12-30", img:"images/kuresin/sinnene_you.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～幼稚園にいくゾ～ネネちゃんと", search:"ネネちゃん　ねねちゃん", type:"nakayosi", price:600, date:"1899-12-30", img:"images/kuresin/nenesin_you.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～幼稚園にいくゾ～ボーちゃんと", search:"野原しんのすけ　のはらしんのすけ", type:"nakayosi", price:600, date:"1899-12-30", img:"images/kuresin/sinbou_you.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～幼稚園にいくゾ～ボーちゃんと", search:"ボーちゃん　ぼーちゃん", type:"nakayosi", price:600, date:"1899-12-30", img:"images/kuresin/bousin_you.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～幼稚園にいくゾ～風間くんと", search:"のはらしんのすけ　野原しんのすけ", type:"nakayosi", price:600, date:"1899-12-30", img:"images/kuresin/sinkaza_you.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～幼稚園にいくゾ～風間くんと", search:"風間くん　かざまくん", type:"nakayosi", price:600, date:"1899-12-30", img:"images/kuresin/kazasin_you.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～へびしんちゃんとうましんちゃん～", search:"のはらしんのすけ　野原しんのすけ", type:"", price:500, date:"1899-12-30", img:"images/kuresin/hebi.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～へびしんちゃんとうましんちゃん～", search:"のはらしんのすけ　野原しんのすけ", type:"", price:500, date:"1899-12-30", img:"images/kuresin/uma.jpg", source:"https://bsp-prize.jp/"},
 {series:"toribe", name:"東京リベンジャーズ Q posket-佐野万次郎-私服ver.", search:"さのまんじろう　マイキー　まいきー", type:"qpos", price:300, date:"1899-12-30", img:"images/toribe/maiki_qpos_sifuku.jpg", source:"https://bsp-prize.jp/"},
