@@ -1,7 +1,7 @@
 window.figures3 = [
 
 
-
+{series:"mazyotabi", name:"魔女の旅々　Desktop Cute フィギュア　イレイナ～私服ver.～Renewal", search:"いれいな", type:"desk", price:800, date:"1899-12-30", img:"images/mazyotabi/sifuku_desk_re.jpg", source:"https://www.taito.co.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～ララ～", search:"らら", type:"sof", price:800, date:"1899-12-30", img:"images/sanrio/rara_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～キキ～", search:"きき", type:"sof", price:800, date:"1899-12-30", img:"images/sanrio/kiki_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"haikyu", name:"ハイキュー‼ すやすやルームライト-日向翔陽-", search:"ひなたしょうよう", type:"", price:800, date:"1899-12-30", img:"images/haikyu/hinata_rumu.jpg", source:"https://bsp-prize.jp/"},
