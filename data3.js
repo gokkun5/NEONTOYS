@@ -1,6 +1,8 @@
 window.figures3 = [
 
 
+{series:"vsupo", name:"ぶいすぽっ！スケールフィギュア-Play with paint-vol.9", search:"夢野あかり　ゆめのあかり", type:"", price:800, date:"2026-05-22", img:"images/vsupo/akari_gigo.jpg", source:"https://www.gigo.co.jp/prizes"},
+{series:"konan", name:"名探偵コナンちょこのせプレミアムフィギュア“怪盗キッド”～寝そべりVer.～", search:"かいとうきっど", type:"tyoko", price:600, date:"1899-12-30", img:"images/konan/kiddo_ne_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"mazyotabi", name:"魔女の旅々　Desktop Cute フィギュア　イレイナ～私服ver.～Renewal", search:"いれいな", type:"desk", price:800, date:"1899-12-30", img:"images/mazyotabi/sifuku_desk_re.jpg", source:"https://www.taito.co.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～ララ～", search:"らら", type:"sof", price:800, date:"1899-12-30", img:"images/sanrio/rara_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～キキ～", search:"きき", type:"sof", price:800, date:"1899-12-30", img:"images/sanrio/kiki_sof.jpg", source:"https://bsp-prize.jp/"},
