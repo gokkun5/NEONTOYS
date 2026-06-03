@@ -4,6 +4,22 @@ window.figures3 = [
 
 
 
+
+{series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～へびしんちゃんとうましんちゃん～", search:"のはらしんのすけ　野原しんのすけ", type:"", price:500, date:"1899-12-30", img:"images/kuresin/hebi.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～へびしんちゃんとうましんちゃん～", search:"のはらしんのすけ　野原しんのすけ", type:"", price:500, date:"1899-12-30", img:"images/kuresin/uma.jpg", source:"https://bsp-prize.jp/"},
+{series:"toribe", name:"東京リベンジャーズ Q posket-佐野万次郎-私服ver.", search:"さのまんじろう　マイキー　まいきー", type:"qpos", price:300, date:"1899-12-30", img:"images/toribe/maiki_qpos_sifuku.jpg", source:"https://bsp-prize.jp/"},
+{series:"toribe", name:"東京リベンジャーズ Q posket-佐野万次郎-私服ver.", search:"さのまんじろう　マイキー　まいきー", type:"qpos", price:300, date:"1899-12-30", img:"images/toribe/maiki_qpos_sifuku_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース THE出航-SABO-", search:"サボ　さぼ", type:"syukko", price:500, date:"1899-12-30", img:"images/wanpi/sabo1_syukko.jpg", source:"https://bsp-prize.jp/"},
+{series:"spy", name:"SPY×FAMILY Q posket-アーニャ・フォージャー-Ⅲ", search:"あーにゃふぉーじゃー", type:"qpos", price:300, date:"1899-12-30", img:"images/spy/anya3_qpos.jpg", source:"https://bsp-prize.jp/"},
+{series:"spy", name:"SPY×FAMILY Q posket-アーニャ・フォージャー-Ⅲ", search:"あーにゃふぉーじゃー", type:"qpos", price:300, date:"1899-12-30", img:"images/spy/anya3_qpos_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA KING", search:"キング　きんぐ", type:"dxf", price:500, date:"1899-12-30", img:"images/wanpi/king_dxf.jpg", source:"https://bsp-prize.jp/"},
+{series:"aimasu", name:"アイドルマスター ミリオンライブ！-Celestial vivi-如月千早", search:"きさらぎちはや", type:"cele", price:400, date:"1899-12-30", img:"images/aimasu/tihaya_cele.jpg", source:"https://bsp-prize.jp/"},
+{series:"toribe", name:"東京リベンジャーズ プレミアムフィギュア“乾青宗”-黒龍-", search:"いぬいせいしゅう", type:"", price:300, date:"1899-12-30", img:"images/toribe/inui.jpg", source:"https://segaplaza.jp/"},
+{series:"toribe", name:"東京リベンジャーズ　九井一フィギュア", search:"ここのいはじめ", type:"", price:300, date:"1899-12-30", img:"images/toribe/kokonoi.jpg", source:"https://www.taito.co.jp/"},
+{series:"kinniku", name:"キン肉マン サウナフィギュア-テリーマン-", search:"てりーまん", type:"", price:300, date:"1899-12-30", img:"images/kinniku/teri_sauna.jpg", source:"https://bsp-prize.jp/"},
+{series:"kinniku", name:"キン肉マン サウナフィギュア-キン肉マン-", search:"きんにくまん", type:"", price:600, date:"1899-12-30", img:"images/kinniku/kin_sauna.jpg", source:"https://bsp-prize.jp/"},
+{series:"osinoko", name:"【推しの子】　Vivitフィギュア アイ チアリーディングVer.", search:"あい", type:"vivi", price:500, date:"1899-12-30", img:"images/osinoko/ai_vivi.jpg", source:"http://www.fans.co.jp/"},
+{series:"oba", name:"オーバーロード IFアルベドフィギュア-teacher style ver.-", search:"あるべど", type:"", price:500, date:"1899-12-30", img:"images/oba/aru_tea.jpg", source:"https://bsp-prize.jp/"},
 {series:"deara", name:"デート・ア・ライブ GLITTER&GLAMOURS-KURUMI TOKISAKI-", search:"ときさきくるみ", type:"gli", price:400, date:"1899-12-30", img:"images/deara/kurumi_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"witti", name:"TVアニメ『ウィッチウォッチ』　浴衣フィギュア 若月ニコ", search:"わかつきにこ", type:"", price:300, date:"1899-12-30", img:"images/witti/niko_yukata.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"witti", name:"TVアニメ『ウィッチウォッチ』　浴衣フィギュア 宮尾音夢", search:"みやおねむ", type:"", price:300, date:"1899-12-30", img:"images/witti/nemu_yukata.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
@@ -25,7 +41,7 @@ window.figures3 = [
 {series:"kimetu", name:"鬼滅の刃　プレミアムちょこのせフィギュア“煉󠄁獄杏寿郎”", search:"れんごくきょうじゅろう", type:"tyoko", price:800, date:"1899-12-30", img:"images/kimetu/rengoku_tyoko_oni.jpg", source:"https://segaplaza.jp/"},
 {series:"mazyotabi", name:"魔女の旅々　AMP＋ イレイナ フィギュア～魔女服ver.～", search:"いれいな", type:"amp", price:1000, date:"1899-12-30", img:"images/mazyotabi/amp.jpg", source:"https://www.taito.co.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- BANPRESTO FIGURE COLOSSEUM 造形忍界大戦 ロック・リー", search:"ろっくりー", type:"ninkai", price:2300, date:"1899-12-30", img:"images/naruto/ri_ninkai.jpg", source:"https://bsp-prize.jp/"},
-{series:"wanpi", name:"ワンピース THE出航-NAMI-", search:"なみ", type:"syukko", price:500, date:"1899-12-30", img:"images/wanpi/nami_syukko.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース THE出航-NAMI-", search:"なみ　ナミ", type:"syukko", price:500, date:"1899-12-30", img:"images/wanpi/nami_syukko.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～マイメロディ・クロミ～", search:"まいめろでぃ", type:"", price:500, date:"2026-05-27", img:"images/sanrio/maimero_kosu.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～マイメロディ・クロミ～", search:"くろみ", type:"", price:500, date:"2026-05-27", img:"images/sanrio/kuromi_kosu.jpg", source:"https://bsp-prize.jp/"},
 {series:"uru", name:"ウルトラマンシリーズ 鎮座獣 コイン怪獣カネゴン", search:"こいんかいじゅうかねごん", type:"tinza", price:500, date:"2026-05-27", img:"images/uru/kane_tinza.jpg", source:"https://bsp-prize.jp/"},
