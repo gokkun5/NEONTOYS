@@ -4,6 +4,15 @@ window.figures3 = [
 
 
 
+
+{series:"pawapuro", name:"パワフルプロ野球&プロ野球スピリッツ プライズボブルヘッドコレクション", search:"パワプロくん　ぱわぷろくん", type:"", price:400, date:"2026-05-28", img:"images/pawapuro/pawa_bobu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"pawapuro", name:"パワフルプロ野球&プロ野球スピリッツ プライズボブルヘッドコレクション", search:"ちょうしくん　調子くん", type:"", price:400, date:"2026-05-28", img:"images/pawapuro/tyousi_bobu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"zyuzyutu", name:"呪術廻戦 KING OF ARTIST GOJO・GETO-懐玉・玉折-SPECIAL ver.", search:"げとうすぐる　夏油傑", type:"koa", price:1100, date:"1899-12-30", img:"images/zyuzyutu/geto_koa_sp.jpg", source:"https://bsp-prize.jp/"},
+{series:"kaizyu", name:"怪獣８号　TOONIZEー怪獣８号ー", search:"かいじゅう8ごう", type:"", price:400, date:"1899-12-30", img:"images/kaizyu/kaizyu_too_a.jpg", source:"https://charahiroba.com/"},
+{series:"tensura", name:"転生したらスライムだった件 EXQ フィギュア～リムル＝テンペスト～-metallic color version-", search:"りむるてんぺすと", type:"exq", price:1000, date:"1899-12-30", img:"images/tensura/rimuru_exq_namco.jpg", source:"https://bsp-prize.jp/"},
+{series:"puniru", name:"Trio-Try-iT Figure ー いつものかわいいぷにる ー", search:"", type:"trio", price:400, date:"1899-12-30", img:"images/puniru/puniru_trio.jpg", source:"https://charahiroba.com/"},
+{series:"deara", name:"デート・ア・ライブV BiCute Bunnies Figureー星宮六喰ー", search:"ほしみやむくろ", type:"bani", price:500, date:"1899-12-30", img:"images/deara/mukuro_bani.jpg", source:"https://charahiroba.com/"},
+{series:"dandadan", name:"TVアニメ『ダンダダン』Luminasta “モモ”Vol.2Ver.1.5", search:"もも", type:"lum", price:500, date:"1899-12-30", img:"images/dandadan/momo_lum1.5.jpg", source:"https://segaplaza.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～幼稚園にいくゾ～ネネちゃんと", search:"野原しんのすけ　のはらしんのすけ", type:"nakayosi", price:600, date:"1899-12-30", img:"images/kuresin/sinnene_you.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～幼稚園にいくゾ～ネネちゃんと", search:"ネネちゃん　ねねちゃん", type:"nakayosi", price:600, date:"1899-12-30", img:"images/kuresin/nenesin_you.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～幼稚園にいくゾ～ボーちゃんと", search:"野原しんのすけ　のはらしんのすけ", type:"nakayosi", price:600, date:"1899-12-30", img:"images/kuresin/sinbou_you.jpg", source:"https://bsp-prize.jp/"},
