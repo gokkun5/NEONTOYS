@@ -3,6 +3,18 @@ window.figures3 = [
 
 
 
+
+
+
+{series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“江戸川コナン”", search:"えどがわこなん", type:"peti", price:400, date:"1899-12-30", img:"images/konan/konan_peti.jpg", source:"https://segaplaza.jp/"},
+{series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“灰原哀”", search:"はいばらあい", type:"peti", price:400, date:"1899-12-30", img:"images/konan/ai_peti.jpg", source:"https://segaplaza.jp/"},
+{series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“工藤新一”", search:"くどうしんいち", type:"peti", price:400, date:"1899-12-30", img:"images/konan/sin_peti.jpg", source:"https://segaplaza.jp/"},
+{series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“毛利蘭”", search:"もうりらん", type:"peti", price:400, date:"1899-12-30", img:"images/konan/ran_peti.jpg", source:"https://segaplaza.jp/"},
+{series:"gotoyome", name:"五等分の花嫁＊ 中野一花フィギュア五等分の花嫁アニメ原画展ver.", search:"なかのいちか", type:"", price:300, date:"1899-12-30", img:"images/gotoyome/itika_genga.jpg", source:"https://bsp-prize.jp/"},
+{series:"oba", name:"オーバーロード IF-Relax time-アルベド", search:"あるべど", type:"relax", price:550, date:"1899-12-30", img:"images/oba/aru_relax_if.jpg", source:"https://bsp-prize.jp/"},
+{series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“朝凪依”", search:"あさなぎより", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/asa_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“木野ひまり”", search:"きのひまり", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/kino_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 冨岡義勇-水の呼吸-", search:"とみおかぎゆう　みずのこきゅう", type:"", price:800, date:"2026-06-04", img:"images/kimetu/giyu_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"death", name:"DEATH NOTE　ぬーどるストッパーフィギュアーLー", search:"える　", type:"nusuto", price:1000, date:"2026-06-05", img:"images/death/l_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-BARTHOLOMEW.KUMA-", search:"バーソロミューくま　ばーそろみゅーくま", type:"", price:800, date:"2026-06-03", img:"images/wanpi/kuma_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミク　Trio-Try-iT Figureーレイニーダンスー", search:"はつねみく　れいにーだんす", type:"trio", price:1000, date:"2026-06-04", img:"images/miku/ame_trio.jpg", source:"https://charahiroba.com/"},
@@ -75,7 +87,7 @@ window.figures3 = [
 {series:"uru", name:"ウルトラマンシリーズ 鎮座獣 コイン怪獣カネゴン", search:"こいんかいじゅうかねごん", type:"tinza", price:500, date:"2026-05-27", img:"images/uru/kane_tinza_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"monhan", name:"モンスターハンター 鎮座獣 アルシュベルド～夢から覚めて～", search:"あるしゅべると", type:"tinza", price:500, date:"2026-05-27", img:"images/monhan/arusyu_tinza.jpg", source:"https://bsp-prize.jp/"},
 {series:"dandadan", name:"Trio-Try-iT Figureージジ(変身)ー", search:"じじ", type:"trio", price:500, date:"2026-05-27", img:"images/dandadan/zizi_trio.jpg", source:"https://charahiroba.com/"},
-{series:"umamusume", name:"Trio-Try-iT Figure―ヒシミラクルー", search:"ひしみらくる", type:"trio", price:900, date:"2026-05-27", img:"images/umamusume/hisi_trio.jpg", source:"https://charahiroba.com/"},
+{series:"umamusume", name:"Trio-Try-iT Figure―ヒシミラクルー", search:"ひしみらくる", type:"trio", price:600, date:"2026-05-27", img:"images/umamusume/hisi_trio.jpg", source:"https://charahiroba.com/"},
 {series:"holo", name:"ホロライブ #hololive IF -ホロベイビーズ-宝鐘マリン", search:"ほうしょうまりん", type:"", price:500, date:"2026-05-26", img:"images/holo/marin_baby.jpg", source:"https://bsp-prize.jp/"},
 {series:"holo", name:"ホロライブ #hololive IF -ホロベイビーズ-こぼ・かなえる", search:"", type:"", price:500, date:"2026-05-26", img:"images/holo/kobo_baby.jpg", source:"https://bsp-prize.jp/"},
 {series:"king", name:"キングダム オギコフィギュア", search:"おぎこ", type:"", price:500, date:"2026-05-27", img:"images/king/ogiko.jpg", source:"https://bsp-prize.jp/"},

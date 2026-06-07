@@ -461,7 +461,7 @@ window.figures1 = [
 {series:"tora", name:"『To LOVEる-とらぶる-ダークネス』Aqua Float Girls フィギュア 結城美柑", search:"みかん", type:"aqua", price:700, date:"1899-12-30", img:"images/tora/mikan_aqua.jpg", source:"https://www.taito.co.jp/"},
 {series:"gotoyome", name:"『五等分の花嫁∬』Desktop Cute フィギュア 中野一花〜描き下ろしCat room wear ver.〜", search:"なかのいちか", type:"desk", price:350, date:"1899-12-30", img:"images/gotoyome/itika_desk_neko.jpg", source:"https://www.taito.co.jp/"},
 {series:"rerugan", name:"『とある科学の超電磁砲』Desktop Cute フィギュア 食蜂操祈～チャイナドレスver.～", search:"しょくほうみさき", type:"desk", price:800, date:"1899-12-30", img:"images/rerugan/syokuho_chaina.jpg", source:"https://www.taito.co.jp/"},
-{series:"tora", name:"『To LOVEる―とらぶる―ダークネス』Desktop Cute フィギュア ララ〜ルームウェアver.〜", search:"らら", type:"desk", price:650, date:"1899-12-30", img:"images/tora/rara_desk.jpg", source:"https://www.taito.co.jp/"},
+{series:"tora", name:"『To LOVEる―とらぶる―ダークネス』Desktop Cute フィギュア ララ〜ルームウェアver.〜", search:"らら", type:"desk", price:600, date:"1899-12-30", img:"images/tora/rara_desk.jpg", source:"https://www.taito.co.jp/"},
 {series:"toribe", name:"ぬーどるストッパーフィギュア 東京リベンジャーズ ーマイキー・中華服ver.ー", search:"まいきー", type:"nusuto", price:500, date:"1899-12-30", img:"images/toribe/maiki_nusuto_chaina.jpg", source:"https://charahiroba.com/"},
 {series:"pro", name:"プロジェクトセカイカラフルステージ！feat.初音ミク Desktop×Decorate Collections“青柳冬弥”", search:"あおやぎとおや", type:"ddc", price:600, date:"1899-12-30", img:"images/pro/aoyagi_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"gundam", name:"機動戦士Gundam GQuuuuuuX 限械突破 GQuuuuuuX（オメガ・サイコミュ起動前）", search:"じーくあくす", type:"", price:300, date:"1899-12-30", img:"images/gundam/zikuakusu.jpg", source:"https://bsp-prize.jp/"},
