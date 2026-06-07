@@ -2,6 +2,17 @@ window.figures3 = [
 
 
 
+
+
+{series:"sanrio", name:"サンリオキャラクターズ Fluffy Puffy～マイメロディ＆クロミ～", search:"まいめろでぃ", type:"flu", price:600, date:"1899-12-30", img:"images/sanrio/maikuro_flu.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ Fluffy Puffy～マイメロディ＆クロミ～", search:"くろみ", type:"flu", price:600, date:"1899-12-30", img:"images/sanrio/kuromai_flu.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"DRAGON BALL SPIRITFLICKS 01", search:"孫悟空　そんごくう", type:"spi", price:600, date:"1899-12-30", img:"images/db/goku_spi_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"DRAGON BALL SPIRITFLICKS 01", search:"孫悟空　そんごくう", type:"spi", price:600, date:"1899-12-30", img:"images/db/goku_spi_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"DRAGON BALL SPIRITFLICKS 01", search:"孫悟空　そんごくう", type:"spi", price:600, date:"1899-12-30", img:"images/db/goku_spi_c.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"DRAGON BALL SPIRITFLICKS 01", search:"孫悟空　そんごくう", type:"spi", price:600, date:"1899-12-30", img:"images/db/goku_spi_d.jpg", source:"https://bsp-prize.jp/"},
+{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.11", search:"不知火フレア　しらぬいふれあ", type:"hikkake", price:200, date:"1899-12-30", img:"images/holo/furea_11.jpg", source:"https://charahiroba.com/"},
+{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.11", search:"白銀ノエル　しろがねのえる", type:"hikkake", price:200, date:"1899-12-30", img:"images/holo/noeru_11.jpg", source:"https://charahiroba.com/"},
+{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.11", search:"博衣こより　はくいこより", type:"hikkake", price:200, date:"1899-12-30", img:"images/holo/koyori_11.jpg", source:"https://charahiroba.com/"},
 {series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“シング”", search:"しんぐ", type:"act", price:400, date:"1899-12-30", img:"images/mar/thing_act.jpg", source:"https://segaplaza.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン フィギュアライト フリーレン-ゾルトラーク-", search:"ふりーれん　ぞるとらーく", type:"", price:800, date:"1899-12-30", img:"images/furi-ren/furizoru_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"wnapi", name:"ワンピース THE出航-NAMI-ver.EGGHEAD", search:"なみ", type:"syukko", price:800, date:"1899-12-30", img:"images/wanpi/nami_syukko_egg.jpg", source:"https://bsp-prize.jp/"},
@@ -24,8 +35,8 @@ window.figures3 = [
 {series:"vsupo", name:"ぶいすぽっ！スケールフィギュア-Play with paint-vol.9", search:"夢野あかり　ゆめのあかり", type:"", price:800, date:"2026-05-22", img:"images/vsupo/akari_gigo.jpg", source:"https://www.gigo.co.jp/prizes"},
 {series:"konan", name:"名探偵コナンちょこのせプレミアムフィギュア“怪盗キッド”～寝そべりVer.～", search:"かいとうきっど", type:"tyoko", price:600, date:"1899-12-30", img:"images/konan/kiddo_ne_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"mazyotabi", name:"魔女の旅々　Desktop Cute フィギュア　イレイナ～私服ver.～Renewal", search:"いれいな", type:"desk", price:800, date:"1899-12-30", img:"images/mazyotabi/sifuku_desk_re.jpg", source:"https://www.taito.co.jp/"},
-{series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～ララ～", search:"らら", type:"sof", price:800, date:"1899-12-30", img:"images/sanrio/rara_sof.jpg", source:"https://bsp-prize.jp/"},
-{series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～キキ～", search:"きき", type:"sof", price:800, date:"1899-12-30", img:"images/sanrio/kiki_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～ララ～", search:"らら", type:"sof", price:500, date:"1899-12-30", img:"images/sanrio/rara_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～キキ～", search:"きき", type:"sof", price:500, date:"1899-12-30", img:"images/sanrio/kiki_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"haikyu", name:"ハイキュー‼ すやすやルームライト-日向翔陽-", search:"ひなたしょうよう", type:"", price:800, date:"1899-12-30", img:"images/haikyu/hinata_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"ozya", name:"おジャ魔女どれみ Paldolce collection Grande-春風どれみ-", search:"はるかぜどれみ", type:"", price:300, date:"1899-12-30", img:"images/ozya/doremi.jpg", source:"https://bsp-prize.jp/"},
 {series:"gegege", name:"映画「鬼太郎誕生 ゲゲゲの謎」　Vivitフィギュア ねこ娘", search:"ねこむすめ", type:"vivi", price:300, date:"1899-12-30", img:"images/gegege/neko_vivi.jpg", source:"http://www.fans.co.jp/"},

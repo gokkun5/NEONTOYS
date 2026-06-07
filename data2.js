@@ -551,7 +551,7 @@ window.figures2 = [
 {series:"kimetu", name:"ぬーどるストッパーフィギュアー冨岡義勇ー", search:"とみおかぎゆう", type:"nusuto", price:1200, date:"2026-04-30", img:"images/kimetu/giyu_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"kisekoi", name:"その着せ替え人形は恋をする　Coreful フィギュア　喜多川海夢～ベロニカver.～", search:"べろにか", type:"core", price:600, date:"2026-04-30", img:"images/kisekoi/bero_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"holo", name:"ホロライブ #hololive IF -Relax time-轟はじめ", search:"とどろきはじめ", type:"relax", price:500, date:"2026-04-30", img:"images/holo/hazime_relax.jpg", source:"https://bsp-prize.jp/"},
-{series:"miku", name:"桜ミク BANPRESTO EVOLVE 桜ミクフィギュア", search:"さくらみく", type:"bpev", price:700, date:"2026-04-30", img:"images/miku/sakura_bpev.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"桜ミク BANPRESTO EVOLVE 桜ミクフィギュア", search:"さくらみく", type:"bpev", price:600, date:"2026-04-30", img:"images/miku/sakura_bpev.jpg", source:"https://bsp-prize.jp/"},
 {series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER＆GLAMOURS-喜多川海夢 文化祭ver.-", search:"きたがわまりん", type:"gli", price:800, date:"2026-04-30", img:"images/kisekoi/marin_gli_bunka.jpg", source:"https://bsp-prize.jp/"},
 {series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:400, date:"2026-05-01", img:"images/monhan/furu_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"monhan", name:"モンスターハンター 鎮座獣 フルフル～恐怖！旧沼地の怪談～", search:"ふるふる", type:"tinaza", price:400, date:"2026-05-01", img:"images/monhan/furu_b.jpg", source:"https://bsp-prize.jp/"},
