@@ -2,10 +2,10 @@ window.figures3 = [
 
 
 
-
-
-
-
+{series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“シング”", search:"しんぐ", type:"act", price:400, date:"1899-12-30", img:"images/mar/thing_act.jpg", source:"https://segaplaza.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン フィギュアライト フリーレン-ゾルトラーク-", search:"ふりーれん　ぞるとらーく", type:"", price:800, date:"1899-12-30", img:"images/furi-ren/furizoru_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"wnapi", name:"ワンピース THE出航-NAMI-ver.EGGHEAD", search:"なみ", type:"syukko", price:800, date:"1899-12-30", img:"images/wanpi/nami_syukko_egg.jpg", source:"https://bsp-prize.jp/"},
+{series:"amagamisan", name:"甘神さんちの縁結び　Coreful フィギュア　甘神夜重", search:"あまがみやえ", type:"core", price:300, date:"1899-12-30", img:"images/amagamisan/yae_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“江戸川コナン”", search:"えどがわこなん", type:"peti", price:400, date:"1899-12-30", img:"images/konan/konan_peti.jpg", source:"https://segaplaza.jp/"},
 {series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“灰原哀”", search:"はいばらあい", type:"peti", price:400, date:"1899-12-30", img:"images/konan/ai_peti.jpg", source:"https://segaplaza.jp/"},
 {series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“工藤新一”", search:"くどうしんいち", type:"peti", price:400, date:"1899-12-30", img:"images/konan/sin_peti.jpg", source:"https://segaplaza.jp/"},
