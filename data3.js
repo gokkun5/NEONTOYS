@@ -3,9 +3,13 @@ window.figures3 = [
 
 
 
-
+{series:"togen", name:"桃源暗鬼 むっくんスピーカー", search:"", type:"", price:500, date:"1899-12-30", img:"images/togen/mukkun.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～ポチャッコ リラックスver.～", search:"ぽちゃっこ", type:"sof", price:600, date:"1899-12-30", img:"images/sanrio/po_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"Netflixシリーズ「My Melody & Kuromi」 Fluffy Puffy～My Melody & Kuromi～", search:"くろみ", type:"flu", price:700, date:"1899-12-30", img:"images/sanrio/kuro_flu.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ Fluffy Puffy～ハローキティ＆シナモロール～", search:"はろーきてぃ", type:"flu", price:800, date:"1899-12-30", img:"images/sanrio/kitesina_flu.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ Fluffy Puffy～ハローキティ＆シナモロール～", search:"しなもろーる", type:"flu", price:800, date:"1899-12-30", img:"images/sanrio/sinakite_flu.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ Fluffy Puffy～マイメロディ＆クロミ～", search:"まいめろでぃ", type:"flu", price:600, date:"1899-12-30", img:"images/sanrio/maikuro_flu.jpg", source:"https://bsp-prize.jp/"},
-{series:"sanrio", name:"サンリオキャラクターズ Fluffy Puffy～マイメロディ＆クロミ～", search:"くろみ", type:"flu", price:600, date:"1899-12-30", img:"images/sanrio/kuromai_flu.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ Fluffy Puffy～マイメロディ＆クロミ～", search:"くろみ", type:"flu", price:700, date:"1899-12-30", img:"images/sanrio/kuromai_flu.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"DRAGON BALL SPIRITFLICKS 01", search:"孫悟空　そんごくう", type:"spi", price:600, date:"1899-12-30", img:"images/db/goku_spi_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"DRAGON BALL SPIRITFLICKS 01", search:"孫悟空　そんごくう", type:"spi", price:600, date:"1899-12-30", img:"images/db/goku_spi_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"DRAGON BALL SPIRITFLICKS 01", search:"孫悟空　そんごくう", type:"spi", price:600, date:"1899-12-30", img:"images/db/goku_spi_c.jpg", source:"https://bsp-prize.jp/"},
