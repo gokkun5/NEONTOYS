@@ -2,7 +2,7 @@ window.figures3 = [
 
 
 
-
+{series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～ポムポムプリン リラックスver.～", search:"ぽむぽむぷりん", type:"sof", price:500, date:"1899-12-30", img:"images/sanrio/pom_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"togen", name:"桃源暗鬼 むっくんスピーカー", search:"", type:"", price:500, date:"1899-12-30", img:"images/togen/mukkun.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～ポチャッコ リラックスver.～", search:"ぽちゃっこ", type:"sof", price:600, date:"1899-12-30", img:"images/sanrio/po_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"Netflixシリーズ「My Melody & Kuromi」 Fluffy Puffy～My Melody & Kuromi～", search:"くろみ", type:"flu", price:700, date:"1899-12-30", img:"images/sanrio/kuro_flu.jpg", source:"https://bsp-prize.jp/"},
