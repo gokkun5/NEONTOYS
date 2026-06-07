@@ -1,6 +1,14 @@
 window.figures3 = [
 
 
+
+
+{series:"death", name:"DEATH NOTE　ぬーどるストッパーフィギュアーLー", search:"える　", type:"nusuto", price:1000, date:"2026-06-05", img:"images/death/l_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-BARTHOLOMEW.KUMA-", search:"バーソロミューくま　ばーそろみゅーくま", type:"", price:800, date:"2026-06-03", img:"images/wanpi/kuma_bato.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"初音ミク　Trio-Try-iT Figureーレイニーダンスー", search:"はつねみく　れいにーだんす", type:"trio", price:1000, date:"2026-06-04", img:"images/miku/ame_trio.jpg", source:"https://charahiroba.com/"},
+{series:"db", name:"ドラゴンボール超 SOLID EDGE WORKS-THE出陣-ゴールデンフリーザ", search:"ごーるでんふりーざ", type:"syutu", price:800, date:"2026-06-03", img:"images/db/gorufuri_syutu.jpg", source:"https://bsp-prize.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　ポケットティッシュケース　ミイラ男＆マミー", search:"みいらおとこ", type:"", price:600, date:"2026-05-23", img:"images/dorakue/mira_a.jpg", source:"https://www.taito.co.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　ポケットティッシュケース　ミイラ男＆マミー", search:"まみー", type:"", price:600, date:"2026-05-23", img:"images/dorakue/mira_b.jpg", source:"https://www.taito.co.jp/"},
 {series:"vsupo", name:"ぶいすぽっ！スケールフィギュア-Play with paint-vol.9", search:"夢野あかり　ゆめのあかり", type:"", price:800, date:"2026-05-22", img:"images/vsupo/akari_gigo.jpg", source:"https://www.gigo.co.jp/prizes"},
 {series:"konan", name:"名探偵コナンちょこのせプレミアムフィギュア“怪盗キッド”～寝そべりVer.～", search:"かいとうきっど", type:"tyoko", price:600, date:"1899-12-30", img:"images/konan/kiddo_ne_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"mazyotabi", name:"魔女の旅々　Desktop Cute フィギュア　イレイナ～私服ver.～Renewal", search:"いれいな", type:"desk", price:800, date:"1899-12-30", img:"images/mazyotabi/sifuku_desk_re.jpg", source:"https://www.taito.co.jp/"},
@@ -10,8 +18,8 @@ window.figures3 = [
 {series:"ozya", name:"おジャ魔女どれみ Paldolce collection Grande-春風どれみ-", search:"はるかぜどれみ", type:"", price:300, date:"1899-12-30", img:"images/ozya/doremi.jpg", source:"https://bsp-prize.jp/"},
 {series:"gegege", name:"映画「鬼太郎誕生 ゲゲゲの謎」　Vivitフィギュア ねこ娘", search:"ねこむすめ", type:"vivi", price:300, date:"1899-12-30", img:"images/gegege/neko_vivi.jpg", source:"http://www.fans.co.jp/"},
 {series:"nyanko", name:"にゃんこ大戦争 にゃんこ軍団出陣フィギュア～超極ネコ祭 厄災の子キャスリィ～", search:"やくさいのこきゃすりぃ", type:"", price:500, date:"1899-12-30", img:"images/nyanko/kyasu.jpg", source:"https://bsp-prize.jp/"},
-{series:"pawapuro", name:"パワフルプロ野球&プロ野球スピリッツ プライズボブルヘッドコレクション", search:"パワプロくん　ぱわぷろくん", type:"", price:400, date:"2026-05-28", img:"images/pawapuro/pawa_bobu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
-{series:"pawapuro", name:"パワフルプロ野球&プロ野球スピリッツ プライズボブルヘッドコレクション", search:"ちょうしくん　調子くん", type:"", price:400, date:"2026-05-28", img:"images/pawapuro/tyousi_bobu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"pawapuro", name:"パワフルプロ野球&プロ野球スピリッツ プライズボブルヘッドコレクション", search:"パワプロくん　ぱわぷろくん", type:"", price:500, date:"2026-05-28", img:"images/pawapuro/pawa_bobu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"pawapuro", name:"パワフルプロ野球&プロ野球スピリッツ プライズボブルヘッドコレクション", search:"ちょうしくん　調子くん", type:"", price:500, date:"2026-05-28", img:"images/pawapuro/tyousi_bobu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"zyuzyutu", name:"呪術廻戦 KING OF ARTIST GOJO・GETO-懐玉・玉折-SPECIAL ver.", search:"げとうすぐる　夏油傑", type:"koa", price:1100, date:"1899-12-30", img:"images/zyuzyutu/geto_koa_sp.jpg", source:"https://bsp-prize.jp/"},
 {series:"kaizyu", name:"怪獣８号　TOONIZEー怪獣８号ー", search:"かいじゅう8ごう", type:"", price:400, date:"1899-12-30", img:"images/kaizyu/kaizyu_too_a.jpg", source:"https://charahiroba.com/"},
 {series:"tensura", name:"転生したらスライムだった件 EXQ フィギュア～リムル＝テンペスト～-metallic color version-", search:"りむるてんぺすと", type:"exq", price:1000, date:"1899-12-30", img:"images/tensura/rimuru_exq_namco.jpg", source:"https://bsp-prize.jp/"},
