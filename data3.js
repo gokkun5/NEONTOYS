@@ -2,6 +2,21 @@ window.figures3 = [
 
 
 
+
+
+{series:"wanpi", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.2", search:"にか　ニカ　ルフィ　るふぃ", type:"figl", price:800, date:"1899-12-30", img:"images/wanpi/nika_figl2.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～JEWELRY.BONNEY CHILDREN ver.", search:"ジュエリーボニー　じゅえりーぼにー", type:"dxf", price:400, date:"1899-12-30", img:"images/wanpi/boni_dxf_child.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"『ONE PIECE FILM RED』 Q posket-UTA-", search:"ウタ　うた", type:"qpos", price:300, date:"1899-12-30", img:"images/wanpi/uta_qpos.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"『ONE PIECE FILM RED』 DXF～THE GRANDLINE LADY～vol.1", search:"ウタ　うた", type:"dxf", price:400, date:"1899-12-30", img:"images/wanpi/uta_dxf.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"『ONE PIECE FILM RED』 DXF～THE GRANDLINE SERIES～UTA CHILDREN", search:"ウタ　うた", type:"dxf", price:300, date:"1899-12-30", img:"images/wanpi/uta_dxf_child.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース サボ ルームライト-火拳（ヒケン）-", search:"さぼ　ひけん", type:"", price:400, date:"1899-12-30", img:"images/wanpi/hiken_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース トラファルガー・ロー ルームライト-R・ROOM“凪（サイレント）”-", search:"とらふぁるがーろー　るーむさいれんと", type:"", price:500, date:"1899-12-30", img:"images/wanpi/sairento_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん おおきなSOFVIMATES～野原しんのすけ（ワニ山さんver.）～パステルカラーver.", search:"のはらしんのすけ", type:"sof", price:500, date:"1899-12-30", img:"images/kuresin/wani_sof.jpg", source:"https://bsp-prize.jp/"},    
+{series:"osinoko", name:"【推しの子】 全力造形 フィギュア MEMちょ", search:"めむちょ", type:"zenryoku", price:300, date:"1899-12-30", img:"images/osinoko/memu_zen.jpg", source:"http://www.fans.co.jp/"},
+{series:"oba", name:"オーバーロード　Desktop Cute フィギュア　アルベド～牛柄水着ver.～Renewal", search:"あるべど", type:"desk", price:500, date:"1899-12-30", img:"images/oba/aru_usi_re.jpg", source:"https://www.taito.co.jp/"},
+{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-MONKEY.D.GARP-", search:"もんきーでぃーがーぷ　モンキーディーガープ", type:"bato", price:600, date:"1899-12-30", img:"images/wanpi/gapu_bato1.jpg", source:"https://bsp-prize.jp/"},
+{series:"crazy", name:"Crazy Raccoon デスクトップフィギュア-VanilLa-", search:"ばにら　バニラ", type:"moni", price:400, date:"1899-12-30", img:"images/crazy/banira.jpg", source:"https://bsp-prize.jp/"},
+{series:"crazy", name:"Crazy Raccoon デスクトップフィギュア-VanilLa-", search:"ばにら　バニラ", type:"moni", price:400, date:"1899-12-30", img:"images/crazy/banira_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～ポムポムプリン リラックスver.～", search:"ぽむぽむぷりん", type:"sof", price:500, date:"1899-12-30", img:"images/sanrio/pom_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"togen", name:"桃源暗鬼 むっくんスピーカー", search:"", type:"", price:500, date:"1899-12-30", img:"images/togen/mukkun.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～ポチャッコ リラックスver.～", search:"ぽちゃっこ", type:"sof", price:600, date:"1899-12-30", img:"images/sanrio/po_sof.jpg", source:"https://bsp-prize.jp/"},
