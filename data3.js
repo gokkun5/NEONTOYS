@@ -1,9 +1,11 @@
 window.figures3 = [
 
 
-
-
-
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～SPECIAL MONKEY.D.GARP", search:"モンキーディーガープ　もんきーでぃーがーぷ", type:"dxf", price:800, date:"1899-12-30", img:"images/wanpi/gapu_dxf.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～SPECIAL NEFELTARI VIVI", search:"ネフェルタリビビ　ねふぇるたりびび", type:"dxf", price:500, date:"1899-12-30", img:"images/wanpi/bibi_dxf.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～SPECIAL MONKEY.D.LUFFY", search:"るふぃ　ルフィ", type:"dxf", price:700, date:"1899-12-30", img:"images/wanpi/rufi_dxf.jpg", source:"https://bsp-prize.jp/"},
+{series:"pro", name:"プロジェクトセカイカラフルステージ！feat.初音ミク Desktop×DecorateCollections “天馬咲希”", search:"てんまさき", type:"ddc", price:650, date:"1899-12-30", img:"images/pro/tenma_ddc.jpg", source:"https://segaplaza.jp/"},
+{series:"wanpi", name:"ワンピース Q posket-ヤマト-", search:"やまと", type:"qpos", price:300, date:"1899-12-30", img:"images/wanpi/yamato_qpos.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.2", search:"にか　ニカ　ルフィ　るふぃ", type:"figl", price:800, date:"1899-12-30", img:"images/wanpi/nika_figl2.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～JEWELRY.BONNEY CHILDREN ver.", search:"ジュエリーボニー　じゅえりーぼにー", type:"dxf", price:400, date:"1899-12-30", img:"images/wanpi/boni_dxf_child.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"『ONE PIECE FILM RED』 Q posket-UTA-", search:"ウタ　うた", type:"qpos", price:300, date:"1899-12-30", img:"images/wanpi/uta_qpos.jpg", source:"https://bsp-prize.jp/"},
