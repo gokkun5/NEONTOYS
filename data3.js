@@ -1,6 +1,9 @@
 window.figures3 = [
 
 
+
+
+{series:"kimetu", name:"アニメ「鬼滅の刃」 MAXIMATIC THE MITSURI KANROJI", search:"甘露寺密璃　かんろじみつり", type:"ma", price:1400, date:"1899-12-30", img:"images/kimetu/mituri_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース KING OF ARTIST ROB LUCCI Awakening-SPECIAL ver.-", search:"ろぶるっち　ロブルッチ", type:"koa", price:600, date:"2026-06-03", img:"images/wanpi/rutti_koa_sp.jpg", source:"https://bsp-prize.jp/"},
 {series:"sonota", name:"サルゲッチュ モニタートップフィギュア～ピポサル～", search:"ぴぽざる", type:"moni", price:600, date:"2026-06-03", img:"images/sonota/saru_pure.jpg", source:"https://bsp-prize.jp/"},
 {series:"sonota", name:"サルゲッチュ モニタートップフィギュア～ピポサル～", search:"ぴぽざる", type:"moni", price:600, date:"2026-06-03", img:"images/sonota/saru_pure2.jpg", source:"https://bsp-prize.jp/"},
@@ -97,8 +100,8 @@ window.figures3 = [
 {series:"wanpi", name:"ワンピース THE出航-SABO-", search:"サボ　さぼ", type:"syukko", price:500, date:"1899-12-30", img:"images/wanpi/sabo1_syukko.jpg", source:"https://bsp-prize.jp/"},
 {series:"spy", name:"SPY×FAMILY Q posket-アーニャ・フォージャー-Ⅲ", search:"あーにゃふぉーじゃー", type:"qpos", price:300, date:"1899-12-30", img:"images/spy/anya3_qpos.jpg", source:"https://bsp-prize.jp/"},
 {series:"spy", name:"SPY×FAMILY Q posket-アーニャ・フォージャー-Ⅲ", search:"あーにゃふぉーじゃー", type:"qpos", price:300, date:"1899-12-30", img:"images/spy/anya3_qpos_b.jpg", source:"https://bsp-prize.jp/"},
-{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA KING", search:"キング　きんぐ", type:"dxf", price:500, date:"1899-12-30", img:"images/wanpi/king_dxf.jpg", source:"https://bsp-prize.jp/"},
-{series:"aimasu", name:"アイドルマスター ミリオンライブ！-Celestial vivi-如月千早", search:"きさらぎちはや", type:"cele", price:400, date:"1899-12-30", img:"images/aimasu/tihaya_cele.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA KING", search:"キング　きんぐ", type:"dxf", price:600, date:"1899-12-30", img:"images/wanpi/king_dxf.jpg", source:"https://bsp-prize.jp/"},
+{series:"aimasu", name:"アイドルマスター ミリオンライブ！-Celestial vivi-如月千早", search:"きさらぎちはや", type:"cele", price:300, date:"1899-12-30", img:"images/aimasu/tihaya_cele.jpg", source:"https://bsp-prize.jp/"},
 {series:"toribe", name:"東京リベンジャーズ プレミアムフィギュア“乾青宗”-黒龍-", search:"いぬいせいしゅう", type:"", price:300, date:"1899-12-30", img:"images/toribe/inui.jpg", source:"https://segaplaza.jp/"},
 {series:"toribe", name:"東京リベンジャーズ　九井一フィギュア", search:"ここのいはじめ", type:"", price:300, date:"1899-12-30", img:"images/toribe/kokonoi.jpg", source:"https://www.taito.co.jp/"},
 {series:"kinniku", name:"キン肉マン サウナフィギュア-テリーマン-", search:"てりーまん", type:"", price:300, date:"1899-12-30", img:"images/kinniku/teri_sauna.jpg", source:"https://bsp-prize.jp/"},
