@@ -271,7 +271,7 @@ window.figures2 = [
 {series:"deara", name:"デート・ア・ライブ GLITTER&GLAMOURS-YOSHINO-", search:"よしの　四糸乃", type:"gli", price:500, date:"1899-12-30", img:"images/deara/yosino_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア THE MOVIE ユアネクスト フィギュアvol.3", search:"だーくまいと　ダークマイト", type:"", price:600, date:"1899-12-30", img:"images/hiro/dakuma.jpg", source:"https://bsp-prize.jp/"},
 {series:"crazy", name:"Crazy Raccoon モニタートップフィギュア-だるまいずごっど-", search:"", type:"moni", price:300, date:"1899-12-30", img:"images/crazy/daruma.jpg", source:"https://bsp-prize.jp/"},
-{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA CROCODILE", search:"クロコダイル　くろこだいる", type:"dxf", price:700, date:"1899-12-30", img:"images/wanpi/kuroko_dxf_ex.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA CROCODILE", search:"クロコダイル　くろこだいる", type:"dxf", price:600, date:"1899-12-30", img:"images/wanpi/kuroko_dxf_ex.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 フィギュアライト 伏黒恵～嵌合暗翳庭～", search:"ふしぐろめぐみ　かんごうあんえいてい", type:"", price:800, date:"1899-12-30", img:"images/zyuzyutu/megumi_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-NEFELTARI VIVI-Ⅱ", search:"ビビ　びび", type:"gli", price:500, date:"1899-12-30", img:"images/wanpi/bibi_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"deara", name:"デート・ア・ライブⅤ　Desktop Cute フィギュア　時崎狂三～バニーver.～", search:"ときさきくるみ", type:"desk", price:400, date:"1899-12-30", img:"images/deara/kurumi_desk_bani.jpg", source:"https://www.taito.co.jp/"},
