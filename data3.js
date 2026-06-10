@@ -1,7 +1,13 @@
 window.figures3 = [
 
 
-
+{series:"wanpi", name:"ワンピース KING OF ARTIST ROB LUCCI Awakening-SPECIAL ver.-", search:"ろぶるっち　ロブルッチ", type:"koa", price:600, date:"2026-06-03", img:"images/wanpi/rutti_koa_sp.jpg", source:"https://bsp-prize.jp/"},
+{series:"sonota", name:"サルゲッチュ モニタートップフィギュア～ピポサル～", search:"ぴぽざる", type:"moni", price:600, date:"2026-06-03", img:"images/sonota/saru_pure.jpg", source:"https://bsp-prize.jp/"},
+{series:"sonota", name:"サルゲッチュ モニタートップフィギュア～ピポサル～", search:"ぴぽざる", type:"moni", price:600, date:"2026-06-03", img:"images/sonota/saru_pure2.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦懐玉・玉折FIGURIZMα“五条悟”術式反転「赫」", search:"ごじょうさとる", type:"fig", price:1100, date:"1899-12-30", img:"images/zyuzyutu/aka_fig.jpg", source:"https://segaplaza.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 VIBRATION STARS PLUS-竈門炭治郎-", search:"かまどたんじろう", type:"vib", price:1300, date:"1899-12-30", img:"images/kimetu/tan_vib_p.jpg", source:"https://bsp-prize.jp/"},
+{series:"tyen", name:"チェンソーマン おおきなSOFVIMATES～ポチタは泣きながら俺を待っていた～", search:"ぽちた", type:"sof", price:5000, date:"1899-12-30", img:"images/tyen/potita_naki.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん -俺のフィギュア 野原ひろし-", search:"のはらひろし", type:"", price:800, date:"1899-12-30", img:"images/kuresin/hirosi.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.3", search:"にか　ニカ　ルフィ　るふぃ", type:"figl", price:1000, date:"1899-12-30", img:"images/wanpi/nika_figl3.jpg", source:"https://bsp-prize.jp/"},
 {series:"sakamoto", name:"SAKAMOTODAYSLuminasta“坂本太郎”本気Ver.", search:"さかもとたろう", type:"lum", price:400, date:"1899-12-30", img:"images/sakamoto/sakamoto_honki_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"db", name:"ドラゴンボール超 BLOOD OF SAIYANS-ゴジータ&ベジット-", search:"ごじーた", type:"blood", price:500, date:"1899-12-30", img:"images/db/gozi_blood.jpg", source:"https://bsp-prize.jp/"},
@@ -125,9 +131,9 @@ window.figures3 = [
 {series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～マイメロディ・クロミ～", search:"くろみ", type:"", price:500, date:"2026-05-27", img:"images/sanrio/kuromi_kosu.jpg", source:"https://bsp-prize.jp/"},
 {series:"uru", name:"ウルトラマンシリーズ 鎮座獣 コイン怪獣カネゴン", search:"こいんかいじゅうかねごん", type:"tinza", price:500, date:"2026-05-27", img:"images/uru/kane_tinza.jpg", source:"https://bsp-prize.jp/"},
 {series:"uru", name:"ウルトラマンシリーズ 鎮座獣 コイン怪獣カネゴン", search:"こいんかいじゅうかねごん", type:"tinza", price:500, date:"2026-05-27", img:"images/uru/kane_tinza_b.jpg", source:"https://bsp-prize.jp/"},
-{series:"monhan", name:"モンスターハンター 鎮座獣 アルシュベルド～夢から覚めて～", search:"あるしゅべると", type:"tinza", price:500, date:"2026-05-27", img:"images/monhan/arusyu_tinza.jpg", source:"https://bsp-prize.jp/"},
+{series:"monhan", name:"モンスターハンター 鎮座獣 アルシュベルド～夢から覚めて～", search:"あるしゅべると", type:"tinza", price:400, date:"2026-05-27", img:"images/monhan/arusyu_tinza.jpg", source:"https://bsp-prize.jp/"},
 {series:"dandadan", name:"Trio-Try-iT Figureージジ(変身)ー", search:"じじ", type:"trio", price:500, date:"2026-05-27", img:"images/dandadan/zizi_trio.jpg", source:"https://charahiroba.com/"},
-{series:"umamusume", name:"Trio-Try-iT Figure―ヒシミラクルー", search:"ひしみらくる", type:"trio", price:600, date:"2026-05-27", img:"images/umamusume/hisi_trio.jpg", source:"https://charahiroba.com/"},
+{series:"umamusume", name:"Trio-Try-iT Figure―ヒシミラクルー", search:"ひしみらくる", type:"trio", price:700, date:"2026-05-27", img:"images/umamusume/hisi_trio.jpg", source:"https://charahiroba.com/"},
 {series:"holo", name:"ホロライブ #hololive IF -ホロベイビーズ-宝鐘マリン", search:"ほうしょうまりん", type:"", price:500, date:"2026-05-26", img:"images/holo/marin_baby.jpg", source:"https://bsp-prize.jp/"},
 {series:"holo", name:"ホロライブ #hololive IF -ホロベイビーズ-こぼ・かなえる", search:"", type:"", price:500, date:"2026-05-26", img:"images/holo/kobo_baby.jpg", source:"https://bsp-prize.jp/"},
 {series:"king", name:"キングダム オギコフィギュア", search:"おぎこ", type:"", price:500, date:"2026-05-27", img:"images/king/ogiko.jpg", source:"https://bsp-prize.jp/"},
