@@ -1,6 +1,14 @@
 window.figures3 = [
 
 
+
+{series:"wanpi", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.3", search:"にか　ニカ　ルフィ　るふぃ", type:"figl", price:1000, date:"1899-12-30", img:"images/wanpi/nika_figl3.jpg", source:"https://bsp-prize.jp/"},
+{series:"sakamoto", name:"SAKAMOTODAYSLuminasta“坂本太郎”本気Ver.", search:"さかもとたろう", type:"lum", price:400, date:"1899-12-30", img:"images/sakamoto/sakamoto_honki_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"db", name:"ドラゴンボール超 BLOOD OF SAIYANS-ゴジータ&ベジット-", search:"ごじーた", type:"blood", price:500, date:"1899-12-30", img:"images/db/gozi_blood.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボール超 BLOOD OF SAIYANS-ゴジータ&ベジット-", search:"べじっと", type:"blood", price:600, date:"1899-12-30", img:"images/db/bezitto_blood.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボール超 BLOOD OF SAIYANS-ベジータ-", search:"べじーた", type:"blood", price:600, date:"1899-12-30", img:"images/db/bezi_blood.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボール超 MATCH MAKERS 超サイヤ人ゴッド孫悟空（VSビルス）", search:"そんごくう", type:"mat", price:500, date:"1899-12-30", img:"images/db/goku_mat_birusu.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボール超 MATCH MAKERS ビルス（VS超サイヤ人ゴッド孫悟空）", search:"びるす", type:"mat", price:500, date:"1899-12-30", img:"images/db/birusu_mat_goku.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～SPECIAL MONKEY.D.GARP", search:"モンキーディーガープ　もんきーでぃーがーぷ", type:"dxf", price:800, date:"1899-12-30", img:"images/wanpi/gapu_dxf.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～SPECIAL NEFELTARI VIVI", search:"ネフェルタリビビ　ねふぇるたりびび", type:"dxf", price:500, date:"1899-12-30", img:"images/wanpi/bibi_dxf.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～SPECIAL MONKEY.D.LUFFY", search:"るふぃ　ルフィ", type:"dxf", price:700, date:"1899-12-30", img:"images/wanpi/rufi_dxf.jpg", source:"https://bsp-prize.jp/"},
