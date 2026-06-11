@@ -2,7 +2,13 @@ window.figures3 = [
 
 
 
-
+{series:"rerugan", name:"とある科学の超電磁砲TLuminasta“御坂美琴”～大精霊☆メイド～", search:"みさかみこと", type:"lum", price:600, date:"1899-12-30", img:"images/rerugan/mikoto_meido_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"miku", name:"HATSUNE MIKU Holiday Memories -ゴルフ-", search:"はつねみく　初音ミク　ごるふ", type:"", price:400, date:"1899-12-30", img:"images/miku/gorufu.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"HATSUNE MIKU Holiday Memories -登山-", search:"はつねみく　初音ミク　とざん", type:"", price:600, date:"1899-12-30", img:"images/miku/tozan.jpg", source:"https://bsp-prize.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 Luminasta “エミリア” -ことりあそび-", search:"えみりあ", type:"lum", price:800, date:"1899-12-30", img:"images/rezero/emi_kotori.jpg", source:"https://segaplaza.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活　プレシャスフィギュア レム～スバルくんのジャージver.～Renewal", search:"れむ", type:"", price:500, date:"1899-12-30", img:"images/rezero/remu_subaru.jpg", source:"https://www.taito.co.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 プレシャスフィギュア レム～マリンルックver.～Renewal", search:"れむ", type:"", price:500, date:"1899-12-30", img:"images/rezero/remu_pure_marin.jpg", source:"https://www.taito.co.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 Luminasta “ラム” -にゃつの日-", search:"らむ", type:"lum", price:400, date:"1899-12-30", img:"images/rezero/ramu_nya.jpg", source:"https://segaplaza.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活 BiCute Bunnies Figureーラム・チャイナ・アンティークver.ー", search:"らむ", type:"bani", price:500, date:"1899-12-30", img:"images/rezero/ramu_bani_chaina.jpg", source:"https://charahiroba.com/"},
 {series:"rezero", name:"SSSフィギュア－レム in Arabian Night Another Color ver.－", search:"れむ", type:"", price:400, date:"1899-12-30", img:"images/rezero/remu_ara.jpg", source:"https://charahiroba.com/"},
 {series:"rezero", name:"SSSフィギュア－ラム in Arabian Night Another Color ver.－", search:"らむ", type:"", price:400, date:"1899-12-30", img:"images/rezero/ramu_ara.jpg", source:"https://charahiroba.com/"},
