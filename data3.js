@@ -3,7 +3,7 @@ window.figures3 = [
 
 
 
-
+{series:"rezero", name:"Re:ゼロから始める異世界生活 BiCute Bunnies Figureーラム・チャイナ・アンティークver.ー", search:"らむ", type:"bani", price:500, date:"1899-12-30", img:"images/rezero/ramu_bani_chaina.jpg", source:"https://charahiroba.com/"},
 {series:"rezero", name:"SSSフィギュア－レム in Arabian Night Another Color ver.－", search:"れむ", type:"", price:400, date:"1899-12-30", img:"images/rezero/remu_ara.jpg", source:"https://charahiroba.com/"},
 {series:"rezero", name:"SSSフィギュア－ラム in Arabian Night Another Color ver.－", search:"らむ", type:"", price:400, date:"1899-12-30", img:"images/rezero/ramu_ara.jpg", source:"https://charahiroba.com/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 MAXIMATIC THE MITSURI KANROJI", search:"甘露寺密璃　かんろじみつり", type:"ma", price:1400, date:"1899-12-30", img:"images/kimetu/mituri_ma.jpg", source:"https://bsp-prize.jp/"},
