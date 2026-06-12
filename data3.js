@@ -1,11 +1,16 @@
 window.figures3 = [
 
-
-
+{series:"db", name:"ドラゴンボールDAIMA ベジータ（ミニ） パネル付きフィギュア", search:"べじーた", type:"", price:300, date:"1899-12-30", img:"images/db/bezi_da.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールDAIMA ゴマー パネル付きフィギュア", search:"ごまー", type:"", price:300, date:"1899-12-30", img:"images/db/goma_da.jpg", source:"https://bsp-prize.jp/"},
+{series:"madomagi", name:"魔法少女まどか☆マギカ ソウルジェムキャニスター2", search:"そうるじぇむ", type:"", price:600, date:"1899-12-30", img:"images/madomagi/zyemu_ma.jpg", source:"https://www.sk-japan.co.jp/charatoru/topic"},
+{series:"madomagi", name:"魔法少女まどか☆マギカ ソウルジェムキャニスター2", search:"そうるじぇむ", type:"", price:600, date:"1899-12-30", img:"images/madomagi/zyemu_ho.jpg", source:"https://www.sk-japan.co.jp/charatoru/topic"},
+{series:"madomagi", name:"魔法少女まどか☆マギカ ソウルジェムキャニスター2", search:"そうるじぇむ", type:"", price:600, date:"1899-12-30", img:"images/madomagi/zyemu_mami.jpg", source:"https://www.sk-japan.co.jp/charatoru/topic"},
+{series:"madomagi", name:"魔法少女まどか☆マギカ ソウルジェムキャニスター2", search:"そうるじぇむ", type:"", price:600, date:"1899-12-30", img:"images/madomagi/zyemu_sa.jpg", source:"https://www.sk-japan.co.jp/charatoru/topic"},
+{series:"madomagi", name:"魔法少女まどか☆マギカ ソウルジェムキャニスター2", search:"そうるじぇむ", type:"", price:600, date:"1899-12-30", img:"images/madomagi/zyemu_kyo.jpg", source:"https://www.sk-japan.co.jp/charatoru/topic"},
 {series:"sera", name:"劇場版「美少女戦士セーラームーンEternal」 GLITTER&GLAMOURS-SUPER SAILOR URANUS-", search:"スーパーセーラーウラヌス　すーぱーせーらーうらぬす", type:"gli", price:1400, date:"1899-12-30", img:"images/seramu/ura_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"sakura", name:"カードキャプターさくら～クリアカード編～　ルームランプ　夢の杖", search:"ゆめのつえ", type:"", price:800, date:"1899-12-30", img:"images/sakura/yumenotue.jpg", source:"https://www.taito.co.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　伝説の魔王フィギュア　シドー", search:"でんせつのまおう　しどー", type:"", price:400, date:"1899-12-30", img:"images/dorakue/sido.jpg", source:"https://www.taito.co.jp/"},
-{series:"oba", name:"BiCute Ribbons Figureー シャルティア ー", search:"しゃるてぃあ", type:"ribon", price:800, date:"2026-06-04", img:"images/oba/syaru_ribon.jpg", source:"https://charahiroba.com/"},
+{series:"oba", name:"BiCute Ribbons Figureー シャルティア ー", search:"しゃるてぃあ", type:"ribon", price:700, date:"2026-06-04", img:"images/oba/syaru_ribon.jpg", source:"https://charahiroba.com/"},
 {series:"piku", name:"ピクミン青ピクミン水鉄砲", search:"あおぴくみん", type:"", price:300, date:"1899-12-30", img:"images/piku/ao.jpg", source:""},
 {series:"mario", name:"スーパーマリオヨッシー水鉄砲", search:"よっしー", type:"", price:300, date:"1899-12-30", img:"images/mario/yosimizu.jpg", source:""},
 {series:"mario", name:"スーパーマリオヨッシー水鉄砲", search:"よっしー", type:"", price:300, date:"1899-12-30", img:"images/mario/yosimizu_b.jpg", source:""},

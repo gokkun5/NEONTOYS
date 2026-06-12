@@ -803,7 +803,7 @@ window.figures2 = [
 {series:"zyuzyutu", name:"『呪術廻戦』 MAXIMATIC PLUS SUKUNA", search:"すくな　宿儺", type:"ma", price:1900, date:"1899-12-30", img:"images/zyuzyutu/sukuna_map.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボールZ』 Grandista -MAJIN VEGETA-", search:"まじんべじーた　魔人ベジータ", type:"gra", price:1300, date:"1899-12-30", img:"images/db/bezi_gra2.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボール超』 Grandista -GOGETA-Ⅱ", search:"ごじーた　ゴジータ", type:"gra", price:600, date:"1899-12-30", img:"images/db/gozita_gra2.jpg", source:"https://bsp-prize.jp/"},
-{series:"db", name:"『ドラゴンボールGT』 SOLID EDGE WORKS-THE出陣- 超サイヤ人4ゴジータ", search:"ごじーた", type:"syutu", price:550, date:"1899-12-30", img:"images/db/gozita4_solid.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"『ドラゴンボールGT』 SOLID EDGE WORKS-THE出陣- 超サイヤ人4ゴジータ", search:"ごじーた", type:"syutu", price:600, date:"1899-12-30", img:"images/db/gozita4_solid.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"『ドラゴンボール』 History Box クリリン", search:"くりりん", type:"his", price:500, date:"1899-12-30", img:"images/db/kuri_his.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 フィギュアライト 乙骨憂太・リカ", search:"おっこつゆうた　りか", type:"", price:700, date:"1899-12-30", img:"images/zyuzyutu/otukotu_raito.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 コガネスピーカー", search:"こがね", type:"", price:1200, date:"1899-12-30", img:"images/zyuzyutu/kogane.jpg", source:"https://bsp-prize.jp/"},
