@@ -2,7 +2,7 @@ window.figures3 = [
 
 
 
-
+{series:"oba", name:"BiCute Ribbons Figureー シャルティア ー", search:"しゃるてぃあ", type:"ribon", price:800, date:"2026-06-04", img:"images/oba/syaru_ribon.jpg", source:"https://charahiroba.com/"},
 {series:"piku", name:"ピクミン青ピクミン水鉄砲", search:"あおぴくみん", type:"", price:300, date:"1899-12-30", img:"images/piku/ao.jpg", source:""},
 {series:"mario", name:"スーパーマリオヨッシー水鉄砲", search:"よっしー", type:"", price:300, date:"1899-12-30", img:"images/mario/yosimizu.jpg", source:""},
 {series:"mario", name:"スーパーマリオヨッシー水鉄砲", search:"よっしー", type:"", price:300, date:"1899-12-30", img:"images/mario/yosimizu_b.jpg", source:""},
@@ -62,7 +62,7 @@ window.figures3 = [
 {series:"db", name:"DRAGON BALL SPIRITFLICKS 01", search:"孫悟空　そんごくう", type:"spi", price:600, date:"1899-12-30", img:"images/db/goku_spi_c.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"DRAGON BALL SPIRITFLICKS 01", search:"孫悟空　そんごくう", type:"spi", price:600, date:"1899-12-30", img:"images/db/goku_spi_d.jpg", source:"https://bsp-prize.jp/"},
 {series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.11", search:"不知火フレア　しらぬいふれあ", type:"hikkake", price:200, date:"1899-12-30", img:"images/holo/furea_11.jpg", source:"https://charahiroba.com/"},
-{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.11", search:"白銀ノエル　しろがねのえる", type:"hikkake", price:200, date:"1899-12-30", img:"images/holo/noeru_11.jpg", source:"https://charahiroba.com/"},
+{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.11", search:"白銀ノエル　しろがねのえる", type:"hikkake", price:300, date:"1899-12-30", img:"images/holo/noeru_11.jpg", source:"https://charahiroba.com/"},
 {series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.11", search:"博衣こより　はくいこより", type:"hikkake", price:200, date:"1899-12-30", img:"images/holo/koyori_11.jpg", source:"https://charahiroba.com/"},
 {series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“シング”", search:"しんぐ", type:"act", price:400, date:"1899-12-30", img:"images/mar/thing_act.jpg", source:"https://segaplaza.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン フィギュアライト フリーレン-ゾルトラーク-", search:"ふりーれん　ぞるとらーく", type:"", price:800, date:"1899-12-30", img:"images/furi-ren/furizoru_rumu.jpg", source:"https://bsp-prize.jp/"},
