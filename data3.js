@@ -2,11 +2,14 @@ window.figures3 = [
 
 
 
+{series:"sera", name:"劇場版「美少女戦士セーラームーンEternal」 GLITTER&GLAMOURS-SUPER SAILOR URANUS-", search:"スーパーセーラーウラヌス　すーぱーせーらーうらぬす", type:"gli", price:1400, date:"1899-12-30", img:"images/seramu/ura_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"sakura", name:"カードキャプターさくら～クリアカード編～　ルームランプ　夢の杖", search:"ゆめのつえ", type:"", price:800, date:"1899-12-30", img:"images/sakura/yumenotue.jpg", source:"https://www.taito.co.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　伝説の魔王フィギュア　シドー", search:"でんせつのまおう　しどー", type:"", price:400, date:"1899-12-30", img:"images/dorakue/sido.jpg", source:"https://www.taito.co.jp/"},
 {series:"oba", name:"BiCute Ribbons Figureー シャルティア ー", search:"しゃるてぃあ", type:"ribon", price:800, date:"2026-06-04", img:"images/oba/syaru_ribon.jpg", source:"https://charahiroba.com/"},
 {series:"piku", name:"ピクミン青ピクミン水鉄砲", search:"あおぴくみん", type:"", price:300, date:"1899-12-30", img:"images/piku/ao.jpg", source:""},
 {series:"mario", name:"スーパーマリオヨッシー水鉄砲", search:"よっしー", type:"", price:300, date:"1899-12-30", img:"images/mario/yosimizu.jpg", source:""},
 {series:"mario", name:"スーパーマリオヨッシー水鉄砲", search:"よっしー", type:"", price:300, date:"1899-12-30", img:"images/mario/yosimizu_b.jpg", source:""},
-{series:"rerugan", name:"とある科学の超電磁砲TLuminasta“御坂美琴”～大精霊☆メイド～", search:"みさかみこと", type:"lum", price:600, date:"1899-12-30", img:"images/rerugan/mikoto_meido_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"rerugan", name:"とある科学の超電磁砲TLuminasta“御坂美琴”～大精霊☆メイド～", search:"みさかみこと", type:"lum", price:700, date:"1899-12-30", img:"images/rerugan/mikoto_meido_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"HATSUNE MIKU Holiday Memories -ゴルフ-", search:"はつねみく　初音ミク　ごるふ", type:"", price:400, date:"1899-12-30", img:"images/miku/gorufu.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"HATSUNE MIKU Holiday Memories -登山-", search:"はつねみく　初音ミク　とざん", type:"", price:600, date:"1899-12-30", img:"images/miku/tozan.jpg", source:"https://bsp-prize.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活 Luminasta “エミリア” -ことりあそび-", search:"えみりあ", type:"lum", price:800, date:"1899-12-30", img:"images/rezero/emi_kotori.jpg", source:"https://segaplaza.jp/"},
