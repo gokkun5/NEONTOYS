@@ -2,6 +2,10 @@ window.figures3 = [
 
 
 
+
+{series:"piku", name:"ピクミン青ピクミン水鉄砲", search:"あおぴくみん", type:"", price:300, date:"1899-12-30", img:"images/piku/ao.jpg", source:""},
+{series:"mario", name:"スーパーマリオヨッシー水鉄砲", search:"よっしー", type:"", price:300, date:"1899-12-30", img:"images/mario/yosimizu.jpg", source:""},
+{series:"mario", name:"スーパーマリオヨッシー水鉄砲", search:"よっしー", type:"", price:300, date:"1899-12-30", img:"images/mario/yosimizu_b.jpg", source:""},
 {series:"rerugan", name:"とある科学の超電磁砲TLuminasta“御坂美琴”～大精霊☆メイド～", search:"みさかみこと", type:"lum", price:600, date:"1899-12-30", img:"images/rerugan/mikoto_meido_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"HATSUNE MIKU Holiday Memories -ゴルフ-", search:"はつねみく　初音ミク　ごるふ", type:"", price:400, date:"1899-12-30", img:"images/miku/gorufu.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"HATSUNE MIKU Holiday Memories -登山-", search:"はつねみく　初音ミク　とざん", type:"", price:600, date:"1899-12-30", img:"images/miku/tozan.jpg", source:"https://bsp-prize.jp/"},
