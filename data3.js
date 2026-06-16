@@ -1,7 +1,9 @@
 window.figures3 = [
 
 
-
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-YAKUSHI KABUTO-", search:"", type:"vib", price:1000, date:"2026-06-11", img:"images/naruto/kabuto_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UCHIHA ITACHI-Ⅲ", search:"うちはイタチ　うちはいたち", type:"vib", price:1200, date:"2026-06-11", img:"images/naruto/itati_vib3.jpg", source:"https://bsp-prize.jp/"},
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス GLITTER&GLAMOURS ララ・サタリン・デビルーク", search:"ららさたりんでびるーく", type:"gli", price:600, date:"1899-12-30", img:"images/tora/rara_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"osinoko", name:"【推しの子】　Coreful フィギュア　アイ～B小町ver.～", search:"あい　びーこまち", type:"core", price:800, date:"2026-06-13", img:"images/osinoko/ai_b_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"ante", name:"DELTARUNE フィグライフ! ルールノー・カァドー", search:"るーるのーかぁどー", type:"figl", price:600, date:"2026-06-09", img:"images/ante/ruru_figl.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 猗窩座-破壊殺-", search:"あかざ　はかいさつ", type:"", price:800, date:"2026-06-09", img:"images/kimetu/hakai_rumu.jpg", source:"https://bsp-prize.jp/"},
@@ -96,7 +98,7 @@ window.figures3 = [
 {series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“朝凪依”", search:"あさなぎより", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/asa_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“木野ひまり”", search:"きのひまり", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/kino_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 冨岡義勇-水の呼吸-", search:"とみおかぎゆう　みずのこきゅう", type:"", price:800, date:"2026-06-04", img:"images/kimetu/giyu_rumu.jpg", source:"https://bsp-prize.jp/"},
-{series:"death", name:"DEATH NOTE　ぬーどるストッパーフィギュアーLー", search:"える　", type:"nusuto", price:1000, date:"2026-06-05", img:"images/death/l_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"death", name:"DEATH NOTE　ぬーどるストッパーフィギュアーLー", search:"える　", type:"nusuto", price:800, date:"2026-06-05", img:"images/death/l_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-BARTHOLOMEW.KUMA-", search:"バーソロミューくま　ばーそろみゅーくま", type:"", price:800, date:"2026-06-03", img:"images/wanpi/kuma_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミク　Trio-Try-iT Figureーレイニーダンスー", search:"はつねみく　れいにーだんす", type:"trio", price:800, date:"2026-06-04", img:"images/miku/ame_trio.jpg", source:"https://charahiroba.com/"},
 {series:"db", name:"ドラゴンボール超 SOLID EDGE WORKS-THE出陣-ゴールデンフリーザ", search:"ごーるでんふりーざ", type:"syutu", price:800, date:"2026-06-03", img:"images/db/gorufuri_syutu.jpg", source:"https://bsp-prize.jp/"},
