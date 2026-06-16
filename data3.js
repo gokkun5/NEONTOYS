@@ -1,6 +1,8 @@
 window.figures3 = [
 
 
+{series:"hiro", name:"僕のヒーローアカデミア MAXIMATIC ERASER HEAD", search:"いれいざーへっど", type:"ma", price:500, date:"2026-06-11", img:"images/hiro/ire_ma.jpg", source:"https://bsp-prize.jp/"},
+{series:"aimasu", name:"学園アイドルマスター ESPRESTO-Heart bouquet-藤田ことね", search:"ふじたことね", type:"esp", price:800, date:"2026-06-11", img:"images/aimasu/kotone_esp_h.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-YAKUSHI KABUTO-", search:"", type:"vib", price:1000, date:"2026-06-11", img:"images/naruto/kabuto_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UCHIHA ITACHI-Ⅲ", search:"うちはイタチ　うちはいたち", type:"vib", price:1200, date:"2026-06-11", img:"images/naruto/itati_vib3.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス GLITTER&GLAMOURS ララ・サタリン・デビルーク", search:"ららさたりんでびるーく", type:"gli", price:600, date:"1899-12-30", img:"images/tora/rara_gli.jpg", source:"https://bsp-prize.jp/"},
