@@ -2,6 +2,13 @@ window.figures3 = [
 
 
 
+{series:"osinoko", name:"【推しの子】　Coreful フィギュア　アイ～B小町ver.～", search:"あい　びーこまち", type:"core", price:800, date:"2026-06-13", img:"images/osinoko/ai_b_core.jpg", source:"https://www.taito.co.jp/"},
+{series:"ante", name:"DELTARUNE フィグライフ! ルールノー・カァドー", search:"るーるのーかぁどー", type:"figl", price:600, date:"2026-06-09", img:"images/ante/ruru_figl.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 猗窩座-破壊殺-", search:"あかざ　はかいさつ", type:"", price:800, date:"2026-06-09", img:"images/kimetu/hakai_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"tensura", name:"転生したらスライムだった件 ESPRESTO-Threefold union-悪魔ディアブロ", search:"あくまでぃあぶろ", type:"esp", price:800, date:"2026-06-09", img:"images/tensura/dea_esp.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ History Box ミスター・サタン", search:"みすたーさたん", type:"his", price:800, date:"2026-06-09", img:"images/db/satan_his.jpg", source:"https://bsp-prize.jp/"},
+{series:"deara", name:"デート・ア・ライブ -Relax time-時崎狂三", search:"ときさきくるみ", type:"relax", price:700, date:"2026-06-09", img:"images/deara/kurumi_relax.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース Grandista-JEWELRY.BONNEY-", search:"じゅえりーぼにー　ジュエリーボニー", type:"gra", price:900, date:"2026-06-09", img:"images/wanpi/boni_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"vsupo", name:"ぶいすぽっ！スケールフィギュア-Play with paint-vol.9", search:"小森めと　こもりめと", type:"", price:800, date:"2026-05-22", img:"images/vsupo/meto_gigo.jpg", source:"https://www.gigo.co.jp/prizes"},
 {series:"furi-ren", name:"葬送のフリーレンLuminasta“フリーレン”～花畑～", search:"ふりーれん", type:"lum", price:1000, date:"1899-12-30", img:"images/furi-ren/furi_hana_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"db", name:"ドラゴンボールDAIMA ベジータ（ミニ） パネル付きフィギュア", search:"べじーた", type:"", price:300, date:"1899-12-30", img:"images/db/bezi_da.jpg", source:"https://bsp-prize.jp/"},
@@ -91,7 +98,7 @@ window.figures3 = [
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 冨岡義勇-水の呼吸-", search:"とみおかぎゆう　みずのこきゅう", type:"", price:800, date:"2026-06-04", img:"images/kimetu/giyu_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"death", name:"DEATH NOTE　ぬーどるストッパーフィギュアーLー", search:"える　", type:"nusuto", price:1000, date:"2026-06-05", img:"images/death/l_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-BARTHOLOMEW.KUMA-", search:"バーソロミューくま　ばーそろみゅーくま", type:"", price:800, date:"2026-06-03", img:"images/wanpi/kuma_bato.jpg", source:"https://bsp-prize.jp/"},
-{series:"miku", name:"初音ミク　Trio-Try-iT Figureーレイニーダンスー", search:"はつねみく　れいにーだんす", type:"trio", price:1000, date:"2026-06-04", img:"images/miku/ame_trio.jpg", source:"https://charahiroba.com/"},
+{series:"miku", name:"初音ミク　Trio-Try-iT Figureーレイニーダンスー", search:"はつねみく　れいにーだんす", type:"trio", price:800, date:"2026-06-04", img:"images/miku/ame_trio.jpg", source:"https://charahiroba.com/"},
 {series:"db", name:"ドラゴンボール超 SOLID EDGE WORKS-THE出陣-ゴールデンフリーザ", search:"ごーるでんふりーざ", type:"syutu", price:800, date:"2026-06-03", img:"images/db/gorufuri_syutu.jpg", source:"https://bsp-prize.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　ポケットティッシュケース　ミイラ男＆マミー", search:"みいらおとこ", type:"", price:600, date:"2026-05-23", img:"images/dorakue/mira_a.jpg", source:"https://www.taito.co.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　ポケットティッシュケース　ミイラ男＆マミー", search:"まみー", type:"", price:600, date:"2026-05-23", img:"images/dorakue/mira_b.jpg", source:"https://www.taito.co.jp/"},

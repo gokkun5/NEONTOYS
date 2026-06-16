@@ -85,7 +85,7 @@ window.figures1 = [
 {series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 GLITTER&GLAMOURS-REZE-", search:"れぜ　レゼ", type:"gli", price:2000, date:"1899-12-30", img:"images/tyen/reze_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"eva", name:"ヱヴァンゲリヲン新劇場版ハイプレミアムフィギュア“レイ”制服Ver.", search:"あやなみれい", type:"hi", price:800, date:"1899-12-30", img:"images/eva/ayanami_hi.jpg", source:"https://segaplaza.jp/"},
 {series:"rerugan", name:"『とある科学の超電磁砲』 Desktop Cute フィギュア 御坂美琴 〜チャイナドレスver.〜", search:"みさかみこと", type:"desk", price:600, date:"1899-12-30", img:"images/rerugan/mikoto_tyai.jpg", source:"https://www.taito.co.jp/"},
-{series:"zyuzyutu", name:"呪術廻戦FIGURIZMα“八握剣異戒神将魔虚羅”", search:"まこら", type:"fig", price:2000, date:"1899-12-30", img:"images/zyuzyutu/mako_fig.jpg", source:"https://segaplaza.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦FIGURIZMα“八握剣異戒神将魔虚羅”", search:"まこら", type:"fig", price:1800, date:"1899-12-30", img:"images/zyuzyutu/mako_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"oba", name:"『オーバーロード』 Desktop Cute フィギュア シャルティア ～水着ver.～Renewal", search:"しゃるてぃあ", type:"desk", price:500, date:"1899-12-30", img:"images/oba/syaru_desk_mizu_re.jpg", source:"https://www.taito.co.jp/"},
 {series:"kusuri", name:"TVアニメ『薬屋のひとりごと』 猫猫 フィギュア～街歩き～", search:"まおまお", type:"", price:600, date:"1899-12-30", img:"images/kusuri/maomao_mati.jpg", source:"https://bsp-prize.jp/"},
 {series:"rinsaku", name:"ぬーどるストッパーフィギュアー和栗薫子ー", search:"わぐりかおるこ", type:"nusuto", price:1800, date:"1899-12-30", img:"images/rinsaku/kaoruko.jpg", source:"https://charahiroba.com/"},
