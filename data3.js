@@ -1,5 +1,9 @@
 window.figures3 = [
 
+
+
+{series:"vsupo", name:"ぶいすぽっ！スケールフィギュア-Play with paint-vol.9", search:"小森めと　こもりめと", type:"", price:800, date:"2026-05-22", img:"images/vsupo/meto_gigo.jpg", source:"https://www.gigo.co.jp/prizes"},
+{series:"furi-ren", name:"葬送のフリーレンLuminasta“フリーレン”～花畑～", search:"ふりーれん", type:"lum", price:1000, date:"1899-12-30", img:"images/furi-ren/furi_hana_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"db", name:"ドラゴンボールDAIMA ベジータ（ミニ） パネル付きフィギュア", search:"べじーた", type:"", price:300, date:"1899-12-30", img:"images/db/bezi_da.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールDAIMA ゴマー パネル付きフィギュア", search:"ごまー", type:"", price:300, date:"1899-12-30", img:"images/db/goma_da.jpg", source:"https://bsp-prize.jp/"},
 {series:"madomagi", name:"魔法少女まどか☆マギカ ソウルジェムキャニスター2", search:"そうるじぇむ", type:"", price:600, date:"1899-12-30", img:"images/madomagi/zyemu_ma.jpg", source:"https://www.sk-japan.co.jp/charatoru/topic"},
