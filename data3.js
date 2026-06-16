@@ -1,6 +1,8 @@
 window.figures3 = [
 
 
+{series:"aobuta", name:"「青春ブタ野郎」シリーズYumemirize‐桜島麻衣‐バニー", search:"さくらじままい", type:"yume", price:800, date:"2026-06-12", img:"images/aobuta/bani_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"furi-ren", name:"葬送のフリーレンLuminasta“フリーレン”～葬送のフリーレン～", search:"そうそうのふりーれん", type:"lum", price:1000, date:"2026-06-12", img:"images/furi-ren/furi_tue_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア MAXIMATIC ERASER HEAD", search:"いれいざーへっど", type:"ma", price:500, date:"2026-06-11", img:"images/hiro/ire_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"aimasu", name:"学園アイドルマスター ESPRESTO-Heart bouquet-藤田ことね", search:"ふじたことね", type:"esp", price:800, date:"2026-06-11", img:"images/aimasu/kotone_esp_h.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-YAKUSHI KABUTO-", search:"", type:"vib", price:1000, date:"2026-06-11", img:"images/naruto/kabuto_vib.jpg", source:"https://bsp-prize.jp/"},
