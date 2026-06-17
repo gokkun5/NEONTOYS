@@ -1,6 +1,11 @@
 window.figures3 = [
 
 
+{series:"miku", name:"桜ミク　AMP＋ フィギュア～桜ドレスver.～（タイクレ限定）", search:"初音ミク　はつねみく　さくらどれす", type:"amp", price:1600, date:"1899-12-30", img:"images/miku/sakuradoresu_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- NARUTOP99 うずまきナルトフィギュア", search:"うずまきなると", type:"99", price:1000, date:"1899-12-30", img:"images/naruto/naruto_99.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- NARUTOP99 波風ミナトフィギュア", search:"なみかぜみなと", type:"99", price:1300, date:"1899-12-30", img:"images/naruto/minato_99.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-CARROT-", search:"きゃろっと　キャロット", type:"gli", price:600, date:"1899-12-30", img:"images/wanpi/caro_gli_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-CARROT-", search:"きゃろっと　キャロット", type:"gli", price:600, date:"1899-12-30", img:"images/wanpi/caro_gli_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"aobuta", name:"「青春ブタ野郎」シリーズYumemirize‐桜島麻衣‐バニー", search:"さくらじままい", type:"yume", price:800, date:"2026-06-12", img:"images/aobuta/bani_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"furi-ren", name:"葬送のフリーレンLuminasta“フリーレン”～葬送のフリーレン～", search:"そうそうのふりーれん", type:"lum", price:1000, date:"2026-06-12", img:"images/furi-ren/furi_tue_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア MAXIMATIC ERASER HEAD", search:"いれいざーへっど", type:"ma", price:500, date:"2026-06-11", img:"images/hiro/ire_ma.jpg", source:"https://bsp-prize.jp/"},
@@ -165,7 +170,7 @@ window.figures3 = [
 {series:"kimetu", name:"鬼滅の刃 ぬーどるストッパーフィギュア ―伊黒小芭内―", search:"いぐろおばない", type:"nusuto", price:4500, date:"1899-12-30", img:"images/kimetu/iguro_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"zyuzyutu", name:"呪術廻戦懐玉・玉折FIGURIZMα“五条悟”覚醒", search:"ごじょうさとる", type:"fig", price:1300, date:"1899-12-30", img:"images/zyuzyutu/gozyo_kakusei.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"鬼滅の刃　プレミアムちょこのせフィギュア“煉󠄁獄杏寿郎”", search:"れんごくきょうじゅろう", type:"tyoko", price:800, date:"1899-12-30", img:"images/kimetu/rengoku_tyoko_oni.jpg", source:"https://segaplaza.jp/"},
-{series:"mazyotabi", name:"魔女の旅々　AMP＋ イレイナ フィギュア～魔女服ver.～", search:"いれいな", type:"amp", price:1000, date:"1899-12-30", img:"images/mazyotabi/amp.jpg", source:"https://www.taito.co.jp/"},
+{series:"mazyotabi", name:"魔女の旅々　AMP＋ イレイナ フィギュア～魔女服ver.～", search:"いれいな", type:"amp", price:1200, date:"1899-12-30", img:"images/mazyotabi/amp.jpg", source:"https://www.taito.co.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- BANPRESTO FIGURE COLOSSEUM 造形忍界大戦 ロック・リー", search:"ろっくりー", type:"ninkai", price:2300, date:"1899-12-30", img:"images/naruto/ri_ninkai.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース THE出航-NAMI-", search:"なみ　ナミ", type:"syukko", price:500, date:"1899-12-30", img:"images/wanpi/nami_syukko.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～マイメロディ・クロミ～", search:"まいめろでぃ", type:"", price:500, date:"2026-05-27", img:"images/sanrio/maimero_kosu.jpg", source:"https://bsp-prize.jp/"},
