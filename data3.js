@@ -18,7 +18,7 @@ window.figures3 = [
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 猗窩座-破壊殺-", search:"あかざ　はかいさつ", type:"", price:800, date:"2026-06-09", img:"images/kimetu/hakai_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"tensura", name:"転生したらスライムだった件 ESPRESTO-Threefold union-悪魔ディアブロ", search:"あくまでぃあぶろ", type:"esp", price:800, date:"2026-06-09", img:"images/tensura/dea_esp.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ History Box ミスター・サタン", search:"みすたーさたん", type:"his", price:800, date:"2026-06-09", img:"images/db/satan_his.jpg", source:"https://bsp-prize.jp/"},
-{series:"deara", name:"デート・ア・ライブ -Relax time-時崎狂三", search:"ときさきくるみ", type:"relax", price:700, date:"2026-06-09", img:"images/deara/kurumi_relax.jpg", source:"https://bsp-prize.jp/"},
+{series:"deara", name:"デート・ア・ライブ -Relax time-時崎狂三", search:"ときさきくるみ", type:"relax", price:800, date:"2026-06-09", img:"images/deara/kurumi_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース Grandista-JEWELRY.BONNEY-", search:"じゅえりーぼにー　ジュエリーボニー", type:"gra", price:900, date:"2026-06-09", img:"images/wanpi/boni_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"vsupo", name:"ぶいすぽっ！スケールフィギュア-Play with paint-vol.9", search:"小森めと　こもりめと", type:"", price:800, date:"2026-05-22", img:"images/vsupo/meto_gigo.jpg", source:"https://www.gigo.co.jp/prizes"},
 {series:"furi-ren", name:"葬送のフリーレンLuminasta“フリーレン”～花畑～", search:"ふりーれん", type:"lum", price:1000, date:"1899-12-30", img:"images/furi-ren/furi_hana_lum.jpg", source:"https://segaplaza.jp/"},
