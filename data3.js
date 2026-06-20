@@ -1,7 +1,13 @@
 window.figures3 = [
 
 
-
+{series:"spy", name:"TVアニメ「SPY×FAMILY」Luminasta（アーニャ・フォージャー）なつやすみ", search:"あーにゃふぉーじゃー", type:"lum", price:1000, date:"1899-12-30", img:"images/spy/ukiwa\lum.jpg", source:"https://segaplaza.jp/"},
+{series:"sakura", name:"カードキャプターさくら クリアカード編 フィギュア～木之本桜～", search:"きのもとさくら", type:"", price:1300, date:"2026-06-16", img:"images/sakura/kuria_sakura.jpg", source:"https://bsp-prize.jp/"},
+{series:"kusuri", name:"薬屋のひとりごと 猫猫 フィギュア～月精～", search:"まおまお　げっせい", type:"", price:1100, date:"2026-06-16", img:"images/kusuri/gessei.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース 戦光絶景-MONKEY.D.LUFFY-", search:"るふぃ　ルフィ　ニカ　にか", type:"senko", price:800, date:"2026-06-16", img:"images/wanpi/rufiboni_senko.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース 戦光絶景-JEWELRY.BONNEY-", search:"ジュエリーボニー　じゅえりーぼにー", type:"senko", price:800, date:"2026-06-16", img:"images/wanpi/bonirufi_senko.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ MATCH MAKERS 孫悟空（VSベジータ)", search:"そんごくう", type:"mat", price:800, date:"2026-06-16", img:"images/db/gokubezi_mat.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ MATCH MAKERS ベジータ（VS孫悟空)", search:"べじーた", type:"mat", price:800, date:"2026-06-16", img:"images/db/bezigoku_mat.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ フィギュア シナモロール ～コルネと一緒～", search:"しなもろーる　こるね", type:"sof", price:500, date:"2026-06-09", img:"images/sanrio/sinamo_korune.jpg", source:"https://bsp-prize.jp/"},
 {series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“怪盗キッド”", search:"かいとうきっど", type:"peti", price:400, date:"2026-06-12", img:"images/konan/kiddo_peti.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"ぬーどるストッパーフィギュアーエンプレス[ブラックロックシューター]ー", search:"ぶらっくろっくしゅーたー", type:"nusuto", price:800, date:"1899-12-30", img:"images/miku/bura_nusuto.jpg", source:"https://charahiroba.com/"},
@@ -127,7 +133,7 @@ window.figures3 = [
 {series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“朝凪依”", search:"あさなぎより", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/asa_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“木野ひまり”", search:"きのひまり", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/kino_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 冨岡義勇-水の呼吸-", search:"とみおかぎゆう　みずのこきゅう", type:"", price:800, date:"2026-06-04", img:"images/kimetu/giyu_rumu.jpg", source:"https://bsp-prize.jp/"},
-{series:"death", name:"DEATH NOTE　ぬーどるストッパーフィギュアーLー", search:"える　", type:"nusuto", price:1000, date:"2026-06-05", img:"images/death/l_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"death", name:"DEATH NOTE　ぬーどるストッパーフィギュアーLー", search:"える　", type:"nusuto", price:700, date:"2026-06-05", img:"images/death/l_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-BARTHOLOMEW.KUMA-", search:"バーソロミューくま　ばーそろみゅーくま", type:"", price:800, date:"2026-06-03", img:"images/wanpi/kuma_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミク　Trio-Try-iT Figureーレイニーダンスー", search:"はつねみく　れいにーだんす", type:"trio", price:600, date:"2026-06-04", img:"images/miku/ame_trio.jpg", source:"https://charahiroba.com/"},
 {series:"db", name:"ドラゴンボール超 SOLID EDGE WORKS-THE出陣-ゴールデンフリーザ", search:"ごーるでんふりーざ", type:"syutu", price:600, date:"2026-06-03", img:"images/db/gorufuri_syutu.jpg", source:"https://bsp-prize.jp/"},
@@ -193,8 +199,8 @@ window.figures3 = [
 {series:"mazyotabi", name:"魔女の旅々　AMP＋ イレイナ フィギュア～魔女服ver.～", search:"いれいな", type:"amp", price:1200, date:"1899-12-30", img:"images/mazyotabi/amp.jpg", source:"https://www.taito.co.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- BANPRESTO FIGURE COLOSSEUM 造形忍界大戦 ロック・リー", search:"ろっくりー", type:"ninkai", price:2300, date:"1899-12-30", img:"images/naruto/ri_ninkai.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース THE出航-NAMI-", search:"なみ　ナミ", type:"syukko", price:500, date:"1899-12-30", img:"images/wanpi/nami_syukko.jpg", source:"https://bsp-prize.jp/"},
-{series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～マイメロディ・クロミ～", search:"まいめろでぃ", type:"", price:500, date:"2026-05-27", img:"images/sanrio/maimero_kosu.jpg", source:"https://bsp-prize.jp/"},
-{series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～マイメロディ・クロミ～", search:"くろみ", type:"", price:500, date:"2026-05-27", img:"images/sanrio/kuromi_kosu.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～マイメロディ・クロミ～", search:"まいめろでぃ", type:"", price:600, date:"2026-05-27", img:"images/sanrio/maimero_kosu.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～マイメロディ・クロミ～", search:"くろみ", type:"", price:800, date:"2026-05-27", img:"images/sanrio/kuromi_kosu.jpg", source:"https://bsp-prize.jp/"},
 {series:"uru", name:"ウルトラマンシリーズ 鎮座獣 コイン怪獣カネゴン", search:"こいんかいじゅうかねごん", type:"tinza", price:500, date:"2026-05-27", img:"images/uru/kane_tinza.jpg", source:"https://bsp-prize.jp/"},
 {series:"uru", name:"ウルトラマンシリーズ 鎮座獣 コイン怪獣カネゴン", search:"こいんかいじゅうかねごん", type:"tinza", price:500, date:"2026-05-27", img:"images/uru/kane_tinza_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"monhan", name:"モンスターハンター 鎮座獣 アルシュベルド～夢から覚めて～", search:"あるしゅべると", type:"tinza", price:400, date:"2026-05-27", img:"images/monhan/arusyu_tinza.jpg", source:"https://bsp-prize.jp/"},
