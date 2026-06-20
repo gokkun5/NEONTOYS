@@ -1,8 +1,13 @@
 window.figures3 = [
 
 
-
-
+{series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～ハローキティ・ディアダニエル～", search:"でぃあだにえる", type:"", price:600, date:"2026-06-11", img:"images/sanrio/dani_kosu.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～ハローキティ・ディアダニエル～", search:"はろーきてぃ", type:"", price:600, date:"2026-06-11", img:"images/sanrio/kite_kosu.jpg", source:"https://bsp-prize.jp/"},
+{series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“ウルヴァリン", search:"うるヴぁりん", type:"act", price:800, date:"1899-12-30", img:"images/mar/uru_act.jpg", source:"https://segaplaza.jp/"},
+{series:"spy", name:"「SPY×FAMILY」 Luminasta (アーニャ・フォージャー) おでけけ ばーじょん2 ", search:"あーにゃふぉーじゃー", type:"lum", price:900, date:"1899-12-30", img:"images/spy/odekeke2.jpg", source:"https://segaplaza.jp/"},
+{series:"zigoku", name:"地獄楽 VIBRATION STARS-亜左 弔兵衛-", search:"あざちょうべい", type:"vib", price:500, date:"1899-12-30", img:"images/zigoku/aza_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"zigoku", name:"地獄楽 VIBRATION STARS-山田浅ェ門 士遠-", search:"やまだあさえもんしおん", type:"vib", price:400, date:"1899-12-30", img:"images/zigoku/sion_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"yugi", name:"遊戯王カードゲーム　Equal Arts 青眼の究極竜", search:"ぶるーあいずあるてぃめっとどらごん", type:"equ", price:500, date:"1899-12-30", img:"images/yugi/aru_equ.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活　Coreful フィギュア　レム～猫耳メイドver.～", search:"れむ　ねこみみめいど", type:"core", price:1400, date:"1899-12-30", img:"images/rezero/remu_core_nekomeido.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"桜ミク　AMP＋ フィギュア～桜ドレスver.～（タイクレ限定）", search:"初音ミク　はつねみく　さくらどれす", type:"amp", price:1600, date:"1899-12-30", img:"images/miku/sakuradoresu_taikure.jpg", source:"https://www.taito.co.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- NARUTOP99 うずまきナルトフィギュア", search:"うずまきなると", type:"99", price:1000, date:"1899-12-30", img:"images/naruto/naruto_99.jpg", source:"https://bsp-prize.jp/"},
@@ -110,7 +115,7 @@ window.figures3 = [
 {series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“朝凪依”", search:"あさなぎより", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/asa_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“木野ひまり”", search:"きのひまり", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/kino_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 冨岡義勇-水の呼吸-", search:"とみおかぎゆう　みずのこきゅう", type:"", price:800, date:"2026-06-04", img:"images/kimetu/giyu_rumu.jpg", source:"https://bsp-prize.jp/"},
-{series:"death", name:"DEATH NOTE　ぬーどるストッパーフィギュアーLー", search:"える　", type:"nusuto", price:800, date:"2026-06-05", img:"images/death/l_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"death", name:"DEATH NOTE　ぬーどるストッパーフィギュアーLー", search:"える　", type:"nusuto", price:1000, date:"2026-06-05", img:"images/death/l_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-BARTHOLOMEW.KUMA-", search:"バーソロミューくま　ばーそろみゅーくま", type:"", price:800, date:"2026-06-03", img:"images/wanpi/kuma_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミク　Trio-Try-iT Figureーレイニーダンスー", search:"はつねみく　れいにーだんす", type:"trio", price:800, date:"2026-06-04", img:"images/miku/ame_trio.jpg", source:"https://charahiroba.com/"},
 {series:"db", name:"ドラゴンボール超 SOLID EDGE WORKS-THE出陣-ゴールデンフリーザ", search:"ごーるでんふりーざ", type:"syutu", price:800, date:"2026-06-03", img:"images/db/gorufuri_syutu.jpg", source:"https://bsp-prize.jp/"},
