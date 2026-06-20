@@ -1,6 +1,15 @@
 window.figures3 = [
 
-
+{series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“怪盗キッド”", search:"かいとうきっど", type:"peti", price:400, date:"2026-06-12", img:"images/konan/kiddo_peti.jpg", source:"https://segaplaza.jp/"},
+{series:"miku", name:"ぬーどるストッパーフィギュアーエンプレス[ブラックロックシューター]ー", search:"ぶらっくろっくしゅーたー", type:"nusuto", price:800, date:"1899-12-30", img:"images/miku/bura_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"miku", name:"ブラック★★ロックシューター DAWN FALL　Coreful フィギュア　エンプレス【ブラックロックシューター】覚醒ver.", search:"ぶらっくろっくしゅーたー", type:"core", price:1100, date:"1899-12-30", img:"images/miku/bura_core.jpg", source:"https://www.taito.co.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア THE AMAZING HEROES vol.16", search:"るみりおん　ルミリオン", type:"ame", price:600, date:"1899-12-30", img:"images/hiro/ame_16_rumio.jpg", source:"https://bsp-prize.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア THE AMAZING HEROES vol.16", search:"波動ねじれ　はどうねじれ", type:"ame", price:600, date:"1899-12-30", img:"images/hiro/ame_16_hado.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"桜ミク　Coreful フィギュア　～描き下ろし和風喫茶ver.～（タイクレ限定）", search:"さくらみく　わふうきっさ", type:"core", price:1500, date:"1899-12-30", img:"images/miku/wafu_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"seramu", name:"劇場版「美少女戦士セーラームーンEternal」 Q posket-PRINCESS VENUS-", search:"セーラーヴィーナス　せーらーヴぃーなす", type:"qpos", price:300, date:"1899-12-30", img:"images/seramu/vina_qpos_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"seramu", name:"劇場版「美少女戦士セーラームーンEternal」 Q posket-PRINCESS VENUS-", search:"セーラーヴィーナス　せーらーヴぃーなす", type:"qpos", price:300, date:"1899-12-30", img:"images/seramu/vina_qpos_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"uruse", name:"うる星やつらアニメver. Q posket-LUM-Ⅲ", search:"らむ", type:"qpos", price:300, date:"1899-12-30", img:"images/uruse/qpos3_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"uruse", name:"うる星やつらアニメver. Q posket-LUM-Ⅲ", search:"らむ", type:"qpos", price:300, date:"1899-12-30", img:"images/uruse/qpos3_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～ハローキティ・ディアダニエル～", search:"でぃあだにえる", type:"", price:600, date:"2026-06-11", img:"images/sanrio/dani_kosu.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～ハローキティ・ディアダニエル～", search:"はろーきてぃ", type:"", price:600, date:"2026-06-11", img:"images/sanrio/kite_kosu.jpg", source:"https://bsp-prize.jp/"},
 {series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“ウルヴァリン", search:"うるヴぁりん", type:"act", price:800, date:"1899-12-30", img:"images/mar/uru_act.jpg", source:"https://segaplaza.jp/"},
