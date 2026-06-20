@@ -146,7 +146,7 @@ window.figures3 = [
 {series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“木野ひまり”", search:"きのひまり", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/kino_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 冨岡義勇-水の呼吸-", search:"とみおかぎゆう　みずのこきゅう", type:"", price:500, date:"2026-06-04", img:"images/kimetu/giyu_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"death", name:"DEATH NOTE　ぬーどるストッパーフィギュアーLー", search:"える　", type:"nusuto", price:700, date:"2026-06-05", img:"images/death/l_nusuto.jpg", source:"https://charahiroba.com/"},
-{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-BARTHOLOMEW.KUMA-", search:"バーソロミューくま　ばーそろみゅーくま", type:"", price:800, date:"2026-06-03", img:"images/wanpi/kuma_bato.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-BARTHOLOMEW.KUMA-", search:"バーソロミューくま　ばーそろみゅーくま", type:"", price:600, date:"2026-06-03", img:"images/wanpi/kuma_bato.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミク　Trio-Try-iT Figureーレイニーダンスー", search:"はつねみく　れいにーだんす", type:"trio", price:600, date:"2026-06-04", img:"images/miku/ame_trio.jpg", source:"https://charahiroba.com/"},
 {series:"db", name:"ドラゴンボール超 SOLID EDGE WORKS-THE出陣-ゴールデンフリーザ", search:"ごーるでんふりーざ", type:"syutu", price:600, date:"2026-06-03", img:"images/db/gorufuri_syutu.jpg", source:"https://bsp-prize.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　ポケットティッシュケース　ミイラ男＆マミー", search:"みいらおとこ", type:"", price:600, date:"2026-05-23", img:"images/dorakue/mira_a.jpg", source:"https://www.taito.co.jp/"},
