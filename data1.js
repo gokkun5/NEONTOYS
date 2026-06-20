@@ -501,7 +501,7 @@ window.figures1 = [
 {series:"kimetu", name:"『鬼滅の刃』 XrossLink フィギュア “不死川実弥”－柱稽古編－", search:"しなずがわさねみ", type:"xros", price:1100, date:"2026-04-11", img:"images/kimetu/sina_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"『鬼滅の刃』 XrossLink フィギュア “時透無一郎”－柱稽古編－", search:"ときとうむいちろう", type:"xros", price:1400, date:"2026-04-11", img:"images/kimetu/tokito_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦渋谷事変FIGURIZMα“五条悟”「無量空処」", search:"ごじょうさとる　むりょうくうしょ", type:"fig", price:1500, date:"2026-04-11", img:"images/zyuzyutu/muryokusyo_fig.jpg", source:"https://segaplaza.jp/"},
-{series:"tensisama", name:"お隣の天使様にいつの間にか駄目人間にされていた件 フィギュア-椎名真昼-ワンピースver.", search:"しいなまひる", type:"", price:600, date:"2026-04-11", img:"images/tensisama/wanpi.jpg", source:"https://bsp-prize.jp/"},
+{series:"tensisama", name:"お隣の天使様にいつの間にか駄目人間にされていた件 フィギュア-椎名真昼-ワンピースver.", search:"しいなまひる", type:"", price:700, date:"2026-04-11", img:"images/tensisama/wanpi.jpg", source:"https://bsp-prize.jp/"},
 {series:"tyen", name:"チェンソーマンLuminasta“パワー”", search:"ぱわー", type:"lum", price:1200, date:"1899-12-30", img:"images/tyen/pawa_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“ドクター・ストレンジ”", search:"どくたーすとれんじ", type:"act", price:600, date:"1899-12-30", img:"images/mar/sutore.jpg", source:"https://segaplaza.jp/"},
 {series:"wanpi", name:"ワンピース 戦光絶景-MONKEY.D.LUFFY GEAR4-", search:"るふぃ　ルフィ", type:"senko", price:500, date:"1899-12-30", img:"images/wanpi/rufi4_senko.jpg", source:"https://bsp-prize.jp/"},
