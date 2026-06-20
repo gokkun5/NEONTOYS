@@ -2,7 +2,7 @@ window.figures3 = [
 
 
 
-images/sanrio/sinamo_korune.jpg	https://bsp-prize.jp/	{series:"sanrio", name:"サンリオキャラクターズ フィギュア シナモロール ～コルネと一緒～", search:"しなもろーる　こるね", type:"sof", price:500, date:"2026-06-09", img:"images/sanrio/sinamo_korune.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ フィギュア シナモロール ～コルネと一緒～", search:"しなもろーる　こるね", type:"sof", price:500, date:"2026-06-09", img:"images/sanrio/sinamo_korune.jpg", source:"https://bsp-prize.jp/"},
 {series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“怪盗キッド”", search:"かいとうきっど", type:"peti", price:400, date:"2026-06-12", img:"images/konan/kiddo_peti.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"ぬーどるストッパーフィギュアーエンプレス[ブラックロックシューター]ー", search:"ぶらっくろっくしゅーたー", type:"nusuto", price:800, date:"1899-12-30", img:"images/miku/bura_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"ブラック★★ロックシューター DAWN FALL　Coreful フィギュア　エンプレス【ブラックロックシューター】覚醒ver.", search:"ぶらっくろっくしゅーたー", type:"core", price:1100, date:"1899-12-30", img:"images/miku/bura_core.jpg", source:"https://www.taito.co.jp/"},
