@@ -1,6 +1,9 @@
 window.figures3 = [
 
 
+
+
+{series:"rezero", name:"Re:ゼロから始める異世界生活　Coreful フィギュア　レム～猫耳メイドver.～", search:"れむ　ねこみみめいど", type:"core", price:1400, date:"1899-12-30", img:"images/rezero/remu_core_nekomeido.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"桜ミク　AMP＋ フィギュア～桜ドレスver.～（タイクレ限定）", search:"初音ミク　はつねみく　さくらどれす", type:"amp", price:1600, date:"1899-12-30", img:"images/miku/sakuradoresu_taikure.jpg", source:"https://www.taito.co.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- NARUTOP99 うずまきナルトフィギュア", search:"うずまきなると", type:"99", price:1000, date:"1899-12-30", img:"images/naruto/naruto_99.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- NARUTOP99 波風ミナトフィギュア", search:"なみかぜみなと", type:"99", price:1300, date:"1899-12-30", img:"images/naruto/minato_99.jpg", source:"https://bsp-prize.jp/"},
