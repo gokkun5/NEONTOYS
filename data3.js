@@ -1,6 +1,9 @@
 window.figures3 = [
 
 
+
+{series:"kinniku", name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-グリムリパー-", search:"ぐりむりぱー", type:"", price:400, date:"2026-06-11", img:"images/kinniku/gurimu.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-HIDAN-", search:"飛弾　ひだん", type:"vib", price:1800, date:"1899-12-30", img:"images/naruto/hidan_vib_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"gintama", name:"銀魂 おおきなSOFVIMATES～ギンザベス～", search:"ぎんざべす", type:"sof", price:1100, date:"2026-06-16", img:"images/gintama/ginza_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 Figuno-YUJI ITADORI・MEGUMI FUSHIGURO-", search:"虎杖悠仁　いたどりゆうじ", type:"figu", price:500, date:"2026-06-16", img:"images/zyuzyutu/ita_figu_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 Figuno-YUJI ITADORI・MEGUMI FUSHIGURO-", search:"虎杖悠仁　いたどりゆうじ", type:"figu", price:500, date:"2026-06-16", img:"images/zyuzyutu/ita_figu_b.jpg", source:"https://bsp-prize.jp/"},
@@ -41,7 +44,7 @@ window.figures3 = [
 {series:"naruto", name:"NARUTO-ナルト- NARUTOP99 波風ミナトフィギュア", search:"なみかぜみなと", type:"99", price:1300, date:"1899-12-30", img:"images/naruto/minato_99.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-CARROT-", search:"きゃろっと　キャロット", type:"gli", price:600, date:"1899-12-30", img:"images/wanpi/caro_gli_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-CARROT-", search:"きゃろっと　キャロット", type:"gli", price:600, date:"1899-12-30", img:"images/wanpi/caro_gli_b.jpg", source:"https://bsp-prize.jp/"},
-{series:"aobuta", name:"「青春ブタ野郎」シリーズYumemirize‐桜島麻衣‐バニー", search:"さくらじままい", type:"yume", price:800, date:"2026-06-12", img:"images/aobuta/bani_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"aobuta", name:"「青春ブタ野郎」シリーズYumemirize‐桜島麻衣‐バニー", search:"さくらじままい", type:"yume", price:700, date:"2026-06-12", img:"images/aobuta/bani_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"furi-ren", name:"葬送のフリーレンLuminasta“フリーレン”～葬送のフリーレン～", search:"そうそうのふりーれん", type:"lum", price:1000, date:"2026-06-12", img:"images/furi-ren/furi_tue_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア MAXIMATIC ERASER HEAD", search:"いれいざーへっど", type:"ma", price:500, date:"2026-06-11", img:"images/hiro/ire_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"aimasu", name:"学園アイドルマスター ESPRESTO-Heart bouquet-藤田ことね", search:"ふじたことね", type:"esp", price:800, date:"2026-06-11", img:"images/aimasu/kotone_esp_h.jpg", source:"https://bsp-prize.jp/"},
@@ -50,7 +53,7 @@ window.figures3 = [
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス GLITTER&GLAMOURS ララ・サタリン・デビルーク", search:"ららさたりんでびるーく", type:"gli", price:600, date:"1899-12-30", img:"images/tora/rara_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"osinoko", name:"【推しの子】　Coreful フィギュア　アイ～B小町ver.～", search:"あい　びーこまち", type:"core", price:800, date:"2026-06-13", img:"images/osinoko/ai_b_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"ante", name:"DELTARUNE フィグライフ! ルールノー・カァドー", search:"るーるのーかぁどー", type:"figl", price:600, date:"2026-06-09", img:"images/ante/ruru_figl.jpg", source:"https://bsp-prize.jp/"},
-{series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 猗窩座-破壊殺-", search:"あかざ　はかいさつ", type:"", price:800, date:"2026-06-09", img:"images/kimetu/hakai_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 猗窩座-破壊殺-", search:"あかざ　はかいさつ", type:"", price:500, date:"2026-06-09", img:"images/kimetu/hakai_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"tensura", name:"転生したらスライムだった件 ESPRESTO-Threefold union-悪魔ディアブロ", search:"あくまでぃあぶろ", type:"esp", price:700, date:"2026-06-09", img:"images/tensura/dea_esp.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ History Box ミスター・サタン", search:"みすたーさたん", type:"his", price:600, date:"2026-06-09", img:"images/db/satan_his.jpg", source:"https://bsp-prize.jp/"},
 {series:"deara", name:"デート・ア・ライブ -Relax time-時崎狂三", search:"ときさきくるみ", type:"relax", price:600, date:"2026-06-09", img:"images/deara/kurumi_relax.jpg", source:"https://bsp-prize.jp/"},
@@ -83,8 +86,8 @@ window.figures3 = [
 {series:"rezero", name:"SSSフィギュア－ラム in Arabian Night Another Color ver.－", search:"らむ", type:"", price:400, date:"1899-12-30", img:"images/rezero/ramu_ara.jpg", source:"https://charahiroba.com/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 MAXIMATIC THE MITSURI KANROJI", search:"甘露寺密璃　かんろじみつり", type:"ma", price:1400, date:"1899-12-30", img:"images/kimetu/mituri_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース KING OF ARTIST ROB LUCCI Awakening-SPECIAL ver.-", search:"ろぶるっち　ロブルッチ", type:"koa", price:600, date:"2026-06-03", img:"images/wanpi/rutti_koa_sp.jpg", source:"https://bsp-prize.jp/"},
-{series:"sonota", name:"サルゲッチュ モニタートップフィギュア～ピポサル～", search:"ぴぽざる", type:"moni", price:600, date:"2026-06-03", img:"images/sonota/saru_pure.jpg", source:"https://bsp-prize.jp/"},
-{series:"sonota", name:"サルゲッチュ モニタートップフィギュア～ピポサル～", search:"ぴぽざる", type:"moni", price:600, date:"2026-06-03", img:"images/sonota/saru_pure2.jpg", source:"https://bsp-prize.jp/"},
+{series:"sonota", name:"サルゲッチュ モニタートップフィギュア～ピポサル～", search:"ぴぽざる", type:"moni", price:500, date:"2026-06-03", img:"images/sonota/saru_pure.jpg", source:"https://bsp-prize.jp/"},
+{series:"sonota", name:"サルゲッチュ モニタートップフィギュア～ピポサル～", search:"ぴぽざる", type:"moni", price:500, date:"2026-06-03", img:"images/sonota/saru_pure2.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦懐玉・玉折FIGURIZMα“五条悟”術式反転「赫」", search:"ごじょうさとる", type:"fig", price:1100, date:"1899-12-30", img:"images/zyuzyutu/aka_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 VIBRATION STARS PLUS-竈門炭治郎-", search:"かまどたんじろう", type:"vib", price:1300, date:"1899-12-30", img:"images/kimetu/tan_vib_p.jpg", source:"https://bsp-prize.jp/"},
 {series:"tyen", name:"チェンソーマン おおきなSOFVIMATES～ポチタは泣きながら俺を待っていた～", search:"ぽちた", type:"sof", price:5000, date:"1899-12-30", img:"images/tyen/potita_naki.jpg", source:"https://bsp-prize.jp/"},
