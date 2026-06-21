@@ -1,7 +1,13 @@
 window.figures3 = [
 
 
-
+{series:"buri", name:"BLEACH GLITTER&GLAMOURS-NEMU KUROTSUCHI-", search:"涅ネム　くろつちねむ", type:"gli", price:1200, date:"2026-06-18", img:"images/buri/nemu_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 暁美ほむら フィギュア", search:"あけみほむら", type:"", price:1200, date:"2026-06-18", img:"images/madomagi/homura_kaiten.jpg", source:"https://bsp-prize.jp/"},
+{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 美樹さやか フィギュア", search:"みきさやか", type:"", price:1000, date:"2026-06-18", img:"images/madomagi/sayaka_kaiten.jpg", source:"https://bsp-prize.jp/"},
+{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 巴マミ フィギュア", search:"ともえまみ", type:"", price:1100, date:"2026-06-18", img:"images/madomagi/mami_kaiten.jpg", source:"https://bsp-prize.jp/"},
+{series:"rakisuta", name:"Trio-Try-iT Figureー柊かがみー", search:"ひいらぎかがみ", type:"trio", price:1100, date:"2026-06-17", img:"images/rakisuta/kagami_trio.jpg", source:"https://charahiroba.com/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Grandista-HATAKE KAKASHI-Ⅱ", search:"はたけカカシ　はたけかかし", type:"gra", price:1300, date:"2026-06-18", img:"images/naruto/kakasi2_gra.jpg", source:"https://bsp-prize.jp/"},
+{series:"guru", name:"東京喰種 Grandista-KANEKI KEN Ⅱ-", search:"金木研　かねきけん", type:"gra", price:800, date:"2026-06-18", img:"images/guru/kaneki2_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"kinniku", name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-グリムリパー-", search:"ぐりむりぱー", type:"", price:400, date:"2026-06-11", img:"images/kinniku/gurimu.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-HIDAN-", search:"飛弾　ひだん", type:"vib", price:1800, date:"1899-12-30", img:"images/naruto/hidan_vib_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"gintama", name:"銀魂 おおきなSOFVIMATES～ギンザベス～", search:"ぎんざべす", type:"sof", price:1100, date:"2026-06-16", img:"images/gintama/ginza_sof.jpg", source:"https://bsp-prize.jp/"},
