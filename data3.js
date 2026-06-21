@@ -1,7 +1,7 @@
 window.figures3 = [
 
 
-
+{series:"disny", name:"トイ・ストーリー　ぬーどるストッパーフィギュアーウッディー", search:"うっでぃ", type:"nusuto", price:700, date:"2026-06-18", img:"images/disny/ude_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア SPECIAL サボVS五老星＆イム様", search:"さぼ　いむ", type:"wcf", price:500, date:"1899-12-30", img:"images/wanpi/sabo_imu_wcf.jpg", source:"https://bsp-prize.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　とうぞくのカギで開く！宝箱", search:"たからばこ", type:"", price:600, date:"2026-05-30", img:"images/dorakue/takara.jpg", source:"https://www.taito.co.jp/"},
 {series:"buri", name:"BLEACH GLITTER&GLAMOURS-NEMU KUROTSUCHI-", search:"涅ネム　くろつちねむ", type:"gli", price:1200, date:"2026-06-18", img:"images/buri/nemu_gli.jpg", source:"https://bsp-prize.jp/"},
@@ -150,7 +150,7 @@ window.figures3 = [
 {series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“工藤新一”", search:"くどうしんいち", type:"peti", price:400, date:"1899-12-30", img:"images/konan/sin_peti.jpg", source:"https://segaplaza.jp/"},
 {series:"konan", name:"名探偵コナンPetiteWorldMemoriesミニフィギュア“毛利蘭”", search:"もうりらん", type:"peti", price:400, date:"1899-12-30", img:"images/konan/ran_peti.jpg", source:"https://segaplaza.jp/"},
 {series:"gotoyome", name:"五等分の花嫁＊ 中野一花フィギュア五等分の花嫁アニメ原画展ver.", search:"なかのいちか", type:"", price:300, date:"1899-12-30", img:"images/gotoyome/itika_genga.jpg", source:"https://bsp-prize.jp/"},
-{series:"oba", name:"オーバーロード IF-Relax time-アルベド", search:"あるべど", type:"relax", price:550, date:"1899-12-30", img:"images/oba/aru_relax_if.jpg", source:"https://bsp-prize.jp/"},
+{series:"oba", name:"オーバーロード IF-Relax time-アルベド", search:"あるべど", type:"relax", price:600, date:"1899-12-30", img:"images/oba/aru_relax_if.jpg", source:"https://bsp-prize.jp/"},
 {series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“朝凪依”", search:"あさなぎより", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/asa_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"sasa", name:"ささやくように恋を唄うちょこのせプレミアムフィギュア“木野ひまり”", search:"きのひまり", type:"tyoko", price:300, date:"1899-12-30", img:"images/sasa/kino_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 冨岡義勇-水の呼吸-", search:"とみおかぎゆう　みずのこきゅう", type:"", price:500, date:"2026-06-04", img:"images/kimetu/giyu_rumu.jpg", source:"https://bsp-prize.jp/"},
