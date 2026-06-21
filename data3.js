@@ -1,6 +1,9 @@
 window.figures3 = [
 
 
+
+{series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア SPECIAL サボVS五老星＆イム様", search:"さぼ　いむ", type:"wcf", price:500, date:"1899-12-30", img:"images/wanpi/sabo_imu_wcf.jpg", source:"https://bsp-prize.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　とうぞくのカギで開く！宝箱", search:"たからばこ", type:"", price:600, date:"2026-05-30", img:"images/dorakue/takara.jpg", source:"https://www.taito.co.jp/"},
 {series:"buri", name:"BLEACH GLITTER&GLAMOURS-NEMU KUROTSUCHI-", search:"涅ネム　くろつちねむ", type:"gli", price:1200, date:"2026-06-18", img:"images/buri/nemu_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 暁美ほむら フィギュア", search:"あけみほむら", type:"", price:1200, date:"2026-06-18", img:"images/madomagi/homura_kaiten.jpg", source:"https://bsp-prize.jp/"},
 {series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 美樹さやか フィギュア", search:"みきさやか", type:"", price:1000, date:"2026-06-18", img:"images/madomagi/sayaka_kaiten.jpg", source:"https://bsp-prize.jp/"},
