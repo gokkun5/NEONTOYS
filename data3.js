@@ -2,6 +2,11 @@ window.figures3 = [
 
 
 
+
+{series:"rezero", name:"王選候補者と騎士フィギュア ーフェルト陣営ー　フェルト", search:"ふぇると　フェルト", type:"", price:1400, date:"2026-06-06", img:"images/rezero/feru_gigo.jpg", source:"https://charahiroba.com/"},
+{series:"rezero", name:"王選候補者と騎士フィギュア ーフェルト陣営ー　ラインハルト", search:"らいんはると　ラインハルト", type:"", price:1800, date:"2026-06-06", img:"images/rezero/rain_gigo.jpg", source:"https://charahiroba.com/"},
+{series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-SHANKS-SPECIAL ver.", search:"シャンクス　しゃんくす", type:"bato", price:600, date:"2025-12-18", img:"images/wanpi/syan_bato.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」XrossLinkフィギュア“幼少期の冨岡義勇”", search:"とみおかぎゆう", type:"xros", price:5000, date:"1899-12-30", img:"images/kimetu/you_giyu_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"yahari", name:"やはり俺の青春ラブコメはまちがっている。完XStellar“由比ヶ浜結衣”～放課後通り雨～", search:"ゆいがはまゆい", type:"xs", price:800, date:"2026-06-19", img:"images/yahari/yui_xs.jpg", source:"https://segaplaza.jp/"},
 {series:"umamusume", name:"ウマ娘プリティーダービーXStellar“アストンマーチャン”おすわりVer.", search:"あすとんまーちゃん", type:"xs", price:1000, date:"2026-06-19", img:"images/umamusume/asu_xs_osu.jpg", source:"https://segaplaza.jp/"},
 {series:"youzitu", name:"TVアニメ「ようこそ実力至上主義の教室へ」ちょこのせプレミアムフィギュア‐天沢一夏‐", search:"あまさわいちか", type:"tyoko", price:1000, date:"2026-06-19", img:"images/youzitu/itika_tyoko.jpg", source:"https://segaplaza.jp/"},
@@ -54,7 +59,7 @@ window.figures3 = [
 {series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～ハローキティ・ディアダニエル～", search:"でぃあだにえる", type:"", price:600, date:"2026-06-11", img:"images/sanrio/dani_kosu.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ コスプレフィギュアコレクション～ハローキティ・ディアダニエル～", search:"はろーきてぃ", type:"", price:600, date:"2026-06-11", img:"images/sanrio/kite_kosu.jpg", source:"https://bsp-prize.jp/"},
 {series:"mar", name:"MARVELACT/CUTプレミアムフィギュア“ウルヴァリン", search:"うるヴぁりん", type:"act", price:800, date:"1899-12-30", img:"images/mar/uru_act.jpg", source:"https://segaplaza.jp/"},
-{series:"spy", name:"「SPY×FAMILY」 Luminasta (アーニャ・フォージャー) おでけけ ばーじょん2 ", search:"あーにゃふぉーじゃー", type:"lum", price:900, date:"1899-12-30", img:"images/spy/odekeke2.jpg", source:"https://segaplaza.jp/"},
+{series:"spy", name:"「SPY×FAMILY」 Luminasta (アーニャ・フォージャー) おでけけ ばーじょん2 ", search:"あーにゃふぉーじゃー", type:"lum", price:800, date:"1899-12-30", img:"images/spy/odekeke2.jpg", source:"https://segaplaza.jp/"},
 {series:"zigoku", name:"地獄楽 VIBRATION STARS-亜左 弔兵衛-", search:"あざちょうべい", type:"vib", price:500, date:"1899-12-30", img:"images/zigoku/aza_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"zigoku", name:"地獄楽 VIBRATION STARS-山田浅ェ門 士遠-", search:"やまだあさえもんしおん", type:"vib", price:400, date:"1899-12-30", img:"images/zigoku/sion_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"yugi", name:"遊戯王カードゲーム　Equal Arts 青眼の究極竜", search:"ぶるーあいずあるてぃめっとどらごん", type:"equ", price:500, date:"1899-12-30", img:"images/yugi/aru_equ.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
