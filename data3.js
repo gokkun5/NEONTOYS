@@ -1,6 +1,10 @@
 window.figures3 = [
 
 
+{series:"sunobo", name:"スノウボールアース ソフビフィギュア～ユキオ～", search:"ゆきお", type:"sof", price:800, date:"2026-06-18", img:"images/sunobo/yukio_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～ぶりぶりざえもんしんちゃんとワニ山さんしんちゃん～", search:"野原しんのすけ　のはらしんのすけ　わにやま", type:"", price:600, date:"2026-06-09", img:"images/kuresin/kosu_wani.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～ぶりぶりざえもんしんちゃんとワニ山さんしんちゃん～", search:"野原しんのすけ　のはらしんのすけ　", type:"", price:600, date:"2026-06-09", img:"images/kuresin/kosu_buriburi.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦 KING OF ARTIST SUGURU GETO-懐玉・玉折-Ⅱ", search:"げとうすぐる　夏油傑", type:"koa", price:800, date:"1899-12-30", img:"images/zyuzyutu/geto2_koa.jpg", source:"https://bsp-prize.jp/"},
 {series:"disny", name:"トイ・ストーリー　ぬーどるストッパーフィギュアーウッディー", search:"うっでぃ", type:"nusuto", price:700, date:"2026-06-18", img:"images/disny/ude_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア SPECIAL サボVS五老星＆イム様", search:"さぼ　いむ", type:"wcf", price:500, date:"1899-12-30", img:"images/wanpi/sabo_imu_wcf.jpg", source:"https://bsp-prize.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　とうぞくのカギで開く！宝箱", search:"たからばこ", type:"", price:600, date:"2026-05-30", img:"images/dorakue/takara.jpg", source:"https://www.taito.co.jp/"},
