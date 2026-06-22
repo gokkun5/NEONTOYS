@@ -2,6 +2,8 @@ window.figures3 = [
 
 
 
+{series:"bururo", name:"TVアニメ『ブルーロック』 御影玲王 フィギュア", search:"みかげれお", type:"", price:600, date:"2023-02-07", img:"images/bururo/reo1.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦Luminasta“脹相”", search:"ちょうそう", type:"lum", price:1800, date:"2025-02-07", img:"images/zyuzyutu/tyou_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"nintama", name:"劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師 ぬーどるストッパーフィギュアー天鬼ー", search:"てんき", type:"nusuto", price:300, date:"2025-08-08", img:"images/nintama/tenki_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"gundam", name:"機動戦士Gundam GQuuuuuuX 限械突破 GFreD(ジフレド）", search:"じふれど", type:"", price:400, date:"2025-07-17", img:"images/gundam/zifu.jpg", source:"https://bsp-prize.jp/"},
 {series:"mar", name:"DCACT/CUTプレミアムフィギュア“ジョーカー”", search:"じょーかー", type:"act", price:700, date:"2024-10-25", img:"images/mar/zyoka_act.jpg", source:"https://segaplaza.jp/"},
