@@ -2,7 +2,11 @@ window.figures3 = [
 
 
 
-
+{series:"nintama", name:"劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師 ぬーどるストッパーフィギュアー天鬼ー", search:"てんき", type:"nusuto", price:300, date:"2025-08-08", img:"images/nintama/tenki_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"gundam", name:"機動戦士Gundam GQuuuuuuX 限械突破 GFreD(ジフレド）", search:"じふれど", type:"", price:400, date:"2025-07-17", img:"images/gundam/zifu.jpg", source:"https://bsp-prize.jp/"},
+{series:"mar", name:"DCACT/CUTプレミアムフィギュア“ジョーカー”", search:"じょーかー", type:"act", price:700, date:"2024-10-25", img:"images/mar/zyoka_act.jpg", source:"https://segaplaza.jp/"},
+{series:"pro", name:"プロジェクトセカイカラフルステージ！feat.初音ミク Desktop×DecorateCollections “小豆沢こはね”", search:"あずさわこはね", type:"ddc", price:600, date:"2025-04-04", img:"images/pro/kohane_ddc.jpg", source:"https://segaplaza.jp/"},
+{series:"rosidere", name:"TVアニメ『時々ボソッとロシア語でデレる隣のアーリャさん』Luminasta“アーリャ”－水着－", search:"あーりゃ", type:"lum", price:400, date:"2025-02-14", img:"images/rosidere/arya_mizu_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"rezero", name:"王選候補者と騎士フィギュア ーフェルト陣営ー　フェルト", search:"ふぇると　フェルト", type:"", price:1400, date:"2026-06-06", img:"images/rezero/feru_gigo.jpg", source:"https://charahiroba.com/"},
 {series:"rezero", name:"王選候補者と騎士フィギュア ーフェルト陣営ー　ラインハルト", search:"らいんはると　ラインハルト", type:"", price:1800, date:"2026-06-06", img:"images/rezero/rain_gigo.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-SHANKS-SPECIAL ver.", search:"シャンクス　しゃんくす", type:"bato", price:600, date:"2025-12-18", img:"images/wanpi/syan_bato.jpg", source:"https://bsp-prize.jp/"},
@@ -76,7 +80,7 @@ window.figures3 = [
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-YAKUSHI KABUTO-", search:"やくしかぶと　薬師カブト", type:"vib", price:800, date:"2026-06-11", img:"images/naruto/kabuto_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-UCHIHA ITACHI-Ⅲ", search:"うちはイタチ　うちはいたち", type:"vib", price:800, date:"2026-06-11", img:"images/naruto/itati_vib3.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス GLITTER&GLAMOURS ララ・サタリン・デビルーク", search:"ららさたりんでびるーく", type:"gli", price:600, date:"1899-12-30", img:"images/tora/rara_gli.jpg", source:"https://bsp-prize.jp/"},
-{series:"osinoko", name:"【推しの子】　Coreful フィギュア　アイ～B小町ver.～", search:"あい　びーこまち", type:"core", price:800, date:"2026-06-13", img:"images/osinoko/ai_b_core.jpg", source:"https://www.taito.co.jp/"},
+{series:"osinoko", name:"【推しの子】　Coreful フィギュア　アイ～B小町ver.～", search:"あい　びーこまち", type:"core", price:600, date:"2026-06-13", img:"images/osinoko/ai_b_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"ante", name:"DELTARUNE フィグライフ! ルールノー・カァドー", search:"るーるのーかぁどー", type:"figl", price:600, date:"2026-06-09", img:"images/ante/ruru_figl.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュアライト 猗窩座-破壊殺-", search:"あかざ　はかいさつ", type:"", price:500, date:"2026-06-09", img:"images/kimetu/hakai_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"tensura", name:"転生したらスライムだった件 ESPRESTO-Threefold union-悪魔ディアブロ", search:"あくまでぃあぶろ", type:"esp", price:700, date:"2026-06-09", img:"images/tensura/dea_esp.jpg", source:"https://bsp-prize.jp/"},
