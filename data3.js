@@ -1,6 +1,13 @@
 window.figures3 = [
 
 
+
+{series:"yahari", name:"やはり俺の青春ラブコメはまちがっている。完XStellar“由比ヶ浜結衣”～放課後通り雨～", search:"ゆいがはまゆい", type:"xs", price:800, date:"2026-06-19", img:"images/yahari/yui_xs.jpg", source:"https://segaplaza.jp/"},
+{series:"umamusume", name:"ウマ娘プリティーダービーXStellar“アストンマーチャン”おすわりVer.", search:"あすとんまーちゃん", type:"xs", price:1000, date:"2026-06-19", img:"images/umamusume/asu_xs_osu.jpg", source:"https://segaplaza.jp/"},
+{series:"youzitu", name:"TVアニメ「ようこそ実力至上主義の教室へ」ちょこのせプレミアムフィギュア‐天沢一夏‐", search:"あまさわいちか", type:"tyoko", price:1000, date:"2026-06-19", img:"images/youzitu/itika_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"youzitu", name:"TVアニメ「ようこそ実力至上主義の教室へ」ちょこのせプレミアムフィギュア‐軽井沢恵‐", search:"かるいざわけい", type:"tyoko", price:1000, date:"2026-06-26", img:"images/youzitu/kei_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"rosidere", name:"時々ボソッとロシア語でデレる隣のアーリャさん One-Seventh Caratフィギュア アーリャ バニーVer. RED", search:"あーりゃ", type:"one", price:700, date:"2026-06-19", img:"images/rosidere/one_red.jpg", source:"http://www.fans.co.jp/"},
+{series:"bakatesu", name:"バカとテストと召喚獣 BiCute Bunnies Figure―木下秀吉―", search:"きのしたひでよし", type:"bani", price:800, date:"2026-06-19", img:"images/bakatesu/hide_bani.jpg", source:"https://charahiroba.com/"},
 {series:"sunobo", name:"スノウボールアース ソフビフィギュア～ユキオ～", search:"ゆきお", type:"sof", price:800, date:"2026-06-18", img:"images/sunobo/yukio_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～ぶりぶりざえもんしんちゃんとワニ山さんしんちゃん～", search:"野原しんのすけ　のはらしんのすけ　わにやま", type:"", price:600, date:"2026-06-09", img:"images/kuresin/kosu_wani.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～ぶりぶりざえもんしんちゃんとワニ山さんしんちゃん～", search:"野原しんのすけ　のはらしんのすけ　", type:"", price:600, date:"2026-06-09", img:"images/kuresin/kosu_buriburi.jpg", source:"https://bsp-prize.jp/"},
