@@ -133,7 +133,7 @@ window.figures1 = [
 {series:"rezero", name:"『Re:ゼロから始める異世界生活』 BiCute Bunnies Figure ー レム・bicolor ー", search:"れむ", type:"bani", price:900, date:"1899-12-30", img:"images/rezero/remu_bani.jpg", source:"https://charahiroba.com/"},
 {series:"oba", name:"オーバーロード　１/７スケールフィギュア　アルベド", search:"あるべど", type:"", price:800, date:"1899-12-30", img:"images/oba/aru_el.jpg", source:"https://www.elcocoland.com/shop/"},
 {series:"oba", name:"『オーバーロード』 BiCute Bunnies Figure ー ナーベラル ー", search:"なーべらる", type:"bani", price:1200, date:"1899-12-30", img:"images/oba/nabe_bani.jpg", source:"https://charahiroba.com/"},
-{series:"pansuto", name:"『New PANTY ＆ STOCKING with GARTERBELT』 BRILLIANT フィギュア ストッキング", search:"すとっきんぐ", type:"bri", price:1000, date:"1899-12-30", img:"images/pansuto/suto_bri.jpg", source:"http://www.fans.co.jp/"},
+{series:"pansuto", name:"『New PANTY ＆ STOCKING with GARTERBELT』 BRILLIANT フィギュア ストッキング", search:"すとっきんぐ", type:"bri", price:1000, date:"2026-02-27", img:"images/pansuto/suto_bri.jpg", source:"http://www.fans.co.jp/"},
 {series:"esi", name:"『Nachoneko』 Trio-Try-iT Figure ー Nachoneko ー", search:"なちょねこ", type:"trio", price:700, date:"2026-06-12", img:"images/esi/natyo_trio.jpg", source:"https://charahiroba.com/"},
 {series:"esi", name:"『しぐれうい』 Trio-Try-iT Figure ー しぐれうい ー", search:"", type:"trio", price:500, date:"1899-12-30", img:"images/esi/ui_trio.jpg", source:"https://charahiroba.com/"},
 {series:"kusuri", name:"TVアニメ『薬屋のひとりごと』ちょこのせプレミアムフィギュア “壬氏”", search:"じんし", type:"tyoko", price:1000, date:"1899-12-30", img:"images/kusuri/zinsi_tyoko.jpg", source:"https://segaplaza.jp/"},

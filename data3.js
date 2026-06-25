@@ -1,5 +1,14 @@
 window.figures3 = [
 
+
+
+{series:"sonota", name:"Minions おおきなSOFVIMATES～ボブ～", search:"ぼぶ", type:"sof", price:700, date:"2026-06-23", img:"images/sonota/bobu_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"gundam", name:"『機動戦士ガンダムＵＣ』 胸像センサーライト-ユニコーンガンダム（デストロイモード 最終決戦仕様）-", search:"ゆにこーんがんだむ", type:"", price:700, date:"2026-06-23", img:"images/gundam/yuni_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"holo", name:"ホロライブ #hololive IF -Relax time-雪花ラミィ", search:"ゆきはならみぃ", type:"relax", price:700, date:"2026-06-25", img:"images/holo/rami_if_relax.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～マサオくんと", search:"野原しんのすけ　のはらしんのすけ", type:"", price:600, date:"2026-06-23", img:"images/kuresin/sinmasa_omama.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～マサオくんと", search:"マサオくん　まさおくん", type:"", price:600, date:"2026-06-23", img:"images/kuresin/masasin_omama.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～ボーちゃんと", search:"野原しんのすけ　のはらしんのすけ", type:"", price:600, date:"2026-06-23", img:"images/kuresin/sinbo_omama.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～ボーちゃんと", search:"ボーちゃん　ぼーちゃん", type:"", price:600, date:"2026-06-23", img:"images/kuresin/bosin_omama.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミクシリーズ Luminasta “初音ミク-ビターパティシエ”", search:"はつねみく　びたーぱてぃしえ", type:"lum", price:1000, date:"2023-01-27", img:"images/miku/bita_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　ピンチハンガー　メタルホイミン", search:"めたるほいみん", type:"", price:300, date:"2026-06-19", img:"images/dorakue/metaho.jpg", source:"https://www.taito.co.jp/"},
 {series:"bururo", name:"TVアニメ『ブルーロック』 御影玲王 フィギュア", search:"みかげれお", type:"", price:600, date:"2023-02-07", img:"images/bururo/reo1.jpg", source:"https://bsp-prize.jp/"},
