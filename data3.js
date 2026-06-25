@@ -1,6 +1,9 @@
 window.figures3 = [
 
 
+{series:"mazyotabi", name:"Trio-Try-iT Figureーイレイナ・ワンピースver.ー", search:"いれいな", type:"trio", price:800, date:"2026-06-23", img:"images/mazyotabi/wanpi_trio.jpg", source:"https://charahiroba.com/"},
+{series:"osarabu", name:"ぬーどるストッパーフィギュア ー 水萌汐 ー", search:"みなもしお", type:"nusuto", price:800, date:"2026-06-25", img:"images/osarabu/sio_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"akuse", name:"ぬーどるストッパーフィギュア―黒雪姫―", search:"くろゆきひめ", type:"nusuto", price:800, date:"2026-06-24", img:"images/akuse/kuro_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"cityhu", name:"ぬーどるストッパーフィギュアー冴羽獠ー", search:"さえばりょう", type:"nusuto", price:800, date:"2026-06-24", img:"images/cityhu/ryo_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"hokuto", name:"北斗の拳 -FIST OF THE NORTH STAR-Grandista-REI-", search:"れい　レイ", type:"gra", price:800, date:"2026-06-23", img:"images/hokuto/rei_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"nukitasi", name:"Trio-Try-iT Figure ー 片桐奈々瀬 ー", search:"かたぎりななせ", type:"trio", price:800, date:"2026-06-24", img:"images/nukitasi/nanase_trio.jpg", source:"https://charahiroba.com/"},

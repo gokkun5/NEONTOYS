@@ -932,7 +932,7 @@ window.figures2 = [
 {series:"pawapuro", name:"パワフルプロ野球 パワプロくん プライズアクションフィギュア 打者ver", search:"ぱわぷろくん", type:"", price:400, date:"1899-12-30", img:"images/pawapuro/dasya.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"hant", name:"『HUNTER×HUNTER』 ぬーどるストッパーフィギュア ー マチ ー", search:"まち", type:"nusuto", price:600, date:"1899-12-30", img:"images/hant/mati_nusuto.jpg", source:"https://bsp-prize.jp/"},
 {series:"tensura", name:"劇場版 転生したらスライムだった件 蒼海の涙編 GLITTER&GLAMOURS ユラ", search:"ゆら", type:"gli", price:300, date:"1899-12-30", img:"images/tensura/yura.jpg", source:"https://bsp-prize.jp/"},
-{series:"nikke", name:"『勝利の女神：NIKKE』 ぬーどるストッパーフィギュア ー モダニア ファースト・アフェクション ー", search:"もだにあ", type:"nusuto", price:600, date:"1899-12-30", img:"images/nikke/moda_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"nikke", name:"『勝利の女神：NIKKE』 ぬーどるストッパーフィギュア ー モダニア ファースト・アフェクション ー", search:"もだにあ", type:"nusuto", price:600, date:"2026-06-24", img:"images/nikke/moda_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"nikke", name:"『勝利の女神：NIKKE』 ぬーどるストッパーフィギュア ー ブリッド ー", search:"ぶりっど", type:"nusuto", price:400, date:"1899-12-30", img:"images/nikke/buriddo_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"nikke", name:"勝利の女神：NIKKE アニス こーどリールフィギュア", search:"あにす", type:"ko-do", price:700, date:"1899-12-30", img:"images/nikke/anisu_ko-do.jpg", source:"https://bsp-prize.jp/"},
 {series:"nikke", name:"勝利の女神：NIKKE バイパー こーどリールフィギュア", search:"ばいぱー", type:"ko-do", price:600, date:"1899-12-30", img:"images/nikke/baipa_ko-do.jpg", source:"https://bsp-prize.jp/"},
