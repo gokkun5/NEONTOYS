@@ -1,6 +1,12 @@
 window.figures3 = [
 
 
+{series:"yusyakei", name:"Trio-Try-iT Figure ーテオリッター", search:"ておりった", type:"trio", price:900, date:"2026-06-24", img:"images/yusyakei/teo_trio.jpg", source:"https://charahiroba.com/"},
+{series:"wanpi", name:"ワンピース メガワールドコレクタブルフィギュア-鉄の巨人-", search:"てつのきょじん", type:"wcf", price:900, date:"2026-06-23", img:"images/wanpi/kyozin_wcf.jpg", source:"https://bsp-prize.jp/"},
+{series:"marizzi", name:"マリッジトキシン GLITTER&GLAMOURS-MEI KINOSAKI-", search:"きのさきめい　城崎メイ", type:"gli", price:900, date:"2026-06-23", img:"images/marizzi/mei_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"keroro", name:"ケロロ軍曹 GLITTER&GLAMOURS～モア～", search:"もあ", type:"gli", price:900, date:"2026-06-23", img:"images/keroro/moa_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"gundam", name:"『機動戦士ガンダム』 限械突破 RX-78-2 ガンダム", search:"がんだむ", type:"", price:900, date:"2026-06-23", img:"images/gundam/gun_genkai.jpg", source:"https://bsp-prize.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-HIMIKO TOGA-Ⅱ", search:"トガヒミコ　とがひみこ", type:"gli", price:900, date:"2026-06-23", img:"images/hiro/toga02_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　ナナ～チャイナドレスver.～", search:"なな", type:"desk", price:800, date:"2026-06-27", img:"images/tora/nana_desk_rumu.jpg", source:"https://www.taito.co.jp/"},
 {series:"furi-ren", name:"葬送のフリーレンYumemirize“ユーベル”～ルームウェア～", search:"ゆーべる", type:"yume", price:800, date:"2026-06-26", img:"images/furi-ren/yube_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"kanokari", name:"彼女、お借りしますYumemirize“水原千鶴”", search:"みずはらちづる", type:"yume", price:800, date:"2026-06-26", img:"images/kanokari/mizuhara_yume.jpg", source:"https://segaplaza.jp/"},
