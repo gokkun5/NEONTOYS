@@ -1,6 +1,6 @@
 window.figures3 = [
 
-
+{series:"miku", name:"初音ミクシリーズ Luminasta “初音ミク-ビターパティシエ”", search:"はつねみく　びたーぱてぃしえ", type:"lum", price:1000, date:"2023-01-27", img:"images/miku/bita_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　ピンチハンガー　メタルホイミン", search:"めたるほいみん", type:"", price:300, date:"2026-06-19", img:"images/dorakue/metaho.jpg", source:"https://www.taito.co.jp/"},
 {series:"bururo", name:"TVアニメ『ブルーロック』 御影玲王 フィギュア", search:"みかげれお", type:"", price:600, date:"2023-02-07", img:"images/bururo/reo1.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦Luminasta“脹相”", search:"ちょうそう", type:"lum", price:1800, date:"2025-02-07", img:"images/zyuzyutu/tyou_lum.jpg", source:"https://segaplaza.jp/"},

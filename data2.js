@@ -511,7 +511,7 @@ window.figures2 = [
 {series:"miku", name:"初音ミク　Trio-Try-iT Figureーペイントガールー", search:"ぺいんと　はつねみく", type:"trio", price:1100, date:"1899-12-30", img:"images/miku/peinto.jpg", source:"https://charahiroba.com/"},
 {series:"kaizyu", name:"怪獣８号 スケールフィギュア“保科” ～GiGO限定～", search:"ほしな", type:"", price:1000, date:"1899-12-30", img:"images/kaizyu/hosina_gigo.jpg", source:"https://www.gigo.co.jp/prizes"},
 {series:"haikyu", name:"ハイキュー!! ぬーどるストッパーフィギュアー月島 蛍ー", search:"つきしまけい", type:"nusuto", price:800, date:"1899-12-30", img:"images/haikyu/tukisima_nusuto.jpg", source:"https://charahiroba.com/"},
-{series:"miku", name:"初音ミク Birthday2025　AMP＋ フィギュア～Party ver.～", search:"はつねみく　パーティー　ぱーてぃー", type:"amp", price:1600, date:"1899-12-30", img:"images/miku/2025_birth.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"初音ミク-ProjectDIVA-XFIGURIZMα“初音ミクーDE:MONSTART.R.”", search:"はつねみく　モンスター　もんすたー", type:"fig", price:1000, date:"2024-09-20", img:"images/miku/mons_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"初音ミク×ラスカル　Exc∞d Creative Figureーサイバーフューチャーー", search:"さいばーふゅーちゃー　はつねみく　らすかる", type:"ex", price:1000, date:"1899-12-30", img:"images/miku/saiba_ex.jpg", source:"https://charahiroba.com/"},
 {series:"kaizyu", name:"怪獣８号 ぬーどるストッパーフィギュアー鳴海弦ー", search:"なるみげん", type:"nusuto", price:1500, date:"1899-12-30", img:"images/kaizyu/narumi_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース BATTLE RECORD COLLECTION-RORONOA ZORO-", search:"ろろのあぞろ　ロロノアゾロ", type:"bato", price:800, date:"1899-12-30", img:"images/wanpi/zoro_bato_egg.jpg", source:"https://bsp-prize.jp/"},
