@@ -18,6 +18,73 @@ const allShowBtn = document.getElementById('allShowBtn');
 let ALL_SERIES_OPTIONS = []; // ★これを追加（元のリストを保存する用）
 
 // ==========================================
+// メーカー判定機能
+// ==========================================
+// ドメイン → メーカー名 の対応表
+const MAKER_MAP = {
+  "bsp-prize.jp": "BANDAI SPIRITS",
+  "charahiroba.com": "フリュー株式会社",
+  "segaplaza.jp": "SEGA",
+  "taito.co.jp": "TAITO",
+  "p.eagate.573.jp": "KONAMI",
+  "fansclub.jp": "システムサービス株式会社",
+  "sk-japan.co.jp": "株式会社エスケイジャパン",
+  "elcocoland.com": "株式会社エルココ",
+  "eikoh-prize.jp": "株式会社エイコー",
+  "gigo.co.jp": "GiGO",
+  "stuffed-toys.jp": "日本オート玩具株式会社",
+  "u-np.jp": "ウルトラニュープランニング株式会社",
+  "fancy-fukuya.co.jp": "株式会社フクヤ",
+  "bushiroad-creative.com": "株式会社ブシロードクリエイティブ",
+};
+
+// URLからメーカー名を判定する関数
+function getMakerFromSource(sourceUrl) {
+  if (!sourceUrl) return "その他";
+  try {
+    const url = new URL(sourceUrl);
+    let hostname = url.hostname.replace(/^www\./, "");
+
+    for (const domain in MAKER_MAP) {
+      if (hostname === domain || hostname.endsWith("." + domain)) {
+        return MAKER_MAP[domain];
+      }
+    }
+    return "その他";
+  } catch (e) {
+    return "その他";
+  }
+}
+
+// メーカーのセレクトボックスを動的に生成する関数
+function populateMakerSelect() {
+  const makerSelect = document.getElementById("maker");
+  if (!makerSelect) return;
+
+  const makersInUse = new Set();
+  figures.forEach(f => {
+    const maker = getMakerFromSource(f.source);
+    makersInUse.add(maker);
+  });
+
+  const orderedMakers = Object.values(MAKER_MAP).filter(m => makersInUse.has(m));
+  if (makersInUse.has("その他")) {
+    orderedMakers.push("その他");
+  }
+
+  makerSelect.innerHTML = '<option value="all">All Makers</option>';
+  orderedMakers.forEach(maker => {
+    const opt = new Option(maker, maker);
+    makerSelect.add(opt);
+  });
+}
+
+// ページ読み込み時にメーカーリストを生成
+document.addEventListener("DOMContentLoaded", () => {
+  populateMakerSelect();
+});
+
+// ==========================================
 // 2. 初期表示関数 (initShow)
 // ==========================================
 function initShow() {
@@ -131,13 +198,15 @@ function showFigures() {
   const type = document.getElementById("type").value;
   const price = document.getElementById("price").value;
   const sort = document.getElementById("sort").value;
+  const makerSelectEl = document.getElementById("maker");
+  const maker = makerSelectEl ? makerSelectEl.value : "all";
 
   let filtered = [];
 
   // --- データの抽出範囲を決定 ---
   if (isAllShowMode) {
     filtered = [...figures];
-  } else if (search === "" && series === "all" && type === "all" && price === "all") {
+} else if (search === "" && series === "all" && type === "all" && price === "all" && maker === "all") {
     const today = new Date();
     const period = 30;
     filtered = figures.filter(f => {
@@ -163,6 +232,10 @@ function showFigures() {
         const itemPrice = Number(f.price);
         return itemPrice >= min && itemPrice <= max;
       });
+    }
+// ★追加：メーカーでの絞り込み
+    if (maker !== "all") {
+      filtered = filtered.filter(f => getMakerFromSource(f.source) === maker);
     }
     if (search !== "") {
       filtered = filtered.filter(f =>
@@ -246,7 +319,7 @@ function showFigures() {
   }
 
   // 看板の更新
-  const isFiltering = (search !== "" || series !== "all" || type !== "all" || price !== "all" || sort !== "none");
+  const isFiltering = (search !== "" || series !== "all" || type !== "all" || price !== "all" || maker !== "all" || sort !== "none");
   const hasNewItem = html.includes('new-badge');
 updatePickupTitle(!isAllShowMode && !isFiltering && hasNewItem, totalCount);
 }
@@ -280,7 +353,7 @@ window.addEventListener('scroll', () => {
 // 4. フィルタークリア関数 (clearFilters)
 // ==========================================
 function clearFilters() {
-    const ids = ["search", "series", "type", "price", "sort", "initial-filter"];
+const ids = ["search", "series", "type", "price", "sort", "initial-filter", "maker"];
     ids.forEach(id => {
         const el = document.getElementById(id);
         if (el) {
