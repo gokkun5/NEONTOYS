@@ -1,6 +1,10 @@
 window.figures3 = [
 
 
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　ナナ～チャイナドレスver.～", search:"なな", type:"desk", price:800, date:"2026-06-27", img:"images/tora/nana_desk_rumu.jpg", source:"https://www.taito.co.jp/"},
+{series:"furi-ren", name:"葬送のフリーレンYumemirize“ユーベル”～ルームウェア～", search:"ゆーべる", type:"yume", price:800, date:"2026-06-26", img:"images/furi-ren/yube_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"kanokari", name:"彼女、お借りしますYumemirize“水原千鶴”", search:"みずはらちづる", type:"yume", price:800, date:"2026-06-26", img:"images/kanokari/mizuhara_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"rupan", name:"LUPIN THE ⅢRD 次元大介 フィギュア", search:"じげんだいすけ", type:"", price:800, date:"2026-06-25", img:"images/rupan/zigen.jpg", source:"https://bsp-prize.jp/"},
 {series:"mazyotabi", name:"Trio-Try-iT Figureーイレイナ・ワンピースver.ー", search:"いれいな", type:"trio", price:800, date:"2026-06-23", img:"images/mazyotabi/wanpi_trio.jpg", source:"https://charahiroba.com/"},
 {series:"osarabu", name:"ぬーどるストッパーフィギュア ー 水萌汐 ー", search:"みなもしお", type:"nusuto", price:800, date:"2026-06-25", img:"images/osarabu/sio_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"akuse", name:"ぬーどるストッパーフィギュア―黒雪姫―", search:"くろゆきひめ", type:"nusuto", price:800, date:"2026-06-24", img:"images/akuse/kuro_nusuto.jpg", source:"https://charahiroba.com/"},
