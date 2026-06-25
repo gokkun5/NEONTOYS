@@ -1,12 +1,12 @@
 window.figures3 = [
 
 
-
-
-{series:"nukitasi", name:"Trio-Try-iT Figure ー 片桐奈々瀬 ー", search:"かたぎりななせ", type:"trio", price:700, date:"2026-06-24", img:"images/nukitasi/nanase_trio.jpg", source:"https://charahiroba.com/"},
-{series:"nukitasi", name:"Trio-Try-iT Figure ー 畔美岬 ー", search:"ほとりみさき", type:"trio", price:700, date:"2026-06-24", img:"images/nukitasi/hotori_trio.jpg", source:"https://charahiroba.com/"},
-{series:"ramune", name:"Trio-Try-iT Figure ー柊 夕湖ー", search:"ひいらぎゆうこ", type:"trio", price:700, date:"2026-06-24", img:"images/ramune/hira_trio.jpg", source:"https://charahiroba.com/"},
-{series:"rezero", name:"Re:ゼロから始める異世界生活 MeloDoll Figure―ラム・ナイトドレス―", search:"らむ", type:"melo", price:600, date:"2026-06-27", img:"images/rezero/ramu_mero.jpg", source:"https://charahiroba.com/"},
+{series:"cityhu", name:"ぬーどるストッパーフィギュアー冴羽獠ー", search:"さえばりょう", type:"nusuto", price:800, date:"2026-06-24", img:"images/cityhu/ryo_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"hokuto", name:"北斗の拳 -FIST OF THE NORTH STAR-Grandista-REI-", search:"れい　レイ", type:"gra", price:800, date:"2026-06-23", img:"images/hokuto/rei_gra.jpg", source:"https://bsp-prize.jp/"},
+{series:"nukitasi", name:"Trio-Try-iT Figure ー 片桐奈々瀬 ー", search:"かたぎりななせ", type:"trio", price:800, date:"2026-06-24", img:"images/nukitasi/nanase_trio.jpg", source:"https://charahiroba.com/"},
+{series:"nukitasi", name:"Trio-Try-iT Figure ー 畔美岬 ー", search:"ほとりみさき", type:"trio", price:800, date:"2026-06-24", img:"images/nukitasi/hotori_trio.jpg", source:"https://charahiroba.com/"},
+{series:"ramune", name:"Trio-Try-iT Figure ー柊 夕湖ー", search:"ひいらぎゆうこ", type:"trio", price:800, date:"2026-06-24", img:"images/ramune/hira_trio.jpg", source:"https://charahiroba.com/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 MeloDoll Figure―ラム・ナイトドレス―", search:"らむ", type:"melo", price:700, date:"2026-06-27", img:"images/rezero/ramu_mero.jpg", source:"https://charahiroba.com/"},
 {series:"db", name:"DRAGON BALL SPIRITFLICKS 02", search:"ベジータ　べじーた", type:"supi", price:600, date:"2026-06-23", img:"images/db/bezi_supi_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"DRAGON BALL SPIRITFLICKS 02", search:"ベジータ　べじーた", type:"supi", price:600, date:"2026-06-23", img:"images/db/bezi_supi_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"DRAGON BALL SPIRITFLICKS 02", search:"ベジータ　べじーた", type:"supi", price:600, date:"2026-06-23", img:"images/db/bezi_supi_c.jpg", source:"https://bsp-prize.jp/"},
