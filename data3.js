@@ -2,9 +2,18 @@ window.figures3 = [
 
 
 
-{series:"sonota", name:"Minions おおきなSOFVIMATES～ボブ～", search:"ぼぶ", type:"sof", price:700, date:"2026-06-23", img:"images/sonota/bobu_sof.jpg", source:"https://bsp-prize.jp/"},
-{series:"gundam", name:"『機動戦士ガンダムＵＣ』 胸像センサーライト-ユニコーンガンダム（デストロイモード 最終決戦仕様）-", search:"ゆにこーんがんだむ", type:"", price:700, date:"2026-06-23", img:"images/gundam/yuni_rumu.jpg", source:"https://bsp-prize.jp/"},
-{series:"holo", name:"ホロライブ #hololive IF -Relax time-雪花ラミィ", search:"ゆきはならみぃ", type:"relax", price:700, date:"2026-06-25", img:"images/holo/rami_if_relax.jpg", source:"https://bsp-prize.jp/"},
+
+{series:"nukitasi", name:"Trio-Try-iT Figure ー 片桐奈々瀬 ー", search:"かたぎりななせ", type:"trio", price:700, date:"2026-06-24", img:"images/nukitasi/nanase_trio.jpg", source:"https://charahiroba.com/"},
+{series:"nukitasi", name:"Trio-Try-iT Figure ー 畔美岬 ー", search:"ほとりみさき", type:"trio", price:700, date:"2026-06-24", img:"images/nukitasi/hotori_trio.jpg", source:"https://charahiroba.com/"},
+{series:"ramune", name:"Trio-Try-iT Figure ー柊 夕湖ー", search:"ひいらぎゆうこ", type:"trio", price:700, date:"2026-06-24", img:"images/ramune/hira_trio.jpg", source:"https://charahiroba.com/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 MeloDoll Figure―ラム・ナイトドレス―", search:"らむ", type:"melo", price:600, date:"2026-06-27", img:"images/rezero/ramu_mero.jpg", source:"https://charahiroba.com/"},
+{series:"db", name:"DRAGON BALL SPIRITFLICKS 02", search:"ベジータ　べじーた", type:"supi", price:600, date:"2026-06-23", img:"images/db/bezi_supi_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"DRAGON BALL SPIRITFLICKS 02", search:"ベジータ　べじーた", type:"supi", price:600, date:"2026-06-23", img:"images/db/bezi_supi_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"DRAGON BALL SPIRITFLICKS 02", search:"ベジータ　べじーた", type:"supi", price:600, date:"2026-06-23", img:"images/db/bezi_supi_c.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"DRAGON BALL SPIRITFLICKS 02", search:"ベジータ　べじーた", type:"supi", price:600, date:"2026-06-23", img:"images/db/bezi_supi_d.jpg", source:"https://bsp-prize.jp/"},
+{series:"sonota", name:"Minions おおきなSOFVIMATES～ボブ～", search:"ぼぶ", type:"sof", price:600, date:"2026-06-23", img:"images/sonota/bobu_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"gundam", name:"『機動戦士ガンダムＵＣ』 胸像センサーライト-ユニコーンガンダム（デストロイモード 最終決戦仕様）-", search:"ゆにこーんがんだむ", type:"", price:600, date:"2026-06-23", img:"images/gundam/yuni_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"holo", name:"ホロライブ #hololive IF -Relax time-雪花ラミィ", search:"ゆきはならみぃ", type:"relax", price:600, date:"2026-06-25", img:"images/holo/rami_if_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～マサオくんと", search:"野原しんのすけ　のはらしんのすけ", type:"", price:600, date:"2026-06-23", img:"images/kuresin/sinmasa_omama.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～マサオくんと", search:"マサオくん　まさおくん", type:"", price:600, date:"2026-06-23", img:"images/kuresin/masasin_omama.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん しんちゃんとなかよしメモリーズ～昼下がりのおままごと～ボーちゃんと", search:"野原しんのすけ　のはらしんのすけ", type:"", price:600, date:"2026-06-23", img:"images/kuresin/sinbo_omama.jpg", source:"https://bsp-prize.jp/"},
