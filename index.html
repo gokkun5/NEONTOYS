@@ -50,6 +50,25 @@
     oninput="showFigures()"
     >
 
+<!-- ★追加：登場カレンダーボタン -->
+<button id="calendarToggleBtn" type="button" class="custom-button" onclick="toggleCalendar()">
+  登場日から検索
+</button>
+
+<!-- ★追加：カレンダー本体（最初は隠す） -->
+<div id="calendarContainer" style="display:none;">
+  <div class="calendar-header">
+    <button type="button" onclick="changeCalendarMonth(-1)">&lt;</button>
+    <span id="calendarMonthLabel"></span>
+    <button type="button" onclick="changeCalendarMonth(1)">&gt;</button>
+  </div>
+  <div class="calendar-weekdays">
+    <span>日</span><span>月</span><span>火</span><span>水</span><span>木</span><span>金</span><span>土</span>
+  </div>
+  <div id="calendarGrid" class="calendar-grid"></div>
+
+</div>
+
     <!-- シリーズ -->
 
 <select id="initial-filter" onchange="filterSeriesByInitial()">
@@ -391,6 +410,8 @@
     <option value="none">並び替え</option>
     <option value="priceLow">価格が安い順</option>
     <option value="priceHigh">価格が高い順</option>
+    <option value="dateNew">登場日が新しい順</option>
+    <option value="dateOld">登場日が古い順</option>
     <option value="name">名前順</option>
     </select>
 

@@ -193,7 +193,7 @@ const DISPLAY_STEP = 30; // 「もっと見る」で増える件数
 // 3. 絞り込み表示関数 (showFigures) ★ここをリニューアル
 // ==========================================
 function showFigures() {
-  const search = document.getElementById("search").value.toLowerCase();
+  const search = document.getElementById("search").value.toLowerCase().replace(/\s+/g, "");
   const series = document.getElementById("series").value;
   const type = document.getElementById("type").value;
   const price = document.getElementById("price").value;
@@ -206,7 +206,7 @@ function showFigures() {
   // --- データの抽出範囲を決定 ---
   if (isAllShowMode) {
     filtered = [...figures];
-} else if (search === "" && series === "all" && type === "all" && price === "all" && maker === "all") {
+} else if (search === "" && series === "all" && type === "all" && price === "all" && maker === "all" && !calendarDateFilter) {
     const today = new Date();
     const period = 30;
     filtered = figures.filter(f => {
@@ -237,18 +237,25 @@ function showFigures() {
     if (maker !== "all") {
       filtered = filtered.filter(f => getMakerFromSource(f.source) === maker);
     }
-    if (search !== "") {
-      filtered = filtered.filter(f =>
-        f.name.toLowerCase().includes(search) ||
-        (f.search && f.search.toLowerCase().includes(search))
-      );
+// ★追加：カレンダーで選択した日付での絞り込み
+    if (calendarDateFilter) {
+      filtered = filtered.filter(f => f.date === calendarDateFilter);
+    }
+   if (search !== "") {
+      filtered = filtered.filter(f => {
+        const nameNoSpace = f.name.toLowerCase().replace(/\s+/g, "");
+        const searchFieldNoSpace = f.search ? f.search.toLowerCase().replace(/\s+/g, "") : "";
+        return nameNoSpace.includes(search) || searchFieldNoSpace.includes(search);
+      });
     }
   }
 
   // --- ソート処理（既存のまま） ---
-  if (sort === "priceLow") filtered.sort((a, b) => a.price - b.price);
+if (sort === "priceLow") filtered.sort((a, b) => a.price - b.price);
   else if (sort === "priceHigh") filtered.sort((a, b) => b.price - a.price);
   else if (sort === "name") filtered.sort((a, b) => a.name.localeCompare(b.name, "ja"));
+  else if (sort === "dateNew") filtered.sort((a, b) => new Date(b.date) - new Date(a.date));
+  else if (sort === "dateOld") filtered.sort((a, b) => new Date(a.date) - new Date(b.date));
 
   // ★追加：全件数を保存（件数表示用）
   const totalCount = filtered.length;
@@ -365,6 +372,8 @@ const ids = ["search", "series", "type", "price", "sort", "initial-filter", "mak
 
     filterSeriesByInitial();
 
+     clearCalendarDateFilter(); 
+
     isAllShowMode = false;
     if (allShowBtn) {
         allShowBtn.textContent = '全てのプライズを表示';
@@ -405,3 +414,105 @@ container.innerHTML = `<h2 class="pickup-text">検索結果 <span class="result-
   }
 }
 
+// ==========================================
+// 登場カレンダー機能
+// ==========================================
+let calendarYear = new Date().getFullYear();
+let calendarMonth = new Date().getMonth(); // 0-11
+let calendarDateFilter = null; // 選択中の日付（YYYY-MM-DD）を保持
+
+function toggleCalendar() {
+  const container = document.getElementById("calendarContainer");
+  if (!container) return;
+  const isOpen = container.style.display !== "none";
+  container.style.display = isOpen ? "none" : "block";
+  if (!isOpen) renderCalendar();
+}
+
+function changeCalendarMonth(diff) {
+  calendarMonth += diff;
+  if (calendarMonth < 0) { calendarMonth = 11; calendarYear--; }
+  if (calendarMonth > 11) { calendarMonth = 0; calendarYear++; }
+  renderCalendar();
+}
+
+function pad2(n) { return String(n).padStart(2, "0"); }
+
+function renderCalendar() {
+  const monthLabel = document.getElementById("calendarMonthLabel");
+  const grid = document.getElementById("calendarGrid");
+  if (!monthLabel || !grid) return;
+
+  monthLabel.textContent = calendarYear + "年" + (calendarMonth + 1) + "月";
+  grid.innerHTML = "";
+
+  // その月に登場日があるフィギュアを日付ごとにグループ化
+  const eventsByDay = {};
+  figures.forEach(f => {
+    if (!f.date) return;
+    const d = new Date(f.date);
+    if (d.getFullYear() === calendarYear && d.getMonth() === calendarMonth) {
+      const dayNum = d.getDate();
+      if (!eventsByDay[dayNum]) eventsByDay[dayNum] = [];
+      eventsByDay[dayNum].push(f);
+    }
+  });
+
+  const firstDayOfWeek = new Date(calendarYear, calendarMonth, 1).getDay();
+  const daysInMonth = new Date(calendarYear, calendarMonth + 1, 0).getDate();
+
+  // 月初までの空白マス
+  for (let i = 0; i < firstDayOfWeek; i++) {
+    const empty = document.createElement("div");
+    grid.appendChild(empty);
+  }
+
+  // 日付マスを生成
+  for (let day = 1; day <= daysInMonth; day++) {
+    const cell = document.createElement("button");
+    cell.type = "button";
+    cell.className = "calendar-day";
+
+    const numSpan = document.createElement("span");
+    numSpan.textContent = day;
+    cell.appendChild(numSpan);
+
+    const dayEvents = eventsByDay[day];
+    if (dayEvents && dayEvents.length > 0) {
+      cell.classList.add("has-event");
+      const dot = document.createElement("span");
+      dot.className = "dot";
+      cell.appendChild(dot);
+
+      cell.addEventListener("click", () => {
+        selectCalendarDay(day);
+      });
+    }
+
+    grid.appendChild(cell);
+  }
+}
+
+// 日付を選んだら、カレンダーを閉じてフィギュアリストにその日の景品を表示する
+function selectCalendarDay(day) {
+  const dateStr = calendarYear + "-" + pad2(calendarMonth + 1) + "-" + pad2(day);
+  calendarDateFilter = dateStr;
+
+  // カレンダーを閉じる
+  const container = document.getElementById("calendarContainer");
+  if (container) container.style.display = "none";
+
+  // 一覧を更新
+  showFigures();
+
+  // フィギュアリストまでスクロール
+  const listEl = document.getElementById("figureList");
+  if (listEl) {
+    listEl.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+}
+
+// 日付フィルターをクリアする関数（clearFiltersから呼ぶ）
+function clearCalendarDateFilter() {
+  calendarDateFilter = null;
+}
