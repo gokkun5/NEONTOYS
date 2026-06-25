@@ -271,9 +271,9 @@ if (sort === "priceLow") filtered.sort((a, b) => a.price - b.price);
   if (searchInput) {
     searchInput.classList.toggle('active', searchInput.value.trim() !== '');
   }
-  document.querySelectorAll('.custom-button').forEach(btn => {
-    btn.classList.toggle('active', isAllShowMode);
-  });
+  if (allShowBtn) {
+    allShowBtn.classList.toggle('active', isAllShowMode);
+  }
 
   // ===========================
 
