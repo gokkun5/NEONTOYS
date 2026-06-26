@@ -3,6 +3,12 @@ window.figures3 = [
 
 
 
+
+{series:"umamusume", name:"ウマ娘プリティーダービーXStellar“サトノダイヤモンド”おすわりVer.", search:"さとのだいやもんど", type:"xs", price:900, date:"2026-06-26", img:"images/umamusume/satoda_xs.jpg", source:"https://segaplaza.jp/"},
+{series:"botti", name:"アニメ「ぼっち・ざ・ろっく！」　ふぃぐきゅーぶ 後藤ひとり", search:"ごとうひとり　ぼっち", type:"figc", price:1000, date:"2026-06-25", img:"images/botti/botti_figc.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"botti", name:"アニメ「ぼっち・ざ・ろっく！」　ふぃぐきゅーぶ 山田リョウ", search:"やまだりょう", type:"figc", price:1000, date:"2026-06-25", img:"images/botti/ryo_figc.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"botti", name:"アニメ「ぼっち・ざ・ろっく！」　ふぃぐきゅーぶ 伊地知虹夏", search:"いじちにじか", type:"figc", price:900, date:"2026-06-25", img:"images/botti/nizika_figc.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"botti", name:"アニメ「ぼっち・ざ・ろっく！」　ふぃぐきゅーぶ 喜多郁代", search:"きたいくよ", type:"figc", price:900, date:"2026-06-25", img:"images/botti/ikuyo_figc.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER&GLAMOURS-喜多川海夢 十六夜ありさver.-", search:"きたがわまりん　いざよいありさ", type:"gli", price:900, date:"2026-06-25", img:"images/kisekoi/arisa_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン EFFECTREME-FERN-", search:"ふぇるん　フェルン", type:"eff", price:900, date:"2026-06-25", img:"images/furi-ren/fe_eff.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン EFFECTREME-FRIEREN-", search:"ふりーれん　フリーレン", type:"eff", price:900, date:"2026-06-25", img:"images/furi-ren/furi_eff.jpg", source:"https://bsp-prize.jp/"},
