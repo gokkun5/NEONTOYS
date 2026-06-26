@@ -2,6 +2,14 @@ window.figures3 = [
 
 
 
+
+
+{series:"sibo", name:"死亡遊戯で飯を食う。　BiCute Bunnies Figureー幽鬼ー", search:"ゆうき", type:"bani", price:1000, date:"2026-06-27", img:"images/sibo/yuki_bani.jpg", source:"https://charahiroba.com/"},
+{series:"hant", name:"HUNTER×HUNTER Exc∞d Creative Figureーヒソカー", search:"ひそか", type:"ex", price:1000, date:"2026-06-25", img:"images/hant/hisoka_ex.jpg", source:"https://charahiroba.com/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 VIBRATION STARS-猗窩座・狛治-", search:"あかざ", type:"vib", price:1000, date:"2026-06-25", img:"images/kimetu/akaza_hakuzi_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 VIBRATION STARS-猗窩座・狛治-", search:"はくじ", type:"vib", price:1000, date:"2026-06-25", img:"images/kimetu/hakuzi_akaza_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"ウルトラマンシリーズ 豪塊 キングジョー", search:"きんぐじょー", type:"", price:1000, date:"2026-06-25", img:"images/uru/kingzyo.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"ウルトラマンシリーズ 豪塊 キングジョー", search:"きんぐじょー", type:"", price:1000, date:"2026-06-25", img:"images/uru/kingzyo_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 佐倉杏子 フィギュア", search:"さくらきょうこ", type:"", price:1000, date:"2026-06-23", img:"images/madomagi/kyoko_kaiten.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Memorable Saga Special-うちはサスケ-", search:"うちはさすけ", type:"memo", price:1000, date:"2026-06-23", img:"images/naruto/sasuke3_memo.jpg", source:"https://bsp-prize.jp/"},
 {series:"kon", name:"けいおん！Yumemirize‐平沢唯‐", search:"ひらさわゆい", type:"yume", price:1000, date:"2026-06-26", img:"images/kon/yui_yume.jpg", source:"https://segaplaza.jp/"},
