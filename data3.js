@@ -1,5 +1,14 @@
 window.figures3 = [
 
+
+
+
+{series:"oba", name:"オーバーロード　Coreful フィギュア　アルベド～メイドver.～", search:"あるべど", type:"core", price:500, date:"2025-05-17", img:"images/oba/aru_core_meido.jpg", source:"https://www.taito.co.jp/"},
+{series:"oba", name:"オーバーロード　Coreful フィギュア　アルベド～メイドver.～Renewal", search:"あるべど", type:"core", price:500, date:"2025-05-17", img:"images/oba/aru_core_meido_re.jpg", source:"https://www.taito.co.jp/"},
+{series:"rikorisu", name:"リコリス・リコイルLuminasta“井ノ上たきな - チャイナStyle”", search:"いのうえたきな", type:"lum", price:400, date:"2025-03-21", img:"images/rikorisu/takina_china_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"rikorisu", name:"リコリス・リコイルLuminasta“錦木千束 - チャイナStyle”", search:"にしきぎちさと", type:"lum", price:500, date:"2025-03-14", img:"images/rikorisu/tisato_china_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"yaiba", name:"真･侍伝YAIBA 鉄刃＆カゲトラフィギュア-ガオ～ッ♬-", search:"やいば", type:"", price:800, date:"2025-09-25", img:"images/yaiba/yaikage.jpg", source:"https://bsp-prize.jp/"},
+{series:"yaiba", name:"真･侍伝YAIBA 鉄刃＆カゲトラフィギュア-ガオ～ッ♬-", search:"かげとら", type:"", price:800, date:"2025-09-25", img:"images/yaiba/kageyai.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyozyo", name:"スティール・ボール・ラン ジョジョの奇妙な冒険 Mometria ジョニィ・ジョースター", search:"じょにぃじょーすたー", type:"", price:1500, date:"2026-06-25", img:"images/zyozyo/zyoni.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyozyo", name:"スティール・ボール・ラン ジョジョの奇妙な冒険 Mometria ジャイロ・ツェペリ", search:"じゃいろつぇぺり", type:"", price:1500, date:"2026-06-25", img:"images/zyozyo/zyairo.jpg", source:"https://bsp-prize.jp/"},
 {series:"dr", name:"Dr.STONE スイカ(成長後)フィギュア", search:"すいか", type:"", price:1300, date:"2026-06-23", img:"images/dr/suika.jpg", source:"https://bsp-prize.jp/"},
@@ -96,8 +105,8 @@ window.figures3 = [
 {series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 美樹さやか フィギュア", search:"みきさやか", type:"", price:1000, date:"2026-06-18", img:"images/madomagi/sayaka_kaiten.jpg", source:"https://bsp-prize.jp/"},
 {series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 巴マミ フィギュア", search:"ともえまみ", type:"", price:1000, date:"2026-06-18", img:"images/madomagi/mami_kaiten.jpg", source:"https://bsp-prize.jp/"},
 {series:"rakisuta", name:"Trio-Try-iT Figureー柊かがみー", search:"ひいらぎかがみ", type:"trio", price:1100, date:"2026-06-17", img:"images/rakisuta/kagami_trio.jpg", source:"https://charahiroba.com/"},
-{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Grandista-HATAKE KAKASHI-Ⅱ", search:"はたけカカシ　はたけかかし", type:"gra", price:1200, date:"2026-06-18", img:"images/naruto/kakasi2_gra.jpg", source:"https://bsp-prize.jp/"},
-{series:"guru", name:"東京喰種 Grandista-KANEKI KEN Ⅱ-", search:"金木研　かねきけん", type:"gra", price:800, date:"2026-06-18", img:"images/guru/kaneki2_gra.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Grandista-HATAKE KAKASHI-Ⅱ", search:"はたけカカシ　はたけかかし", type:"gra", price:1000, date:"2026-06-18", img:"images/naruto/kakasi2_gra.jpg", source:"https://bsp-prize.jp/"},
+{series:"guru", name:"東京喰種 Grandista-KANEKI KEN Ⅱ-", search:"金木研　かねきけん", type:"gra", price:700, date:"2026-06-18", img:"images/guru/kaneki2_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"kinniku", name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-グリムリパー-", search:"ぐりむりぱー", type:"", price:400, date:"2026-06-11", img:"images/kinniku/gurimu.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-HIDAN-", search:"飛弾　ひだん", type:"vib", price:1800, date:"1899-12-30", img:"images/naruto/hidan_vib_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"gintama", name:"銀魂 おおきなSOFVIMATES～ギンザベス～", search:"ぎんざべす", type:"sof", price:1100, date:"2026-06-16", img:"images/gintama/ginza_sof.jpg", source:"https://bsp-prize.jp/"},
@@ -141,7 +150,7 @@ window.figures3 = [
 {series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-CARROT-", search:"きゃろっと　キャロット", type:"gli", price:600, date:"1899-12-30", img:"images/wanpi/caro_gli_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-CARROT-", search:"きゃろっと　キャロット", type:"gli", price:600, date:"1899-12-30", img:"images/wanpi/caro_gli_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"aobuta", name:"「青春ブタ野郎」シリーズYumemirize‐桜島麻衣‐バニー", search:"さくらじままい", type:"yume", price:700, date:"2026-06-12", img:"images/aobuta/bani_yume.jpg", source:"https://segaplaza.jp/"},
-{series:"furi-ren", name:"葬送のフリーレンLuminasta“フリーレン”～葬送のフリーレン～", search:"そうそうのふりーれん", type:"lum", price:800, date:"2026-06-12", img:"images/furi-ren/furi_tue_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"furi-ren", name:"葬送のフリーレンLuminasta“フリーレン”～葬送のフリーレン～", search:"そうそうのふりーれん", type:"lum", price:1000, date:"2026-06-12", img:"images/furi-ren/furi_tue_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア MAXIMATIC ERASER HEAD", search:"いれいざーへっど", type:"ma", price:500, date:"2026-06-11", img:"images/hiro/ire_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"aimasu", name:"学園アイドルマスター ESPRESTO-Heart bouquet-藤田ことね", search:"ふじたことね", type:"esp", price:800, date:"2026-06-11", img:"images/aimasu/kotone_esp_h.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 VIBRATION STARS-YAKUSHI KABUTO-", search:"やくしかぶと　薬師カブト", type:"vib", price:700, date:"2026-06-11", img:"images/naruto/kabuto_vib.jpg", source:"https://bsp-prize.jp/"},
