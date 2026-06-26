@@ -2,8 +2,12 @@ window.figures3 = [
 
 
 
-
-
+{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 佐倉杏子 フィギュア", search:"さくらきょうこ", type:"", price:1000, date:"2026-06-23", img:"images/madomagi/kyoko_kaiten.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Memorable Saga Special-うちはサスケ-", search:"うちはさすけ", type:"memo", price:1000, date:"2026-06-23", img:"images/naruto/sasuke3_memo.jpg", source:"https://bsp-prize.jp/"},
+{series:"kon", name:"けいおん！Yumemirize‐平沢唯‐", search:"ひらさわゆい", type:"yume", price:1000, date:"2026-06-26", img:"images/kon/yui_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"kon", name:"けいおん！Yumemirize‐中野梓‐", search:"なかのあずさ", type:"yume", price:1000, date:"2026-06-26", img:"images/kon/azusa_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"miku", name:"初音ミク　ぬーどるストッパーフィギュア 初音ミクJAPAN LIVE TOUR 2025 ～BLOOMING～", search:"はつねみく　ぶるーみんぐ　ブルーミング　ライブツアー　らいぶつあー", type:"nusuto", price:900, date:"2026-06-27", img:"images/miku/live_2025.jpg", source:"https://charahiroba.com/"},
+{series:"furi-ren", name:"葬送のフリーレンYumemirize“フリーレン”～ルームウェア～", search:"ふりーれん", type:"yume", price:900, date:"2026-06-26", img:"images/furi-ren/furi_yume_rumu.jpg", source:"https://segaplaza.jp/"},
 {series:"umamusume", name:"ウマ娘プリティーダービーXStellar“サトノダイヤモンド”おすわりVer.", search:"さとのだいやもんど", type:"xs", price:900, date:"2026-06-26", img:"images/umamusume/satoda_xs.jpg", source:"https://segaplaza.jp/"},
 {series:"botti", name:"アニメ「ぼっち・ざ・ろっく！」　ふぃぐきゅーぶ 後藤ひとり", search:"ごとうひとり　ぼっち", type:"figc", price:1000, date:"2026-06-25", img:"images/botti/botti_figc.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"botti", name:"アニメ「ぼっち・ざ・ろっく！」　ふぃぐきゅーぶ 山田リョウ", search:"やまだりょう", type:"figc", price:1000, date:"2026-06-25", img:"images/botti/ryo_figc.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
