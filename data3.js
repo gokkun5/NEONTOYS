@@ -1,6 +1,14 @@
 window.figures3 = [
 
 
+
+
+{series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER&GLAMOURS-喜多川海夢 十六夜ありさver.-", search:"きたがわまりん　いざよいありさ", type:"gli", price:900, date:"2026-06-25", img:"images/kisekoi/arisa_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン EFFECTREME-FERN-", search:"ふぇるん　フェルン", type:"eff", price:900, date:"2026-06-25", img:"images/furi-ren/fe_eff.jpg", source:"https://bsp-prize.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン EFFECTREME-FRIEREN-", search:"ふりーれん　フリーレン", type:"eff", price:900, date:"2026-06-25", img:"images/furi-ren/furi_eff.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC MEGUMI FUSHIGURO-死滅回游-", search:"ふしぐろめぐみ　伏黒恵", type:"ma", price:900, date:"2026-06-25", img:"images/zyuzyutu/fusi_ma_simetu.jpg", source:"https://bsp-prize.jp/"},
+{series:"soniko", name:"すーぱーそに子　BiCute Bunnies Figureー逆バニーー", search:"すーぱーそにこ", type:"bani", price:900, date:"2026-06-25", img:"images/soniko/gyakubani.jpg", source:"https://charahiroba.com/"},
+{series:"oba", name:"オーバーロード　Masquerade アルベド チアガールVer.", search:"あるべど", type:"", price:900, date:"2026-06-25", img:"images/oba/aru_tia_konami.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"yusyakei", name:"Trio-Try-iT Figure ーテオリッター", search:"ておりった", type:"trio", price:900, date:"2026-06-24", img:"images/yusyakei/teo_trio.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース メガワールドコレクタブルフィギュア-鉄の巨人-", search:"てつのきょじん", type:"wcf", price:900, date:"2026-06-23", img:"images/wanpi/kyozin_wcf.jpg", source:"https://bsp-prize.jp/"},
 {series:"marizzi", name:"マリッジトキシン GLITTER&GLAMOURS-MEI KINOSAKI-", search:"きのさきめい　城崎メイ", type:"gli", price:900, date:"2026-06-23", img:"images/marizzi/mei_gli.jpg", source:"https://bsp-prize.jp/"},
