@@ -825,7 +825,7 @@ window.figures2 = [
 {series:"hiro", name:"『僕のヒーローアカデミア』 GLITTER&GLAMOURS -HIMIKO TOGA- duffel coat ver.", search:"とがひみこ　トガヒミコ", type:"gli", price:500, date:"1899-12-30", img:"images/hiro/toga_coat_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"『僕のヒーローアカデミア』 ちあぴこ～ばくごうかつき～", search:"", type:"", price:1200, date:"1899-12-30", img:"images/hiro/bakugo_tia.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"『僕のヒーローアカデミア』 ちあぴこ～とどろきしょうと～", search:"", type:"", price:1000, date:"1899-12-30", img:"images/hiro/todoroki_tia.jpg", source:"https://bsp-prize.jp/"},
-{series:"furi-ren", name:"『葬送のフリーレン』 Trio-Try-iT Figure ー ヒンメル ー", search:"ヒンメル", type:"trio", price:900, date:"1899-12-30", img:"images/furi-ren/hin_trio.jpg", source:"https://charahiroba.com/"},
+{series:"furi-ren", name:"『葬送のフリーレン』 Trio-Try-iT Figure ー ヒンメル ー", search:"ヒンメル　ひんめる", type:"trio", price:900, date:"1899-12-30", img:"images/furi-ren/hin_trio.jpg", source:"https://charahiroba.com/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 FIGURIZMα “フリーレン” ～魔法の高み～", search:"ふりーれん", type:"fig", price:1000, date:"1899-12-30", img:"images/furi-ren/furi_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 -Relax time-フリーレン", search:"ふりーれん", type:"relax", price:600, date:"1899-12-30", img:"images/furi-ren/furi_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"『葬送のフリーレン』 Luminasta “フリーレン” ～インミミック～", search:"ふりーれん　みみっく", type:"lum", price:1300, date:"1899-12-30", img:"images/furi-ren/furi_lum.jpg", source:"https://segaplaza.jp/"},
