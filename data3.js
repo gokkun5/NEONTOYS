@@ -1,9 +1,17 @@
 window.figures3 = [
 
-
-
-
-
+{series:"zyozyo", name:"スティール・ボール・ラン ジョジョの奇妙な冒険 Mometria ジョニィ・ジョースター", search:"じょにぃじょーすたー", type:"", price:1500, date:"2026-06-25", img:"images/zyozyo/zyoni.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyozyo", name:"スティール・ボール・ラン ジョジョの奇妙な冒険 Mometria ジャイロ・ツェペリ", search:"じゃいろつぇぺり", type:"", price:1500, date:"2026-06-25", img:"images/zyozyo/zyairo.jpg", source:"https://bsp-prize.jp/"},
+{series:"dr", name:"Dr.STONE スイカ(成長後)フィギュア", search:"すいか", type:"", price:1300, date:"2026-06-23", img:"images/dr/suika.jpg", source:"https://bsp-prize.jp/"},
+{series:"rakisuta", name:"Trio-Try-iT Figure ー 柊つかさ ー", search:"ひいらぎつかさ", type:"trio", price:1300, date:"2026-06-24", img:"images/rakisuta/tukasa_trio.jpg", source:"https://charahiroba.com/"},
+{series:"oba", name:"オーバーロード　武 モモン", search:"ももん", type:"", price:1200, date:"2026-06-25", img:"images/oba/momon.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"oba", name:"オーバーロード　武 コキュートス", search:"こきゅーとす", type:"", price:1200, date:"2026-06-25", img:"images/oba/kokyu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"miku", name:"初音ミク×シナモロールちょこのせプレミアムフィギュア‐初音ミク×シナモロール‐もふっとVer.", search:"はつねみく　しなもろーる", type:"tyoko", price:1200, date:"2026-06-26", img:"images/miku/sinamo_mofu.jpg", source:"https://segaplaza.jp/"},
+{series:"wanpi", name:"ワンピース MAXIMATICPLUS MONKEY.D.LUFFY Ⅱ", search:"るふぃ　ルフィ", type:"ma", price:1100, date:"2026-06-25", img:"images/wanpi/rufi_ma2.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦死滅回游FIGURIZMα“乙骨憂太”", search:"おっこつゆうた", type:"fig", price:1100, date:"2026-06-26", img:"images/zyuzyutu/otu_fig.jpg", source:"https://segaplaza.jp/"},
+{series:"fate", name:"TVアニメ『Fate/strange Fake』Whispers of Dawn　アーチャー", search:"あーちゃー", type:"", price:1000, date:"2026-06-25", img:"images/fate/atya.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"fate", name:"TVアニメ『Fate/strange Fake』Whispers of Dawn　ランサー", search:"らんさー", type:"", price:1000, date:"2026-06-25", img:"images/fate/ransa.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"roze", name:"Trio-Try-iT Figure ー真紅ー", search:"しんく", type:"trio", price:1000, date:"2026-06-27", img:"images/roze/sinku_trio.jpg", source:"https://charahiroba.com/"},
 {series:"sibo", name:"死亡遊戯で飯を食う。　BiCute Bunnies Figureー幽鬼ー", search:"ゆうき", type:"bani", price:1000, date:"2026-06-27", img:"images/sibo/yuki_bani.jpg", source:"https://charahiroba.com/"},
 {series:"hant", name:"HUNTER×HUNTER Exc∞d Creative Figureーヒソカー", search:"ひそか", type:"ex", price:1000, date:"2026-06-25", img:"images/hant/hisoka_ex.jpg", source:"https://charahiroba.com/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 VIBRATION STARS-猗窩座・狛治-", search:"あかざ", type:"vib", price:1000, date:"2026-06-25", img:"images/kimetu/akaza_hakuzi_vib.jpg", source:"https://bsp-prize.jp/"},
