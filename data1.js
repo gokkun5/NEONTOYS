@@ -987,7 +987,7 @@ window.figures1 = [
 {series:"konan", name:"名探偵コナンXrossLinkフィギュア“松田陣平”", search:"まつだじんぺい", type:"xros", price:400, date:"2026-04-17", img:"images/konan/matuda_xros.jpg", source:"https://segaplaza.jp/"},
 {series:"musyoku", name:"無職転生Ⅱ ～異世界行ったら本気だす～One-Seventh Caratフィギュア ロキシー・ミグルディア バニーVer.", search:"ろきしー", type:"one", price:700, date:"2026-04-20", img:"images/musyoku/rokisi_one.jpg", source:"http://www.fans.co.jp/"},
 {series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～MONKEY.D.LUFFY&JEWELRY.BONNEY", search:"るふぃ　ルフィ", type:"dxf", price:500, date:"2025-12-09", img:"images/wanpi/rufi_boni_dxf.jpg", source:"https://bsp-prize.jp/"},
-{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～MONKEY.D.LUFFY&JEWELRY.BONNEY", search:"ぼにー　ボニー", type:"dxf", price:450, date:"2025-12-09", img:"images/wanpi/boni_rufi_dxf.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース DXF～THE GRANDLINE SERIES～MONKEY.D.LUFFY&JEWELRY.BONNEY", search:"ぼにー　ボニー", type:"dxf", price:500, date:"2025-12-09", img:"images/wanpi/boni_rufi_dxf.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.5", search:"にか　るふぃ　ニカ", type:"figl", price:500, date:"2026-02-17", img:"images/wanpi/nika5_figl.jpg", source:"https://bsp-prize.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　スライムナイトメジャー＆メタルライダーメジャー", search:"すらいむないと", type:"", price:300, date:"2026-01-24", img:"images/dorakue/metaru_a.jpg", source:"https://www.taito.co.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　スライムナイトメジャー＆メタルライダーメジャー", search:"めたるらいだー", type:"", price:300, date:"2026-01-24", img:"images/dorakue/metaru_b.jpg", source:"https://www.taito.co.jp/"},
