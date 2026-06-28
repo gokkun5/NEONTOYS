@@ -1,7 +1,7 @@
 window.figures3 = [
 
 
-
+{series:"skzoo", name:"SKZOO BIRTHDAY CAKE コレクションvol.2", search:"じにれっと　Jiniret", type:"", price:600, date:"2026-02-17", img:"images/skzoo/jini.jpg", source:"https://bsp-prize.jp/"},
 {series:"skzoo", name:"SKZOO BIRTHDAY CAKE コレクションvol.4", search:"PuppyM　ぱぴーえむ", type:"", price:600, date:"2026-03-24", img:"images/skzoo/papi.jpg", source:"https://bsp-prize.jp/"},
 {series:"skzoo", name:"SKZOO BIRTHDAY CAKE コレクションvol.4", search:"FoxI.Ny　ふぉくしにー", type:"", price:600, date:"2026-03-24", img:"images/skzoo/fox.jpg", source:"https://bsp-prize.jp/"},
 {series:"skzoo", name:"SKZOO BIRTHDAY CAKE コレクションvol.3", search:"ぼっかり　BbokAri", type:"", price:600, date:"2026-03-24", img:"images/skzoo/bbo.jpg", source:"https://bsp-prize.jp/"},
