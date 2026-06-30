@@ -1,6 +1,6 @@
 window.figures3 = [
 
-
+{series:"pro", name:"プロジェクトセカイカラフルステージ！feat.初音ミク Desktop×DecorateCollections “天馬司”", search:"てんまつかさ", type:"ddc", price:1000, date:"2025-05-23", img:"images/pro/tukasa_ddc.jpg", source:"https://segaplaza.jp/"},
 {series:"skzoo", name:"SKZOO BIRTHDAY CAKE コレクションvol.2", search:"じにれっと　Jiniret", type:"", price:600, date:"2026-02-17", img:"images/skzoo/jini.jpg", source:"https://bsp-prize.jp/"},
 {series:"skzoo", name:"SKZOO BIRTHDAY CAKE コレクションvol.4", search:"PuppyM　ぱぴーえむ", type:"", price:600, date:"2026-03-24", img:"images/skzoo/papi.jpg", source:"https://bsp-prize.jp/"},
 {series:"skzoo", name:"SKZOO BIRTHDAY CAKE コレクションvol.4", search:"FoxI.Ny　ふぉくしにー", type:"", price:600, date:"2026-03-24", img:"images/skzoo/fox.jpg", source:"https://bsp-prize.jp/"},
@@ -100,7 +100,7 @@ window.figures3 = [
 {series:"zyuzyutu", name:"呪術廻戦Luminasta“脹相”", search:"ちょうそう", type:"lum", price:1800, date:"2025-02-07", img:"images/zyuzyutu/tyou_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"nintama", name:"劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師 ぬーどるストッパーフィギュアー天鬼ー", search:"てんき", type:"nusuto", price:300, date:"2025-08-08", img:"images/nintama/tenki_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"gundam", name:"機動戦士Gundam GQuuuuuuX 限械突破 GFreD(ジフレド）", search:"じふれど", type:"", price:400, date:"2025-07-17", img:"images/gundam/zifu.jpg", source:"https://bsp-prize.jp/"},
-{series:"mar", name:"DCACT/CUTプレミアムフィギュア“ジョーカー”", search:"じょーかー", type:"act", price:700, date:"2024-10-25", img:"images/mar/zyoka_act.jpg", source:"https://segaplaza.jp/"},
+{series:"mar", name:"DCACT/CUTプレミアムフィギュア“ジョーカー”", search:"じょーかー", type:"act", price:600, date:"2024-10-25", img:"images/mar/zyoka_act.jpg", source:"https://segaplaza.jp/"},
 {series:"pro", name:"プロジェクトセカイカラフルステージ！feat.初音ミク Desktop×DecorateCollections “小豆沢こはね”", search:"あずさわこはね", type:"ddc", price:600, date:"2025-04-04", img:"images/pro/kohane_ddc.jpg", source:"https://segaplaza.jp/"},
 {series:"rosidere", name:"TVアニメ『時々ボソッとロシア語でデレる隣のアーリャさん』Luminasta“アーリャ”－水着－", search:"あーりゃ", type:"lum", price:400, date:"2025-02-14", img:"images/rosidere/arya_mizu_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"rezero", name:"王選候補者と騎士フィギュア ーフェルト陣営ー　フェルト", search:"ふぇると　フェルト", type:"", price:1400, date:"2026-06-06", img:"images/rezero/feru_gigo.jpg", source:"https://charahiroba.com/"},
@@ -114,7 +114,7 @@ window.figures3 = [
 {series:"rosidere", name:"時々ボソッとロシア語でデレる隣のアーリャさん One-Seventh Caratフィギュア アーリャ バニーVer. RED", search:"あーりゃ", type:"one", price:700, date:"2026-06-19", img:"images/rosidere/one_red.jpg", source:"http://www.fans.co.jp/"},
 {series:"bakatesu", name:"バカとテストと召喚獣 BiCute Bunnies Figure―木下秀吉―", search:"きのしたひでよし", type:"bani", price:800, date:"2026-06-19", img:"images/bakatesu/hide_bani.jpg", source:"https://charahiroba.com/"},
 {series:"sunobo", name:"スノウボールアース ソフビフィギュア～ユキオ～", search:"ゆきお", type:"sof", price:800, date:"2026-06-18", img:"images/sunobo/yukio_sof.jpg", source:"https://bsp-prize.jp/"},
-{series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～ぶりぶりざえもんしんちゃんとワニ山さんしんちゃん～", search:"野原しんのすけ　のはらしんのすけ　わにやま", type:"", price:700, date:"2026-06-09", img:"images/kuresin/kosu_wani.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～ぶりぶりざえもんしんちゃんとワニ山さんしんちゃん～", search:"野原しんのすけ　のはらしんのすけ　わにやま", type:"", price:600, date:"2026-06-09", img:"images/kuresin/kosu_wani.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん コスプレしんちゃんフィギュア～ぶりぶりざえもんしんちゃんとワニ山さんしんちゃん～", search:"野原しんのすけ　のはらしんのすけ　", type:"", price:600, date:"2026-06-09", img:"images/kuresin/kosu_buriburi.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 KING OF ARTIST SUGURU GETO-懐玉・玉折-Ⅱ", search:"げとうすぐる　夏油傑", type:"koa", price:800, date:"1899-12-30", img:"images/zyuzyutu/geto2_koa.jpg", source:"https://bsp-prize.jp/"},
 {series:"disny", name:"トイ・ストーリー　ぬーどるストッパーフィギュアーウッディー", search:"うっでぃ", type:"nusuto", price:700, date:"2026-06-18", img:"images/disny/ude_nusuto.jpg", source:"https://charahiroba.com/"},

@@ -991,7 +991,7 @@ window.figures1 = [
 {series:"wanpi", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.5", search:"にか　るふぃ　ニカ", type:"figl", price:500, date:"2026-02-17", img:"images/wanpi/nika5_figl.jpg", source:"https://bsp-prize.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　スライムナイトメジャー＆メタルライダーメジャー", search:"すらいむないと", type:"", price:300, date:"2026-01-24", img:"images/dorakue/metaru_a.jpg", source:"https://www.taito.co.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　スライムナイトメジャー＆メタルライダーメジャー", search:"めたるらいだー", type:"", price:300, date:"2026-01-24", img:"images/dorakue/metaru_b.jpg", source:"https://www.taito.co.jp/"},
-{series:"uru", name:"ウルトラマンメビウス 胸像ライト", search:"うるとらまんめびうす", type:"", price:300, date:"2026-04-09", img:"images/uru/mebiusu_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"ウルトラマンメビウス 胸像ライト", search:"うるとらまんめびうす", type:"", price:400, date:"2026-04-09", img:"images/uru/mebiusu_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"valo", name:"VALORANT モニタートップフィギュア-ジェット-", search:"じぇっと", type:"moni", price:800, date:"2026-01-27", img:"images/valo/zyetto.jpg", source:"https://bsp-prize.jp/"},
 {series:"eva", name:"ヱヴァンゲリヲン新劇場版ちょこのせプレミアムフィギュア“真希波・マリ・イラストリアス”", search:"まきなみまりいらすとりあす", type:"tyoko", price:900, date:"2026-02-20", img:"images/eva/mari_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"gozira", name:"GAMERA -Rebirth- 鎮座獣 ガメラ（2023）", search:"がめら", type:"tinza", price:500, date:"2025-12-03", img:"images/gozira/gamera_tinza.jpg", source:"https://bsp-prize.jp/"},
