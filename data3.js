@@ -1,10 +1,23 @@
 window.figures3 = [
 
 
-
-
-
-
+{series:"wanpi", name:"ワンピース KING OF ARTIST KOUZUKI ODEN-SPECIAL ver.-", search:"おでん", type:"koa", price:500, date:"2026-07-07", img:"images/wanpi/oden_koa_sp.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース KING OF ARTIST YAMATO-SPECIAL ver.-", search:"ヤマト　やまと", type:"koa", price:600, date:"2026-07-07", img:"images/wanpi/yamato_koa_sp.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpan", name:"ワンパンマン Grandista-SAITAMA- METALLIC ver.", search:"さいたま", type:"gra", price:600, date:"2026-07-07", img:"images/wanpan/saitama_gra_meta.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ MATCH MAKERS 人造人間16号（VSセル）", search:"じんぞうにんげん16ごう", type:"mat", price:500, date:"2026-07-07", img:"images/db/16_mat_seru.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ MATCH MAKERS セル（VS人造人間16号）", search:"せる", type:"mat", price:600, date:"2026-07-07", img:"images/db/seru_mat_16.jpg", source:"https://bsp-prize.jp/"},
+{series:"tensura", name:"転生したらスライムだった件 -Otherworlder Plus-魔王リムル＝テンペスト フィギュア Special ver.", search:"りむるてんぺすと", type:"", price:1300, date:"2026-07-07", img:"images/tensura/rimu_mao_sp.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 プチっと灯りマス～嘴平伊之助・冨岡義勇～", search:"はしびらいのすけ", type:"", price:500, date:"2026-07-07", img:"images/kimetu/ino_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 プチっと灯りマス～嘴平伊之助・冨岡義勇～", search:"とみおかぎゆう", type:"", price:500, date:"2026-07-07", img:"images/kimetu/tomi_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 プチっと灯りマス～竈門炭治郎・我妻善逸～", search:"かまどたんじろう", type:"", price:500, date:"2026-07-07", img:"images/kimetu/tan_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 プチっと灯りマス～竈門炭治郎・我妻善逸～", search:"あがつまぜんいつ", type:"", price:500, date:"2026-07-07", img:"images/kimetu/zen_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 Fluffy Puffy～ムキムキねずみ～", search:"むきむきねずみ", type:"flu", price:800, date:"2026-07-07", img:"images/kimetu/muki_flu_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 Fluffy Puffy～ムキムキねずみ～", search:"むきむきねずみ", type:"flu", price:800, date:"2026-07-07", img:"images/kimetu/muki_flu_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"sonota", name:"エスターバニー Fluffy Puffy", search:"えすたーばにー", type:"flu", price:400, date:"2026-07-07", img:"images/sonota/esu_ful_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"sonota", name:"エスターバニー Fluffy Puffy", search:"えすたーばにー", type:"flu", price:400, date:"2026-07-07", img:"images/sonota/esu_ful_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"ante", name:"UNDERTALE あみこっと～フラウィ～", search:"ふらうぃ", type:"ami", price:800, date:"2026-07-07", img:"images/ante/fura_ami.jpg", source:"https://bsp-prize.jp/"},
+{series:"rezero", name:"『Re:ゼロから始める異世界生活』 王選候補者と騎士フィギュア ーアナスタシア陣営ー GiGO限定　アナスタシア", search:"あなすたしあ", type:"", price:1800, date:"2026-07-04", img:"images/rezero/ana_gigo.jpg", source:"https://charahiroba.com/"},
+{series:"rezero", name:"『Re:ゼロから始める異世界生活』 王選候補者と騎士フィギュア ーアナスタシア陣営ー GiGO限定　ユリウス", search:"ゆりうす", type:"", price:1800, date:"2026-07-04", img:"images/rezero/yuri_gigo.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"ムチュートフィギュアーペイントガール Another color ver.ー", search:"初音ミク　はつねみく　ぺいんとがーる", type:"mutyu", price:800, date:"2026-07-03", img:"images/miku/peinto_ano.jpg", source:"https://charahiroba.com/"},
 {series:"disny", name:"ぬーどるストッパーフィギュアーバズ・ライトイヤーー", search:"ばずらいといやー", type:"nusuto", price:600, date:"2026-07-03", img:"images/disny/bazu_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"disny", name:"トイ・ストーリー５FIGURIZMα“バズ・ライトイヤー”", search:"ばずらいといやー", type:"fig", price:600, date:"2026-07-03", img:"images/disny/bazu_fig.jpg", source:"https://segaplaza.jp/"},

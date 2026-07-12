@@ -914,7 +914,7 @@ window.figures1 = [
 {series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 VIBRATION STARS-AKI HAYAKAWA-", search:"早川アキ　はやかわあき", type:"vib", price:1500, date:"2025-10-28", img:"images/tyen/aki_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　金色の闇～チャイナドレスver．～", search:"こんじきのやみ", type:"desk", price:500, date:"1899-12-30", img:"images/tora/yami_chaina.jpg", source:"https://www.taito.co.jp/"},
 {series:"furi-ren", name:"葬送のフリーレンLuminasta“ヒンメル”～フォーリヒにて～", search:"ひんめる", type:"lum", price:1000, date:"1899-12-30", img:"images/furi-ren/hin_forihi.jpg", source:"https://segaplaza.jp/"},
-{series:"kusuri", name:"TVアニメ『薬屋のひとりごと』 Break time collection vol.1", search:"まおまお　猫猫", type:"bre", price:1000, date:"2025-07-08", img:"images/kusuri/maomao_break.jpg", source:"https://bsp-prize.jp/"},
+{series:"kusuri", name:"TVアニメ『薬屋のひとりごと』 Break time collection vol.1", search:"まおまお　猫猫", type:"bre", price:800, date:"2026-07-07", img:"images/kusuri/maomao_break.jpg", source:"https://bsp-prize.jp/"},
 {series:"kure", name:"Trio－Try－iT Figureーロイド・フォージャーー", search:"ろいどふぉーじゃー", type:"trio", price:300, date:"1899-12-30", img:"images/spy/roido_trio.jpg", source:"https://charahiroba.com/"},
 {series:"miku", name:"初音ミクシリーズLuminasta“初音ミク”ConceptualseriesVol.3", search:"はつねみく", type:"lum", price:1100, date:"1899-12-30", img:"images/miku/concept3.jpg", source:"https://segaplaza.jp/"},
 {series:"pro", name:"「劇場版プロジェクトセカイ壊れたセカイと歌えないミク」Luminasta“閉ざされた窓のセカイの初音ミク”", search:"とざされたまどのせかいのはつねみく", type:"lum", price:1300, date:"1899-12-30", img:"images/pro/tozasaretamiku.jpg", source:"https://segaplaza.jp/"},
