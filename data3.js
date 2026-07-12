@@ -2,6 +2,19 @@ window.figures3 = [
 
 
 
+{series:"gundam", name:"『機動戦士ガンダム』 RX-78-2 ガンダムヘッド型スピーカー", search:"あーるえっくす782がんだむ", type:"", price:500, date:"2026-07-14", img:"images/gundam/rx_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"keizi", name:"花の慶次 -雲のかなたに- ぬーどるストッパーフィギュアー前田慶次ー", search:"まえだけいじ", type:"nusuto", price:500, date:"2026-07-11", img:"images/keizi/keizi_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"musyoku", name:"無職転生～異世界行ったら本気だす～ハイプレミアムフィギュア“エリス”", search:"えりす", type:"hi", price:700, date:"2026-07-10", img:"images/musyoku/eri_hi.jpg", source:"https://segaplaza.jp/"},
+{series:"sei", name:"ムチュートフィギュア―鈴木―", search:"すずき", type:"mutyu", price:500, date:"2026-07-10", img:"images/sei/suzuki_mutyu.jpg", source:"https://charahiroba.com/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」XrossLinkフィギュア“竈門禰󠄀豆子“", search:"かまどねずこ", type:"xros", price:800, date:"2026-07-10", img:"images/kimetu/nezu_xros.jpg", source:"https://segaplaza.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」XrossLinkフィギュア“竈門炭治郎“", search:"かまどたんじろう", type:"xros", price:1000, date:"2026-07-10", img:"images/kimetu/tan_xros.jpg", source:"https://segaplaza.jp/"},
+{series:"kaizi", name:"ぬーどるストッパーフィギュアーカイジー", search:"かいじ", type:"nusuto", price:500, date:"2026-07-10", img:"images/kaizi/nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"inu", name:"Trio-Try-iT Figureー殺生丸ー", search:"せっしょうまる", type:"trio", price:1300, date:"2026-07-10", img:"images/inu/sessyo_trio.jpg", source:"https://charahiroba.com/"},
+{series:"atorie", name:"BiCute Bunnies Figureーライザリン・シュタウトー", search:"らいざしゅたうと", type:"bani", price:600, date:"2026-07-09", img:"images/atorie/bani.jpg", source:"https://charahiroba.com/"},
+{series:"haikyu", name:"ハイキュー!! フィギュア-一本ナイッサー！！- 西谷夕", search:"にしのやゆう　西谷夕", type:"", price:600, date:"2026-07-09", img:"images/haikyu/nisi_nice.jpg", source:"https://bsp-prize.jp/"},
+{series:"haikyu", name:"ハイキュー!! フィギュア-一本ナイッサー！！- 日向翔陽", search:"日向翔陽　ひなたしょうよう", type:"", price:600, date:"2026-07-09", img:"images/haikyu/hina_nice.jpg", source:"https://bsp-prize.jp/"},
+{series:"haikyu", name:"ハイキュー!! フィギュア-一本ナイッサー！！- 菅原孝支", search:"菅原孝支　すがわらこうし", type:"", price:600, date:"2026-07-09", img:"images/haikyu/suga_nice.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 土影・オオノキフィギュア～五影集結…!!～", search:"おおのき", type:"", price:600, date:"2026-07-09", img:"images/naruto/tuti.jpg", source:"https://bsp-prize.jp/"},
 {series:"toradora", name:"ぬーどるストッパーフィギュア―逢坂大河―", search:"あいさかたいが", type:"nusuto", price:600, date:"2026-07-09", img:"images/toradora/taiga_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"kuresin", name:"クレヨンしんちゃん ビッグフィギュア～野原しんのすけ～やっほ～い", search:"のはらしんのすけ", type:"", price:600, date:"2026-07-09", img:"images/kuresin/yahhoi.jpg", source:"https://bsp-prize.jp/"},
 {series:"uruse", name:"BiCute Bunnies Figure―ラム―", search:"らむ", type:"bani", price:600, date:"2026-07-09", img:"images/uruse/bani.jpg", source:"https://charahiroba.com/"},
