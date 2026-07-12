@@ -1,5 +1,16 @@
 window.figures3 = [
 
+
+
+
+
+
+{series:"miku", name:"ムチュートフィギュアーペイントガール Another color ver.ー", search:"初音ミク　はつねみく　ぺいんとがーる", type:"mutyu", price:800, date:"2026-07-03", img:"images/miku/peinto_ano.jpg", source:"https://charahiroba.com/"},
+{series:"disny", name:"ぬーどるストッパーフィギュアーバズ・ライトイヤーー", search:"ばずらいといやー", type:"nusuto", price:600, date:"2026-07-03", img:"images/disny/bazu_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"disny", name:"トイ・ストーリー５FIGURIZMα“バズ・ライトイヤー”", search:"ばずらいといやー", type:"fig", price:600, date:"2026-07-03", img:"images/disny/bazu_fig.jpg", source:"https://segaplaza.jp/"},
+{series:"disny", name:"トイ・ストーリー５ACT/CUT+“ウッディ”", search:"うっでぃ", type:"act", price:600, date:"2026-07-03", img:"images/disny/ude_act.jpg", source:"https://segaplaza.jp/"},
+{series:"disny", name:"トイ・ストーリー５ACT/CUT+“ジェシー”", search:"じぇしー", type:"act", price:600, date:"2026-07-03", img:"images/disny/zye_act.jpg", source:"https://segaplaza.jp/"},
+{series:"soni", name:"ソニック・ザ・ヘッジホッグプレミアムフィギュアラウンドワン限定Ver.", search:"そにっく", type:"", price:500, date:"2026-07-10", img:"images/soni/soni_round.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"初音ミクシリーズLuminasta “初音ミク”ConceptualseriesVol.1", search:"はつねみく", type:"lum", price:1100, date:"2025-07-18", img:"images/miku/con1.jpg", source:"https://segaplaza.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- Memorable Saga-秋道チョウジ-", search:"あきみちちょうじ", type:"memo", price:800, date:"2024-11-19", img:"images/naruto/tyouzi_memo.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース マルコ ルームライト", search:"まるこ", type:"", price:600, date:"2025-09-18", img:"images/wanpi/maruko_rumu.jpg", source:"https://bsp-prize.jp/"},
