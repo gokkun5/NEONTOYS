@@ -1,6 +1,12 @@
 window.figures3 = [
 
 
+
+{series:"toradora", name:"ぬーどるストッパーフィギュア―逢坂大河―", search:"あいさかたいが", type:"nusuto", price:600, date:"2026-07-09", img:"images/toradora/taiga_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"kuresin", name:"クレヨンしんちゃん ビッグフィギュア～野原しんのすけ～やっほ～い", search:"のはらしんのすけ", type:"", price:600, date:"2026-07-09", img:"images/kuresin/yahhoi.jpg", source:"https://bsp-prize.jp/"},
+{series:"uruse", name:"BiCute Bunnies Figure―ラム―", search:"らむ", type:"bani", price:600, date:"2026-07-09", img:"images/uruse/bani.jpg", source:"https://charahiroba.com/"},
+{series:"yurukyan", name:"Trio-Try-iT Figure ー 志摩リン ー", search:"しまりん", type:"trio", price:400, date:"2026-07-08", img:"images/yurukyan/sima_trio.jpg", source:"https://charahiroba.com/"},
+{series:"tora", name:"BiCute Ribbons Figure―金色の闇―", search:"こんじきのやみ", type:"ribon", price:800, date:"2026-07-08", img:"images/tora/yami_ribon.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース KING OF ARTIST KOUZUKI ODEN-SPECIAL ver.-", search:"おでん", type:"koa", price:500, date:"2026-07-07", img:"images/wanpi/oden_koa_sp.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース KING OF ARTIST YAMATO-SPECIAL ver.-", search:"ヤマト　やまと", type:"koa", price:600, date:"2026-07-07", img:"images/wanpi/yamato_koa_sp.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpan", name:"ワンパンマン Grandista-SAITAMA- METALLIC ver.", search:"さいたま", type:"gra", price:600, date:"2026-07-07", img:"images/wanpan/saitama_gra_meta.jpg", source:"https://bsp-prize.jp/"},
