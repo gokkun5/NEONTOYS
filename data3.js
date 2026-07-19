@@ -1,8 +1,17 @@
 window.figures3 = [
 
 
-
-
+{series:"kon", name:"けいおん！Yumemirize‐琴吹紬‐", search:"ことぶきつむぎ", type:"yume", price:800, date:"2026-07-17", img:"images/kon/mugi_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"kon", name:"けいおん！Yumemirize‐田井中律‐", search:"たいなかりつ", type:"yume", price:800, date:"2026-07-17", img:"images/kon/ritu_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"kon", name:"けいおん！Yumemirize‐秋山澪‐", search:"あきやまみお", type:"yume", price:1000, date:"2026-07-17", img:"images/kon/mio_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア MAXIMATIC MIRKO", search:"みるこ　ミルコ", type:"ma", price:500, date:"2026-07-16", img:"images/hiro/miru_ma.jpg", source:"https://bsp-prize.jp/"},
+{series:"disny", name:"PIXAR Characters トイ・ストーリー5 Break time collection ウッディ", search:"うっでぃ", type:"bre", price:600, date:"2026-07-16", img:"images/disny/ude_bre.jpg", source:"https://bsp-prize.jp/"},
+{series:"disny", name:"PIXAR Characters トイ・ストーリー5 Break time collection バズ", search:"ばずらいといやー", type:"bre", price:600, date:"2026-07-16", img:"images/disny/bazu_bre.jpg", source:"https://bsp-prize.jp/"},
+{series:"disny", name:"PIXAR Characters トイ・ストーリー5 Break time collection ジェシー", search:"じぇしー", type:"bre", price:600, date:"2026-07-16", img:"images/disny/zye_bre.jpg", source:"https://bsp-prize.jp/"},
+{series:"hant", name:"HUNTER×HUNTER VIBRATION STARS-ナックル-", search:"なっくる", type:"vib", price:600, date:"2026-07-16", img:"images/hant/nakuru_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"hant", name:"HUNTER×HUNTER Grandista-ゴン-", search:"ごん", type:"gra", price:1100, date:"2026-07-16", img:"images/hant/gon_gra.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"初音ミク×ラスカル スペシャルフィギュア―サマーフェス―", search:"らすかる　さまーふぇす", type:"", price:900, date:"2026-07-16", img:"images/miku/rasukaru_samafesu.jpg", source:"https://charahiroba.com/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 水影・照美メイフィギュア～五影集結…!!～", search:"てるみーめい", type:"", price:600, date:"2026-07-16", img:"images/naruto/mei.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 忍界造形列伝-うずまきナルト-", search:"うずまきなると", type:"ninkai", price:1000, date:"2026-07-16", img:"images/naruto/naruto_rasen_ninkai.jpg", source:"https://bsp-prize.jp/"},
 {series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Figuno-DENJI＆REZE＆CHAINSAW MAN＆BOMB-　デンジ", search:"デンジ　でんじ", type:"figuno", price:600, date:"2026-07-16", img:"images/tyen/denzi_figuno.jpg", source:"https://bsp-prize.jp/"},
 {series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Figuno-DENJI＆REZE＆CHAINSAW MAN＆BOMB-　レゼ", search:"レゼ　れぜ", type:"figuno", price:800, date:"2026-07-16", img:"images/tyen/reze_figuno.jpg", source:"https://bsp-prize.jp/"},
