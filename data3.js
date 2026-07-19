@@ -3,7 +3,17 @@ window.figures3 = [
 
 
 
-
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 忍界造形列伝-うずまきナルト-", search:"うずまきなると", type:"ninkai", price:1000, date:"2026-07-16", img:"images/naruto/naruto_rasen_ninkai.jpg", source:"https://bsp-prize.jp/"},
+{series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Figuno-DENJI＆REZE＆CHAINSAW MAN＆BOMB-　デンジ", search:"デンジ　でんじ", type:"figuno", price:600, date:"2026-07-16", img:"images/tyen/denzi_figuno.jpg", source:"https://bsp-prize.jp/"},
+{series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Figuno-DENJI＆REZE＆CHAINSAW MAN＆BOMB-　レゼ", search:"レゼ　れぜ", type:"figuno", price:800, date:"2026-07-16", img:"images/tyen/reze_figuno.jpg", source:"https://bsp-prize.jp/"},
+{series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Figuno-DENJI＆REZE＆CHAINSAW MAN＆BOMB-　チェンソーマン", search:"チェンソーマン　ちぇんそーまん", type:"figuno", price:600, date:"2026-07-16", img:"images/tyen/tyen_figuno.jpg", source:"https://bsp-prize.jp/"},
+{series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Figuno-DENJI＆REZE＆CHAINSAW MAN＆BOMB-　ボム", search:"ボム　ぼむ", type:"figuno", price:800, date:"2026-07-16", img:"images/tyen/bomb_figuno.jpg", source:"https://bsp-prize.jp/"},
+{series:"nikke", name:"勝利の女神：NIKKE ぬーどるストッパーフィギュアーバイパー - シャイン・オブ・ラブー", search:"ばいぱー", type:"nusuto", price:600, date:"2026-07-16", img:"images/nikke/bai_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"syuta", name:"STEINS;GATE ぬーどるストッパーフィギュアー牧瀬紅莉栖ー", search:"まきせくりす", type:"nusuto", price:1200, date:"2026-07-16", img:"images/syuta/kurisu_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"sanrio", name:"サンリオキャラクターズ むにっとハートライト-マイメロディ-", search:"まいめろでぃ", type:"", price:400, date:"2026-07-16", img:"images/sanrio/maimero_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"ramune", name:"TVアニメ『千歳くんはラムネ瓶のなか』 Trio-Try-iT Figureー内田 優空ー", search:"うちだゆあ", type:"trio", price:400, date:"2026-07-15", img:"images/ramune/yua_trio.jpg", source:"https://charahiroba.com/"},
+{series:"pansuto", name:"New PANTY & STOCKING with GARTERBELT モニタートップフィギュア～Polyester＆Polyurethane～　ポリエステル", search:"ポリエステル　ぽりえすてる", type:"moni", price:1000, date:"2026-07-14", img:"images/pansuto/porie_moni.jpg", source:"https://bsp-prize.jp/"},
+{series:"pansuto", name:"New PANTY & STOCKING with GARTERBELT モニタートップフィギュア～Polyester＆Polyurethane～　ポリウレタン", search:"ポリウレタン　ぽりうれたん", type:"moni", price:1000, date:"2026-07-14", img:"images/pansuto/poriu_moni.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-SASORI・DEIDARA・PAIN・KONAN-　サソリ", search:"サソリ　さそり", type:"figuno", price:800, date:"2026-07-14", img:"images/naruto/saso_figuno.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-SASORI・DEIDARA・PAIN・KONAN-　デイダラ", search:"デイダラ　でいだら", type:"figuno", price:800, date:"2026-07-14", img:"images/naruto/dei_figuno.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-SASORI・DEIDARA・PAIN・KONAN-　ペイン", search:"ペイン　ぺいん", type:"figuno", price:800, date:"2026-07-14", img:"images/naruto/pe_figuno.jpg", source:"https://bsp-prize.jp/"},
