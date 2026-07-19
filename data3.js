@@ -1,6 +1,11 @@
 window.figures3 = [
 
-
+{series:"rezero", name:"Re:ゼロから始める異世界生活Yumemirize‐レム‐～大熊猫～", search:"れむ", type:"yume", price:600, date:"2026-07-17", img:"images/rezero/remu_panda_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"youzyo", name:"幼女戦記　Vivitフィギュア ターニャ・デグレチャフ", search:"たーにゃでぐれちゃふ", type:"vivi", price:600, date:"2026-07-17", img:"images/youzyo/vivi.jpg", source:"http://www.fans.co.jp/"},
+{series:"bura", name:"BLACK LAGOON One-Seventh Caratフィギュア レヴィ バニーVer.", search:"れヴぃ", type:"one", price:900, date:"2026-07-17", img:"images/bura/one.jpg", source:"http://www.fans.co.jp/"},
+{series:"baki", name:"刃牙道Luminasta‐範馬刃牙‐", search:"はんまばき", type:"lum", price:600, date:"2026-07-17", img:"images/baki/baki_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"kisekoi", name:"その着せ替え人形は恋をする ゆらゆらソーラーマスコット 喜多川海夢", search:"きたがわまりん", type:"", price:600, date:"2026-07-17", img:"images/kisekoi/yurayura_a.jpg", source:"http://www.fans.co.jp/"},
+{series:"kisekoi", name:"その着せ替え人形は恋をする ゆらゆらソーラーマスコット 喜多川海夢", search:"きたがわまりん", type:"", price:600, date:"2026-07-17", img:"images/kisekoi/yurayura_b.jpg", source:"http://www.fans.co.jp/"},
 {series:"kon", name:"けいおん！Yumemirize‐琴吹紬‐", search:"ことぶきつむぎ", type:"yume", price:800, date:"2026-07-17", img:"images/kon/mugi_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"kon", name:"けいおん！Yumemirize‐田井中律‐", search:"たいなかりつ", type:"yume", price:800, date:"2026-07-17", img:"images/kon/ritu_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"kon", name:"けいおん！Yumemirize‐秋山澪‐", search:"あきやまみお", type:"yume", price:1000, date:"2026-07-17", img:"images/kon/mio_yume.jpg", source:"https://segaplaza.jp/"},
