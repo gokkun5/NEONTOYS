@@ -2,7 +2,10 @@ window.figures3 = [
 
 
 
-
+{series:"kinniku", name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-ラーメンマン-", search:"らーめんまん", type:"", price:400, date:"2026-07-23", img:"images/kinniku/rame.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"重音テト ぬーどるストッパーフィギュアー重音テト・王様ver.ー", search:"かさねてと", type:"nusuto", price:1500, date:"2026-07-23", img:"images/miku/teto_ou_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"aimasu", name:"学園アイドルマスター ESPRESTO-Elegant hues-有村麻央", search:"ありむらまお", type:"esp", price:500, date:"2026-07-23", img:"images/aimasu/mao_esp.jpg", source:"https://bsp-prize.jp/"},
+{series:"akunai", name:"アークナイツ ぬーどるストッパーフィギュアーゴールデングロー・夏の花弁ver.ー", search:"ごーるでんぐろー", type:"nusuto", price:700, date:"2026-07-23", img:"images/akunai/goru_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-NAMI SUMMER STYLE-", search:"ナミ　なみ", type:"gli", price:700, date:"2026-07-22", img:"images/wanpi/nami_gli_sum.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-NICO ROBIN SUMMER STYLE-", search:"ニコロビン　にころびん", type:"gli", price:700, date:"2026-07-22", img:"images/wanpi/robi_gli_sum.jpg", source:"https://bsp-prize.jp/"},
 {series:"rupan", name:"LUPIN THE ⅢRD 峰不二子 フィギュア", search:"みねふじこ", type:"", price:600, date:"2026-07-22", img:"images/rupan/fuziko.jpg", source:"https://bsp-prize.jp/"},
