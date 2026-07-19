@@ -2,6 +2,17 @@ window.figures3 = [
 
 
 
+
+
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-SASORI・DEIDARA・PAIN・KONAN-　サソリ", search:"サソリ　さそり", type:"figuno", price:800, date:"2026-07-14", img:"images/naruto/saso_figuno.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-SASORI・DEIDARA・PAIN・KONAN-　デイダラ", search:"デイダラ　でいだら", type:"figuno", price:800, date:"2026-07-14", img:"images/naruto/dei_figuno.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-SASORI・DEIDARA・PAIN・KONAN-　ペイン", search:"ペイン　ぺいん", type:"figuno", price:800, date:"2026-07-14", img:"images/naruto/pe_figuno.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Figuno-SASORI・DEIDARA・PAIN・KONAN-　コナン", search:"コナン　こなん", type:"figuno", price:800, date:"2026-07-14", img:"images/naruto/kona_figuno.jpg", source:"https://bsp-prize.jp/"},
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス にゃーるずこれくしょん ララ・サタリン・デビルーク", search:"ららさたりんでびるーく", type:"", price:600, date:"2026-07-14", img:"images/tora/rara_nyaru.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ SOLID EDGE WORKS-THE出陣-ピッコロ", search:"ぴっころ", type:"syutu", price:1000, date:"2026-07-14", img:"images/db/piko_syutu.jpg", source:"https://bsp-prize.jp/"},
+{series:"hora", name:"DEATH STRANDING 2: ON THE BEACH モニタートップフィギュア-ヒッグス-", search:"ひっぐす", type:"moni", price:300, date:"2026-07-14", img:"images/hora/higu_moni.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyozyo", name:"ジョジョの奇妙な冒険 スターダストクルセイダース CLEAR FIGURE -IGGY-", search:"いぎー　イギー", type:"", price:500, date:"2026-07-14", img:"images/zyozyo/igi_clear_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyozyo", name:"ジョジョの奇妙な冒険 スターダストクルセイダース CLEAR FIGURE -IGGY-", search:"いぎー　イギー", type:"", price:500, date:"2026-07-14", img:"images/zyozyo/igi_clear_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"gundam", name:"『機動戦士ガンダム』 RX-78-2 ガンダムヘッド型スピーカー", search:"あーるえっくす782がんだむ", type:"", price:500, date:"2026-07-14", img:"images/gundam/rx_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"keizi", name:"花の慶次 -雲のかなたに- ぬーどるストッパーフィギュアー前田慶次ー", search:"まえだけいじ", type:"nusuto", price:500, date:"2026-07-11", img:"images/keizi/keizi_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"musyoku", name:"無職転生～異世界行ったら本気だす～ハイプレミアムフィギュア“エリス”", search:"えりす", type:"hi", price:700, date:"2026-07-10", img:"images/musyoku/eri_hi.jpg", source:"https://segaplaza.jp/"},
