@@ -1,5 +1,10 @@
 window.figures3 = [
 
+
+{series:"one", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.3 SPECIAL ver.", search:"るふぃ　ルフィ　ニカ　にか", type:"figl", price:800, date:"2026-07-18", img:"images/wanpi/nika_figl3_round.jpg", source:"https://bsp-prize.jp/"},
+{series:"one", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA MONKEY.D.LUFFY GEAR5 SPECIAL ver.", search:"るふぃ　ルフィ　ニカ　にか", type:"dxf", price:800, date:"2026-07-18", img:"images/wanpi/nika_dxf_round.jpg", source:"https://bsp-prize.jp/"},
+{series:"one", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.2 SPECIAL ver.", search:"るふぃ　ルフィ　ニカ　にか", type:"figl", price:800, date:"2026-07-18", img:"images/wanpi/nika_figl2_round.jpg", source:"https://bsp-prize.jp/"},
+{series:"one", name:"ワンピース 野郎ども宴だ‼-MONKEY.D.LUFFY- SPECIAL ver.", search:"るふぃ　ルフィ", type:"", price:800, date:"2026-07-18", img:"images/wanpi/utage_round.jpg", source:"https://bsp-prize.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活Yumemirize‐レム‐～大熊猫～", search:"れむ", type:"yume", price:600, date:"2026-07-17", img:"images/rezero/remu_panda_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"youzyo", name:"幼女戦記　Vivitフィギュア ターニャ・デグレチャフ", search:"たーにゃでぐれちゃふ", type:"vivi", price:600, date:"2026-07-17", img:"images/youzyo/vivi.jpg", source:"http://www.fans.co.jp/"},
 {series:"bura", name:"BLACK LAGOON One-Seventh Caratフィギュア レヴィ バニーVer.", search:"れヴぃ", type:"one", price:900, date:"2026-07-17", img:"images/bura/one.jpg", source:"http://www.fans.co.jp/"},
