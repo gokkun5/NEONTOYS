@@ -1,6 +1,14 @@
 window.figures3 = [
 
 
+
+
+{series:"furi-ren", name:"葬送のフリーレン Glasscape-ヒンメル-", search:"ひんめる", type:"", price:700, date:"2026-07-22", img:"images/furi-ren/hin_gurasu.jpg", source:"https://bsp-prize.jp/"},
+{series:"keroro", name:"ケロロ軍曹 共鳴するであります～ケロロ軍曹～", search:"けろろぐんそう", type:"", price:800, date:"2026-07-22", img:"images/keroro/keroro_kyoumei.jpg", source:"https://bsp-prize.jp/"},
+{series:"keroro", name:"ケロロ軍曹 共鳴するであります～ギロロ伍長～", search:"ぎろろごちょう", type:"", price:800, date:"2026-07-22", img:"images/keroro/giroro_kyoumei.jpg", source:"https://bsp-prize.jp/"},
+{series:"kiruao", name:"キルアオ フィギュア 大狼十三", search:"おおがみじゅうぞう", type:"", price:500, date:"2026-07-22", img:"images/kiruao/oogami.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"ウルトラマンタロウ 英雄勇像 ウルトラマンタロウ", search:"うるとらまんたろう", type:"eiyu", price:600, date:"2026-07-22", img:"images/uru/taro_eiyu.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"ウルトラマンシリーズ 英雄勇像 ゾフィー", search:"ぞふぃー", type:"eiyu", price:600, date:"2026-07-22", img:"images/uru/zofi_eiyu.jpg", source:"https://bsp-prize.jp/"},
 {series:"one", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.3 SPECIAL ver.", search:"るふぃ　ルフィ　ニカ　にか", type:"figl", price:800, date:"2026-07-18", img:"images/wanpi/nika_figl3_round.jpg", source:"https://bsp-prize.jp/"},
 {series:"one", name:"ワンピース DXF～THE GRANDLINE SERIES～EXTRA MONKEY.D.LUFFY GEAR5 SPECIAL ver.", search:"るふぃ　ルフィ　ニカ　にか", type:"dxf", price:800, date:"2026-07-18", img:"images/wanpi/nika_dxf_round.jpg", source:"https://bsp-prize.jp/"},
 {series:"one", name:"ワンピース フィグライフ! モンキー・D・ルフィ-ギア5-vol.2 SPECIAL ver.", search:"るふぃ　ルフィ　ニカ　にか", type:"figl", price:800, date:"2026-07-18", img:"images/wanpi/nika_figl2_round.jpg", source:"https://bsp-prize.jp/"},
