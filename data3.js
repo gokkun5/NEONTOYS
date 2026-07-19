@@ -1,6 +1,14 @@
 window.figures3 = [
 
 
+
+
+{series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-NAMI SUMMER STYLE-", search:"ナミ　なみ", type:"gli", price:700, date:"2026-07-22", img:"images/wanpi/nami_gli_sum.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-NICO ROBIN SUMMER STYLE-", search:"ニコロビン　にころびん", type:"gli", price:700, date:"2026-07-22", img:"images/wanpi/robi_gli_sum.jpg", source:"https://bsp-prize.jp/"},
+{series:"rupan", name:"LUPIN THE ⅢRD 峰不二子 フィギュア", search:"みねふじこ", type:"", price:600, date:"2026-07-22", img:"images/rupan/fuziko.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"初音ミク Holiday Memories-ゲーム-", search:"げーむ　はつねみく", type:"", price:1500, date:"2026-07-22", img:"images/miku/game.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 風影・我愛羅フィギュア～五影集結…!!～", search:"があら", type:"", price:600, date:"2026-07-22", img:"images/naruto/gaara.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボール超 Grandista-SON GOKU-Ⅲ", search:"孫悟空　そんごくう", type:"gra", price:700, date:"2026-07-22", img:"images/db/goku3_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-RM-", search:"きむなむじゅん　キムナムジュン", type:"moni", price:300, date:"2026-07-22", img:"images/tiny/rm_moni.jpg", source:"https://bsp-prize.jp/"},
 {series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-RM-", search:"きむなむじゅん　キムナムジュン", type:"moni", price:300, date:"2026-07-22", img:"images/tiny/rm_moni_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-Jin-", search:"じん　ジン", type:"moni", price:300, date:"2026-07-22", img:"images/tiny/jin_moni.jpg", source:"https://bsp-prize.jp/"},
