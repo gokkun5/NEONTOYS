@@ -1,8 +1,10 @@
 window.figures3 = [
 
 
-
-
+{series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-RM-", search:"きむなむじゅん　キムナムジュン", type:"moni", price:300, date:"2026-07-22", img:"images/tiny/rm_moni.jpg", source:"https://bsp-prize.jp/"},
+{series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-RM-", search:"きむなむじゅん　キムナムジュン", type:"moni", price:300, date:"2026-07-22", img:"images/tiny/rm_moni_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-Jin-", search:"じん　ジン", type:"moni", price:300, date:"2026-07-22", img:"images/tiny/jin_moni.jpg", source:"https://bsp-prize.jp/"},
+{series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-Jin-", search:"じん　ジン", type:"moni", price:300, date:"2026-07-22", img:"images/tiny/jin_moni_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン Glasscape-ヒンメル-", search:"ひんめる", type:"", price:700, date:"2026-07-22", img:"images/furi-ren/hin_gurasu.jpg", source:"https://bsp-prize.jp/"},
 {series:"keroro", name:"ケロロ軍曹 共鳴するであります～ケロロ軍曹～", search:"けろろぐんそう", type:"", price:800, date:"2026-07-22", img:"images/keroro/keroro_kyoumei.jpg", source:"https://bsp-prize.jp/"},
 {series:"keroro", name:"ケロロ軍曹 共鳴するであります～ギロロ伍長～", search:"ぎろろごちょう", type:"", price:800, date:"2026-07-22", img:"images/keroro/giroro_kyoumei.jpg", source:"https://bsp-prize.jp/"},
