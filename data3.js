@@ -2,7 +2,14 @@ window.figures3 = [
 
 
 
-
+{series:"king", name:"キングダム VIBRATION STARS-王賁-", search:"おうほん", type:"vib", price:300, date:"2026-07-28", img:"images/king/ohon_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"king", name:"キングダム VIBRATION STARS-蒙恬-", search:"もうてん", type:"vib", price:300, date:"2026-07-28", img:"images/king/moten_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"youzitu", name:"ようこそ実力至上主義の教室へ　Coreful フィギュア　軽井沢恵～制服ver.～（タイクレ限定）", search:"かるいざわけい", type:"core", price:1000, date:"2026-07-25", img:"images/youzitu/kei_core_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"youzitu", name:"ようこそ実力至上主義の教室へ　Coreful フィギュア　軽井沢恵～制服ver.～", search:"かるいざわけい", type:"core", price:600, date:"2026-07-25", img:"images/youzitu/kei_core.jpg", source:"https://www.taito.co.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活　Desktop Cute フィギュア　レム～Star Dreamy ver.～Renewal（タイクレ限定）", search:"れむ", type:"desk", price:1400, date:"2026-07-24", img:"images/rezero/remu_desk_star_re_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活　Desktop Cute フィギュア　レム～Star Dreamy ver.～Renewal", search:"れむ", type:"desk", price:800, date:"2026-07-24", img:"images/rezero/remu_desk_star_re.jpg", source:"https://www.taito.co.jp/"},
+{series:"rakisuta", name:"らき☆すた Vivitフィギュア 高良みゆき", search:"たからみゆき", type:"vivi", price:1000, date:"2026-07-24", img:"images/rakisuta/miyuki_vivi.jpg", source:"http://www.fans.co.jp/"},
+{series:"rakisuta", name:"らき☆すた　Vivitフィギュア 泉こなた", search:"いずみこなた", type:"vivi", price:1000, date:"2026-07-24", img:"images/rakisuta/konata_vivi.jpg", source:"http://www.fans.co.jp/"},
 {series:"yugi", name:"アニメ「遊☆戯☆王」シリーズ　Monsters LEGION 究極宝玉神 レインボー・ドラゴン", search:"きゅうきょくほうぎょくしんれいんぼーどらごん", type:"mon", price:500, date:"2026-07-23", img:"images/yugi/reinbodora.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"metaru", name:"METAL GEAR SOLID Δ: SNAKE EATER　フィギュアコレクション ザ・ボス", search:"ざぼす", type:"", price:600, date:"2026-07-23", img:"images/metaru/bosu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"metaru", name:"METAL GEAR SOLID Δ: SNAKE EATER　フィギュアコレクション ネイキッド・スネーク", search:"ねいきっどすねーく", type:"", price:600, date:"2026-07-23", img:"images/metaru/sune.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
