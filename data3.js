@@ -3,6 +3,14 @@ window.figures3 = [
 
 
 
+{series:"yugi", name:"アニメ「遊☆戯☆王」シリーズ　Monsters LEGION 究極宝玉神 レインボー・ドラゴン", search:"きゅうきょくほうぎょくしんれいんぼーどらごん", type:"mon", price:500, date:"2026-07-23", img:"images/yugi/reinbodora.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"metaru", name:"METAL GEAR SOLID Δ: SNAKE EATER　フィギュアコレクション ザ・ボス", search:"ざぼす", type:"", price:600, date:"2026-07-23", img:"images/metaru/bosu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"metaru", name:"METAL GEAR SOLID Δ: SNAKE EATER　フィギュアコレクション ネイキッド・スネーク", search:"ねいきっどすねーく", type:"", price:600, date:"2026-07-23", img:"images/metaru/sune.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"retto", name:"劇場版「魔法科高校の劣等生四葉継承編」Yumemirize‐司波深雪‐", search:"しばみゆき", type:"yume", price:600, date:"2026-07-24", img:"images/retto/miyuki_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"miku", name:"初音ミクシリーズXStellar‐初音ミク×シナモロール‐SummerVer.", search:"はつねみく　しなもろーる", type:"xs", price:1000, date:"2026-07-24", img:"images/miku/sinamo_xs_sum.jpg", source:"https://segaplaza.jp/"},
+{series:"rerugan", name:"とある科学の超電磁砲Tテルマエ・湯～とぴあ‐食蜂操祈‐", search:"しょくほうみさき", type:"yuto", price:600, date:"2026-07-24", img:"images/rerugan/misaki_yuto.jpg", source:"https://segaplaza.jp/"},
+{series:"rerugan", name:"とある科学の超電磁砲Tテルマエ・湯～とぴあ‐御坂美琴‐", search:"みさかみこと", type:"yuto", price:600, date:"2026-07-24", img:"images/rerugan/mikoto_yuto.jpg", source:"https://segaplaza.jp/"},
+{series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2　Vivitフィギュア 喜多川海夢 ジャージメイドVer.", search:"きたがわまりん", type:"vivi", price:600, date:"2026-07-24", img:"images/kisekoi/zyazimeido_vivi.jpg", source:"http://www.fans.co.jp/"},
 {series:"furi-ren", name:"葬送のフリーレンFIGURIZMα“フリーレン”～花舞～", search:"ふりーれん", type:"fig", price:700, date:"2026-07-23", img:"images/furi-ren/furi_fig_hana.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦死滅回游Luminasta‐秤金次‐", search:"はかりきんじ", type:"lum", price:600, date:"2026-07-23", img:"images/zyuzyutu/hakari_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"kagura", name:"カグラバチちょこのせハイプレミアムフィギュア‐六平千鉱‐", search:"ろくひらちひろ", type:"tyoko", price:600, date:"2026-07-23", img:"images/kagura/tihi_tyoko.jpg", source:"https://segaplaza.jp/"},
