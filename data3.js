@@ -2,6 +2,11 @@ window.figures3 = [
 
 
 
+
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス にゃーるずこれくしょん 結城 美柑", search:"ゆうきみかん", type:"", price:600, date:"2026-07-28", img:"images/tora/mikan_nya.jpg", source:"https://bsp-prize.jp/"},
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス にゃーるずこれくしょん 西連寺 春菜", search:"さいれんじはるな", type:"", price:600, date:"2026-07-28", img:"images/tora/haruna_nya.jpg", source:"https://bsp-prize.jp/"},
+{series:"gozira", name:"『シン・ゴジラ』 アートヴィネット ゴジラ（2016）第4形態 上陸イメージver.", search:"しんごじら", type:"", price:500, date:"2026-07-28", img:"images/gozira/2016.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション ビッグフィギュア～野原しんのすけ～", search:"のはらしんのすけ", type:"", price:600, date:"2026-07-28", img:"images/kuresin/sinnosuke.jpg", source:"https://bsp-prize.jp/"},
 {series:"king", name:"キングダム VIBRATION STARS-王賁-", search:"おうほん", type:"vib", price:300, date:"2026-07-28", img:"images/king/ohon_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"king", name:"キングダム VIBRATION STARS-蒙恬-", search:"もうてん", type:"vib", price:300, date:"2026-07-28", img:"images/king/moten_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"youzitu", name:"ようこそ実力至上主義の教室へ　Coreful フィギュア　軽井沢恵～制服ver.～（タイクレ限定）", search:"かるいざわけい", type:"core", price:1000, date:"2026-07-25", img:"images/youzitu/kei_core_taikure.jpg", source:"https://www.taito.co.jp/"},
