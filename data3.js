@@ -2,6 +2,13 @@ window.figures3 = [
 
 
 
+
+{series:"db", name:"ドラゴンボールZ BLOOD OF SAIYANS-超サイヤ人孫悟飯-Ⅱ", search:"そんごはん", type:"blood", price:500, date:"2026-07-23", img:"images/db/gohan2_blood.jpg", source:"https://bsp-prize.jp/"},
+{series:"dandadan", name:"TVアニメ『ダンダダン』 フィグライフ! ターボババア(招き猫)", search:"たーぼばばあ", type:"figl", price:500, date:"2026-07-23", img:"images/dandadan/babaa_figl.jpg", source:"https://bsp-prize.jp/"},
+{series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER&GLAMOURS-喜多川海夢 ハロウィンバニーver.-", search:"きたがわまりん", type:"gli", price:700, date:"2026-07-23", img:"images/kisekoi/harobani_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER&GLAMOURS-喜多川海夢 冬制服ver.-", search:"きたがわまりん", type:"gli", price:700, date:"2026-07-23", img:"images/kisekoi/fuyuseifuku_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～あひるのペックル～", search:"ぺっくる", type:"sof", price:500, date:"2026-07-23", img:"images/sanrio/pekku_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"kuresin", name:"映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション シロ蓄光シリコンフィギュア", search:"しろ", type:"", price:600, date:"2026-07-23", img:"images/kuresin/siro_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"kinniku", name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-ラーメンマン-", search:"らーめんまん", type:"", price:400, date:"2026-07-23", img:"images/kinniku/rame.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"重音テト ぬーどるストッパーフィギュアー重音テト・王様ver.ー", search:"かさねてと", type:"nusuto", price:1500, date:"2026-07-23", img:"images/miku/teto_ou_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"aimasu", name:"学園アイドルマスター ESPRESTO-Elegant hues-有村麻央", search:"ありむらまお", type:"esp", price:500, date:"2026-07-23", img:"images/aimasu/mao_esp.jpg", source:"https://bsp-prize.jp/"},
