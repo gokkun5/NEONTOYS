@@ -3,6 +3,13 @@ window.figures3 = [
 
 
 
+{series:"furi-ren", name:"葬送のフリーレンFIGURIZMα“フリーレン”～花舞～", search:"ふりーれん", type:"fig", price:700, date:"2026-07-23", img:"images/furi-ren/furi_fig_hana.jpg", source:"https://segaplaza.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦死滅回游Luminasta‐秤金次‐", search:"はかりきんじ", type:"lum", price:600, date:"2026-07-23", img:"images/zyuzyutu/hakari_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"kagura", name:"カグラバチちょこのせハイプレミアムフィギュア‐六平千鉱‐", search:"ろくひらちひろ", type:"tyoko", price:600, date:"2026-07-23", img:"images/kagura/tihi_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"kagura", name:"カグラバチちょこのせハイプレミアムフィギュア‐柴登吾‐", search:"しばとうご", type:"tyoko", price:600, date:"2026-07-23", img:"images/kagura/siba_tyoko.jpg", source:"https://segaplaza.jp/"},
+{series:"marizzi", name:"マリッジトキシン GLITTER&GLAMOURS-KIMIE ARASHIYAMA-", search:"嵐山キミ恵　あらしやまきみえ", type:"gli", price:600, date:"2026-07-23", img:"images/marizzi/kimi_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"madomagi", name:"魔法少女まどか☆マギカ ぬーどるストッパーフィギュアー鹿目まどかー", search:"かなめまどか", type:"nusuto", price:1000, date:"2026-07-23", img:"images/madomagi/madoka_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"hiro", name:"僕のヒーローアカデミア Grandista-TODOROKI SHOTO-", search:"轟焦凍　とどろきしょうと", type:"gra", price:700, date:"2026-07-23", img:"images/hiro/todo_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ BLOOD OF SAIYANS-超サイヤ人孫悟飯-Ⅱ", search:"そんごはん", type:"blood", price:500, date:"2026-07-23", img:"images/db/gohan2_blood.jpg", source:"https://bsp-prize.jp/"},
 {series:"dandadan", name:"TVアニメ『ダンダダン』 フィグライフ! ターボババア(招き猫)", search:"たーぼばばあ", type:"figl", price:500, date:"2026-07-23", img:"images/dandadan/babaa_figl.jpg", source:"https://bsp-prize.jp/"},
 {series:"kisekoi", name:"TVアニメ「その着せ替え人形は恋をする」Season 2 GLITTER&GLAMOURS-喜多川海夢 ハロウィンバニーver.-", search:"きたがわまりん", type:"gli", price:700, date:"2026-07-23", img:"images/kisekoi/harobani_gli.jpg", source:"https://bsp-prize.jp/"},
