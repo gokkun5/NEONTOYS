@@ -3,6 +3,12 @@ window.figures3 = [
 
 
 
+{series:"zyuzyutu", name:"TVアニメ『呪術廻戦』 Trio-Try-iT Figureー虎杖悠仁ー", search:"いたどりゆうじ", type:"trio", price:600, date:"2026-07-29", img:"images/zyuzyutu/itadori_trio.jpg", source:"https://charahiroba.com/"},
+{series:"zyuzyutu", name:"呪術廻戦 Grandista-ZEN’IN MAKI", search:"ぜんいんまき　禪院真希", type:"gra", price:800, date:"2026-07-29", img:"images/zyuzyutu/maki_gra.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 ぬーどるストッパーフィギュアー胡蝶しのぶー", search:"こちょうしのぶ", type:"nusuto", price:800, date:"2026-07-29", img:"images/kimetu/sinobu_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"aimasu", name:"学園アイドルマスター ESPRESTO-Sheer frills-姫崎莉波", search:"ひめさきりなみ", type:"esp", price:500, date:"2026-07-29", img:"images/aimasu/rinami_esp_sheer.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース THEORAMA SOUL-RORONOA ZORO-", search:"ろろのあぞろ　ロロノアゾロ", type:"the", price:1100, date:"2026-07-28", img:"images/wanpi/zoro_the.jpg", source:"https://bsp-prize.jp/"},
+{series:"bad", name:"ばっどがーる ムチュートフィギュア―優谷 優―", search:"ゆうたにゆう", type:"mutyu", price:500, date:"2026-07-28", img:"images/bad/yu_mutyu.jpg", source:"https://charahiroba.com/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス にゃーるずこれくしょん 結城 美柑", search:"ゆうきみかん", type:"", price:600, date:"2026-07-28", img:"images/tora/mikan_nya.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス にゃーるずこれくしょん 西連寺 春菜", search:"さいれんじはるな", type:"", price:600, date:"2026-07-28", img:"images/tora/haruna_nya.jpg", source:"https://bsp-prize.jp/"},
 {series:"gozira", name:"『シン・ゴジラ』 アートヴィネット ゴジラ（2016）第4形態 上陸イメージver.", search:"しんごじら", type:"", price:500, date:"2026-07-28", img:"images/gozira/2016.jpg", source:"https://bsp-prize.jp/"},
