@@ -1,6 +1,13 @@
 window.figures3 = [
 
-
+{series:"miku", name:"初音ミク　Wonderland フィギュア　オオカミと七匹の子ヤギ（タイクレ限定）", search:"はつねみく　おおかみと7ひきのこやぎ", type:"wo", price:1300, date:"2026-07-31", img:"images/miku/ookami_wo_tai.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"初音ミク　Wonderland フィギュア　オオカミと七匹の子ヤギ", search:"はつねみく　おおかみと7ひきのこやぎ", type:"wo", price:900, date:"2026-07-31", img:"images/miku/ookami_won.jpg", source:"https://www.taito.co.jp/"},
+{series:"toradora", name:"とらドラ！　Desktop Cute フィギュア　逢坂大河～タイガー水着ver.～（タイクレ限定）", search:"あいさかたいが", type:"desk", price:800, date:"2026-07-31", img:"images/toradora/taiga_desk_mizu_tai.jpg", source:"https://www.taito.co.jp/"},
+{series:"toradora", name:"とらドラ！　Desktop Cute フィギュア　逢坂大河～タイガー水着ver.～", search:"あいさかたいが", type:"desk", price:500, date:"2026-07-31", img:"images/toradora/taiga_desk_mizu.jpg", source:"https://www.taito.co.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　ロトのしるし　小物入れ", search:"ろとのしるし", type:"", price:300, date:"2026-07-31", img:"images/dorakue/rotosirusi.jpg", source:"https://www.taito.co.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　ベル付きフィギュア　キングスライム＆メタルキング", search:"きんぐすらいむ　めたるきんぐ", type:"", price:300, date:"2026-07-31", img:"images/dorakue/king_beru.jpg", source:"https://www.taito.co.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　じんめんじゅの植木鉢　～種付き栽培キット～", search:"", type:"", price:300, date:"2026-07-31", img:"images/dorakue/zinmen.jpg", source:"https://www.taito.co.jp/"},
+{series:"tenipuri", name:"『テニスの王子様』 学園祭の王子様　フィギュア 跡部景吾", search:"あとべけいご", type:"", price:500, date:"2026-07-30", img:"images/tenipuri/atobe.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"tenipuri", name:"『テニスの王子様』 学園祭の王子様　フィギュア 越前リョーマ", search:"えちぜんりょーま", type:"", price:500, date:"2026-07-30", img:"images/tenipuri/ryoma.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"itigo", name:"いちご100％　Desktop Cute フィギュア　東城綾～制服ver.～", search:"とうじょうあや", type:"desk", price:500, date:"2026-07-31", img:"images/itigo/aya_desk.jpg", source:"https://www.taito.co.jp/"},
 {series:"roze", name:"TVアニメ「ローゼンメイデン」 Trio-Try-iT Figureー水銀燈ー", search:"すいぎんとう", type:"trio", price:700, date:"2026-07-30", img:"images/roze/suigin_trio.jpg", source:"https://charahiroba.com/"},
