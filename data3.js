@@ -1,7 +1,11 @@
 window.figures3 = [
 
 
-
+{series:"tenipuri", name:"『テニスの王子様』 学園祭の王子様　フィギュア 越前リョーマ", search:"えちぜんりょーま", type:"", price:500, date:"2026-07-30", img:"images/tenipuri/ryoma.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"itigo", name:"いちご100％　Desktop Cute フィギュア　東城綾～制服ver.～", search:"とうじょうあや", type:"desk", price:500, date:"2026-07-31", img:"images/itigo/aya_desk.jpg", source:"https://www.taito.co.jp/"},
+{series:"roze", name:"TVアニメ「ローゼンメイデン」 Trio-Try-iT Figureー水銀燈ー", search:"すいぎんとう", type:"trio", price:700, date:"2026-07-30", img:"images/roze/suigin_trio.jpg", source:"https://charahiroba.com/"},
+{series:"mar", name:"MARVELLuminasta‐スパイダーマン‐", search:"すぱいだーまん", type:"lum", price:600, date:"2026-07-30", img:"images/mar/supa2_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"holo", name:"ホロライブプロダクション ぬーどるストッパーフィギュアプラス―獅白ぼたん―", search:"ししろぼたん", type:"nusuto", price:500, date:"2026-07-30", img:"images/holo/botan_nusuto_plu.jpg", source:"https://charahiroba.com/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　ネメシス～チャイナドレスver.～", search:"ねめしす", type:"desk", price:600, date:"2026-07-30", img:"images/tora/neme_desk_cha.jpg", source:"https://www.taito.co.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン　Coreful フィギュア　フリーレン～探偵ver.～", search:"ふりーれん", type:"core", price:700, date:"2026-07-30", img:"images/furi-ren/furi_core_tantei.jpg", source:"https://www.taito.co.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン　Coreful フィギュア　フリーレン～探偵ver.～（タイクレ限定）", search:"ふりーれん", type:"core", price:1200, date:"2026-07-30", img:"images/furi-ren/furi_core_tantei_tai.jpg", source:"https://www.taito.co.jp/"},
