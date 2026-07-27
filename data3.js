@@ -2,7 +2,10 @@ window.figures3 = [
 
 
 
-
+{series:"hiro", name:"僕のヒーローアカデミア MAXIMATIC KATSUKI BAKUGO Ⅲ", search:"爆豪勝己　ばくごうかつき", type:"ma", price:800, date:"2026-07-29", img:"images/hiro/bakugo3_ma.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ History Box 魔人ブウ", search:"まじんぶう", type:"his", price:600, date:"2026-07-29", img:"images/db/bu_his.jpg", source:"https://bsp-prize.jp/"},
+{series:"deara", name:"デート・ア・ライブV サマードレスフィギュアー五河琴里ー", search:"いつかことり", type:"", price:600, date:"2026-07-29", img:"images/deara/kotori_sum.jpg", source:"https://charahiroba.com/"},
+{series:"furi-ren", name:"葬送のフリーレン Glasscape-フリーレンⅡ-", search:"ふりーれん", type:"", price:600, date:"2026-07-29", img:"images/furi-ren/furi2_glass.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"TVアニメ『呪術廻戦』 Trio-Try-iT Figureー虎杖悠仁ー", search:"いたどりゆうじ", type:"trio", price:600, date:"2026-07-29", img:"images/zyuzyutu/itadori_trio.jpg", source:"https://charahiroba.com/"},
 {series:"zyuzyutu", name:"呪術廻戦 Grandista-ZEN’IN MAKI", search:"ぜんいんまき　禪院真希", type:"gra", price:800, date:"2026-07-29", img:"images/zyuzyutu/maki_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 ぬーどるストッパーフィギュアー胡蝶しのぶー", search:"こちょうしのぶ", type:"nusuto", price:800, date:"2026-07-29", img:"images/kimetu/sinobu_nusuto.jpg", source:"https://charahiroba.com/"},
