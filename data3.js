@@ -2,6 +2,14 @@ window.figures3 = [
 
 
 
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　ネメシス～チャイナドレスver.～", search:"ねめしす", type:"desk", price:600, date:"2026-07-30", img:"images/tora/neme_desk_cha.jpg", source:"https://www.taito.co.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン　Coreful フィギュア　フリーレン～探偵ver.～", search:"ふりーれん", type:"core", price:700, date:"2026-07-30", img:"images/furi-ren/furi_core_tantei.jpg", source:"https://www.taito.co.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン　Coreful フィギュア　フリーレン～探偵ver.～（タイクレ限定）", search:"ふりーれん", type:"core", price:1200, date:"2026-07-30", img:"images/furi-ren/furi_core_tantei_tai.jpg", source:"https://www.taito.co.jp/"},
+{series:"soniko", name:"すーぱーそに子 ぬーどるストッパーフィギュア―ブラックビキニver.―", search:"すーぱーそにこ", type:"nusuto", price:500, date:"2026-07-30", img:"images/soniko/nusuto_bla_bikini.jpg", source:"https://charahiroba.com/"},
+{series:"oba", name:"オーバーロード　Coreful フィギュア　アルベド～海賊ver.～（タイクレ限定）", search:"あるべど", type:"core", price:1200, date:"2026-07-30", img:"images/oba/aru_core_kaizoku_tai.jpg", source:"https://www.taito.co.jp/"},
+{series:"oba", name:"オーバーロード　Coreful フィギュア　アルベド～海賊ver.～", search:"あるべど", type:"core", price:800, date:"2026-07-30", img:"images/oba/aru_core_kaizoku.jpg", source:"https://www.taito.co.jp/"},
+{series:"rupan", name:"LUPIN THE ⅢRD 銭形警部 フィギュア", search:"ぜにがたけいぶ", type:"", price:500, date:"2026-07-29", img:"images/rupan/zenigata.jpg", source:"https://bsp-prize.jp/"},
+{series:"mao", name:"MAO VIBRATION STARS-摩緒-", search:"まお", type:"vib", price:500, date:"2026-07-29", img:"images/mao/mao_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア MAXIMATIC KATSUKI BAKUGO Ⅲ", search:"爆豪勝己　ばくごうかつき", type:"ma", price:800, date:"2026-07-29", img:"images/hiro/bakugo3_ma.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ History Box 魔人ブウ", search:"まじんぶう", type:"his", price:600, date:"2026-07-29", img:"images/db/bu_his.jpg", source:"https://bsp-prize.jp/"},
 {series:"deara", name:"デート・ア・ライブV サマードレスフィギュアー五河琴里ー", search:"いつかことり", type:"", price:600, date:"2026-07-29", img:"images/deara/kotori_sum.jpg", source:"https://charahiroba.com/"},
