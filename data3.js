@@ -1,5 +1,10 @@
 window.figures3 = [
 
+{series:"ban", name:"BanG Dream!　プレミアムフィギュア MyGO!!!!! 千早 愛音 制服 ver.", search:"ちはやあのん", type:"", price:700, date:"2026-07-24", img:"images/ban/anon_m.jpg", source:"https://prize.bushiroad-creative.com/"},
+{series:"metaru", name:"METAL GEAR SOLID Δ: SNAKE EATER　フィギュアコレクション オセロット", search:"おせろっと", type:"", price:600, date:"2026-07-30", img:"images/metaru/ita2.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"metaru", name:"METAL GEAR SOLID Δ: SNAKE EATER　フィギュアコレクション エヴァ", search:"えヴぁ", type:"", price:600, date:"2026-07-30", img:"images/metaru/ita.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"miku", name:"初音ミク　T-most　フィギュア（タイクレ限定）", search:"はつねみく", type:"tmost", price:1800, date:"2026-07-31", img:"images/miku/tmost_tai.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"初音ミク　T-most　フィギュア", search:"はつねみく", type:"tmost", price:1300, date:"2026-07-31", img:"images/miku/tmost.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"初音ミク　Wonderland フィギュア　オオカミと七匹の子ヤギ（タイクレ限定）", search:"はつねみく　おおかみと7ひきのこやぎ", type:"wo", price:1300, date:"2026-07-31", img:"images/miku/ookami_wo_tai.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"初音ミク　Wonderland フィギュア　オオカミと七匹の子ヤギ", search:"はつねみく　おおかみと7ひきのこやぎ", type:"wo", price:900, date:"2026-07-31", img:"images/miku/ookami_won.jpg", source:"https://www.taito.co.jp/"},
 {series:"toradora", name:"とらドラ！　Desktop Cute フィギュア　逢坂大河～タイガー水着ver.～（タイクレ限定）", search:"あいさかたいが", type:"desk", price:800, date:"2026-07-31", img:"images/toradora/taiga_desk_mizu_tai.jpg", source:"https://www.taito.co.jp/"},
