@@ -1,5 +1,14 @@
 window.figures3 = [
 
+
+
+
+
+{series:"kuresin", name:"映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション おおきなSOFVIMATES～野原しんのすけ～", search:"のはらしんのすけ", type:"sof", price:600, date:"2026-08-04", img:"images/kuresin/kikikaikai.jpg", source:"https://bsp-prize.jp/"},
+{series:"esuta", name:"エスターバニー Fluffy Puffy", search:"えすたーばにー", type:"", price:600, date:"2026-08-04", img:"images/esuta/foto.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"ウルトラセブン 英雄勇像 ウルトラセブン", search:"うるとらせぶん", type:"eiyu", price:1000, date:"2026-08-04", img:"images/uru/seven.jpg", source:"https://bsp-prize.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 王選候補者と騎士フィギュアーエミリア陣営ー～ＧｉＧＯ限定～　エミリア", search:"えみりあ", type:"", price:1800, date:"2026-08-01", img:"images/rezero/eim_gigo.jpg", source:"https://charahiroba.com/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 王選候補者と騎士フィギュアーエミリア陣営ー～ＧｉＧＯ限定～　スバル", search:"すばる", type:"", price:1800, date:"2026-08-01", img:"images/rezero/suba_gigo.jpg", source:"https://charahiroba.com/"},
 {series:"ban", name:"BanG Dream!　プレミアムフィギュア MyGO!!!!! 千早 愛音 制服 ver.", search:"ちはやあのん", type:"", price:700, date:"2026-07-24", img:"images/ban/anon_m.jpg", source:"https://prize.bushiroad-creative.com/"},
 {series:"metaru", name:"METAL GEAR SOLID Δ: SNAKE EATER　フィギュアコレクション オセロット", search:"おせろっと", type:"", price:600, date:"2026-07-30", img:"images/metaru/ita2.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"metaru", name:"METAL GEAR SOLID Δ: SNAKE EATER　フィギュアコレクション エヴァ", search:"えヴぁ", type:"", price:600, date:"2026-07-30", img:"images/metaru/ita.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
@@ -160,8 +169,8 @@ window.figures3 = [
 {series:"kimetu", name:"アニメ「鬼滅の刃」 プチっと灯りマス～竈門炭治郎・我妻善逸～", search:"あがつまぜんいつ", type:"", price:500, date:"2026-07-07", img:"images/kimetu/zen_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 Fluffy Puffy～ムキムキねずみ～", search:"むきむきねずみ", type:"flu", price:800, date:"2026-07-07", img:"images/kimetu/muki_flu_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 Fluffy Puffy～ムキムキねずみ～", search:"むきむきねずみ", type:"flu", price:800, date:"2026-07-07", img:"images/kimetu/muki_flu_b.jpg", source:"https://bsp-prize.jp/"},
-{series:"sonota", name:"エスターバニー Fluffy Puffy", search:"えすたーばにー", type:"flu", price:400, date:"2026-07-07", img:"images/sonota/esu_ful_b.jpg", source:"https://bsp-prize.jp/"},
-{series:"sonota", name:"エスターバニー Fluffy Puffy", search:"えすたーばにー", type:"flu", price:400, date:"2026-07-07", img:"images/sonota/esu_ful_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"esuta", name:"エスターバニー Fluffy Puffy", search:"えすたーばにー", type:"flu", price:400, date:"2026-07-07", img:"images/esuta/esu_ful_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"esuta", name:"エスターバニー Fluffy Puffy", search:"えすたーばにー", type:"flu", price:400, date:"2026-07-07", img:"images/esuta/esu_ful_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"ante", name:"UNDERTALE あみこっと～フラウィ～", search:"ふらうぃ", type:"ami", price:800, date:"2026-07-07", img:"images/ante/fura_ami.jpg", source:"https://bsp-prize.jp/"},
 {series:"rezero", name:"『Re:ゼロから始める異世界生活』 王選候補者と騎士フィギュア ーアナスタシア陣営ー GiGO限定　アナスタシア", search:"あなすたしあ", type:"", price:1800, date:"2026-07-04", img:"images/rezero/ana_gigo.jpg", source:"https://charahiroba.com/"},
 {series:"rezero", name:"『Re:ゼロから始める異世界生活』 王選候補者と騎士フィギュア ーアナスタシア陣営ー GiGO限定　ユリウス", search:"ゆりうす", type:"", price:1800, date:"2026-07-04", img:"images/rezero/yuri_gigo.jpg", source:"https://charahiroba.com/"},
