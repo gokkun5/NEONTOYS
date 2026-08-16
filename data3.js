@@ -3,7 +3,13 @@ window.figures3 = [
 
 
 
-
+{series:"disny", name:"PIXAR Characters トイ・ストーリー フィグライフ!-アンディのおもちゃ箱-", search:"あんでぃのおもちゃばこ", type:"figl", price:600, date:"2026-08-04", img:"images/disny/omotyabako_figl.jpg", source:"https://bsp-prize.jp/"},
+{series:"disny", name:"PIXAR Characters トイ・ストーリー5 フィグライフ! -ハム-", search:"はむ", type:"figl", price:600, date:"2026-08-04", img:"images/disny/hamu_figl.jpg", source:"https://bsp-prize.jp/"},
+{series:"hant", name:"HUNTER×HUNTER HUNTING ARCHIVES キルア 神速", search:"きるあ　かんむる　カンムル", type:"hunt", price:900, date:"2026-08-04", img:"images/hant/kiru_hunt.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"初音ミク BANPRESTO EVOLVE Clearluxe-くらげ-フィギュア", search:"はつねみく　くらげ", type:"bpev", price:800, date:"2026-08-04", img:"images/miku/kurage_bpev.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"BORUTO-ボルト- NARUTO NEXT GENERATIONS VIBRATION STARS-UZUMAKI NARUTO-Ⅲ", search:"うずまきナルト　うずまきなると", type:"vib", price:800, date:"2026-08-04", img:"images/naruto/naruto3_boruto_vib.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ BLOOD OF SAIYANS-超サイヤ人孫悟空-Ⅱ", search:"そんごくう", type:"blood", price:800, date:"2026-08-04", img:"images/db/goku2_blood.jpg", source:"https://bsp-prize.jp/"},
+{series:"hora", name:"都市伝説解体センター モニタートップフィギュア-廻屋渉-", search:"めぐりやあゆむ", type:"moni", price:600, date:"2026-08-04", img:"images/hora/meguri_moni.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション おおきなSOFVIMATES～野原しんのすけ～", search:"のはらしんのすけ", type:"sof", price:600, date:"2026-08-04", img:"images/kuresin/kikikaikai.jpg", source:"https://bsp-prize.jp/"},
 {series:"esuta", name:"エスターバニー Fluffy Puffy", search:"えすたーばにー", type:"", price:600, date:"2026-08-04", img:"images/esuta/foto.jpg", source:"https://bsp-prize.jp/"},
 {series:"uru", name:"ウルトラセブン 英雄勇像 ウルトラセブン", search:"うるとらせぶん", type:"eiyu", price:1000, date:"2026-08-04", img:"images/uru/seven.jpg", source:"https://bsp-prize.jp/"},

@@ -139,7 +139,7 @@ window.figures1 = [
 {series:"kusuri", name:"TVアニメ『薬屋のひとりごと』ちょこのせプレミアムフィギュア “壬氏”", search:"じんし", type:"tyoko", price:1000, date:"1899-12-30", img:"images/kusuri/zinsi_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"pro", name:"プロジェクトセカイカラフルステージ！feat.初音ミク Desktop×DecorateCollections “誰もいないセカイの初音ミク”", search:"だれもいないせかいのはつねみく", type:"ddc", price:1000, date:"1899-12-30", img:"images/pro/daremo_ddc.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"『初音ミク×Rody』 AMP＋ フィギュア〜メルヘンver.〜", search:"ろでぃ　はつねみく", type:"amp", price:1100, date:"1899-12-30", img:"images/miku/rody_meru.jpg", source:"https://www.taito.co.jp/"},
-{series:"hant", name:"HUNTER×HUNTER HUNTING ARCHIVES クロロ-盗賊の極意-", search:"くろろ", type:"", price:1200, date:"1899-12-30", img:"images/hant/kuroro.jpg", source:"https://bsp-prize.jp/"},
+{series:"hant", name:"HUNTER×HUNTER HUNTING ARCHIVES クロロ-盗賊の極意-", search:"くろろ", type:"hunt", price:1200, date:"1899-12-30", img:"images/hant/kuroro.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"サンリオキャラクターズ おおきなSOFVIMATES～シナモロール お空のお星さまver.～", search:"しなもろーる", type:"sof", price:600, date:"1899-12-30", img:"images/sanrio/sinamo_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"mazyotabi", name:"『魔女の旅々』 Zzz イレイナ", search:"いれいな", type:"", price:800, date:"1899-12-30", img:"images/mazyotabi/zzz.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"madomagi", name:"マギアレコード 魔法少女まどか★マギカ外伝 Splash Girls 鹿目まどか", search:"かなめまどか", type:"", price:1000, date:"1899-12-30", img:"images/madomagi/madoka_sp.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
