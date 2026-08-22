@@ -2,6 +2,19 @@ window.figures3 = [
 
 
 
+
+{series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュア-絆ノ装-伍拾弐ノ型", search:"恋雪　こゆき", type:"kizuna", price:800, date:"2026-08-06", img:"images/kimetu/kizuna52.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュア-絆ノ装-伍拾壱ノ型", search:"狛治　はくじ", type:"kizuna", price:800, date:"2026-08-06", img:"images/kimetu/kizuna51.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」Luminasta‐竈門炭治郎‐ヒノカミ神楽斜陽転身", search:"かまどたんじろう　しゃようてんしん", type:"lum", price:800, date:"2026-08-06", img:"images/kimetu/tan_sya_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"gundam", name:"『機動戦士ガンダムUC』 胸像センサーライト-ユニコーンガンダム2号機 バンシィ（デストロイモード）-", search:"ばんしぃ", type:"", price:400, date:"2026-08-06", img:"images/gundam/bansi_supi.jpg", source:"https://bsp-prize.jp/"},
+{series:"gundam", name:"『機動戦士ガンダム』 ジオングヘッド型スピーカー", search:"じおんぐ", type:"", price:400, date:"2026-08-06", img:"images/gundam/zio_supi.jpg", source:"https://bsp-prize.jp/"},
+{series:"esuta", name:"エスターバニー すまほストッパーフィギュア", search:"えすたーばにー", type:"", price:300, date:"2026-08-06", img:"images/esuta/sumaho_a.jpg", source:"https://charahiroba.com/"},
+{series:"esuta", name:"エスターバニー すまほストッパーフィギュア", search:"えすたーばにー", type:"", price:300, date:"2026-08-06", img:"images/esuta/sumaho_b.jpg", source:"https://charahiroba.com/"},
+{series:"esuta", name:"エスターバニー すまほストッパーフィギュア", search:"えすたーばにー", type:"", price:300, date:"2026-08-06", img:"images/esuta/sumaho_c.jpg", source:"https://charahiroba.com/"},
+{series:"umamusume", name:"アニメ『ウマ娘 シンデレラグレイ』 -Relax time-タマモクロス", search:"たまもくろす", type:"relax", price:600, date:"2026-08-06", img:"images/umamusume/tamamo_relax.jpg", source:"https://bsp-prize.jp/"},
+{series:"umamusume", name:"アニメ『ウマ娘 シンデレラグレイ』 -Relax time-オグリキャップ", search:"おぐりきゃっぷ", type:"relax", price:800, date:"2026-08-06", img:"images/umamusume/oguri_relax.jpg", source:"https://bsp-prize.jp/"},
+{series:"ante", name:"UNDERTALE あみこっと～ニンゲン～", search:"にんげん", type:"ami", price:600, date:"2026-08-06", img:"images/ante/nin_ami.jpg", source:"https://bsp-prize.jp/"},
+{series:"ante", name:"UNDERTALE あみこっと～トリエル～", search:"とりえる", type:"ami", price:600, date:"2026-08-06", img:"images/ante/tori_ami.jpg", source:"https://bsp-prize.jp/"},
 {series:"anohana", name:"あの日見た花の名前を僕達はまだ知らない。Yumemirize‐本間芽衣子‐", search:"ほんまめいこ", type:"yume", price:800, date:"2026-08-06", img:"images/anohana/menma_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"miku", name:"初音ミク ぬーどるストッパーフィギュア Flower Fairyー桔梗ー", search:"ききょう　はつねみく", type:"nusuto", price:800, date:"2026-08-05", img:"images/miku/kikyo_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"bad", name:"ばっどがーる ムチュートフィギュア―涼風 涼―", search:"すずかぜすず", type:"mutyu", price:800, date:"2026-08-05", img:"images/bad/suzu_mutyu.jpg", source:"https://charahiroba.com/"},

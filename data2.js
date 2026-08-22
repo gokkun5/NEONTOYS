@@ -681,7 +681,7 @@ window.figures2 = [
 {series:"rikorisu", name:"リコリス・リコイルLuminasta“錦木千束 ‐ 浴衣でお祭り”", search:"にしきぎちさと", type:"lum", price:400, date:"1899-12-30", img:"images/rikorisu/tisato_lum_yukata2.jpg", source:"https://segaplaza.jp/"},
 {series:"rikorisu", name:"リコリス・リコイルLuminasta“井ノ上たきな ‐ 浴衣でお祭り”", search:"いのうえたきな", type:"lum", price:350, date:"1899-12-30", img:"images/rikorisu/takina_lum_yukata2.jpg", source:"https://segaplaza.jp/"},
 {series:"meidoin", name:"メイドインアビス 烈日の黄金郷 -Relax time-ナナチ", search:"ななち", type:"relax", price:800, date:"1899-12-30", img:"images/meidoin/nanati_relax.jpg", source:"https://bsp-prize.jp/"},
-{series:"ante", name:"UNDERTALE あみこっと～うざいイヌ～", search:"うざいぬ", type:"", price:800, date:"1899-12-30", img:"images/ante/uzainu.jpg", source:"https://bsp-prize.jp/"},
+{series:"ante", name:"UNDERTALE あみこっと～うざいイヌ～", search:"うざいぬ", type:"ami", price:800, date:"1899-12-30", img:"images/ante/uzainu.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦 MAXIMATIC SATORU GOJO Ⅱ", search:"ごじょうさとる　五条悟", type:"ma", price:1000, date:"1899-12-30", img:"images/zyuzyutu/gozyo_ma2.jpg", source:"https://bsp-prize.jp/"},
 {series:"umamusume", name:"Trio-Try-iT Figure―アストンマーチャンー", search:"あすとんまーちゃん", type:"trio", price:750, date:"1899-12-30", img:"images/umamusume/asuton_trio.jpg", source:"https://charahiroba.com/"},
 {series:"gotoyome", name:"Trio-Try-iT Figureー中野五月・パステルドレスー", search:"なかのいつき", type:"trio", price:600, date:"1899-12-30", img:"images/gotoyome/ituki_trio_pasuteru.jpg", source:"https://charahiroba.com/"},
