@@ -2,7 +2,12 @@ window.figures3 = [
 
 
 
-
+{series:"anohana", name:"あの日見た花の名前を僕達はまだ知らない。Yumemirize‐本間芽衣子‐", search:"ほんまめいこ", type:"yume", price:800, date:"2026-08-06", img:"images/anohana/menma_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"miku", name:"初音ミク ぬーどるストッパーフィギュア Flower Fairyー桔梗ー", search:"ききょう　はつねみく", type:"nusuto", price:800, date:"2026-08-05", img:"images/miku/kikyo_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"bad", name:"ばっどがーる ムチュートフィギュア―涼風 涼―", search:"すずかぜすず", type:"mutyu", price:800, date:"2026-08-05", img:"images/bad/suzu_mutyu.jpg", source:"https://charahiroba.com/"},
+{series:"oba", name:"オーバーロード ムチュートフィギュアーアルベド・aqua ver.ー", search:"あるべど", type:"mutyu", price:800, date:"2026-08-05", img:"images/oba/aru_aqua_mutyu.jpg", source:"https://charahiroba.com/"},
+{series:"wanpi", name:"ワンピース Grandista-MARSHALL.D.TEACH-", search:"てぃーち　ティーチ　くろひげ　黒ひげ", type:"gra", price:800, date:"2026-08-04", img:"images/wanpi/kuro_gra.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース Grandista-MONKEY.D.LUFFY GEAR5-Ⅲ", search:"るふぃ　ルフィ　にか　ニカ", type:"gra", price:800, date:"2026-08-04", img:"images/wanpi/nika3_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"disny", name:"PIXAR Characters トイ・ストーリー フィグライフ!-アンディのおもちゃ箱-", search:"あんでぃのおもちゃばこ", type:"figl", price:600, date:"2026-08-04", img:"images/disny/omotyabako_figl.jpg", source:"https://bsp-prize.jp/"},
 {series:"disny", name:"PIXAR Characters トイ・ストーリー5 フィグライフ! -ハム-", search:"はむ", type:"figl", price:600, date:"2026-08-04", img:"images/disny/hamu_figl.jpg", source:"https://bsp-prize.jp/"},
 {series:"hant", name:"HUNTER×HUNTER HUNTING ARCHIVES キルア 神速", search:"きるあ　かんむる　カンムル", type:"hunt", price:900, date:"2026-08-04", img:"images/hant/kiru_hunt.jpg", source:"https://bsp-prize.jp/"},
