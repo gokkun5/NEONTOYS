@@ -424,7 +424,7 @@ window.figures1 = [
 {series:"sibo", name:"死亡遊戯で飯を食う。ちょこのせプレミアムフィギュア“幽鬼”", search:"ゆうき", type:"tyoko", price:1300, date:"1899-12-30", img:"images/sibo/yuki_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦懐玉・玉折FIGURIZMα“夏油傑”", search:"げとうすぐる", type:"fig", price:800, date:"1899-12-30", img:"images/zyuzyutu/geto_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"tyen", name:"チェンソーマン VIBRATION STARS-CHAINSAW MAN-Ⅱ", search:"ちぇんそーまん", type:"vib", price:2400, date:"1899-12-30", img:"images/tyen/tyen2_vib.jpg", source:"https://bsp-prize.jp/"},
-{series:"tyen", name:"劇場版『チェンソーマンレゼ篇』ハイプレミアムフィギュア“レゼ”", search:"れぜ", type:"hi", price:2200, date:"1899-12-30", img:"images/tyen/reze_hi.jpg", source:"https://segaplaza.jp/"},
+{series:"tyen", name:"劇場版『チェンソーマンレゼ篇』ハイプレミアムフィギュア“レゼ”", search:"れぜ", type:"hi", price:600, date:"2026-08-06", img:"images/tyen/reze_hi.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦懐玉・玉折Luminasta“伏黒甚爾”天与呪縛", search:"ふしぐろとうじ", type:"lum", price:1800, date:"1899-12-30", img:"images/zyuzyutu/tozi_tenyo.jpg", source:"https://segaplaza.jp/"},
 {series:"naruto", name:"-NARUTO 72 series- 26＆27 VIBRATION STARS-UZUMAKI NARUTO & UCHIHA SASUKE-", search:"うずまきナルト　なると", type:"72", price:800, date:"1899-12-30", img:"images/naruto/naruto26_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"haikyu", name:"ハイキュー!! ポージングフィギュア-宮 侑-", search:"みやあつむ", type:"", price:600, date:"1899-12-30", img:"images/haikyu/atumu.jpg", source:"https://bsp-prize.jp/"},

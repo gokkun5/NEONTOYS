@@ -2,6 +2,12 @@ window.figures3 = [
 
 
 
+
+{series:"gozira", name:"東宝怪獣シリーズ アートヴィネット モスラ（1996）", search:"もすら", type:"", price:400, date:"2026-08-06", img:"images/gozira/mosura_1996.jpg", source:"https://bsp-prize.jp/"},
+{series:"furi-ren", name:"TVアニメ『葬送のフリーレン』 ぬーどるストッパーフィギュア―しょぼしょぼなフリーレン―", search:"ふりーれん", type:"nusuto", price:600, date:"2026-08-06", img:"images/furi-ren/furi_syobo_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"furi-ren", name:"TVアニメ『葬送のフリーレン』 ぬーどるストッパーフィギュア―むっすーなフェルン―", search:"ふぇるん", type:"nusuto", price:600, date:"2026-08-06", img:"images/furi-ren/fe_musu_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"furi-ren", name:"TVアニメ『葬送のフリーレン』 ぬーどるストッパーフィギュア―しょぼしょぼなシュタルク―", search:"しゅたるく", type:"nusuto", price:600, date:"2026-08-06", img:"images/furi-ren/syuta_hie_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"sanrio", name:"サンリオキャラクターズ むにっとハートライト-ハローキティ-", search:"はろーきてぃ", type:"", price:600, date:"2026-08-06", img:"images/sanrio/kite_hato.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"【箱ver.】サンリオキャラクターズ おおきなSOFVIMATES～マイメロディ マーメイドver. ～", search:"まいめろでぃ", type:"sof", price:600, date:"2026-08-06", img:"images/sanrio/mai_ma_sof_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"sanrio", name:"【箱ver.】サンリオキャラクターズ おおきなSOFVIMATES～マイメロディ マーメイドver. ～", search:"まいめろでぃ", type:"sof", price:600, date:"2026-08-06", img:"images/sanrio/mai_ma_sof_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"kinniku", name:"『キン肉マン』 完璧超人始祖編 リアルフィギュア-テリーマン-", search:"てりーまん", type:"", price:400, date:"2026-08-06", img:"images/kinniku/teri.jpg", source:"https://bsp-prize.jp/"},
