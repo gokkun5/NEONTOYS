@@ -2,7 +2,11 @@ window.figures3 = [
 
 
 
-
+{series:"sanrio", name:"【箱ver.】サンリオキャラクターズ おおきなSOFVIMATES～マイメロディ マーメイドver. ～", search:"まいめろでぃ", type:"sof", price:600, date:"2026-08-06", img:"images/sanrio/mai_ma_sof_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"sanrio", name:"【箱ver.】サンリオキャラクターズ おおきなSOFVIMATES～マイメロディ マーメイドver. ～", search:"まいめろでぃ", type:"sof", price:600, date:"2026-08-06", img:"images/sanrio/mai_ma_sof_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"kinniku", name:"『キン肉マン』 完璧超人始祖編 リアルフィギュア-テリーマン-", search:"てりーまん", type:"", price:400, date:"2026-08-06", img:"images/kinniku/teri.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 プチっと灯りマス～煉獄杏寿郎・胡蝶しのぶ～", search:"こちょうしのぶ", type:"", price:600, date:"2026-08-06", img:"images/kimetu/sinobu_hikari.jpg", source:"https://bsp-prize.jp/"},
+{series:"kimetu", name:"アニメ「鬼滅の刃」 プチっと灯りマス～煉獄杏寿郎・胡蝶しのぶ～", search:"こちょうしのぶ", type:"", price:600, date:"2026-08-06", img:"images/kimetu/rengo_hikari.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュア-絆ノ装-伍拾弐ノ型", search:"恋雪　こゆき", type:"kizuna", price:800, date:"2026-08-06", img:"images/kimetu/kizuna52.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」 フィギュア-絆ノ装-伍拾壱ノ型", search:"狛治　はくじ", type:"kizuna", price:800, date:"2026-08-06", img:"images/kimetu/kizuna51.jpg", source:"https://bsp-prize.jp/"},
 {series:"kimetu", name:"アニメ「鬼滅の刃」Luminasta‐竈門炭治郎‐ヒノカミ神楽斜陽転身", search:"かまどたんじろう　しゃようてんしん", type:"lum", price:800, date:"2026-08-06", img:"images/kimetu/tan_sya_lum.jpg", source:"https://segaplaza.jp/"},
