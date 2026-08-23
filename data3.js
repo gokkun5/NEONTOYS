@@ -1,8 +1,11 @@
 window.figures3 = [
 
 
-
-
+{series:"disny", name:"PIXAR Characters トイ・ストーリー 光るフィギュア～エイリアン～", search:"えいりあん", type:"", price:400, date:"2026-08-06", img:"images/disny/eiri_raito.jpg", source:"https://bsp-prize.jp/"},
+{series:"hant", name:"HUNTER×HUNTER フィグライフ! ポットクリン", search:"ぽっとくりん", type:"figl", price:1000, date:"2026-08-06", img:"images/hant/potto_figl.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"初音ミクシリーズLuminasta“初音ミク”ConceptualseriesVol.1南国Ver.", search:"なんごく　はつねみく", type:"", price:600, date:"2026-08-06", img:"images/miku/co_s_re.jpg", source:"https://segaplaza.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 雷影・エーフィギュア～五影集結…!!～", search:"", type:"", price:700, date:"2026-08-06", img:"images/naruto/e_hokage.jpg", source:"https://bsp-prize.jp/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 火影・綱手フィギュア～五影集結…!!～", search:"つなで", type:"", price:700, date:"2026-08-06", img:"images/naruto/tuna_hokage.jpg", source:"https://bsp-prize.jp/"},
 {series:"gozira", name:"東宝怪獣シリーズ アートヴィネット モスラ（1996）", search:"もすら", type:"", price:400, date:"2026-08-06", img:"images/gozira/mosura_1996.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"TVアニメ『葬送のフリーレン』 ぬーどるストッパーフィギュア―しょぼしょぼなフリーレン―", search:"ふりーれん", type:"nusuto", price:600, date:"2026-08-06", img:"images/furi-ren/furi_syobo_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"furi-ren", name:"TVアニメ『葬送のフリーレン』 ぬーどるストッパーフィギュア―むっすーなフェルン―", search:"ふぇるん", type:"nusuto", price:600, date:"2026-08-06", img:"images/furi-ren/fe_musu_nusuto.jpg", source:"https://charahiroba.com/"},
