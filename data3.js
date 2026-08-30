@@ -1,5 +1,15 @@
 window.figures3 = [
 
+
+
+{series:"sonota", name:"『ted event series』 おおきなSOFVIMATES～テッド～", search:"てっど", type:"sof", price:400, date:"2026-08-25", img:"images/sonota/ted_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"sonota", name:"超宇宙刑事ギャバン インフィニティポージングBIGソフビフィギュア-ギャバン・インフィニティ-", search:"ちょううちゅうけいじぎゃばん", type:"", price:400, date:"2026-08-25", img:"images/sonota/gyaba_big.jpg", source:"https://bsp-prize.jp/"},
+{series:"kinniku", name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-キン肉マン 戦闘服ver.-", search:"きんにくまん　せんとうふく", type:"", price:500, date:"2026-08-25", img:"images/kinniku/sento.jpg", source:"https://bsp-prize.jp/"},
+{series:"gundam", name:"『機動戦士Gundam GQuuuuuuX』 シャリア・ブル フィギュア", search:"しゃりあぶる", type:"", price:300, date:"2026-08-25", img:"images/gundam/syari.jpg", source:"https://bsp-prize.jp/"},
+{series:"gundam", name:"『機動戦士Gundam GQuuuuuuX』 シャア・アズナブル フィギュア", search:"しゃああずなぶる", type:"", price:300, date:"2026-08-25", img:"images/gundam/sya.jpg", source:"https://bsp-prize.jp/"},
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス　Aqua Float Girls フィギュア　ナナ", search:"なな", type:"aqua", price:600, date:"2026-08-22", img:"images/tora/nana_aqua.jpg", source:"https://www.taito.co.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　タオルホルダー　ミミック＆ひとくいばこ　ミミック", search:"みみっく", type:"", price:500, date:"2026-08-22", img:"images/dorakue/mimi_taoru.jpg", source:"https://www.taito.co.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　タオルホルダー　ミミック＆ひとくいばこ　ひとくいばこ", search:"ひとくいばこ", type:"", price:500, date:"2026-08-22", img:"images/dorakue/hito_taoru.jpg", source:"https://www.taito.co.jp/"},
 {series:"konosuba", name:"この素晴らしい世界に祝福を！　Coreful フィギュア　めぐみん～水着ver.～Renewal", search:"めぐみん", type:"core", price:500, date:"2026-08-22", img:"images/konosuba/megu_mizu_re.jpg", source:"https://www.taito.co.jp/"},
 {series:"konosuba", name:"この素晴らしい世界に祝福を！　Coreful フィギュア　めぐみん～水着ver.～Renewal（タイクレ限定）", search:"めぐみん", type:"core", price:500, date:"2026-08-22", img:"images/konosuba/megu_mizu_re_taikure.jpg", source:"https://www.taito.co.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活 MeloDoll Figureーレム・ブライズメイドー", search:"れむ", type:"melo", price:400, date:"2026-08-21", img:"images/rezero/remu_mero2.jpg", source:"https://charahiroba.com/"},
