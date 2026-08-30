@@ -1,5 +1,10 @@
 window.figures3 = [
 
+
+{series:"repu", name:"レプリカだって、恋をする。 ぬーどるストッパーフィギュアーナオー", search:"なお", type:"nusuto", price:400, date:"2026-08-08", img:"images/repu/nao_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"sonota", name:"TVアニメ『増田こうすけ劇場 ギャグマンガ日和GO』 ぬーどるストッパーフィギュアー聖徳太子ー", search:"しょうとくたいし", type:"nusuto", price:300, date:"2026-08-08", img:"images/sonota/taisi_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 フィギュア うちはマダラ～GiGOグループのお店限定～", search:"うちはまだら", type:"", price:1500, date:"2026-08-08", img:"images/naruto/madara_gigo.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyuzyutu", name:"TVアニメ『呪術廻戦』 Trio-Try-iT Figureー伏黒恵ー", search:"ふしぐろめぐみ", type:"trio", price:500, date:"2026-08-08", img:"images/zyuzyutu/megu_trio.jpg", source:"https://charahiroba.com/"},
 {series:"rakisuta", name:"らき☆すた　Vivitフィギュア 柊かがみ", search:"ひいらぎかがみ", type:"vivi", price:700, date:"2026-08-07", img:"images/rakisuta/kaga_vivi.jpg", source:"http://www.fans.co.jp/"},
 {series:"rakisuta", name:"らき☆すた　Vivitフィギュア 柊つかさ", search:"ひいらぎつかさ", type:"vivi", price:700, date:"2026-08-07", img:"images/rakisuta/tuka_vivi.jpg", source:"http://www.fans.co.jp/"},
 {series:"tikawa", name:"映画ちいかわ 人魚の島のひみつ ゆらゆらソーラー うさぎ", search:"うさぎ", type:"", price:800, date:"2026-08-07", img:"images/tikawa/usa_yura.jpg", source:"https://www.parade-inc.net/"},
