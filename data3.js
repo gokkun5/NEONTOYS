@@ -1,7 +1,9 @@
 window.figures3 = [
 
-
-
+{series:"madomagi", name:"魔法少女まどか☆マギカ ぬーどるストッパーフィギュアー暁美ほむらー", search:"あけみほむら", type:"nusuto", price:800, date:"2026-08-20", img:"images/madomagi/homu_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TSUYU ASUI＆KYOKA JIRO-", search:"耳郎響香　じろうきょうか", type:"gli", price:800, date:"2026-08-20", img:"images/hiro/ziro_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"ムチュートフィギュア ーレーシングミク2025 セパンVer.ー", search:"初音ミク　はつねみく　れーしんぐみく", type:"mutyu", price:600, date:"2026-08-20", img:"images/miku/resi_2025_se.jpg", source:"https://charahiroba.com/"},
+{series:"hora", name:"DEATH STRANDING 2: ON THE BEACH ぐらぐらバランスポーター", search:"", type:"", price:500, date:"2026-08-20", img:"images/hora/guragura.jpg", source:"https://bsp-prize.jp/"},
 {series:"disny", name:"トイ・ストーリー パッケージフィギュアコレクション ーウッディー", search:"うっでぃ", type:"", price:500, date:"2026-08-20", img:"images/disny/ude_pake.jpg", source:"https://charahiroba.com/"},
 {series:"keroro", name:"ケロロ軍曹 共鳴するであります～タママ二等兵～", search:"たままにとうへい", type:"", price:800, date:"2026-08-20", img:"images/keroro/tama_kyomei.jpg", source:"https://bsp-prize.jp/"},
 {series:"keroro", name:"ケロロ軍曹 共鳴するであります～クルル曹長～", search:"くるるそうちょう", type:"", price:800, date:"2026-08-20", img:"images/keroro/kuru_kyomei.jpg", source:"https://bsp-prize.jp/"},

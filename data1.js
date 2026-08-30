@@ -19,7 +19,7 @@ window.figures1 = [
 {series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-MEI HATSUME-", search:"はつねめい　発目明", type:"gli", price:800, date:"1899-12-30", img:"images/hiro/hatume_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア GLITTER＆GLAMOURS-HIMIKO TOGA-", search:"とがひみこ　トガヒミコ", type:"gli", price:800, date:"1899-12-30", img:"images/hiro/toga2_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-NEJIRE HADO-", search:"はどうねじれ　波動ねじれ", type:"gli", price:800, date:"1899-12-30", img:"images/hiro/nezire_gli.jpg", source:"https://bsp-prize.jp/"},
-{series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TSUYU ASUI-", search:"あすいつゆ　蛙吹梅雨", type:"gli", price:600, date:"2025-10-23", img:"images/hiro/tuyu_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TSUYU ASUI-", search:"あすいつゆ　蛙吹梅雨", type:"gli", price:600, date:"2026-08-20", img:"images/hiro/tuyu_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TORU HAGAKURE-", search:"はがくれとおる　葉隠透", type:"gli", price:1000, date:"2025-12-18", img:"images/hiro/hagakure_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア GLITTER＆GLAMOURS-OCHACO URARAKA＆HIMIKO TOGA-", search:"うららかおちゃこ　麗日お茶子", type:"gli", price:800, date:"1899-12-30", img:"images/hiro/otyako_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア GLITTER＆GLAMOURS-OCHACO URARAKA＆HIMIKO TOGA-", search:"とがひみこ　トガヒミコ", type:"gli", price:700, date:"1899-12-30", img:"images/hiro/toga_gli.jpg", source:"https://bsp-prize.jp/"},
