@@ -1,7 +1,10 @@
 window.figures3 = [
 
-
-
+{series:"kamen", name:"仮面ライダーアギト ポージングBIGソフビフィギュア", search:"かめんらいだーあぎと", type:"", price:500, date:"2026-08-20", img:"images/kamen/agito_fig.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"帰ってきたウルトラマン 英雄勇像 ウルトラマンジャック", search:"うるとらまんじゃっく", type:"", price:1000, date:"2026-08-20", img:"images/uru/zyakku.jpg", source:"https://bsp-prize.jp/"},
+{series:"kaizi", name:"カイジシリーズ ぬーどるストッパーフィギュアー利根川ー", search:"とねがわ", type:"nusuto", price:400, date:"2026-08-20", img:"images/kaizi/tone_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"buri", name:"BLEACH MAXIMATIC KENPACHI ZARAKI", search:"更木剣八　ざらきけんぱち", type:"ma", price:1000, date:"2026-08-18", img:"images/buri/ken_ma.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボール超 G×materia GOGETA", search:"ゴジータ　ごじーた", type:"gma", price:600, date:"2026-08-18", img:"images/db/gozi_gma.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ MATCH MAKERS 超サイヤ人ゴテンクス（VS魔人ブウ）", search:"すーぱーさいやじんごてんくす", type:"mat", price:600, date:"2026-08-18", img:"images/db/gote_mat_bu.jpg", source:"https://bsp-prize.jp/"},
 {series:"db", name:"ドラゴンボールZ MATCH MAKERS 魔人ブウ（VS超サイヤ人ゴテンクス）", search:"まじんぶう", type:"mat", price:600, date:"2026-08-18", img:"images/db/bu_mat_gote.jpg", source:"https://bsp-prize.jp/"},
 {series:"dandadan", name:"TVアニメ『ダンダダン』 おおきなSOFVIMATES～セルポ星人～", search:"せるぽせいじん", type:"sof", price:400, date:"2026-08-18", img:"images/dandadan/seru_sof.jpg", source:"https://bsp-prize.jp/"},
