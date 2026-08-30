@@ -1,5 +1,12 @@
 window.figures3 = [
 
+
+
+{series:"disny", name:"トイ・ストーリー パッケージフィギュアコレクション ーウッディー", search:"うっでぃ", type:"", price:500, date:"2026-08-20", img:"images/disny/ude_pake.jpg", source:"https://charahiroba.com/"},
+{series:"keroro", name:"ケロロ軍曹 共鳴するであります～タママ二等兵～", search:"たままにとうへい", type:"", price:800, date:"2026-08-20", img:"images/keroro/tama_kyomei.jpg", source:"https://bsp-prize.jp/"},
+{series:"keroro", name:"ケロロ軍曹 共鳴するであります～クルル曹長～", search:"くるるそうちょう", type:"", price:800, date:"2026-08-20", img:"images/keroro/kuru_kyomei.jpg", source:"https://bsp-prize.jp/"},
+{series:"keroro", name:"ケロロ軍曹 共鳴するであります～ドロロ兵長～", search:"どろろへいちょう", type:"", price:800, date:"2026-08-20", img:"images/keroro/doro_kyomei.jpg", source:"https://bsp-prize.jp/"},
+{series:"2banme", name:"クラスで2番目に可愛い女の子と友だちになった ムチュートフィギュアー朝凪海ー", search:"あさなぎうみ", type:"mutyu", price:400, date:"2026-08-20", img:"images/2banme/umi_mutyu.jpg", source:"https://charahiroba.com/"},
 {series:"kamen", name:"仮面ライダーアギト ポージングBIGソフビフィギュア", search:"かめんらいだーあぎと", type:"", price:500, date:"2026-08-20", img:"images/kamen/agito_fig.jpg", source:"https://bsp-prize.jp/"},
 {series:"uru", name:"帰ってきたウルトラマン 英雄勇像 ウルトラマンジャック", search:"うるとらまんじゃっく", type:"", price:1000, date:"2026-08-20", img:"images/uru/zyakku.jpg", source:"https://bsp-prize.jp/"},
 {series:"kaizi", name:"カイジシリーズ ぬーどるストッパーフィギュアー利根川ー", search:"とねがわ", type:"nusuto", price:400, date:"2026-08-20", img:"images/kaizi/tone_nusuto.jpg", source:"https://charahiroba.com/"},
