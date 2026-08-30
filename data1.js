@@ -930,7 +930,7 @@ window.figures1 = [
 {series:"sonota", name:"どこでもいっしょ SOFVIMATES～トロ～", search:"とろ", type:"", price:800, date:"2025-07-17", img:"images/sonota/toro.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア ログストーリーズ-ポートガス・D・エースVSマーシャル・D・ティーチ-", search:"えーす　くろひげ", type:"wacf", price:800, date:"2025-07-29", img:"images/wanpi/ace_kurohige.jpg", source:"https://bsp-prize.jp/"},
 {series:"sakura", name:"カードキャプターさくら おおきなSOFVIMATES～おすわりケロちゃん～", search:"けろちゃん", type:"sof", price:600, date:"2024-12-12", img:"images/sakura/kero_sof.jpg", source:"https://bsp-prize.jp/"},
-{series:"nikke", name:"勝利の女神：NIKKE　ぬーどるストッパーフィギュアードロシー ノスタルジアー", search:"どろしー", type:"nusuto", price:800, date:"1899-12-30", img:"images/nikke/dorosi_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"nikke", name:"勝利の女神：NIKKE　ぬーどるストッパーフィギュアードロシー ノスタルジアー", search:"どろしー", type:"nusuto", price:800, date:"2026-08-07", img:"images/nikke/dorosi_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"zyozyo", name:"ジョジョの奇妙な冒険 スターダストクルセイダース イギールームライト", search:"いぎー", type:"", price:500, date:"2025-08-07", img:"images/zyozyo/igi_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"mono", name:"TVアニメ「mono」ちょこのせプレミアムフィギュア“秋山春乃”", search:"あきやまはるの", type:"tyoko", price:500, date:"1899-12-30", img:"images/mono/haruno_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"wanpi", name:"ワンピース メガワールドコレクタブルフィギュア-ゴッドバレー事件 エドワード・ニューゲート-", search:"えどわーどにゅーげーと　しろひげ　白ひげ", type:"wcf", price:600, date:"2026-04-14", img:"images/wanpi/sirohige_wcf.jpg", source:"https://bsp-prize.jp/"},

@@ -1,6 +1,18 @@
 window.figures3 = [
 
-
+{series:"rakisuta", name:"らき☆すた　Vivitフィギュア 柊かがみ", search:"ひいらぎかがみ", type:"vivi", price:700, date:"2026-08-07", img:"images/rakisuta/kaga_vivi.jpg", source:"http://www.fans.co.jp/"},
+{series:"rakisuta", name:"らき☆すた　Vivitフィギュア 柊つかさ", search:"ひいらぎつかさ", type:"vivi", price:700, date:"2026-08-07", img:"images/rakisuta/tuka_vivi.jpg", source:"http://www.fans.co.jp/"},
+{series:"tikawa", name:"映画ちいかわ 人魚の島のひみつ ゆらゆらソーラー うさぎ", search:"うさぎ", type:"", price:800, date:"2026-08-07", img:"images/tikawa/usa_yura.jpg", source:"https://www.parade-inc.net/"},
+{series:"tikawa", name:"映画ちいかわ 人魚の島のひみつ ゆらゆらソーラー ちいかわ", search:"ちいかわ", type:"", price:800, date:"2026-08-07", img:"images/tikawa/ti_yura.jpg", source:"https://www.parade-inc.net/"},
+{series:"tikawa", name:"映画ちいかわ 人魚の島のひみつ ゆらゆらソーラー はちわれ", search:"はちわれ", type:"", price:800, date:"2026-08-07", img:"images/tikawa/hati_yura.jpg", source:"https://www.parade-inc.net/"},
+{series:"tikawa", name:"映画ちいかわ 人魚の島のひみつ ゆらゆらソーラー シーサー", search:"しーさー", type:"", price:800, date:"2026-08-07", img:"images/tikawa/sisa_yura.jpg", source:"https://www.parade-inc.net/"},
+{series:"tikawa", name:"映画ちいかわ 人魚の島のひみつ ゆらゆらソーラー らっこ", search:"らっこ", type:"", price:800, date:"2026-08-07", img:"images/tikawa/sisyo_yura.jpg", source:"https://www.parade-inc.net/"},
+{series:"tikawa", name:"映画ちいかわ 人魚の島のひみつ ゆらゆらソーラー くりまんじゅう", search:"くりまんじゅう", type:"", price:800, date:"2026-08-07", img:"images/tikawa/kuri_yura.jpg", source:"https://www.parade-inc.net/"},
+{series:"tikawa", name:"映画ちいかわ 人魚の島のひみつ ゆらゆらソーラー 古本屋", search:"ふるほんや", type:"", price:800, date:"2026-08-07", img:"images/tikawa/kani_yura.jpg", source:"https://www.parade-inc.net/"},
+{series:"tikawa", name:"映画ちいかわ 人魚の島のひみつ ゆらゆらソーラー モモンガ", search:"ももんが", type:"", price:800, date:"2026-08-07", img:"images/tikawa/momo_yura.jpg", source:"https://www.parade-inc.net/"},
+{series:"inu", name:"犬夜叉（原作） Trio-Try-iT Figureー犬夜叉ー", search:"いぬやしゃ", type:"trio", price:800, date:"2026-08-07", img:"images/inu/inu_trio.jpg", source:"https://charahiroba.com/"},
+{series:"wanpi", name:"『ワンピース』 サウザンド・サニー号 リモコンカー", search:"さうざんとさにーごう", type:"", price:400, date:"2026-08-06", img:"images/wanpi/sani_rimokon.jpg", source:"https://bsp-prize.jp/"},
+{series:"hiro", name:"『僕のヒーローアカデミア』 Fluffy Puffy ～デクシープ＆バクドック＆オールマイゴート～", search:"おーるまいごーと", type:"ful", price:500, date:"2026-08-06", img:"images/hiro/goat.jpg", source:"https://bsp-prize.jp/"},
 {series:"disny", name:"PIXAR Characters トイ・ストーリー 光るフィギュア～エイリアン～", search:"えいりあん", type:"", price:400, date:"2026-08-06", img:"images/disny/eiri_raito.jpg", source:"https://bsp-prize.jp/"},
 {series:"hant", name:"HUNTER×HUNTER フィグライフ! ポットクリン", search:"ぽっとくりん", type:"figl", price:1000, date:"2026-08-06", img:"images/hant/potto_figl.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミクシリーズLuminasta“初音ミク”ConceptualseriesVol.1南国Ver.", search:"なんごく　はつねみく", type:"", price:600, date:"2026-08-06", img:"images/miku/co_s_re.jpg", source:"https://segaplaza.jp/"},
