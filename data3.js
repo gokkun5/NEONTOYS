@@ -1,6 +1,11 @@
 window.figures3 = [
 
-
+{series:"konosuba", name:"この素晴らしい世界に祝福を！　Coreful フィギュア　めぐみん～水着ver.～Renewal", search:"めぐみん", type:"core", price:500, date:"2026-08-22", img:"images/konosuba/megu_mizu_re.jpg", source:"https://www.taito.co.jp/"},
+{series:"konosuba", name:"この素晴らしい世界に祝福を！　Coreful フィギュア　めぐみん～水着ver.～Renewal（タイクレ限定）", search:"めぐみん", type:"core", price:500, date:"2026-08-22", img:"images/konosuba/megu_mizu_re_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 MeloDoll Figureーレム・ブライズメイドー", search:"れむ", type:"melo", price:400, date:"2026-08-21", img:"images/rezero/remu_mero2.jpg", source:"https://charahiroba.com/"},
+{series:"buruaka", name:"ブルーアーカイブXStellar‐セイア（水着）‐", search:"せいあ", type:"xs", price:800, date:"2026-08-21", img:"images/buruaka/seia_xs.jpg", source:"https://segaplaza.jp/"},
+{series:"vsupo", name:"ぶいすぽっ！デフォルメフィギュアvol.7 ～GiGO限定～ 八雲べに", search:"やくもべに　八雲べに", type:"", price:800, date:"2026-08-21", img:"images/vsupo/beni_gigo_defo.jpg", source:"https://www.gigo.co.jp/prizes"},
+{series:"vsupo", name:"ぶいすぽっ！デフォルメフィギュアvol.7 ～GiGO限定～ 夢野あかり", search:"ゆめのあかり　夢野あかり", type:"", price:800, date:"2026-08-21", img:"images/vsupo/aka_gigo_defo.jpg", source:"https://www.gigo.co.jp/prizes"},
 {series:"baki", name:"刃牙道Luminasta‐範馬勇次郎‐", search:"はんまゆうじろう", type:"lum", price:700, date:"2026-08-21", img:"images/baki/yuzi_lum.jpg", source:"https://segaplaza.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　キングスライムの提灯", search:"きんぐすらいむ", type:"", price:500, date:"2026-08-21", img:"images/dorakue/king_tyo.jpg", source:"https://www.taito.co.jp/"},
 {series:"kisekoi", name:"その着せ替え人形は恋をする　Vivitフィギュア 喜多川海夢 探偵Ver.", search:"きたがわまりん", type:"vivi", price:600, date:"2026-08-21", img:"images/kisekoi/tantei_vivi_gre.jpg", source:"http://www.fans.co.jp/"},
