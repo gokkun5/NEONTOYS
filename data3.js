@@ -1,6 +1,14 @@
 window.figures3 = [
 
 
+
+{series:"db", name:"ドラゴンボールZ MATCH MAKERS 超サイヤ人ゴテンクス（VS魔人ブウ）", search:"すーぱーさいやじんごてんくす", type:"mat", price:600, date:"2026-08-18", img:"images/db/gote_mat_bu.jpg", source:"https://bsp-prize.jp/"},
+{series:"db", name:"ドラゴンボールZ MATCH MAKERS 魔人ブウ（VS超サイヤ人ゴテンクス）", search:"まじんぶう", type:"mat", price:600, date:"2026-08-18", img:"images/db/bu_mat_gote.jpg", source:"https://bsp-prize.jp/"},
+{series:"dandadan", name:"TVアニメ『ダンダダン』 おおきなSOFVIMATES～セルポ星人～", search:"せるぽせいじん", type:"sof", price:400, date:"2026-08-18", img:"images/dandadan/seru_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"mazyotabi", name:"魔女の旅々　Coreful フィギュア　イレイナ～水着ver.～Renewal", search:"いれいな", type:"core", price:600, date:"2026-08-15", img:"images/mazyotabi/mizugi_core_re.jpg", source:"https://www.taito.co.jp/"},
+{series:"mazyotabi", name:"魔女の旅々　Coreful フィギュア　イレイナ～水着ver.～Renewal（タイクレ限定）", search:"いれいな", type:"core", price:800, date:"2026-08-15", img:"images/mazyotabi/mizugi_core_re_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"sonota", name:"新幹線変形ロボ シンカリオン デフォルメソフビフィギュア ～GiGO限定～", search:"しんかんせんへんけいろぼしんかりおん　しんかりおん", type:"", price:800, date:"2026-08-15", img:"images/sonota/sinka_a.jpg", source:"https://www.gigo.co.jp/prizes"},
+{series:"sonota", name:"新幹線変形ロボ シンカリオン デフォルメソフビフィギュア ～GiGO限定～", search:"しんかんせんへんけいろぼしんかりおん　しんかりおん", type:"", price:800, date:"2026-08-15", img:"images/sonota/sinka_b.jpg", source:"https://www.gigo.co.jp/prizes"},
 {series:"repu", name:"レプリカだって、恋をする。 ぬーどるストッパーフィギュアーナオー", search:"なお", type:"nusuto", price:400, date:"2026-08-08", img:"images/repu/nao_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"sonota", name:"TVアニメ『増田こうすけ劇場 ギャグマンガ日和GO』 ぬーどるストッパーフィギュアー聖徳太子ー", search:"しょうとくたいし", type:"nusuto", price:300, date:"2026-08-08", img:"images/sonota/taisi_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 フィギュア うちはマダラ～GiGOグループのお店限定～", search:"うちはまだら", type:"", price:1500, date:"2026-08-08", img:"images/naruto/madara_gigo.jpg", source:"https://bsp-prize.jp/"},
