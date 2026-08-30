@@ -1,5 +1,10 @@
 window.figures3 = [
 
+
+{series:"baki", name:"刃牙道Luminasta‐範馬勇次郎‐", search:"はんまゆうじろう", type:"lum", price:700, date:"2026-08-21", img:"images/baki/yuzi_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　キングスライムの提灯", search:"きんぐすらいむ", type:"", price:500, date:"2026-08-21", img:"images/dorakue/king_tyo.jpg", source:"https://www.taito.co.jp/"},
+{series:"kisekoi", name:"その着せ替え人形は恋をする　Vivitフィギュア 喜多川海夢 探偵Ver.", search:"きたがわまりん", type:"vivi", price:600, date:"2026-08-21", img:"images/kisekoi/tantei_vivi_gre.jpg", source:"http://www.fans.co.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦Luminasta‐七海建人‐共闘ブラシアップVer.", search:"ななみけんと", type:"lum", price:1200, date:"2026-08-20", img:"images/zyuzyutu/nanami_lum_bura.jpg", source:"https://segaplaza.jp/"},
 {series:"madomagi", name:"魔法少女まどか☆マギカ ぬーどるストッパーフィギュアー暁美ほむらー", search:"あけみほむら", type:"nusuto", price:800, date:"2026-08-20", img:"images/madomagi/homu_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TSUYU ASUI＆KYOKA JIRO-", search:"耳郎響香　じろうきょうか", type:"gli", price:800, date:"2026-08-20", img:"images/hiro/ziro_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"ムチュートフィギュア ーレーシングミク2025 セパンVer.ー", search:"初音ミク　はつねみく　れーしんぐみく", type:"mutyu", price:600, date:"2026-08-20", img:"images/miku/resi_2025_se.jpg", source:"https://charahiroba.com/"},
