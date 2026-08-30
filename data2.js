@@ -92,7 +92,7 @@ window.figures2 = [
 {series:"kuresin", name:"クレヨンしんちゃん おおきなSOFVIMATES～野原しんのすけ～うんちのコスプレ", search:"のはらしんのすけ", type:"sof", price:500, date:"2026-05-21", img:"images/kuresin/unti_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"クレヨンしんちゃん おおきなSOFVIMATES～野原しんのすけ～うんちのコスプレ", search:"のはらしんのすけ", type:"sof", price:500, date:"2026-05-21", img:"images/kuresin/unti_c.jpg", source:"https://bsp-prize.jp/"},
 {series:"toho", name:"ぬーどるストッパーフィギュアー洩矢諏訪子ー", search:"もりやすわこ", type:"nusuto", price:900, date:"2026-05-21", img:"images/toho/suwako_nusuto.jpg", source:"https://charahiroba.com/"},
-{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 鹿目まどか フィギュア", search:"かなめまどか", type:"", price:1000, date:"2026-05-21", img:"images/madomagi/madoka_kaiten.jpg", source:"https://bsp-prize.jp/"},
+{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 鹿目まどか フィギュア", search:"かなめまどか", type:"", price:1000, date:"2026-08-25", img:"images/madomagi/madoka_kaiten.jpg", source:"https://bsp-prize.jp/"},
 {series:"sonota", name:"ねこに転生したおじさん おおきなSOFVIMATES～プンちゃん～", search:"ねこにてんせいしたおじさん", type:"sof", price:300, date:"1899-12-30", img:"images/sonota/neko.jpg", source:"https://bsp-prize.jp/"},
 {series:"nintama", name:"忍たま乱太郎 ぬーどるストッパーフィギュアー雑渡昆奈門ー", search:"ざっとこんなもん", type:"nusuto", price:300, date:"1899-12-30", img:"images/nintama/zatto_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"kamen", name:"仮面ライダーカブト BIGサイズソフビ マスクディスプレイ-カブト-", search:"かめんらいだーかぶと", type:"", price:300, date:"1899-12-30", img:"images/kamen/kabuto.jpg", source:"https://bsp-prize.jp/"},

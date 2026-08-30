@@ -1,7 +1,11 @@
 window.figures3 = [
 
 
-
+{series:"oreimo", name:"俺の妹がこんなに可愛いわけがない。 ムチュートフィギュアー高坂桐乃ー", search:"こうさかきりの", type:"mutyu", price:800, date:"2026-08-26", img:"images/oreimo/kirino_mutyu.jpg", source:"https://charahiroba.com/"},
+{series:"wanpi", name:"ワンピース CROSS POSING-MONKEY.D.LUFFY-", search:"ルフィ　るふぃ", type:"cross", price:600, date:"2026-08-25", img:"images/wanpi/rufi_cross_eneru.jpg", source:"https://bsp-prize.jp/"},
+{series:"wanpi", name:"ワンピース CROSS POSING-ENEL-", search:"えねる　エネル", type:"cross", price:600, date:"2026-08-25", img:"images/wanpi/eneru_cross_rufi.jpg", source:"https://bsp-prize.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア THE AMAZING HEROES-DX-IZUKU MIDORIYA OVERLAY Ⅱ", search:"緑谷出久　みどりやいずく　デク　でく", type:"ame", price:600, date:"2026-08-25", img:"images/hiro/deku_kuro2.jpg", source:"https://bsp-prize.jp/"},
+{series:"baki", name:"刃牙 Grandistaッッ!!-HANMA BAKI-", search:"はんまばき　範馬刃牙", type:"gra", price:600, date:"2026-08-25", img:"images/baki/baki_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"sonota", name:"『ted event series』 おおきなSOFVIMATES～テッド～", search:"てっど", type:"sof", price:400, date:"2026-08-25", img:"images/sonota/ted_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"sonota", name:"超宇宙刑事ギャバン インフィニティポージングBIGソフビフィギュア-ギャバン・インフィニティ-", search:"ちょううちゅうけいじぎゃばん", type:"", price:400, date:"2026-08-25", img:"images/sonota/gyaba_big.jpg", source:"https://bsp-prize.jp/"},
 {series:"kinniku", name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-キン肉マン 戦闘服ver.-", search:"きんにくまん　せんとうふく", type:"", price:500, date:"2026-08-25", img:"images/kinniku/sento.jpg", source:"https://bsp-prize.jp/"},
@@ -324,7 +328,7 @@ window.figures3 = [
 {series:"kimetu", name:"アニメ「鬼滅の刃」 VIBRATION STARS-猗窩座・狛治-", search:"はくじ", type:"vib", price:1000, date:"2026-06-25", img:"images/kimetu/hakuzi_akaza_vib.jpg", source:"https://bsp-prize.jp/"},
 {series:"uru", name:"ウルトラマンシリーズ 豪塊 キングジョー", search:"きんぐじょー", type:"", price:1100, date:"2026-06-25", img:"images/uru/kingzyo.jpg", source:"https://bsp-prize.jp/"},
 {series:"uru", name:"ウルトラマンシリーズ 豪塊 キングジョー", search:"きんぐじょー", type:"", price:1100, date:"2026-06-25", img:"images/uru/kingzyo_b.jpg", source:"https://bsp-prize.jp/"},
-{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 佐倉杏子 フィギュア", search:"さくらきょうこ", type:"", price:1000, date:"2026-06-23", img:"images/madomagi/kyoko_kaiten.jpg", source:"https://bsp-prize.jp/"},
+{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 佐倉杏子 フィギュア", search:"さくらきょうこ", type:"", price:800, date:"2026-08-25", img:"images/madomagi/kyoko_kaiten.jpg", source:"https://bsp-prize.jp/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Memorable Saga Special-うちはサスケ-", search:"うちはさすけ", type:"memo", price:1100, date:"2026-06-23", img:"images/naruto/sasuke3_memo.jpg", source:"https://bsp-prize.jp/"},
 {series:"kon", name:"けいおん！Yumemirize‐平沢唯‐", search:"ひらさわゆい", type:"yume", price:1000, date:"2026-06-26", img:"images/kon/yui_yume.jpg", source:"https://segaplaza.jp/"},
 {series:"kon", name:"けいおん！Yumemirize‐中野梓‐", search:"なかのあずさ", type:"yume", price:1000, date:"2026-06-26", img:"images/kon/azusa_yume.jpg", source:"https://segaplaza.jp/"},
@@ -398,9 +402,9 @@ window.figures3 = [
 {series:"wanpi", name:"ワンピース ワールドコレクタブルフィギュア SPECIAL サボVS五老星＆イム様", search:"さぼ　いむ", type:"wcf", price:500, date:"1899-12-30", img:"images/wanpi/sabo_imu_wcf.jpg", source:"https://bsp-prize.jp/"},
 {series:"dorakue", name:"ドラゴンクエスト　AM　とうぞくのカギで開く！宝箱", search:"たからばこ", type:"", price:600, date:"2026-05-30", img:"images/dorakue/takara.jpg", source:"https://www.taito.co.jp/"},
 {series:"buri", name:"BLEACH GLITTER&GLAMOURS-NEMU KUROTSUCHI-", search:"涅ネム　くろつちねむ", type:"gli", price:1100, date:"2026-06-18", img:"images/buri/nemu_gli.jpg", source:"https://bsp-prize.jp/"},
-{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 暁美ほむら フィギュア", search:"あけみほむら", type:"", price:1000, date:"2026-06-18", img:"images/madomagi/homura_kaiten.jpg", source:"https://bsp-prize.jp/"},
-{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 美樹さやか フィギュア", search:"みきさやか", type:"", price:800, date:"2026-06-18", img:"images/madomagi/sayaka_kaiten.jpg", source:"https://bsp-prize.jp/"},
-{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 巴マミ フィギュア", search:"ともえまみ", type:"", price:900, date:"2026-06-18", img:"images/madomagi/mami_kaiten.jpg", source:"https://bsp-prize.jp/"},
+{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 暁美ほむら フィギュア", search:"あけみほむら", type:"", price:1000, date:"2026-08-25", img:"images/madomagi/homura_kaiten.jpg", source:"https://bsp-prize.jp/"},
+{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 美樹さやか フィギュア", search:"みきさやか", type:"", price:600, date:"2026-08-25", img:"images/madomagi/sayaka_kaiten.jpg", source:"https://bsp-prize.jp/"},
+{series:"madomagi", name:"劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉 巴マミ フィギュア", search:"ともえまみ", type:"", price:600, date:"2026-08-25", img:"images/madomagi/mami_kaiten.jpg", source:"https://bsp-prize.jp/"},
 {series:"rakisuta", name:"Trio-Try-iT Figureー柊かがみー", search:"ひいらぎかがみ", type:"trio", price:1000, date:"2026-06-17", img:"images/rakisuta/kagami_trio.jpg", source:"https://charahiroba.com/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Grandista-HATAKE KAKASHI-Ⅱ", search:"はたけカカシ　はたけかかし", type:"gra", price:1000, date:"2026-06-18", img:"images/naruto/kakasi2_gra.jpg", source:"https://bsp-prize.jp/"},
 {series:"guru", name:"東京喰種 Grandista-KANEKI KEN Ⅱ-", search:"金木研　かねきけん", type:"gra", price:700, date:"2026-06-18", img:"images/guru/kaneki2_gra.jpg", source:"https://bsp-prize.jp/"},
