@@ -3,6 +3,12 @@ window.figures3 = [
 
 
 
+{series:"holo", name:"ホロライブ #hololive IF -Relax time-角巻わため", search:"つのまきわため", type:"relax", price:400, date:"2026-08-27", img:"images/holo/watame_relax.jpg", source:"https://bsp-prize.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TORU HAGAKURE＆MINA ASHIDO-　葉隠透", search:"はがくれとおる", type:"gli", price:800, date:"2026-08-27", img:"images/hiro/hagakure_gli2.jpg", source:"https://bsp-prize.jp/"},
+{series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TORU HAGAKURE＆MINA ASHIDO-　芦戸三奈", search:"あしどみな", type:"gli", price:800, date:"2026-08-27", img:"images/hiro/asido_gli.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"初音ミク BANPRESTO EVOLVE Classical tuning- 組曲「くるみ割り人形」より- フィギュア", search:"はつねみく　くるみわりにんぎょう", type:"bpev", price:600, date:"2026-08-27", img:"images/miku/kurumi_bpev.jpg", source:"https://bsp-prize.jp/"},
+{series:"pansuto", name:"New PANTY & STOCKING with GARTERBELT モニタートップフィギュア～Scanty and Kneesocks～　スキャンティ", search:"すきゃんてぃ　スキャンティ", type:"moni", price:500, date:"2026-08-27", img:"images/pansuto/sukya_moni.jpg", source:"https://bsp-prize.jp/"},
+{series:"pansuto", name:"New PANTY & STOCKING with GARTERBELT モニタートップフィギュア～Scanty and Kneesocks～　ニーソックス", search:"ニーソックス　にーそっくす", type:"moni", price:500, date:"2026-08-27", img:"images/pansuto/ni_moni.jpg", source:"https://bsp-prize.jp/"},
 {series:"pansuto", name:"New PANTY & STOCKING with GARTERBELT ぬーどるストッパーフィギュアーパンティー", search:"ぱんてぃー", type:"nusuto", price:600, date:"2026-08-27", img:"images/pansuto/panty_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"naruto", name:"NARUTO-ナルト- 疾風伝 Grandista-UCHIHA ITACHI-Ⅱ", search:"うちはイタチ　うちはいたち", type:"gra", price:1200, date:"2026-08-27", img:"images/naruto/itati_gra2.jpg", source:"https://bsp-prize.jp/"},
 {series:"tora", name:"To LOVEる-とらぶる-ダークネス にゃーるずこれくしょん モモ・ベリア・デビルーク", search:"ももべりあでびるーく", type:"", price:500, date:"2026-08-27", img:"images/tora/momo_nya.jpg", source:"https://bsp-prize.jp/"},
