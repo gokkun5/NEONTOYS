@@ -2,6 +2,11 @@ window.figures3 = [
 
 
 
+{series:"disny", name:"ディズニーキャラクター きゅむころ～プア～", search:"ぷあ", type:"", price:300, date:"2026-08-27", img:"images/disny/pua.jpg", source:"https://bsp-prize.jp/"},
+{series:"ramune", name:"TVアニメ『千歳くんはラムネ瓶のなか』 Trio-Try-iT Figureー七瀬 悠月ー", search:"ななせゆづき", type:"trio", price:400, date:"2026-08-27", img:"images/ramune/nanase_trio.jpg", source:"https://charahiroba.com/"},
+{series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 おおきなSOFVIMATES～てくてくポチタ～", search:"ぽちた", type:"sof", price:1000, date:"2026-08-27", img:"images/tyen/potita_sof.jpg", source:"https://bsp-prize.jp/"},
+{series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 Grandista-POWER-", search:"ぱわー　パワー", type:"gra", price:500, date:"2026-08-27", img:"images/tyen/pawa_gra.jpg", source:"https://bsp-prize.jp/"},
+{series:"dandadan", name:"TVアニメ『ダンダダン』GLITTER&GLAMOURS-モモ-", search:"もも", type:"gli", price:400, date:"2026-08-27", img:"images/dandadan/momo_gli.jpg", source:"https://bsp-prize.jp/"},
 {series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-j-hope-", search:"じぇいほーぷ", type:"", price:400, date:"2026-08-27", img:"images/tiny/jho_a.jpg", source:"https://bsp-prize.jp/"},
 {series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-j-hope-", search:"じぇいほーぷ", type:"", price:400, date:"2026-08-27", img:"images/tiny/jho_b.jpg", source:"https://bsp-prize.jp/"},
 {series:"tiny", name:"TinyTAN DNA モニタートップフィギュア‐SUGA-", search:"しゅが", type:"", price:400, date:"2026-08-27", img:"images/tiny/suga_a.jpg", source:"https://bsp-prize.jp/"},
