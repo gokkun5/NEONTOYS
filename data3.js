@@ -2,6 +2,11 @@ window.figures3 = [
 
 
 
+{series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-j-hope-", search:"じぇいほーぷ", type:"", price:400, date:"2026-08-27", img:"images/tiny/jho_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"tiny", name:"TinyTAN DNA モニタートップフィギュア-j-hope-", search:"じぇいほーぷ", type:"", price:400, date:"2026-08-27", img:"images/tiny/jho_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"tiny", name:"TinyTAN DNA モニタートップフィギュア‐SUGA-", search:"しゅが", type:"", price:400, date:"2026-08-27", img:"images/tiny/suga_a.jpg", source:"https://bsp-prize.jp/"},
+{series:"tiny", name:"TinyTAN DNA モニタートップフィギュア‐SUGA-", search:"しゅが", type:"", price:400, date:"2026-08-27", img:"images/tiny/suga_b.jpg", source:"https://bsp-prize.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン フィギュア-うお～ん-", search:"ふりーれん", type:"", price:600, date:"2026-08-27", img:"images/furi-ren/uon.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン くれーんぽっぷ　フリーレン", search:"ふりーれん", type:"", price:600, date:"2026-08-27", img:"images/furi-ren/furi_kure.jpg", source:"https://bsp-prize.jp/"},
 {series:"furi-ren", name:"葬送のフリーレン くれーんぽっぷ　フェルン", search:"ふぇるん", type:"", price:600, date:"2026-08-27", img:"images/furi-ren/feru_kure.jpg", source:"https://bsp-prize.jp/"},
 {series:"zyozyo", name:"『ジョジョの奇妙な冒険 ダイヤモンドは砕けない』　感知して動く　シアーハートアタック", search:"しあーはーとあたっく", type:"", price:1000, date:"2026-08-27", img:"images/zyozyo/sia.jpg", source:"https://www.taito.co.jp/"},
