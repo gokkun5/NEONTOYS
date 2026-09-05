@@ -2,6 +2,13 @@ window.figures3 = [
 
 
 
+
+{series:"pansuto", name:"New PANTY & STOCKING with GARTERBELT ぬーどるストッパーフィギュアーパンティー", search:"ぱんてぃー", type:"nusuto", price:600, date:"2026-08-27", img:"images/pansuto/panty_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"naruto", name:"NARUTO-ナルト- 疾風伝 Grandista-UCHIHA ITACHI-Ⅱ", search:"うちはイタチ　うちはいたち", type:"gra", price:1200, date:"2026-08-27", img:"images/naruto/itati_gra2.jpg", source:"https://bsp-prize.jp/"},
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス にゃーるずこれくしょん モモ・ベリア・デビルーク", search:"ももべりあでびるーく", type:"", price:500, date:"2026-08-27", img:"images/tora/momo_nya.jpg", source:"https://bsp-prize.jp/"},
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス にゃーるずこれくしょん 黒咲 芽亜", search:"くろさきめあ", type:"", price:500, date:"2026-08-27", img:"images/tora/mea_nya.jpg", source:"https://bsp-prize.jp/"},
+{series:"dezimon", name:"デジモンアドベンチャー デジヴァイスタンド！ エンジェモン", search:"えんじぇもん", type:"", price:400, date:"2026-08-27", img:"images/dezimon/enzye.jpg", source:"https://bsp-prize.jp/"},
+{series:"dezimon", name:"デジモンアドベンチャー デジヴァイスタンド！パタモン", search:"ぱたもん", type:"", price:400, date:"2026-08-27", img:"images/dezimon/pata.jpg", source:"https://bsp-prize.jp/"},
 {series:"disny", name:"ディズニーキャラクター きゅむころ～プア～", search:"ぷあ", type:"", price:300, date:"2026-08-27", img:"images/disny/pua.jpg", source:"https://bsp-prize.jp/"},
 {series:"ramune", name:"TVアニメ『千歳くんはラムネ瓶のなか』 Trio-Try-iT Figureー七瀬 悠月ー", search:"ななせゆづき", type:"trio", price:400, date:"2026-08-27", img:"images/ramune/nanase_trio.jpg", source:"https://charahiroba.com/"},
 {series:"tyen", name:"劇場版『チェンソーマン レゼ篇』 おおきなSOFVIMATES～てくてくポチタ～", search:"ぽちた", type:"sof", price:1000, date:"2026-08-27", img:"images/tyen/potita_sof.jpg", source:"https://bsp-prize.jp/"},
