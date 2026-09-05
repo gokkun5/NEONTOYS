@@ -1,6 +1,12 @@
 window.figures3 = [
 
-
+{series:"kusuri", name:"TVアニメ『薬屋のひとりごと』 Break time collection vol.2", search:"じんし　壬氏", type:"bre", price:800, date:"2026-08-27", img:"images/kusuri/zinsi_bre.jpg", source:"https://bsp-prize.jp/"},
+{series:"miku", name:"重音テト　コナミデフォルメフィギュア 通常衣装Ver.", search:"かさねてと", type:"", price:800, date:"2026-08-27", img:"images/miku/teto_defo_tu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"miku", name:"重音テト　コナミデフォルメフィギュア SV衣装Ver.", search:"かさねてと", type:"", price:800, date:"2026-08-27", img:"images/miku/teto_defo_sv.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.7 兎田ぺこら", search:"うさだぺこら", type:"hikkake", price:400, date:"2026-08-26", img:"images/holo/hi_7_peko.jpg", source:"https://charahiroba.com/"},
+{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.7 姫森ルーナ", search:"ひめもりるーな", type:"hikkake", price:400, date:"2026-08-26", img:"images/holo/hi_7_runa.jpg", source:"https://charahiroba.com/"},
+{series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.7 アキ・ローゼンタール", search:"あきろぜんたーる", type:"hikkake", price:400, date:"2026-08-26", img:"images/holo/hi_7_aki.jpg", source:"https://charahiroba.com/"},
+{series:"deara", name:"デート・ア・ライブV サマードレスフィギュアー鳶一折紙ー", search:"とびいちおりがみ", type:"", price:600, date:"2026-08-26", img:"images/deara/ori.jpg", source:"https://charahiroba.com/"},
 {series:"oreimo", name:"俺の妹がこんなに可愛いわけがない。 ムチュートフィギュアー高坂桐乃ー", search:"こうさかきりの", type:"mutyu", price:800, date:"2026-08-26", img:"images/oreimo/kirino_mutyu.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース CROSS POSING-MONKEY.D.LUFFY-", search:"ルフィ　るふぃ", type:"cross", price:600, date:"2026-08-25", img:"images/wanpi/rufi_cross_eneru.jpg", source:"https://bsp-prize.jp/"},
 {series:"wanpi", name:"ワンピース CROSS POSING-ENEL-", search:"えねる　エネル", type:"cross", price:600, date:"2026-08-25", img:"images/wanpi/eneru_cross_rufi.jpg", source:"https://bsp-prize.jp/"},
