@@ -1,5 +1,13 @@
 window.figures3 = [
 
+
+
+{series:"furi-ren", name:"葬送のフリーレン くれーんぽっぷ　フリーレン", search:"ふりーれん", type:"", price:600, date:"2026-08-27", img:"images/furi-ren/furi_kure.jpg", source:"https://bsp-prize.jp/"},
+{series:"furi-ren", name:"葬送のフリーレン くれーんぽっぷ　フェルン", search:"ふぇるん", type:"", price:600, date:"2026-08-27", img:"images/furi-ren/feru_kure.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyozyo", name:"『ジョジョの奇妙な冒険 ダイヤモンドは砕けない』　感知して動く　シアーハートアタック", search:"しあーはーとあたっく", type:"", price:1000, date:"2026-08-27", img:"images/zyozyo/sia.jpg", source:"https://www.taito.co.jp/"},
+{series:"zyozyo", name:"ジョジョの奇妙な冒険 ストーンオーシャン Mometria 空条徐倫", search:"くうじょうじょりーん", type:"mome", price:1000, date:"2026-08-27", img:"images/zyozyo/jori_mome.jpg", source:"https://bsp-prize.jp/"},
+{series:"zyozyo", name:"ジョジョの奇妙な冒険 ストーンオーシャン Mometria エンリコ・P", search:"えんりこぷっち", type:"mome", price:1000, date:"2026-08-27", img:"images/zyozyo/p_mome.jpg", source:"https://bsp-prize.jp/"},
+{series:"hora", name:"貞子 のろいの胸像フィギュア-貞子-", search:"さだこ", type:"", price:500, date:"2026-08-27", img:"images/hora/sadako_noroi.jpg", source:"https://bsp-prize.jp/"},
 {series:"kusuri", name:"TVアニメ『薬屋のひとりごと』 Break time collection vol.2", search:"じんし　壬氏", type:"bre", price:800, date:"2026-08-27", img:"images/kusuri/zinsi_bre.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"重音テト　コナミデフォルメフィギュア 通常衣装Ver.", search:"かさねてと", type:"", price:800, date:"2026-08-27", img:"images/miku/teto_defo_tu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"miku", name:"重音テト　コナミデフォルメフィギュア SV衣装Ver.", search:"かさねてと", type:"", price:800, date:"2026-08-27", img:"images/miku/teto_defo_sv.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
